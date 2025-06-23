@@ -52,6 +52,7 @@ Output format:
             result_type='markdown',
             parsing_instruction=self.parsing_instruction,
             api_key=self.api_key,
+            
         )
         
         self.file_extractor={".pdf":self.parser,".docx":self.parser,".txt":self.parser}
@@ -71,7 +72,7 @@ Output format:
         documents = self.extract_content(directory_path)
         return '\n'.join([doc.text for doc in documents]) if documents else ""
 
-    def save_extracted_data(self, file_path, output_text_path, output_markdown_path, output_json_path):
+    def save_extracted_data(self, file_path, output_markdown_path):
         """ Save extracted data to text, markdown, and JSON files.
         """
         documents = self.extract_content(file_path)
@@ -80,15 +81,11 @@ Output format:
         text = '\n'.join([doc.text for doc in filtered_docs]) if filtered_docs else ""
 
         if text:
-          with open(output_text_path, 'w', encoding='utf-8') as f:
-            f.write(text)
           with open(output_markdown_path, 'w', encoding='utf-8') as f:
             f.write(text)
-        # Convert extracted text to JSON format
-          json_data = {"description_text": text}
-          with open(output_json_path, 'w', encoding='utf-8') as f:
-            json.dump(json_data, f, indent=4, ensure_ascii=False)
-            print("Raw text, markdown, and JSON data have been saved for your review.")
+          print(f"Markdown content saved to {output_markdown_path}")
         else:
-          print("No data extracted.")
+          print("No content extracted to save as markdown.")    
+      
+        
         

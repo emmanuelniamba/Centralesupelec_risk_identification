@@ -11,12 +11,12 @@ if os.path.isdir(chemin):
     for filename in os.listdir(chemin):
         if filename.lower().endswith('.pdf'):
             chemin_fichier = os.path.join(chemin, filename)
-            print(f"Processing: {chemin_fichier}")
+            print(f"Processing: {chemin_fichier}")  
             extractor.save_extracted_data(
                 file_path=chemin_fichier,
-                output_text_path=f"{filename}_resultat.txt",
+                
                 output_markdown_path=f"{filename}_resultat.md",
-                output_json_path=f"{filename}_resultat.json"
+               
             )
 elif os.path.isfile(chemin) and chemin.lower().endswith('.pdf'):
     # Si c'est un fichier PDF unique
@@ -24,9 +24,9 @@ elif os.path.isfile(chemin) and chemin.lower().endswith('.pdf'):
     filename = os.path.basename(chemin)
     extractor.save_extracted_data(
         file_path=chemin,
-        output_text_path=f"{filename}_resultat.txt",
+      
         output_markdown_path=f"{filename}_resultat.md",
-        output_json_path=f"{filename}_resultat.json"
+    
     )
 else:
     print("Le chemin spécifié n'est ni un dossier ni un fichier PDF valide.")
