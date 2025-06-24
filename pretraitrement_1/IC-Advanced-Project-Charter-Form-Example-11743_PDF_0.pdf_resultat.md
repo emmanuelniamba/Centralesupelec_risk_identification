@@ -1,0 +1,45 @@
+{
+"section": "GENERAL PROJECT INFORMATION",
+"content": "PROJECT NAME                                                                    PROJECT MANAGER               PROJECT SPONSOR\nPositive Charge EMV Station Installations                                       Jane Matthews                  Jill DeGrassio\nEMAIL                                                        PHONE         ORGANIZATIONAL UNIT(S)\njane.matthews@positivecharge.com                          000-000-0000     Field Engineering, Operations, and Project Management\n         EXPECTED SAVINGS                  ESTIMATED COSTS                     EXPECTED START DATE        EXPECTED COMPLETION DATE\n             $897,654                          $453,218                            02/19/20XX                    11/30/20XX",
+"notes": ""
+},
+{
+"section": "PROJECT OVERVIEW",
+"content": "PROBLEM          Our goal for this project is to install 1,125 EV charging stations at 116 locations across the US, Mexico, and Canada to\nOR ISSUE         accommodate malls' and service stations' EV-charging needs.\nPURPOSE OF       The implementation of the 1,125 EV charging stations will reduce fossil-fuel emissions and have a positive impact on\PROJECT          the environment. This will help fulfill Positive Charge's mission of being the world's largest EV-charging provider and\n                  reduce the environmental impact of fossil-fuel cars through our services.\n                  As EVs become more prevalent, more EV-charging stations are needed to accommodate EV drivers' charging\nBUSINESS         needs. The implementation of the 1,125 EV charging stations at 116 locations across the US, Mexico, and Canada to\nCASE             accommodate malls' and service stations' EV-charging \"traffic\" will reduce the lengths to which EV drivers would\n                  have to travel for their next charge. The implementation of the EV-charging stations will also result in a 24% profit for\n                  Positive Charge.\nGOALS /          The project goal is to install 1,125 EV charging stations at 116 locations across the US, Mexico and Canada. The\nMETRICS          metrics used to measure success will primarily be the following key performance indicators (KPIs): Revenue Growth,\n                  Client Retention Rate, and Customer Satisfaction.\nEXPECTED         Install 1,125 EV charging stations at 116 locations across the US, Mexico, and Canada to accommodate malls' and\nDELIVERABLES     service stations' EV-charging needs.",
+"notes": ""
+}
+{
+"section": "PROJECT SCOPE",
+"content": "WITHIN          Operations engineers, project managers and field implementation engineers will work with third-party client site\nSCOPE           personnel to install 1,125 EV charging stations at 116 locations across the US, Mexico, and Canada.\nOUTSIDE OF      Positive Charge is not responsible for third-party / client’s locations preparatory work (e.g., permits for digging, city\nSCOPE           region electricity-availability logistics, etc.). However, Positive Charge project managers can provide clients with a\n                 checklist to ensure their locations are adequately prepared for the installation of our EV charging stations.",
+"notes": ""
+},
+{
+"section": "TENTATIVE SCHEDULE",
+"content": "KEY MILESTONE                                                                        START                       FINISH\nForm Project Team / Preliminary Review / Scope                                    12/05/20XX                   01/11/20XX\nFinalize Project Plan / Charter / Kick Off                                        12/06/20XX                   02/01/20XX\nDefine Phase                                                                      12/07/20XX                   02/02/20XX\nMeasurement Phase                                                                 12/08/20XX                   02/10/20XX\nAnalysis Phase                                                                    12/09/20XX                   02/26/20XX\nImprovement Phase                                                                 01/10/20XX                   03/10/20XX\nControl Phase                                                                     02/08/20XX                   03/08/20XX\nProject Summary Report and Close Out                                              04/23/20XX                   06/23/20XX",
+"notes": ""
+}
+{
+"section": "RESOURCES",
+"content": "   PROJECT TEAM              Janine Remagio - Project Manager                 Lisa Jones - QA Director\n                             David Coen - Chief Engineer                      Donald Smythe - Field Engineer\n                             Rita Preze - CFO\n   SUPPORT RESOURCES         Operations, Sales, Project Management, Engineering\n   SPECIAL NEEDS             TBD",
+"notes": ""
+},
+{
+"section": "COSTS",
+"content": " COST TYPE                   VENDOR / LABOR NAMES                             RATE          QTY              AMOUNT\n Labor                       Electro Charge Logistics, Inc.                  $78.00         200             $15,600.00\n Labor                       Level 1 EVS                                     $46.00         100              $4,600.00\n Labor                       Level 2 EVS                                     $58.00          50              $2,900.00\n Labor                       EVC Fast Chargers                             $85,000.00        1              $85,000.00\n Labor                       Battery Vendor                                $79,879.00        3             $239,637.00\n Supplies                    Power Conversion System Vendor                $68,686.00        1              $68,686.00\n Miscellaneous               Third-Party Software                          $68,768.00        0      $                       -\n                                                                                       TOTAL COSTS         $416,423.00",
+"notes": ""
+}
+{
+"section": "BENEFITS AND CUSTOMERS",
+"content": "PROCESS OWNER                  Jane Matthews - Project Manager\nKEY STAKEHOLDERS               Jill DeGrassio\nFINAL CUSTOMER                 116 clients across the US, Mexico, and Canada (see attached client list).\nThe implementation of the 1,125 EV charging stations at 116 locations across the US, Mexico, and Canada to accommodate malls' and service stations' EV-charging \"traffic\" will reduce the lengths to which EV drivers would have to travel for their next charge. The implementation of the EV-charging stations will also result in a 24% profit for Positive Charge.\nTYPE OF BENEFIT              BASIS OF ESTIMATE                                                           ESTIMATED BENEFIT AMOUNT\nSpecific Cost Savings          Estimator’s projections                                                                    $25,000.00\nEnhanced Revenues              Finance's projections                                                                      $92,500.00\nHigher Productivity (Soft)     Project management's estimations                                                           $17,500.00\nImproved Compliance            Operations' estimations                                                                    $12,000.00\nBetter Decision Making         Project management's estimations                                                           $18,500.00\nLess Maintenance               Project management's estimations                                                           $26,000.00\nOther Costs Avoided            Finance's projections                                                                      $46,250.00\n                                                                                              TOTAL BENEFIT               $237,750.00",
+"notes": ""
+}
+{
+"section": "Constraints and Assumptions",
+"content": "CONSTRAINTS        We have to \"backfill\" some key project management and field engineer positions to ensure we have people \"on the ground\" to manage EV stations' implementation.\nASSUMPTIONS        We assume that all permits for installation of EV-charging stations will be provided by clients by time of implementation.\nPREPARED BY                   TITLE                                                                                 DATE\nJane Matthews                 Senior Project Manager                                                             04/22/20XX",
+"notes": "Original title: RISKS, CONSTRAINTS, AND ASSUMPTIONS"
+}
+{
+"section": "Disclaimer",
+"content": "Any articles, templates, or information provided by Smartsheet on the website are for reference only. While we strive to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, articles, templates, or related graphics contained on the website. Any reliance you place on such information is therefore strictly at your own risk.",
+"notes": ""
+}

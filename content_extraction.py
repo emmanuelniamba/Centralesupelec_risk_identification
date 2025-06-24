@@ -29,6 +29,7 @@ For each section:
 - If the section title is too vague or generic (e.g., "Other", "Miscellaneous", "General"), try to infer a more logical and descriptive title based on the actual content of the section.
 - Only extract and output sections that are actually present in the document, in the order they appear.
 -Ignore sections that are not relevant to project management analysis (e.g., lists of acronyms, currency tables, appendices with only maps or raw data), unless they contain substantive project information.
+-- If you encounter a table or figure, convert its content into plain text. For tables, write out the data as text (row by row or as a list). For figures, describe the content and any labels or legends in text.
 
 Your output must be a structured JSON, in the language of the original document. If the document is in French, answer in French; otherwise, always answer in English.
 
