@@ -1,631 +1,2364 @@
-{
-"section": "Project Appraisal Document",
-"content": "Document of The World Bank\nFOR OFFICIAL USE ONLY\nReport No: PAD2695\nINTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT\nPROJECT APPRAISAL DOCUMENT\nON A\nPROPOSED LOAN\nIN THE AMOUNT OF US$200 MILLION\nto the\nDEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA\nFOR A\nPRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT\nJune 4, 2018\nHealth, Nutrition and Population Global Practice\nSouth Asia Region\nThis document has a restricted distribution and may be used by recipients only in the performance of their official duties. After consideration of the operation by the World Bank’s Board of Executive Directors, this document may be updated and made publicly available in accordance with the Bank’s policy on Access to Information.",
-"notes": "Original title: Project Appraisal Document"
-}
-{
-"section": "Currency Equivalents",
-"content": "CURRENCY EQUIVALENTS\n(Exchange Rate Effective May 30, 2018)\nCurrency Unit =   Sri Lankan Rupee (LKR)\nLKR 157.94 =   US$1.00\nLKR 100.00 =   US$0.63",
-"notes": "Original title: CURRENCY EQUIVALENTS"
-}
-{
-"section": "Acronyms",
-"content": "MCH        Maternal and Child Health\nM&E        Monitoring and Evaluation\nMoH        Ministry of Health, Nutrition and Indigenous Medicine\nMSMIS      Medical Supplies Management Information System\nMPCLGS     Ministry of Provincial Councils, Local Governments, and Sports\nMSD        Medical Supplies Division\nNCD        Noncommunicable Disease\nNSC        National Steering Committee\nOOP        Out-of-Pocket\nPDO        Project Development Objective\nPEF        Pandemic Emergency Financing Facility\nPHC        Primary Health Care\nPHCPI      Primary Health Care Performance Initiative\nPMCI       Primary Medical Care Institution\nPMCU       Primary Medical Care Units\nPMM        Project Management and Monitoring Department\nPMU        Project Management Unit\nPPSD       Project Procurement Strategy for Development\nPSSP       Primary Health Care System Strengthening Project\nSDG        Sustainable Development Goal\nSHDP       Second Health Sector Development Project\nSTEP       Systematic Tracking of Exchanges in Procurement\nTEC        Technical Expert Committee\nWDI        World Development Indicators\nWHO        World Health Organization\n           Acting Regional Vice President:  Ethel Sennhauser\n                        Country Director:   Idah Z. Pswarayi-Riddihough\n          Senior Global Practice Director:  Timothy Grant Evans\n                       Practice Manager:    Rekha Menon\n                      Task Team Leaders:    Kanako Yamashita-Allen and Kari L. Hurt",
-"notes": "Original title: Acronyms"
-}
-{
-"section": "BASIC INFORMATION",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project (P163721)\n\nBASIC INFORMATION\n  BASIC_INFO_TABLE\n  Country(ies)            Project Name\n  Sri Lanka               Sri Lanka: Primary Health Care System Strengthening Project\n  Project ID              Financing Instrument        Environmental Assessment Category\n  P163721                 Investment Project          C-Not Required\n                          Financing\nFinancing & Implementation Modalities\n[   ] Multiphase Programmatic Approach (MPA)             [✓] Contingent Emergency Response Component (CERC)\n[   ] Series of Projects (SOP)                           [  ] Fragile State(s)\n[   ] Disbursement-linked Indicators (DLIs)              [  ] Small State(s)\n[   ] Financial Intermediaries (FI)                      [  ] Fragile within a non-fragile Country\n[   ] Project-Based Guarantee                            [  ] Conflict\n[   ] Deferred Drawdown                                  [  ] Responding to Natural or Man-made Disaster\n[   ] Alternate Procurement Arrangements (APA)\nExpected Approval Date            Expected Closing Date\n27-Jun-2018                       31-Dec-2023\nBank/IFC Collaboration\nNo\n Proposed Development Objective(s)\n The project development objective is to increase the utilization and quality of primary health care services, with an\n emphasis on detection and management of non-communicable diseases in high-risk population groups, in selected\n areas of the country.\n Components\n                                                                                                          Page 1 of 96",
-"notes": ""
-}
-{
-"section": "Project Financing Data",
-"content": "SUMMARY₋NewFin1\nTotal Project Cost                                                                                 4,419.00\nTotal Financing                                                                                    4,419.00\n         of which IBRD/IDA                                                                           200.00\nFinancing Gap                                                                                          0.00\nDETAILS₋NewFinEnh1\nWorld Bank Group Financing\n   International Bank for Reconstruction and Development (IBRD)                                      200.00\nNon-World Bank Group Financing\n   Counterpart Funding                                                                             4,219.00\n      Borrowing Agency                                                                             4,219.00\nExpected Disbursements (in US$, Millions)\nWB Fiscal Year                                 2018     2019     2020      2021     2022     2023     2024\nAnnual                                         0.00     21.00    35.00    39.00    50.00     50.00     5.00\nCumulative                                     0.00     21.00    56.00    95.00   145.00   195.00    200.00",
-"notes": "Page 2 of 96"
-}
-{
-"section": "INSTITUTIONAL DATA",
-"content": "Practice Area (Lead)                                  Contributing Practice Areas\nHealth, Nutrition & Population\nClimate Change and Disaster Screening\nThis operation has been screened for short and long-term climate change and disaster risks\nGender Tag\nDoes the project plan to undertake any of the following?\na. Analysis to identify Project-relevant gaps between males and females, especially in light of  Yes\ncountry gaps identified through SCD and CPF\nb. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or    Yes\nmen's empowerment\nc. Include Indicators in results framework to monitor outcomes from actions identified in (b)    Yes",
-"notes": "Original title: INSTITUTIONAL DATA, Page 3"
-}
-{
-"section": "COMPLIANCE",
-"content": "Policy\nDoes the project depart from the CPF in content or in other significant respects?\n[ ] Yes   [✓] No\nDoes the project require any waivers of Bank policies?\n[ ] Yes   [✓] No\nSafeguard Policies Triggered by the Project                                                 Yes      No\nEnvironmental Assessment OP/BP 4.01                                                                   ✔\nPerformance Standards for Private Sector Activities OP/BP 4.03                                        ✔\nNatural Habitats OP/BP 4.04                                                                           ✔\nForests OP/BP 4.36                                                                                    ✔\nPest Management OP 4.09                                                                               ✔\nPhysical Cultural Resources OP/BP 4.11                                                                ✔\nIndigenous Peoples OP/BP 4.10                                                                         ✔\nInvoluntary Resettlement OP/BP 4.12                                                                   ✔\nSafety of Dams OP/BP 4.37                                                                             ✔\nProjects on International Waterways OP/BP 7.50                                                        ✔\nProjects in Disputed Areas OP/BP 7.60                                                                 ✔\nLegal Covenants\n Sections and Description\nSchedule 2, Section I, A.2: The Borrower shall establish, not later than three (3) months after the Effective Date,\nand thereafter maintain, until the completion of the Project, a National Steering Committee to monitor the\nimplementation progress and provide overall oversight and guidance\nConditions",
-"notes": "Compliance section with details on policies and legal covenants."
-}
-{
-"section": "Project Overview",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project (P163721)",
-"notes": "Original title: Project Overview, Page 5"
-}
-{
-"sections": [
-{
-"section": "STRATEGIC CONTEXT",
-"content": "8\nA. Country Context\n8\nB. Sectoral and Institutional Context\n9\nC. Higher-level Objectives to Which the Project will Contribute and Rationale for the Use of the Lending Instrument\n16",
-"notes": "Original title: STRATEGIC CONTEXT, Page 6"
-},
-{
-"section": "PROJECT DEVELOPMENT OBJECTIVES",
-"content": "17\nA. PDO\n17\nB. Project Beneficiaries\n17\nC. PDO-Level Results Indicators\n18",
-"notes": "Original title: PROJECT DEVELOPMENT OBJECTIVES, Page 6"
-},
-{
-"section": "PROJECT DESCRIPTION",
-"content": "19\nA. Project Components\n19\nB. Project Cost and Financing\n26",
-"notes": "Original title: PROJECT DESCRIPTION, Page 6"
-},
-{
-"section": "IMPLEMENTATION",
-"content": "30\nA. Institutional and Implementation Arrangements\n30\nB. Fiduciary Arrangements\n31\nC. Results Monitoring and Evaluation\n34\nD. Role of Partners\n36",
-"notes": "Original title: IMPLEMENTATION, Page 6"
-},
-{
-"section": "PROJECT ASSESSMENT SUMMARY",
-"content": "38\nA. Project Theory of Change\n38\nB. Economic and Fiscal Analysis\n42\nC. Technical Soundness\n44\nD. Lessons Learned and Reflected in Project Design\n45\nE. Sustainability\n46\nF. Fiduciary Assessment\n47",
-"notes": "Original title: PROJECT ASSESSMENT SUMMARY, Page 6"
-}
-]
-}
-{
-"section": "G. Social (including Safeguards)",
-"content": "",
-"notes": "Original title: G. Social (including Safeguards) - Page 47"
-},
-{
-"section": "H. Environment (including Safeguards)",
-"content": "",
-"notes": "Original title: H. Environment (including Safeguards) - Page 49"
-},
-{
-"section": "I. World Bank Grievance Redress",
-"content": "",
-"notes": "Original title: I. World Bank Grievance Redress - Page 50"
-},
-{
-"section": "VII. RESULTS FRAMEWORK AND MONITORING",
-"content": "",
-"notes": "Original title: VII. RESULTS FRAMEWORK AND MONITORING - Page 52"
-},
-{
-"section": "ANNEX 1: RESULTS FRAMEWORK WITH INTERMEDIATE TARGETS",
-"content": "",
-"notes": "Original title: ANNEX 1: RESULTS FRAMEWORK WITH INTERMEDIATE TARGETS - Page 72"
-},
-{
-"section": "ANNEX 2: DLI MATRIX",
-"content": "",
-"notes": "Original title: ANNEX 2: DLI MATRIX - Page 76"
-},
-{
-"section": "ANNEX 3: DLI VERIFICATION PROTOCOLS",
-"content": "",
-"notes": "Original title: ANNEX 3: DLI VERIFICATION PROTOCOLS - Page 83"
-}
-{
-"section": "I. STRATEGIC CONTEXT",
-"content": "A. Country Context\nSri Lanka is a lower-middle-income country with a gross domestic product (GDP) per capita of US$3,835 in 2016 and a total population of 21.2 million people. Since the end of the 26-year civil war in 2009, Sri Lanka’s economy has enjoyed a rapid growth at an average rate of approximately 6.2 percent between 2010 and 2016, reflecting a peace dividend and a determined policy thrust toward reconstruction and growth, although there were some signs of a slowdown in the last three years. The economy is transitioning from a previously predominant rural-based economy toward a more urbanized economy oriented around manufacturing and services. The current Government that came to power in 2015 envisions promoting a globally competitive, export-led economy, with an emphasis on governance and inclusion.\nThe country has made significant progress in its socioeconomic and human development. Social indicators rank among the highest in South Asia and compare favorably with those in middle-income countries. The country comfortably surpassed most of the Millennium Development Goal targets set for 2015 and was ranked 73 out of 188 countries in Human Development Index in 2015. Economic growth has translated into shared prosperity with national poverty headcount ratio declining from 15.3 percent in 2006–2007 to 4.1 percent in 2015–2016. Extreme poverty is rare and concentrated in some geographical pockets; however, a relatively large share of the population subsists on little more than the poverty line.\nSri Lanka’s fiscal position is affected by low revenues, limiting critical development spending and making it vulnerable to adverse shocks. It has one of the lowest tax-GDP ratio (12.4 percent, 2016) in the world, especially for its income level. The major reasons for the low level of revenues are a small tax base (less than 7 percent of the labor force and formal establishments pay income tax), reductions in statutory rates without commensurate efforts to expand the tax base, inefficiencies in administration, and numerous exemptions. Low revenues combined with largely nondiscretionary expenditures in salary bill, transfers, and interest payments have constrained critical development spending including expenditure on health, education, and social protection, which are low compared to peers. The fiscal deficit in 2016 stood at 5.4 percent of GDP while the debt remained high at 79.3 percent of GDP. The lack of fiscal space could hamper the country’s ability to mitigate the impact of adverse shocks, which is a key consideration in an increasingly volatile economic environment.\nSri Lanka is in a three-year Extended Fund Facility Program with the International Monetary Fund (IMF) to support its economic reform agenda for an amount equivalent to SDR 1.1 billion. The reform program aims to reduce the fiscal deficit, rebuild foreign exchange reserves, and introduce a simpler and a more equitable tax system to restore macroeconomic stability and promote inclusive growth. The program also calls for reforms in public financial management, state-owned enterprises, trade and competitiveness, and transition to flexible inflation targeting. The third review of the program was completed in December 2017, enabling disbursement of the next tranche.",
-"notes": "Original title: A. Country Context, Page 8"
-}
-{
-"section": "B. Sectoral and Institutional Context",
-"content": "Sri Lanka’s health system has a track record of strong performance. This is demonstrated by\nalmost universal coverage of maternal and child health (MCH) services, effective infectious disease\ncontrol, and much better MCH outcomes than would be predicted by the country’s income level. In 2015,\nthe under-five mortality stood at 9.6 per 1,000 live births while maternal mortality ratio was 30 per\n100,000 live births (World Development Indicators  [WDI] 2015).¹ The country is also close to eliminating\ncommunicable diseases such as tetanus and measles. In fact, Sri Lanka was certified by the World Health\nOrganization (WHO) for eradicating polio in 2014 and as being malaria-free in 2016. However, challenges\nin malnutrition persist, especially in the country’s estates sector. Life expectancy at birth increased from\n70 in 1990 to 75 in 2014 and compares favorably with both the 2014 average for South Asia (68) and\ncountries in Sri Lanka’s income group (67) (WDI 2015).\nNow, the country’s main health sector challenge is the need to address the ongoing\ndemographic and epidemiological transition. The share of the population over 60 years will nearly double\nover the 25‐year period (2015 to 2040), to over one‐fourth of the population, with implications for the\ncountry’s epidemiological profile.² Non-communicable diseases (NCDs) already account for 81 percent of\ntotal deaths and 77 percent of disability-adjusted life years (DALYs), a summary measure of years of life\nlost to death and disease (Institute for Health Metrics and Evaluation [IHME] 2017). Because of years lived\nwith morbidity and disability, healthy life expectancy at birth in Sri Lanka in 2012 was 10 years lower than\nlife expectancy at birth (75) (WHO 2015).³ This is partly a result of NCDs.\nThe NCD challenge has proven especially difficult among men. Men are more likely to practice\nan unhealthy lifestyle (for example, smoking, drinking, and betel chewing) and are less likely to use\npreventive services and undergo NCD screening. In a recent NCD study conducted in the Western\nProvince, 34 percent of adult men ages above 20 years were found to be hypertensive, significantly higher\nthan the corresponding figure for women (23 percent). Although men are more likely to be hypertensive,\nthey are found to be significantly less likely to be aware of their hypertensive status,⁴ suggesting a culture\nof forgoing preventive adult care (World Bank 2017).⁵ Long waiting hours in preferred and better equipped\nhigher levels of care—located further away from where people live—and inconvenient opening hours in\noutpatient departments in public facilities (8 a.m. - 4 p.m.) make it difficult for working men to use these\nservices. Notwithstanding the fact that women in general, live longer than men, the substantial gender\ngap in longevity (eight years) in Sri Lanka is consistent with the gender gap in NCD care utilization.\nEmbarking on the changing burden of disease and adapting to an aging population requires a\ncommitment for higher spending and/or a more efficient service delivery system. Sri Lanka’s strong MCH\nperformance has been achieved with low government spending on health.",
-"notes": "Original title: B. Sectoral and Institutional Context, Page 9"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project    (P163721)\n      than 2 percent of its GDP on health, a spending level (1.6 percent) that is lower than what can be predicted\n      for its income level (Figure 1) and its usual comparators (2.6 percent for Vietnam and 2.8 percent for\n      Thailand in 2015).⁶ The public health system is funded through general tax revenue, which is managed by\n      the Ministry of Health, Nutrition, and Indigenous Medicine (MoH) and its nine provincial counterparts.\n      Low tax revenue (12 percent of GDP in 2016) has made it difficult to expand public expenditure on health.⁷\n      Despite the provision of free public health care, public spending on health constitutes only 55 percent of\n      the country’s total health expenditure. In 2015, out-of-pocket (OOP) health payments constituted 38.4\n      percent of total health expenditure, which is, for example, substantially higher than the corresponding\n      figure for Thailand (11.4 percent). A significant share of total OOP spending is associated with payments\n      for lab tests and drugs for public sector consultations. This could take a toll on the poor as the burden of\n      NCDs rises and hence, the need to spend more and deliver services more efficiently.\n        Figure 1. Public Expenditure on Health as a % of\n                         GDP by Income                           Figure 2. OOP as a % of Total Health Expenditure\n                                                                50\n        8                                                       40   34.9   35.2   37.1  39.1  38.5   40.1\n        8                                                       30   35.3   34.8                      38.4\n        8                                                                          33.4  31.7  31.5\n        1                                                       20\n        7                           Sri Lanka                   10   13.8   12.1   12.3  11.7  12.1   11.4\n           100           1000           10000         100000     0\n                      GNI per capita (Atlas method) current USS      2010   2011  2012   2013  2014   2015\n                                                                         Sri Lanka    Thailand     Vietnam\n       Source: WHO Global Expenditure Database (various years)\n              Sri Lanka’s curative government health services are provided by a network of 1,118 government\n      institutions operating at three levels. The primary level includes Primary Medical Care Units (PMCUs) and\n      Divisional Hospitals (DHs). These institutions (referred as Primary Medical Care Institutions [PMCIs]) are\n      considered non-specialist institutions/hospitals staffed by one or more medical officers. There is a total\n      of 996 such institutions, 6 of which are under the MoH. The secondary level includes district general\n      hospitals and base hospitals, which provide specialized care. A total of 98 such institutions exist across the\n      country, 18 of which are under the central ministry. Specialized care is also provided by tertiary-level\n      institutions (national hospital, teaching hospitals, and provincial general hospitals). All tertiary-level\n      hospitals (24 in total) are directly under the MoH. A feature of Sri Lanka’s health system is that patients\n      can choose to seek care directly from secondary and tertiary hospitals, bypassing the primary level\n      altogether.\n      6 The latest available data is for 2015.\n      7 In 2016, Sri Lanka’s general government revenue as a percentage of GDP was 14 percent, much lower than the average for lower\n      middle-income countries (23 percent).",
-"notes": "Page 10 of 96"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "Despite a strong MCH services base, there is limited capacity in the primary care system to provide comprehensive primary health care (PHC), making the country less prepared for the changing burden of diseases and potential health emergencies. First, because of supply shortages and inefficient distribution, the front lines have a critical gap in physicians to help manage chronic NCDs and other forms of curative care. While the size of the country’s health workforce is broadly like other Asian countries (with almost one doctor and two nurses per 1,000 population), it falls far short of levels in advanced health systems, especially in some staff categories such as medical laboratory technologists. Moreover, the geographic distribution of existing health care workers is skewed toward urban areas (especially Colombo and Kandy districts) and higher levels of care. Furthermore, medical officers’ training is focused on MCH services and communicable disease management rather than the prevention and management of NCDs. Second, primary care facilities are characterized by limited availability of laboratory services, drugs, and equipment for NCD screening. Until recently, many essential NCD drugs could not be dispensed at lower levels of care. While this has changed lately, these facilities dispense these drugs for only two weeks, needlessly requiring patients to visit facilities twice a month. Underinvestment in lower levels of care is also contributing to a growing need to pay OOP for drugs and lab tests even when using public facilities. Consequently, patients bypass these underfunded lower levels of care and go directly to larger hospitals, leading to an underuse of the primary care institutions and overcrowding at secondary and tertiary care institutions. Issues in supply chain management of drugs could detract utilization of NCD care at PHC facilities and compromise health sector objectives. As indicated earlier, the unavailability of drugs in public PHC facilities is one reason for the rising burden of OOP payments. Several supply chain management issues contribute to this, including limitations in planning and estimation as well as inefficient procurement processes at the central level. In 2015, Sri Lanka launched the Medical Supplies Management Information System (MSMIS) that is being used by higher-level medical institutions to request medical supplies and to forward consumption-related data to the Medical Supplies Division (MSD). PMCIs are yet to utilize this technology. Fully using this technology across the health sector has the potential to yield big savings and help the health sector achieve its objectives. Untimely stock reviews, shortage of storage space, and poorly maintained storage facilities altogether compromise quality and lead to waste and stock-outs. For example, a recent NCD drugs supply chain assessment in the health sector showed lead times of up to 18 months. This also leads to ‘urgent procurement’ as officials attempt to bridge the resulting gap between institutional demand and main order supply. Strengthening data collection in the MSMIS will aid better forecasting and help reduce the inefficiency in ‘urgent procurement’. The ‘standard pharmaceutical procurement’ procedure itself can be improved by reducing the lead time in various steps of procurement. Implementing framework contracts and improving systems and infrastructure can also shorten the lead time. The curative side of the public health service delivery system is not well suited to dealing with the overwhelming burden of NCDs that require coordinated and people-centered care. Currently, primary-level facilities do not routinely initiate NCD care. While opportunistic NCD screening of women seems to happen during reproductive health care visits, adult men are left oblivious to their health.",
-"notes": "Original title: Primary Health Care System Strengthening Project, Page 11"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project    (P163721)\n      circumstances. As such, the absence of a routine initiation of NCD care appears to particularly harm\n      working adult men. Although ‘healthy lifestyle centers’ (HLCs) were recently introduced to help address\n      NCDs, the population has yet to embrace this model. Each year only about 10 percent of the adult\n      population visits an HLC, mainly due to limited outreach and follow-up. The curative sector needs to adopt\n      the successful approaches of the preventive medical officer of the health sector, such as community\n      outreach by public health nurses and identification and follow-up of people who are at risk. Although the\n      health system has been largely effective in the provision of episodic and curative care, it does not provide\n      continuous and coordinated care. A strong doctor-patient relationship is crucial to the effectiveness of\n      NCD treatments and to enable patients become partners in managing their health. Currently, patients\n      cannot choose between doctors in public facilities but are assigned to whomever is available during their\n      visit. Doctor-patient familiarity can be established more easily in PHC facilities as these are closer to where\n      the patient lives, especially with the introduction of an appointment system.\n               Although still the dominant source of care (largely due to its free provision), the public sector is\n      increasingly being supplemented by a thriving private sector due to capacity limitations and differences\n      in ‘consumer experience’.     The public health system provides nearly 100 percent       of the country’s\n      preventive services and as much as 90 percent of inpatient services. However, despite accessible and\n      freely provided   government services, outpatient care is equally split between public and private\n      providers.¹² Gaps in the supply of diagnostic and laboratory services (especially at lower levels of public\n      care) and differences in ‘consumer experience’ are reasons for the relevance of the private sector in Sri\n      Lanka’s context. These private providers of laboratory and diagnostic services offer these services without\n      an effective quality control. Private practices, staffed for the most part by off-duty government doctors,¹³\n      are preferred by the better-off for their superior ‘consumer experience’, specifically (a) more convenient\n      opening hours, (b) much shorter waiting times (an outpatient visit to a government hospital typically lasts\n      at least twice as long as a consultation with a private doctor),   (c) presence of provider choice (in the\n      government sector patients are typically assigned to whomever is available when they reach the front of\n      the queue), and   (d) more responsive/attentive staff. Reconfiguring service delivery to better manage\n      chronic NCDs and empowering citizens to actively engage in and interact with the management of public\n      health services appear to be necessary steps to narrow the existing gap in ‘consumer experience’. \n               The health system’s ability to ensure provision of tailored and coordinated services hinges on\n      improvement of the existing health information systems. People with NCDs can experience obstacles at\n      various stages of care from getting a diagnosis, being directed to care, and starting and adhering to\n      treatment. Therefore, ensuring the continuum of care is vital because all these stages affect the chance\n      of disease control. This would be possible if the health information system would allow to uniquely\n      identify patients, track them over time, and share patient information across providers and databases.\n      The absence of an electronic medical information system makes it difficult to track patients across levels\n      of care and hinders provision of people-centered coordinated care. In this regard, the recent move by\n      HLCs to provide patients with health records is commendable and should be scaled up. This will facilitate\n      12 Households are on average just 2.5 km from a maternity clinic, 4 km from a government dispensary, and 6.5 km from a hospital,\n      and about 93 percent of the population is within 15 km of a hospital.\n      13 The public sector employs more than 90 percent of all doctors and nurses, consisting of nearly 120,000 staff across the country.\n      There are 87 medical officers, 202 nurses, and 42 midwives per 100,000 population (Ministry of Health [2015] and Annual Health\n      Bulletin, Colombo). As of 2011, the private sector’s share in total number of hospitals and hospital beds was 17 percent and 6\n      percent, respectively (Rannan-Eliya, R. P., I. K. Liyanage, J. Jayanthan, N. Wijemanne, S. de Alwis, S. Amarasinghe, , I. Siriwardana,\n      S. Dalpatadu, and P. Cooray. 2012. Study on Quality of Care in Public and Private Sectors. Institute for Health Policy, Sri Lanka.\n                                                                                                             Page 12 of 96",
-"notes": ""
-}
-{
-"section": "Primary Health Care System Strengthening",
-"content": "the provision of coordinated care as people seek care from both public and private providers and different\nlevels within the public system.\nTo respond to the   rising NCD challenge, the Government of Sri Lanka (GoSL)      adopted a\nmultipronged approach. On the primary prevention side, Sri Lanka already has some robust primary\nprevention efforts and is considering new regulations and fiscal measures to control risk factors and\nprevent the onset of NCDs. The country has a robust tobacco taxation policy. Recently, it was selected to\nreceive technical support under the WHO Framework Convention on Tobacco Control (FCTC) 2030, which\naims at strengthening the FCTC measures. Part of the ongoing discussion is to increase the excise tax rate\non tobacco from the existing 63 percent to the WHO-recommended level of 75 percent. To discourage\nconsumption of sweetened beverages that lead to obesity and diabetes, Sri Lanka is considering a ‘sugar\ntax’ on importers and manufacturers of beverages with added sugar. This was        announced in the\nGovernment’s 2018 budget speech. The MoH        is also discussing regulatory measures such as the\nmandatory front-of-package labelling of foods to reduce consumption of unhealthy foods.\nThe MoH has developed a position paper to reorganize and strengthen the PHC system, with\nthe objective of responding to the aforementioned challenges, following an extensive consultation\nprocess. A Technical Expert Committee (TEC) and several thematic subcommittees appointed by the MoH\nrecently produced and launched a position paper titled ‘Reorganizing Primary Health Care in Sri Lanka:\nPreserving Our Progress, Preparing Our Future’. This paper was a product of considerable consultation\namong Sri Lankan    citizens and health experts, including  national health and finance authorities,\nprofessional associations and  unions, service providers, provincial and district administrators, local\nresearchers, private sector and civil society. In total, more than 200 people were consulted through a\nprocess that lasted for six weeks. The paper identifies three thematic areas, each with a set of proposals\nas illustrated in Figure 3. These thematic areas include (a) reorganizing PHC to meet Sri Lanka’s needs, (b)\nimproving information management to improve health services in real time, and (c) strengthening the\nhealth sector through key system improvements.\nComponents of this PHC system strengthening paper are also reflected in the National Health\nPolicy (2016–2025),¹⁴ which outlines broad strategic directions focusing on a people-centered health\nsystem. These strategic directions include commitment to develop referral and back referral system for\npatients in each defined catchment area and ensure patient rights and patient/client satisfaction at all\nhealth institutions. It also includes strategic directions to reduce OOP spending and reduce financial risk\nthrough providing all diagnostic services, including medical laboratory investigations, within public\nfacilities. A commitment to rationalize the development and deployment of human resource for health\n(HRH), to expand the training capacity of nurses and other paramedics, and to establish a new structure\nfor management of primary-level curative services is also included in the National Health Policy.\nThis strategy is being supported by    development    partners  (DPs) including WHO, Asian\nDevelopment Bank (ADB), and Global Fund. The MoH has requested WHO to provide technical support\namong other things on defining an essential health care package focusing on management, service\ndelivery, and accountability. The ADB will finance health system enhancement in four provinces with a\nfocus on PHC. The Global Fund has provided the World Bank with resources necessary for establishing a\n14 http://www.health.gov.lk/moh_final/english/public/elfinder/files/publications/2017/NationalHealthPolicy2016-2025.pdf\n",
-"notes": "Extracted from the section on Primary Health Care System Strengthening"
-}
-{
-"section": "Project Overview",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project  (P163721)\n      World Bank-executed Trust Fund to provide technical assistance in support of PHC reorganization and\n      system strengthening strategy implementation.\n             Given the sector context, including the opportunities and constraints for change, the scope of\n      the current project is to support this renewed effort to strengthen the PHC system to address the\n      growing NCD burden. The project will address both the demand- and supply-side constraints to using NCD\n      care. On the demand side, it includes proactive outreach activities and strong citizen feedback mechanism\n      to change health seeking behavior. On the supply side, it incentivizes the use of PHC through improving\n      their capabilities and responsiveness to population demands. Considering fiscal constraints to increase\n      resources allocated to the sector, the project acts as a catalyst to build consensus and sustain commitment\n      to prioritizing PHC. For example, the project will focus on strategic deployment of HRH, task shifting, and\n      in-service training rather than an increase in production of HRH or pre-service training for family medicine\n      cadre or other PHC-related staff. The project will also focus on screening and treating high-risk adults\n      based on standard risk stratification. This is meant to avoid health  complications that lead to cost\n      escalation. While reducing the burden of NCDs requires multi-sectoral interventions including primary\n      prevention, the project focuses on improving health services at PMCIs.\n             While the focus of the project is to address the growing NCD burden, strengthening the PHC\n      system also helps address other remaining challenges in infectious diseases control, particularly\n      dengue. The recent outbreak of dengue fever, especially in the Western Province, is a reminder that\n      prevention and early control of dengue through removal and modification of breeding sites, reducing\n      human-vector contact through adult control measures and better preparedness is essential. A strong PHC\n      team consisting of the new public health nursing officers is expected to change behaviors through\n      opportunistic awareness creation at health facilities (HFs) as well as active outreach activities. Better\n      equipped PMCIs will also facilitate early detection of outbreaks, increase readiness, and reduce avoidable\ndeaths.",
-"notes": "Original title: Project Overview, Page 14"
-}
-{
-"section": "Thematic Areas of the Proposed PHC Reorganization and Strengthening Strategy in Sri Lanka",
-"content": "1. Reorganize PHC\n   a) Empanel the population at PMCIs and DH and offer quality medical services\n   Establish package of medical services\n   Establish standards for service delivery that meet population needs\n   Link each PMCI/DH/Hospital OPDs with the defined MoH area\n   b) Innovate and integrate prevention and treatment for NCDs\n   Develop HLCs\n   Link and locate community-based NCD screening within the PMCI\n   Establish HLCs for each PMCIs as per established standards\n   Create personal health record system parallel to health records\n   c) Streamline referrals and transportation\n   Standardize protocols and communication formats for providers making referrals\n   Standardize the format of health records across the health system\n   Establish countrywide ambulance network\n   d) Expand HRH capacity\n   Align staff-mix at PMCIs and DH with needs, including creating new cadres; rationalize workloads of PHMs; expand preservice training and build capacity of existing staff; redeploy staff\n   e) Citizen participation in oversight of PHCs\n   Develop, adopt, and promote Patient Rights Charter; create community engagement mechanism and independent investigation of feedback",
-"notes": "Content extracted from Figure 3 on page 15"
-}
-{
-"section": "Higher-level Objectives to Which the Project will Contribute and Rationale for the Use of the Lending Instrument",
-"content": "The project is well aligned with Pillar 2 of the World Bank’s Country Partnership Framework (CPF) for the period FY2017–FY2020:    ‘Promoting Inclusion and Opportunities for All’ (World Bank 2016).¹⁵ Objective 2.2 of this pillar aims to improve health and social protection systems to address the challenges of the demographic transition. NCDs impose pressing challenges in aging populations because they are lifelong diseases that require increased expenditure. The CPF recognizes the growing NCD burden and the gender gap in life expectancy and underscores the need for healthy aging and the importance of ensuring that working-age populations remain productive and healthy. The project is also aligned with the World Bank’s comparative advantage given its global experience in supporting similar reforms and its extensive experience and knowledge in working with the Sri Lankan health system. The project builds on the experience with the World Bank’s support to the closing Second Health Sector Development Project as well as recent analytical and advisory work, including an analysis of the NCD burden in the Western Province, a health financing systems assessment, an assessment of the supply chain and an analysis of the health human resource challenges.\nThe project results will contribute to the achievement of Sustainable Development Goal (SDG) 3—ensure healthy lives and promote well-being for all at all ages—and the Priority Directions for the Health, Nutrition, and Population Global Practice 2016–2020. One of the targets for 2030 under SDG 3 is to ‘reduce by one-third premature mortality from NCDs through prevention and treatment’. Investment in early detection and management of NCDs which is the primary focus of this project is crucial to the achievement of this SDG target. The project also contributes to the SDG 3 target for universal health coverage—ensuring that all people have access to needed promotive, preventive, curative,          and rehabilitative health services, of sufficient quality to be effective, while also ensuring that people do not suffer financial hardship when paying for these services—by increasing the utilization and quality  of necessary PHC services as well as ensuring the availability of essential medication.\nThe World Bank’s Investment Project Financing (IPF) instrument with Disbursement-Linked Indicators (DLIs) is an appropriate instrument to support the Government’s objectives of strengthening accountability for results while streamlining implementation by primarily using the country’s systems. The MoH’s strategy for reorganizing PHC is integrated in the Government’s health sector development plans but is not defined as a separate or distinct Government program    (with its own explicit budget, institutional arrangements, and Results Framework), which would have made the project amenable to a Program-for-Results instrument. However, this limitation does not prevent the use of a results-based approach. The use of an IPF with DLIs will allow for defining the important benchmarks of progress in the implementation of the strategy and to release the funds, reimbursing project expenditures, to achieve that strategy. While most of the financing will be released following the verified achievement of certain DLIs, a relatively small amount is reserved for traditional investment type of expenditure for those activities that cannot be reasonably implemented through the Sri Lankan country systems. The GoSL and the World Bank have successfully implemented a similar type of lending modality under the Second Health Sector Development Project (SHSDP), which will close in September 2018.",
-"notes": "Original title: C. Higher-level Objectives to Which the Project will Contribute and Rationale for the Use of the Lending Instrument, Page 16"
-}
-{
-"section": "II. PROJECT DEVELOPMENT OBJECTIVES",
-"content": "A. PDO\n\nThe Project Development Objective (PDO) is to increase the utilization and quality of primary health care services, with an emphasis on the detection and management of non-communicable diseases in high-risk population groups, in selected areas of the country.\n\nThe utilization of services is defined as those services that will be provided by the public PHC facilities—particularly newly standardized and upgraded PMCIs—to the population with a focus on those patients that are most at risk of a severe or catastrophic NCD event in the next few years. Quality is defined by the standardized, upgraded, and maintained capacity of those PMCIs in terms of (a) the availability of skilled human resources;¹⁶ (b) availability of the laboratory services, drugs, and medical devices to provide appropriate diagnosis and treatment; (c) established relationship between the PHC provider and beneficiary; and (d) regular supervision to ensure quality and safety. Selected areas of the country are defined as the catchment areas that will be established around the upgraded PMCIs (with a target of about 5,000 population per Medical Officer or about 10,000-15,000 population per facility), selected by the provincial health authorities in consultation with the MoH following a needs assessment.\n\nThe PDO will be achieved by supporting the reorganization and strengthening of the Sri Lankan PHC system. Specifically, the project will support the development and implementation of policies and standards and strengthening of various supportive systems, rolled out in a sequenced and phased approach. The project will lay the foundation for a more integrated, coordinated, and people-centered delivery system.\n\nB. Project Beneficiaries\n\nThe primary beneficiaries of the project will be the users of public PHC institutions in the selected communities₁₇ of the country. The primary users of the public PHC institutions tend to be the poorer segments of the population.¹⁸ Within the communities supported by the project, those who are most at risk of having or developing a severe or catastrophic NCD will be the primary target. This is both to maximize the potential health impact as well as to prioritize limited resources. This includes an expected 98 percent increase in the number of women at age 35 and at age 45 years who are screened for cervical cancer. The project also targets adults, particularly men, who have a 20 percent or greater chance of having a severe or catastrophic health incident due to NCDs during the next 10 years.¹⁹ The project will eventually benefit the population of the entire country by strengthening the policy and standards for a more comprehensive and people-centered PHC system. During the project period, the 16 One of the key factors is the inclusion of public health nurses within the human resource cadre at the PMCI. The public health nurse will be vital for the outreach, education, and establishment of a long-term relationship between the PMCI and the community that the PMCI serves.\nThe communities may be the same as municipality boundaries or they may not. Specific catchment areas for each PMCI will be defined and then there will be active outreach and screening process starting with the identified target population of the adult population over the age of 35.\nAccording to a recent household survey, about 8.8 percent of the bottom 20 percent wealth quintile used PMCIs/DH in the month preceding the survey while only 4.3 percent of the top 20 percent did the same. It is recognized though that improved PHC institutions may begin to attract better off households who now seek care in private and higher-level HFs.\nAccording to the WHO NCD risk stratification standards.",
-"notes": "Original title: PROJECT DEVELOPMENT OBJECTIVES, Page 17"
-}
-{
-"section": "PDO-Level Results Indicators",
-"content": "The following result indicators will be used to measure progress toward the achievement of the two key elements—utilization and quality of PHC services—contained within the PDO:\n\n(a)  Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities (utilization);\n(b)  Percentage of screened adults (disaggregated by men and women) with high risk for non-communicable diseases who are registered and actively followed-up at primary medical care institutions (utilization); and\n(c)  Number of primary medical care institutions that have the required capacities for providing comprehensive and quality care (quality).²⁰\n\nBy completion, the project is expected to increase the number of women of ages 35 years and 45 years who are screened for cervical cancer by 98 percent from the current situation; the registration and active follow-up of at least 25 percent of the adults with high risk for a severe or catastrophic NCD event at the PHC level in the communities supported by the project; and the standardization, upgrade, and maintenance of quality of 550 PMCIs serving about 50 percent of the communities in Sri Lanka. It is important to note that these are tracer conditions that also indicate performance of the system in the diagnosis and treatment of other key NCDs. For example, the current practice is such that women who undergo cervical cancer screening also undergo clinical screening for breast and thyroid cancer.\n20 A PMCI meeting this requirement is reported and verified as having (a) the availability of two trained medical officers and one nurse officer; (b) availability of the laboratory services, drugs, and medical devices to provide appropriate diagnosis and treatment; (c) established relationship between the PHC provider and beneficiary by active empanelment and screening of at least 25 percent of the adult population in the PMCI catchment area; and (d) regular supervision to ensure quality and safety. For the detailed definition refer to PDO Indicator 3 in the Results Framework and DLI 3 in Annex 3.",
-"notes": "Original title: C. PDO-Level Results Indicators, Page 18"
-}
-{
-"section": "III. PROJECT DESCRIPTION",
-"content": "A. Project Components\n\nThe project will be implemented over a period of about 5.5 years and has three components.\nComponent 1. Implementation of the PHC System Reorganization and Strengthening Strategies (US$185 million World Bank Financing)\nComponent 1 will support the MoH and the provinces to implement the PHC system reorganization and strengthening strategies through the routine health sector planning and budget execution systems. This approach will further strengthen the capacity of the sector for strategic planning, results monitoring, and budget absorption. For this component, a total of US$185 million has been allocated for disbursement upon achievement of disbursement-linked results (DLRs), as defined in Annexes 2 and 3. DLRs 1.1, 1.2, 1.3, 1.4, 2.1, 7.1 and DLR 7.2 are time bound, given that the achievement of these DLRs is critical for successful implementation of subsequent activities.\nAs described previously, the MoH’s position paper ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’ lays out three thematic areas. Following consultations with relevant stakeholders during project preparation, the three thematic areas were further translated into five results areas to be supported by the project—(a) PHC policy and standards defined to support implementation; (b) PMCI capabilities and services strengthened for more comprehensive and quality care; (c) supportive systems developed to facilitate improved PHC delivery, with a focus on NCDs; (d) health system empowers and becomes more responsive to the demands of the population; and (e) utilization of PHC services, with a focus on NCD detection and active follow-up, is increased (as shown in Figure 4). Each of the results areas is described below.",
-"notes": "Content extracted from page 19 of 96"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project     (P163721)\n                   Figure 4. Translation of PHC Reorganization Position Paper into Project Results Areas\n           Reorganizing PHC                    PHC policy and                      A more\n                                           standards defined to\n         to meet Sri Lanka’s                     improve\n                needs                       comprehensiveness                      people\n                                             and coordination\n          (Thematic Area 1)                                                                        Increase the\n                                            (PSSP Results Area 1)                  -             utilization and\n                                                                                   centered and quality of PHC\n                                                                                               services, with an\n           Strengthening the                    PHC provider                                   emphasis on the\n            health sector                     functions and                                      detection and\n                                               capabilities                                     management of\n          through key system              strengthened for more                    comprehensi\n             improvements                   comprehensive and                                 NCDs of high-risk\n                                             quality service                                        population\n          (Thematic Area 2)                     provision                                            groups, in\n                                                                                               selected areas of\n                                                                                   ve model of PHC service prov\n                                            (PSSP Results Area 2)                                  the country.\n                                                                                                  (PSSP Results\n                                                                                                        Area 5)\n             Information                    Supportive systems\n            management to                  developed to facilitate\n            improve health                improved PHC delivery\n           services in real\n                 time                    (PSSP Results Area 3)\n           (Thematic Area 3)              Health system empowers                   ision\n                                            and becomes more\n                                        responsive to demands of\n                                             the population\n                                           (PSSP Results Area 4)\n                              Note: PSSP = Primary Health Care System Strengthening Project\n              Results Area 1   - PHC policy and standards defined to support implementation (US$24.025\n      million). This results area will provide the overall strategic focus for PHC reorganization, as well as detailed\n      policies, standards, and implementation guidelines. It will provide the necessary foundation for provincial-\n      level implementation that will be supported under Results Area 2. The specific DLIs that will be supported\n      under this results area are summarized in Table 1 and further detailed in Annexes 2 and 3.\n              (a)   The   component     will support    the  central  MoH’s    and   the  provincial   authorities’\n                    endorsement of policies, standards, and guidelines for reorganizing the PHC system (DLI\n                    1). This will involve efforts to define  (i) population empanelment and risk stratification\n                    processes; (ii) a comprehensive PHC service package; (iii) a PHC network; (iv) functionality\n                    and service standards for PMCIs; and (v) PMCI requirements in terms of HR (categories and",
-"notes": "Content extracted from the section related to the Primary Health Care System Strengthening Project."
-}
-{
-"section": "Results Area 1 - Health System Strengthening",
-"content": "The component will support the MoH’s adoption of clinical protocols for defined priority health conditions (DLI 2). The project will support the MoH to define protocols for preventing, detecting, and managing NCDs with a focus on hypertension, diabetes mellitus, and cervical cancer at the PMCIs. The necessary protocols will include defining the risk stratification thresholds based on population risk factors, screening guidelines that are both facility- and community-based, management guidelines for a PMCI, referral guidelines for these conditions, and requirements for essential drug and diagnostic services. It is expected that the MoH will receive necessary technical support from DPs, including WHO to ensure that the clinical protocols follow international good practice which is adapted for the Sri Lanka country context. It is also expected that these protocols will be adjusted and updated, following the utilization by PHC providers.\n\nTable 1. DLIs under Results Area 1\nAmount Allocated to MoH-Level Results\nDLI 1. Endorsement by the MoH and by the provinces of policies and standards for reorganizing PHC system\nUS$7,395,000\nDLI 2. MoH adopts and updates clinical protocols for selected health conditions\nUS$9,250,000\n\nResults Area 2 - PMCI capabilities and services strengthened for more comprehensive and quality care (US$52.15 million). This results area will support the implementation of the PHC reorganization strategies at the provincial level starting in Year 2, following the issued policies, standards, and guidelines. First, it will focus on ensuring that necessary PMCI capabilities for delivering the defined service package with quality, is established. Second, it will support provision of more patient-friendly services. Implementation is planned to take place in all nine provinces around the country. Within provinces, implementation is expected to be phased out over time, increasing the number of PMCIs that meet the minimum requirements to at least 550 by the end of the project. The specific DLIs that will be supported under this results area are summarized in Table 2 and further detailed in Annexes 2 and 3.\n\n(a) The required PMCI capabilities for providing comprehensive and quality care (DLI 3) are (i) having at least 25 percent of the adult population in its defined empanelment area screened and stratified for risk factors, (ii) having at least two trained medical officers and one nurse (public health) officer, (iii) having minimum set of operational diagnostic equipment and tools, (iv) having minimum availability of essential drugs and lab test capacity (on-site or through a networked/contracted pharmacy or laboratory), and (v) undergoing quarterly supportive supervision facilitated by a checklist to ensure adherence to national quality and safety standards. Since the project will also strengthen PHC as a comprehensive service delivery platform to meet the health needs of the population, there are several intermediate results indicators—not linked to disbursement—to support the more gradual expansion of PMCI capability as the first point of contact in non-NCD services such as mental, oral, infectious disease, and emergency health care (see Section VII and Annex 1).",
-"notes": "Original title: Results Area 1 - Health System Strengthening, Page 21"
-}
-{
-"section": "Patient-friendly services",
-"content": "(b)  Patient-friendly services that may be provided by PMCIs (DLI 4) are as follows: (i) the PMCI routinely provides NCD drugs through one-month supply blister packs,   (ii) the PMCI has arrangements with laboratory services, including with private laboratories, where patients can drop off specimens and pick up results at the PMCI, (iii) the PMCI has an arrangement with  pharmacies,   including with  private pharmacies,   where  patients  can  pick up  prescriptions for publicly financed drugs free of charge, and (iv) the PMCI has an operational appointment system (web-based, phone,      and  other) for  patients to register specific appointment times.\nThe promotion of patient-friendly services, in cooperation with the private sector, will be a significant step toward a more public-private partnership enabling       environment.   As necessary precursors to offering these services, technical analysis, and policy work will be necessary to define how and under what conditions services can be contracted out to the private sector, how to price and make payments, how to define contracts and the institutional responsibilities for managing these arrangements. Undertaking this analysis and experimenting with contracting out with some PMCIs will facilitate a larger discussion about engagement with the private sector for publicly financed health service provision.\nThe establishment of an operational appointment system and proactive outreach services     is expected to address the gender gap in utilization of preventive NCD care services. One of the major reasons for low utilization of preventive and follow-up NCD care among working men is longer waiting times and the inconvenience of opening hours at public out-patient departments. The appointment system  is expected to  reduce this constraint. Learning from the experience of HLCs that were less successful in reaching adult men, the project aims to provide proactive outreach services.",
-"notes": "Original title: Patient-friendly services that may be provided by PMCIs (DLI 4) and related content"
-},
-{
-"section": "Results Area 3 - Support to personal health record system and improvement of the national procurement and supply chain system",
-"content": "Results Area 3 - Support to personal health record system and improvement of the national procurement and supply chain system (US$35.0 million). This results area will support two systems that are essential for the PMCIs to provide improved patient care, particularly for NCDs. The first system is the development and scaling up of health information systems that will facilitate coordinated patient care using personal health records and eventually, a web-based referral network. The second system is the improved supply chain management system to ensure timely and efficient supply of drugs. The specific DLIs that will be supported under this results area are summarized in Table 3 and further detailed in Annexes 2 and 3.\nTo support the process of patient empanelment and risk stratification, the component     will support the adoption and rollout of a personal health record for use by the PMCI (DLI 5). The personal record will be maintained in a personal health book by the patient and can be of reference to different providers in the referral network. This concept has already been initiated through the HLCs based on the experience with the MCH books. Initially, this will be implemented through paper-based personal health records. Over time this will transition to an electronics-based system, which is based on the Government.",
-"notes": "Original title: Results Area 3 - Support to personal health record system and improvement of the national procurement and supply chain system"
-}
-{
-"section": "Results Area 3 - Improvement of Procurement and Supply Chain Management Efficiency",
-"content": "To ensure that the drug supply at the facility level is based on demand, timely, and using the most economical procedures, the component will support improvement of the procurement and supply chain management system efficiency (DLI 6). This will involve the Government to (a) roll out the MSMIS to the PMCI facilities for better planning, accuracy, and communication; (b) approve revised procurement guidelines for health sector goods; (c) establish shorter procurement lead times as performance benchmarks and measure improvements in meeting those benchmarks for a defined set of tracer NCD drugs; and (d) establish a baseline and measure improvements in reducing the number of urgent, local purchases.\n\nTable 3. DLIs under Results Area 3\n\nAmount Allocated to MoH-Level Results    Amount Allocated to Provincial-Level Results\nDLI 5. Personal health records are used to coordinate patient care over time and through the referral chain    US$4,200,000       US$14,300,000\nDLI 6. Procurement and supply chain management efficiency is improved    US$16,500,000             —",
-"notes": "Results Area 3 - Improvement of Procurement and Supply Chain Management Efficiency, Page 23"
-}
-{
-"section": "Results Area 4 and 5",
-"content": "Table 4. DLIs under Results Area 4\nAmount Allocated to MoH-Level Results\nAmount Allocated to Provincial-Level Results\nDLI 7. Community engagement mechanisms for health sector operational, including grievance redressal mechanism and community committees at the PMCIs\nUS$6,600,000\nUS$19,200,000\nResults Area 5 - Utilization of PHC services, with a focus on NCD detection and active follow-up, is increased (US$48.025 million). This results area ensures the focus on the service delivery progress that is expected to be achieved following the implementation of actionable Results Areas 1–4. The specific DLIs that will be supported under this results area are summarized in Table 5 and further detailed in Annexes 2 and 3. While the effort to strengthen the PHC system will benefit a broad range of services, the project will focus on strengthening the detection and management of specified NCDs.\n(a) The component will support the MoH’s continued effort to screen women for cervical cancer, targeting women at age 35 and at age 45 years (DLI 8). It will track the number of women screened at public HFs, including PMCIs and Well Women Clinics and ensure that the screening and referral protocols have been followed.\n(b) The component will support the effort to identify and actively follow up with high risk adults for NCDs (according to the WHO standards for NCD risk stratification) at PMCIs (DLI 9). A patient will be considered as being actively followed up if seen at the facility within the last 3 months before the end of the reporting period.\nTable 5. DLIs under Results Area 5\nAmount Allocated to MoH-Level Results\nAmount Allocated to Provincial-Level Results\nDLI 8. Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities\nUS$2,000,000\nUS$21,125,000\nDLI 9. Adults determined to have high risk for non-communicable diseases registered and actively followed up at PMCIs\nUS$4,900,000\nUS$20,000,000\nComponent 2. Project Implementation Support and Innovation Grants (US$14.22 million World Bank Financing)\nThis component will provide direct support to the MoH and through the MoH to provinces for activities that would be difficult to implement through the country’s regular public financial management systems. The component would provide essential support to facilitate and enhance the implementation of the PHC system reorganization and strengthening strategies. The component has four subcomponents.\nSubcomponent 2.1 will provide support for project management, coordination, and routine project monitoring (US$2.22 million). While the project will chiefly be implemented by the relevant units of the MoH and the provincial MoH, a dedicated team will provide support to the MoH and provinces to ensure proper coordination, monitoring, reporting, and implementation of the activities such as capacity building and innovation grant mechanisms. The composition of the Project Management Unit (PMU) is provided in the Institutional and Implementation Arrangement section. Some of the personnel will be",
-"notes": "Extracted from the section discussing Results Areas 4 and 5, including DLIs and project implementation support."
-}
-{
-"section": "Subcomponent 2.2: Results Verification and Operational Research",
-"content": "Subcomponent 2.2 will provide support for the results verification as well as operational research that is deemed appropriate for assessing the health needs, demand, utilization, and quality of basic health service delivery (US$4.0 million). The verification process is described in the Results Monitoring and Evaluation section. The verification report on the service capability, functions, and actual service provision will require field-based assessments on the quality of the data being reported by the system. In addition, household and facility-based surveys will be undertaken to inform and assess the progress and challenges related to the PHC reorganizing strategy implementation. For instance, in preparation for the retraining of the health staff, a survey to assess the current strengths and weaknesses in the diagnosis and treatment capability of PMCI staff for the priority conditions will be undertaken. Specific baseline and end-line surveys will be undertaken which will provide supplementary information to the Results Framework including preference of the population for first point of contact, drop-off rate of the population that has NCD risk factors, the proportion of adults who have been diagnosed, referred for treatment, under treatment, and in control of disease. In the last five years, surveys supporting health sector performance analysis using a standard international methodology have been undertaken. Follow-up surveys such as Demographic Health Survey, WHO step-wise Approach to Disease Surveillance Survey, and Service Availability and Readiness Assessment may also be supported. The project will support institutional arrangements through an oversight committee and partnerships with research organizations for continuous monitoring and adaptation as the strategy is being implemented. The project will finance the related expenditures for technical assistance and surveys.",
-"notes": "Original title: Subcomponent 2.2 will provide support for the results verification as well as operational research (Page 25)"
-},
-{
-"section": "Subcomponent 2.3: Capacity Building",
-"content": "Subcomponent 2.3 will provide capacity building at the central and provincial levels, aimed at building strategic, managerial, and technical capacity for the benefit of the health sector (US$5.0 million). The component will support capacity building of the central- and provincial-level personnel through short-term, non-degree professional training/courses. The focus areas include (a) strategic planning and project management; (b) dissemination of new evidences, good practices, and innovations in service delivery; (c) economics and finance; (d) private sector participation in health sector delivery; and (e) M&E. In addition, postgraduate degree fellowships in health economics, public health, and public health policy will be offered, through a competitive selection process. Agreements for the postgraduates to return to work for the health sector will be in place. A consolidated human resource development plan —consisting of a central-level plan of the MoH and other related national agencies and plans for each of the 9 provinces—will be prepared, routinely updated, and monitored and will be approved by the Component 2 Review Committee of the MoH and the World Bank. The project will finance both in-country and external training costs including tuition fees, living allowances per national approved rates, travel, workshops, and other related expenditures in the context of the human resource development plan agreed with the MoH.",
-"notes": "Original title: Subcomponent 2.3 will provide capacity building at the central and provincial levels (Page 25)"
-},
-{
-"section": "Subcomponent 2.4: Service Delivery Innovations",
-"content": "Subcomponent 2.4 will support service delivery innovations through a competitive small grant mechanism (US$3.0 million). The component will finance provision of the Competitive Small Grants to",
-"notes": "Original title: Subcomponent 2.4 will support service delivery innovations through a competitive small grant mechanism (Page 25)"
-}
-{
-"section": "B. Project Cost and Financing",
-"content": "The lending instrument is an IPF, financed by a Loan in the amount of US$200 million provided under IBRD terms. The GoSL selected a variable spread loan with a total maturity of 33 years, including a grace period of 6 years, with level repayment linked to commitment and front-end fee financed out of the loan proceeds.",
-"notes": "Original title: Project Cost and Financing, Page 26"
-}
-{
-"section": "Project Financing",
-"content": "The project costs and financing are detailed in Table 6. The total project costs are estimated to be US$4,419 million over the project period. This estimate of the total project cost includes all the recurrent costs for delivering PHC and essential referral services as well as the direct investment costs toward PHC system reorganization and strengthening during the project period (Q2 2018 – Q3 2023). These are expenditures deemed necessary for achieving the project objectives. World Bank financing will consist of an IBRD Loan in the amount of US$200.00 million. The project will reimburse the Government up to US$185.00 million of certain defined expenditures under the total project cost, based on the verified achievement of the DLIs. The remaining US$15.00 million of the IBRD loan will go toward Component 2, which finances investments directly (US$14.22 million), refinancing the project-related expenditures under the country Programmatic Preparation Advance (US$0.28 million) and capitalizing the front-end fee of the IBRD Loan (US$0.5 million). The GoSL will contribute an estimated US$4,219 million in parallel counterpart financing to project results, through both capital and recurrent expenditures at the national and provincial levels for running and investing in improved essential referral services. This figure is estimated based on an analysis of existing expenditures and trends.\n\nTable 6. Project Financing Breakdown (US$, millions)\nProject Components                     Project       IBRD        GoSL Parallel\nCost       Financing     Counterpart\nFunding\n1. Implementation of PHC System Reorganization and      4,404.00       185.00         4,219.00\nStrengthening Strategies\n2. Project Implementation Support and Innovation Grants    14.22        14.22             0.00\n3. Contingent Emergency Response Component                  0.00         0.00             0.00\nProject Preparation Advance Reimbursement                   0.28         0.28             0.00\nTotal Costs\nTotal Project Costs                                     4,418.50      199.50          4,219.00\nFront End Fees                                            0.50         0.50             0.00\nTotal Financing Required                                4,419.00      200.00          4,219.00\nIn addition to the above referenced costs, the ADB and GoSL are currently discussing a US$50.00 million loan to the health sector to be approved around September 2018, of which an estimated US$40.00 million will be invested in strengthening of PHC and referral network facilities (infrastructure, equipment, networking of HFs, and so on) in four provinces. While not essential to achieve the PDO, these investments are sufficiently complementary to the project; particularly in the four provinces, they may in part contribute to the objective.",
-"notes": "Original title: Project Costs and Financing, Page 27"
-}
-{
-"section": "Component 1 Expenditures",
-"content": "The total costs of Component 1 are defined as the total provincial health expenditure and the part of the MoH budget that is fully or partially targeted to the delivery of and investment in PHC and immediate referral services during the project period. Provincial health expenditure represents the cost of providing primary care at the level of PMCU and DH (A, B, and C) as well as the cost of care at specialized secondary-level hospitals (base hospitals) under the provincial MoH. The latter serves as the immediate referral units for the lower levels of care. As such, expenditure at base hospitals is also critical for achieving the PDOs. Table 7 provides projections for provincial recurrent and capital expenditure for the period 2018–2023. To align with the project period and disburse for results achieved after April 1, 2018, the projections for 2018 and 2023 are for three quarters only. Estimated provincial health expenditure ranges from LKR 57 billion (US$368 million) for the three quarters of 2018 to LKR 111 billion (US$719 million) for the three quarters of 2023. About 88 percent of this is recurrent expenditure. From the MoH budget, the following budget codes are identified to fully or partially go to PHC: (a) health sector training (111-02-11-1), (b) medical supplies/drugs (111-1-3-), (c) biomedical equipment (111-2-13-11-2103), and (d) strengthening PHC (111-2-14-25-2502). The first two are recurrent while the last two are capital expenditures. This MoH portion of the PHC estimated expenditure ranges from US$69 million for the three quarters of 2018 to US$78 million for the three quarters of 2023. In total, estimated provincial health expenditure ranges from US$437 million in 2018 to US$797 million in 2023, representing 0.61 percent to 0.72 percent of the country’s GDP, respectively. The World Bank’s reimbursement of these expenditures, up to a total amount of US$185.00 million depending on the achievement of the DLIs, represents 4 percent of the total estimated expenditure from the second quarter of 2018 to the end of the third quarter of 2023.\n\nTable 7. Estimated Component 1 Expenditures (in LKR millions and converted to US$ millions)\n\n2018                                                        2023       Total\n(three       2019        2020        2021        2022       (three      (2018–\nquarters)                                                  quarters)     2023)\nSource: MPCLGS - Provincial MoH Spending\nRecurrent           50,117      76,479      87,530     100,179     114,655      98,418     527,378\nCapital             6,719       10,139      11,475      12,987      14,698      12,476      68,492\nSubtotal            56,836      86,618      99,005     113,166     129,353     110,894     595,871\nSource: MoH - Central MoH Spending\nHealth sector       3,131       4,087       3,983       3,970       3,922       2,905       21,998\ntraining\nMedical             7,140       9,991       10,572      10,797      11,153      8,632       58,284\nsupplies/drugs\nBiomedical            333        463         463         540         589         478        2,867\nequipment\nStrengthening         26          43          52          49          56          47         273\nPHC\nSubtotal            10,630      14,585      15,070      15,356      15,719      12,061      83,422\nTotal (LKR          67,466     101,202     114,075     128,522     145,072     122,955     679,293\nmillions)\nTotal (US$            437        656         740         833         941         797        4,404\nmillions)",
-"notes": "Estimated Component 1 Expenditures (Page 28)"
-}
-{
-"section": "Budget Items and Budget Codes",
-"content": "Description                                              Budget Codes\nSource: MPCLGS (Consolidated FM report) Appropriation Account-2016\nRecurrent expenditure         Salaries and wages (1001)\n                                     Overtime and Holiday Pay (1002)\n                                     Other allowances (1003)\n                                     Domestic travelling (1101)\n                                     Foreign traveling (1102)\n                                     Transport (1401)\n                                     Postal communication (1402)\n                                     Electricity and water (1403)\n                                     Rents and local taxes (1404)\n                                     Others recurrent\nCapital expenditure           Acquisition of capital assets (unspecified)\nSource: Central MoH budget book\nRecurrent expenditure         Health sector training (111-02-11-1)",
-"notes": "Original title: Table 8. Budget Items and Budget Codes"
-}
-{
-"section": "IV. IMPLEMENTATION",
-"content": "A. Institutional and Implementation Arrangements\n      The MoH will be the primary organization from the GoSL      responsible for implementing the\n      project. The MoH is responsible for setting policy and standards and updating protocols for strengthening\n      the PHC system with the aim of streamlining access to quality people-centered health services, increasing\n      efficiency of these services, and ensuring a continuum of primary care for people throughout their life\n      cycles. It is also responsible for M&E of the performance of the sector including the PHC system, using\n      administrative data and period surveys.\n      The MPCLGS provides oversight, coordination and has authority over the Project Councils for\n      provincial-level project activities. Nine provincial departments of health services as part of the provincial\n      Ministries of Health and under the authority of the Provincial Councils, are responsible for adopting\n      protocols and planning and implementing the PHC reorganization and strengthening activities per the set\n      standards. Therefore, the MoH will be working closely with the MPCLGS in the project management\n      structures and directly with the provinces and their department of health services in coordinating,\n      monitoring and reporting on the project implementation. The provinces will receive funds through and\n      report to the MPCLGS. The MPCLGS has the necessary authority to ensure that the       loan funds are\n      transferred to the provinces on a Grant basis, that the provincial authorities provide the necessary\n      progress and financial reports and undertake the other necessary responsibilities in participation of the\n      project.\n      A  National Steering Committee (NSC) will be established, not later than three months after\n      effectiveness, and will meet at least semiannually to provide oversight, monitor the implementation\n      progress, and provide overall guidance. The committee will be co-chaired by the Secretaries of the MoH\n      and MPCLGS.   In the absence of either Secretary may delegate their representation.   The additional\n      members will consist of: Secretary finance commission, nine provincial Chief Secretaries, representatives\n      from  the central MoH and     provincial MoHs,  External Resources Department,    National Planning\n      Department, the Budget and Treasury Departments of MoF, Department of Project Management and\n      Monitoring (PMM) and any others as per the Management Services Department (MoF) Circular 1/2016.\n      Separately, the MoH and MPCLGS will have more regular meetings with necessary stakeholders to review\n      project progress, identify challenges and agree on actions to address implementation challenges.\n      Provincial-level coordination meetings are planned to identify local and address local implementation\n      issues about every other month, particularly in the early stages of the project.\n      Under the Ministry of Health, there will be a standing Component 2 Review Committee chaired\n      by the Director General of Health who will be responsible for reviewing and recommending for approval\n      by the MoH Secretary: (a) the budget and activity plans; (b) the capacity-development plan and the small\n      competitive innovation grants as per the operational guidelines;    and  (c) high-level contracts or",
-"notes": "Content related to implementation arrangements and responsibilities."
-}
-{
-"section": "Project Management Unit (PMU)",
-"content": "A PMU has been established and will consist of the following key positions: Project Director, Deputy Project Directors (MoH and MPCLGS), Project Officers, Procurement Specialist, FM Specialist, Accountants (MoH and MPCLGS), Internal Auditor, M&E Officers (MoH and MPCLGS), Communications and Information and Communication Technology (ICT) Officers, Provincial Project Managers, Provincial Project Officers and Regional Project Coordinators as well as other relevant administrative and technical support staff. The Project Director will report to the Secretaries of the MoH and MPCLGS who will co-chair the NSC. It is important for provincial and regional project staff to be an integral part of the project management structure given the provincial involvement in project implementation. The provincial and regional project staff will have responsibilities for coordination with various stakeholders and reporting on the project’s progress and performance. Specific job descriptions and responsibilities for each position will be established. The staffing structure is based on this high level of effort required to manage the substantial stakeholder and technical risk, but will be reviewed and updated from time to time to ensure that the staffing is consistent with the workload and requirements.",
-"notes": "Original title: Project Management Unit (PMU) - Page 31"
-},
-{
-"section": "Fiduciary Arrangements",
-"content": "FM, disbursement, and audit arrangements. The FM responsibility for activities under the central health agencies rests with the MoH. The MPCLGS will be responsible for FM for activities under the provincial health agencies, including the compliance with the financial covenants of the legal agreement. The MoH, MPCLGS, and other relevant health sector institutions will be strengthened to carry out the program-related FM arrangements. The MoH will have assigned staff including an FM Specialist and any other supporting staff assessed as necessary, satisfactory to the World Bank to manage and coordinate the overall FM arrangements related to the project. The MPCLGS will also have assigned staff to coordinate overall FM arrangements related to the provincial component of the project.",
-"notes": "Original title: Fiduciary Arrangements - Page 31"
-},
-{
-"section": "Component 1",
-"content": "The MoH and MPCLGS will have budgetary allocations for the entire project and funds will be released to MoH agencies and Provincial Councils (through MPCLGS) as needed. Under Component 1, which will disburse following the achievement of the DLIs, all project activities will be pre-financed by the GoSL and accordingly the disbursement method will be on a reimbursement basis supported by financial reports. Interim Unaudited Financial Reports (IUFRs) will be prepared, as necessary, by the MoH and MPCLGS. There will be one set of IUFRs prepared by MPCLGS for the provinces and, if necessary, one set of IUFRs prepared by the MoH containing the EEP. Reimbursements of funds by the World Bank will be made to a USD denominated account under the consolidated fund of the GoSL, based on IUFRs and fulfillment of agreed DLIs. Therefore, the project will follow the regular GoSL systems of funds flow for the project operation. The GoSL would be responsible to channel the required funds in adequate amounts to the respective sector institutions from the consolidated funds. A cash flow indicator will be used to monitor the funds flows against the requests being made by the health sector institutions. The project IUFRs will include expenditures incurred under the EEP and the withdrawal claim will be restricted to the cumulative expenditures under the EEP. The disbursement amount will be based on the (a) incurred expenditures for the EEP and (b) the amount assigned to the DLIs achieved and validated. The disbursements under the project are planned to occur twice per year, normally around January and June of each year, based on the achievement of the DLIs. A minimum application for reimbursement will be established at US$100,000.",
-"notes": "Original title: Component 1 - Page 31"
-}
-{
-"section": "Financial Management",
-"content": "provision for retroactive financing starting from April 1, 2018, in the amount up to US$20 million to recognize results that will expenditures will be made towards project results before the signing of the Financing Agreement and to facilitate the initiation of activities in early 2019. Satisfactory FM arrangements are in place as this will be a continuation from the Second Health Sector Development Project for which expenditures will be reimbursed up to December 31, 2017.\nThe internal audit (IA) of the project is expected to be carried out by the IA units of the MoH and Provincial Councils. The external audit of the project will be performed by the Auditor General (AG) of Sri Lanka. For the proposed program, the AG will carry out project-related audits of the MoH and MPCLGS and issue two audit reports, one each for MoH and MPCLGS within six months of the end of the government financial year. For the project, a consolidated audit report, including an audit opinion on the consolidated financial statements will be prepared reflecting health sector expenditure incurred by central-level institutions and for the provincial-level health sector expenditures. The consolidated financial reports will reflect the health sector expenditures selected under the EEP from all sources of funds. The EEP selected for the program will consist of non-procurable items (see paragraph 55) and further details of the same will be reflected in the fiduciary management operational guidelines. The objective of the consolidated audit reports is for the World Bank to obtain assurances that the consolidated financial reports present a true and fair view of the health sector expenditures and are free from material mis-statements.\nFor Component 2, the budget provision for the traditional investment component will be reflected separately under MoH overall budget estimates under foreign financing sources. Disbursements under Component 2 will be made against eligible expenditures for activities under the component upon submission of quarterly IUFRs. Eligible expenditures will comprise (a) consulting and non-consulting services, (b) goods, (c) workshops and training, (d) other operating costs, and (e) innovation grants. FM responsibility will rest with the FM unit within the PMU at the MoH. A separate Designated Account (DA) will be opened for Component 2. The DA will be operated and managed by the MoH, which will maintain separate sets of accounts for the component. Disbursements of funds will be report based. The MoH will submit quarterly IUFRs to the World Bank within 45 days of the end of each quarter. The World Bank will advance funds to the DA in adequate amounts to meet forecasted expenditures for a period of six months, as reflected in the respective IUFR. Withdrawal applications will be prepared by the MoH and replenishments to the DA will be based on the IUFRs approved by the World Bank. The specific format of IUFRs, designed for Component 2 in accordance with the guidelines issued by the World Bank, were agreed and attached to the Disbursement Letter. The specific financial reporting from the MoH to the World Bank on the innovation grants would be limited to the specific release of the grant tranches. The financial reporting requirements from the grantee to the MoH will be included in the operational guidelines of the small innovation grant mechanism.\nThe MoH will also open a dedicated Sri Lankan Rupee account. The MoH will have the option of requesting a direct payment to suppliers by (a) the Central Bank of Sri Lanka, using the proceeds in the DA or (b) the World Bank against the credit for large payments. It is agreed that all payments related to the technical assistance component will be handled centrally by the MoH and no funds will be transferred to any other agency/unit.\nThe MoH will prepare the annual financial statements of Component 2 for auditing by the AG’s Department. The audit will cover all technical assistance component activities carried out by the MoH and all payments made from the project accounts related to the same. This audit report will be a separate one",
-"notes": "Original title: Financial Management (Page 32)"
-}
-{
-"section": "Procurement arrangements",
-"content": "Procurement for the proposed project will be carried out in accordance with the World Bank Regulations for IPF Borrowers July 2016, revised in November 2017, hereafter referred to as ‘Procurement Regulations’. The project will be subject to the World Bank’s Anticorruption Guidelines, dated July 1, 2016. As per the requirement of the Procurement Regulations, and given that the project does not involve high value and complex contracts, an abbreviated version of the Project Procurement Strategy for Development (PPSD) has been prepared. The 18 months procurement plan sets out the selection methods to be followed by the Borrower during project implementation in the procurement of goods, works, and non-consulting, and consulting services financed by the World Bank. The Procurement Plan will be updated at least annually or as required to reflect the actual project implementation needs and improvements in institutional capacity.\nDue to the nature of the project design and financing instrument (IPF with DLIs), the bulk of the disbursement will be through EEP consisting of non-procurable items. However, the procurements within the project boundary, even though not financed by the World Bank, could have an impact on the World Bank’s program, and therefore the MoH procurement was assessed as well. The MoH has previous experience of implementing procurement under World Bank financing. Additionally, the GoSL has well-established procurement guidelines, manuals and procedures, and standard procurement documents that provide a robust framework for the implementation of procurement. Nevertheless, delays are encountered in the execution of procurement owing mainly due the multiple layers of decision making and a general trend of elevating decisions to senior levels of management within the ministry even when not required. This risk will in part be mitigated through the project support toward increasing the efficiency of the MoH procurement supply chain for medical supplies. Due attention will need to be paid to non-World Bank financed contracts to the extent that these impinge on the smooth execution of the project. The MoH has identified a Procurement Specialist who will be dedicated to procuring the contracts to be financed with the World Bank funds and will also need to follow the progress of non-World Bank financed contracts under the program. The project staff will be trained on the use of the World Bank’s Procurement Regulations as well as on Systematic Tracking of Exchanges in Procurement or STEP (Systematic Tracking of Exchanges in Procurement) system. Some small-value procurement is expected to be carried out by grant recipients under the innovation grants under Subcomponent 2.4. Since these are grants, they will not be supervised by the World Bank. However, a grant mechanism has been agreed that includes details of procurement procedures and requirements for record keeping.\nProcurement of World Bank-financed contracts is not complex and comprises minor office renovation, office furniture, ICT equipment, printing equipment; two vehicles; legal services; social/citizen engagement/environment consultants; local consultants and consulting firms for project readiness; media production, airtime, and printing; and an organization to support the appointed third-party verification agent in the verification of results. A PPSD has been prepared and no major market risks are envisaged.",
-"notes": "Original title: Procurement arrangements, Page 33"
-}
-{
-"section": "Results Monitoring and Evaluation",
-"content": "The Results Monitoring and Evaluation will take two approaches: (a) routine project results monitoring, reporting and verification and (b) operational research for learning, particularly to understand provider- and population-level change. The institutional arrangements for the first approach will be integrated into the MoH and Provincial-level monitoring and reporting systems, supplemented by the PMU which will have a full-time monitoring and evaluation (M&E) Specialist and which will facilitate the regular collection and reporting of the project results. Verification of those results will be undertaken by an independent third party. The institutional arrangements for the second approach will be overseen by a group of external technical experts, key project implementers, local research organizations and DPs. The PMU M&E Specialist will be the secretariat for this group. The two approaches are described in further detail below.\n\nRoutine project results monitoring, reporting and verification. There will be regular tracking and review of the entire project performance using DLI and non-DLI indicators. Project quarterly reviews of the indicators will be carried out by the MoH and provincial MoH at progress review meetings. Information will be periodically shared with the PMM to facilitate their verification process and government monitoring role. At least annual reviews of performance will be conducted by the NSC. The report to be reviewed by the NSC will cover the progress of the PHC reorganization overall and the activities financed by Component 2 of the project. A midterm review of the PHC reorganization, including the project, will be conducted by the second quarter of 2021. The complete results framework and monitoring with baseline, intermediate and end targets are provided in Annex 1.\n\nThe verification process will depend on the specific type of DLRs of which there are three types: (a) process-related results that consist of Government action (policy approved, guidelines and standards issued, reports accepted), (b) defined output results such as PMCIs that have defined qualities or information systems that are installed and used, and (c) intermediate outcomes of health services utilized by the population and delivered by certain defined providers. The process-related results will be verified following the review of the official document (policy, circular, or other instrument), ensuring that the content of the document is consistent with the required definition for that DLR, the document has necessary approval authority and was issued as required by the standard Government procedure. DLRs reflecting outputs are related to service delivery capacity and supply, requiring data to be reported at the facility level. Similarly, measurement and verification of intermediate outcome DLRs, measuring numbers of services delivered and utilized, require data reported at the facility level through the Government’s HMIS. Verification of output- and outcome-oriented DLRs at the facility level will involve the application of standard HMIS data quality audit methods²⁸, give a qualitative measure of confidence of the data reported and assessing the underlying data management and reporting systems for standard program-level output indicators. Thus, verification will involve two tasks at two levels: (a) reviewing evidence at the Government, MoH or Provincial-level that the actions and processes have taken place with the necessary authority and with the agreed content; and (b) applying the standard data quality audit methodology at 28 For a complete reference guide, see (see https://www.measureevaluation.org/resources/publications/ms-08-29).",
-"notes": "Original title: Results Monitoring and Evaluation"
-}
-{
-"section": "Verification Methods",
-"content": "Table 9. DLR Types, Reporting Systems, and Verification Methods\n\nLevel of\nTypes      Examples     Characteristics    Reporting    Reporting      Verification Methods\n            of DLRs                           and        Systems\n                                                      Verification\nActions and   1.1, 1.2,  Policy documents    MoH and      Government    Evidence that the\ndepending on reporting through management information systems (Table 9).\nAnnex 3 contains specific information on the verification method for each DLR for further information.\n2.1, 2.2   approved,           provinces    reports       actions/processes have\nguidelines and                                 taken place meeting the\nstandards issued,                              minimum requirements\nreports accepted                               as described in the\n                                                                                 protocols and with the\n                                                                                 necessary authorization\n                                                                                 for implementation\nOutputs       3.2, 4.1,  PMCIs with          PMCIs and    HMIS          Data quality audit\n5.2        certain capacities  other health\nIntermediate  8.1 and    Services delivered  institutions\noutcomes      9.1        by health\n                                  institutions\nThe verification of the DLIs will be conducted by a verification agent with the necessary level of\nindependence from the project implementers, credibility, and authority to lead the verification process.\nIt has been agreed that the (PMM will be the verification agent. The PMM and PMU will jointly select an\norganization (firm, research center, or other type of institution) to provide necessary technical support\nfor the verification process, based on terms of reference agreed by the World Bank. The PMM will verify\nachievement of DLIs based on the results reported by the MoH, will verify the information obtained from\nthe technical support agency validating or providing commentary on the results reported, and will\ndetermine  the  verified DLI  performance   and  resulting disbursement   amounts.   This verification\narrangement is subject to continual review and may be subject to change if necessary.\nOperational research for  learning about provider- and population-level change. To assess the\nperformance of the system with respect to the cascade of care and provide supplemental information to\nthe Results Framework, three rounds of household surveys will be canvassed (baseline, mid-line and end-\nline) in the catchment areas of the PMCIs that are to be upgraded. The surveys will assess the actual\nprevalence of NCDs and risk factors; the proportion of adults who have been diagnosed, actively followed\nup, and under treatment; and the share of those that have controlled the disease. The panel nature of the\nsurveys will help track progress and do necessary course corrections. The survey will also include modules\non preferences of people for first point of contact and will supplement information on community\nengagement and satisfaction. Other rapid survey approaches aimed at the facility—for example, to\nunderstand  provider  level knowledge   and  competencies—may      also be  deployed.  The  group  of\nimplementers and other experts overseeing this research will use the information for assessing whether\nthe expected provider and population-level change is occurring and to make      recommendations on\nstrategy course corrections, when and as appropriate. Associated expenditures will be financed from\nComponent 2.",
-"notes": "Verification Methods (Page 35)"
-}
-{
-"section": "D. Role of Partners",
-"content": "There is considerable donor commitment to the health sector program in Sri Lanka. Therefore, it is important to ensure that every agency that is active in the Sri Lankan health sector contributes to one common country-led strategy and moves toward harmonizing and aligning its processes and procedures. In this context, the MoH, under the leadership of Director General of Health Services, has established a committee to coordinate the PHC system strengthening support among key DPs. The main external DPs involved in health other than the World Bank are ADB, Japan International Cooperation Agency (JICA), the Global Fund, the European Union, German Agency for International Cooperation (Deutsche Gesellschaft für Internationale Zusammenarbeit), United States Agency for International Development, WHO, United Nations Children's Fund, United Nations Population Fund, International Labour Organization, and World Food Program. The Health Sector Development Partner Forum meet periodically to facilitate joint planning and conduct joint reviews of the sector performance. The Global Fund has provided the resources to establish a World Bank-executed Trust Fund in the amount of about US$1.5 million to provide technical assistance and analytical work in support of PHC reorganization and system strengthening strategy implementation. The World Bank will be able to expand its support to the GoSL and MoH specifically with international good practice and detailed analysis that would further inform the policies, standards, and details of the implementation strategy; facilitate dialogue with and analysis of options for engagement with the private and non-governmental sectors; support knowledge exchange of countries who have positive experience implementing similar reforms; and document Sri Lanka’s positive experience with addressing MCH that was learned by its experience in addressing NCDs. In addition to the World Bank, ADB and WHO will be key partners providing support to PHC policy development and investments requiring a strong and active coordination mechanism. ADB and the GoSL are at an advanced stage of discussion in concluding an agreement in support of the health system development, with a focus on PHC in socioeconomic vulnerable areas in four provinces. The support will include infrastructure and equipment upgrades, technical assistance support focusing on PHC development, and disease surveillance system support. There will be a coordination mechanism at the national level and within the four provinces to ensure that the resources from the different sources of financing are well aligned. WHO has been requested by the MoH to provide support on PHC related policy including (a) a sustainable development framework that identifies priorities in the health sector; (b) essential health care package focusing on management, service delivery, and accountability; and (c) road map for sustainable health financing. The technical expert group referenced in paragraph 71 will also play the role of coordinating the technical assistance among the different DP agencies to ensure that there is no duplication or critical gaps. The Primary Health Care Performance Initiative (PHCPI) is a partnership of the World Bank, the Bill and Melinda Gates Foundation and WHO to catalyze global improvement in PHC through better performance measurement, knowledge sharing, and benchmarking. The development of a national yet internationally comparable scorecard under the above initiative was discussed as a possible tool for assessing the performance of the reorganized PHC system. Once agreed, the indicators in the country specific score card will be updated regularly to monitor the program supported under this reorganization. If GOSL permits, the country scorecard will also be made available on the PHCPI website (https://phcperformanceinitiative.org/). In addition, the PHCPI will continue to share information and",
-"notes": "Content extracted from the section titled 'D. Role of Partners' on page 36."
-}
-{
-"section": "KEY RISKS",
-"content": "A. Overall Risk Rating and Explanation of Key Risks\nThe overall risk of the project is rated Substantial given that there are three project risks that are also rated Substantial by the Systematic Operations Risks-Rating Tool: (a) political and governance, (b) stakeholders, and (c) technical design. Substantial political and governance risk is due to the highly contentious nature of reorganizing the health sector generally and particularly in the Sri Lankan environment. Reforms initiated under the Government can become politicized easily and can be blocked by important and powerful stakeholders. To mitigate the political and governance risk, the team conducted a stakeholder analysis to identify key stakeholders, assess their position and relative influence on adoption and implementation of the proposed PHC reorganization, and develop strategies for coalition building. The TEC appointed by the Minister of Health organized a series of consultation meetings, with participation of representatives from academia, medical administrators, professional organizations, trade unions, private sector, research institutions, civil society, program directors, and middle-level managers at the provincial and district levels. These consultation processes have contributed to building a coalition of support and highlighting potential benefits of contentious areas such as harmonizing the PMCIs, engaging the private sector, and strengthening procurement and supply chain management. The mitigation measure of wide stakeholder consultation and consensus building will be continued through implementation.\nSubstantial stakeholder risk reflects the wide range of stakeholders mentioned earlier and DPs that provide support to the Sri Lanka’s health sector. In addition to the stakeholder consultation outside of the Ministry of Health, concerted effort was made during preparation to consult and align the project with different initiatives and departments under the MoH and different DP support, all in support of PHC system reorganization and strengthening. The GoSL is aware of the need to continue coordinating within the MoH and the different partner support to effectively implement its strategy. The MoH has established an internal coordination mechanism for the PHC reorganization strategy implementation under the authority of the Director General of Health to ensure that the departments under the MoH work together toward a common vision. DPs will be asked to contribute to this committee when and as needed. The MoH’s Department of Planning will also play an active role in harmonizing the different external investments in the health sector more broadly.\nThe nature of the technical risk is based on the ambitious nature of the project and the need to ensure that the MoH receives timely and quality technical support during the implementation of the project. During the project preparation, this risk was mitigated through good technical contributions from national and international experts in the design of the project and making sure that good international experience was adapted to the country context. To mitigate the technical risk during implementation, the World Bank will continue to work with key DPs to provide coordinated and timely technical advice that will fit the Sri Lankan context. The need to enhance institutional technical capacity will be addressed through capacity-building support financed by Component 2 and South-South exchange, which will give implementing health authorities/policy makers opportunities to (a) obtain new knowledge about innovations and standards in people-centered health care, especially for addressing NCDs; (b) enhance",
-"notes": "Original title: KEY RISKS, Page 37"
-}
-{
-"section": "PROJECT ASSESSMENT SUMMARY",
-"content": "A. Project Theory of Change\n\nThe project was designed following several stakeholder consultations that defined the actions and outputs necessary to address the defined challenges and result in improved service delivery. Table 10 is a simplified presentation of that consultation process. As seen in this table, the DLIs represent one or two of the key outputs (seven in total) for each of the defined problems and two of the expected intermediate results.",
-"notes": "Original title: Project Assessment Summary, Page 38"
-}
-{
-"section": "Table 10. Conceptualizing the Change Supported by Project",
-"content": "Challenges                        Indicative Actions                        Outputs                             Behavior Change             Intermediate\n                                                                                                                                                          Outcomes\nPHC as a comprehensive concept      •  National medical institutions,     • Strategy for strengthening and             Providers are expected      •  An increase in the\nand model of service delivery is       colleges, councils, and individual    reorganizing PHC adopted (DLI 1)          to provide more and            number of women\nnot well-defined. Insufficient         experts mobilized to work on       • National and provincial policies           better-quality services        at age 35 and at age\nguidelines available for quality       the policies                          on patient empanelment and risk           because of the following       45 years having had\nNCD care. The result is that the    •  Review of international               stratification adopted (DLI 1)            reasons:                       a cervical cancer\nsystem insufficiently prioritizes      literature and practice            • National and provincial adoption           • Clear indication of          screening test at the\nNCD management.                     •  National and provincial               defining comprehensive PHC, the             national and provincial      network of public\n                                       stakeholder consultations             network of service providers, and           priority which is            health facilities (DLI\n                                    •  Drafts and reviews                    related standards (DLI 1)             routinely monitored          8 and PDO\n                                    •  Operational research to review     •  Clinical protocols adopted and              and measured;                indicator).\n                                       progress and change at the            disseminated for priority NCD             • Provision of all the      •  An increase in the\n                                       facility and the population level     conditions (DLI2)                  and      necessary enabling           percentage of\n                                    •  Routine M&E of progress            •  Baseline, Midline and End-of-      centered conditions to provide        screened adults,\ndisaggregated by\n                                    gender, with high\n                                    risk for NCDs\n                                    registered and\n                                    actively followed up\n                                    at PMCIs (DLI 9 and\nPHC service capabilities            •  Provincial-level health            • Re-training institutions and                 providers who perform     •  PDO indicator).\ninsufficient to provide quality        administrators provide                systems are operational.                    best. Such a system          Delivery of other\nservices and services not              oversight, planning,               • Upgraded and rebranded PMCIs                 currently exists and is      PHC services\nsufficiently patient-friendly,         coordination, monitoring and          meet and maintain all necessary             motivating in the MCH        improved (infectious\ntreatment (especially men) or       •  Medical staff are deployed and        necessary minimum standards, particularly             part of the system;          disease, mental, oral\nhaving to see a private general        retrained to provide the              for NCD, to be able to deliver            • Access to professionally     health detection and\npractitioner and spend OOP.            necessary services.                   comprehensive and quality                   rewarding and career         primary treatment\n                                    •  HFs are open and operational.      services (DLI 3 and PDO Indicator)          enhancing training           as well as\n                                    •  Medical supplies and drugs are        provided.                             opportunities;               emergency\n                                       provided.                             • Basic medical equipment and           • Regular supportive           response).",
-"notes": "Table 10. Conceptualizing the Change Supported by Project"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "•  Contracts/arrangements are made with referral laboratory and pharmacy outlets.\n•  Transportation is arranged for transport of specimens.\n•  Information technology is provided.\n•  An operational appointment system in place\nSystems to coordinate patient care overtime and through the referral network is lacking. This results in the inability to follow up on patients at risk and duplication between providers. ii). Inefficient national procurement and supply chain management system hampers planning and contributes to stock-outs\n•  National medical institutions, colleges and experts mobilized to define standards\n•  Draft and debate on content of personal health record and patient book\n•  Updating and testing of HMIS for PMCIs\n•  Provision of equipment and access to systems\n•  Training in use of the system\n•  Policy-level effort for revising procurement guidelines for health sector goods.\n•  Procurement tracking system established at MSD to measure performance\n•  Improving IT infrastructure at PMCIs\n•  Training of personnel on MSMIS\nPHC system is not responsive to patient needs and patients not sufficiently engaged in detecting and managing NCDs. As a result, there is insufficient demand from patients who need health services\n•  Mobilizing national institutions and experts in defining the community engagement mechanism\n•  Technical support engaged to design online platforms for",
-"notes": "Page 40"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "and patients insufficiently           managing the system and          •  Community Engagement\nengaged in managing their own         interfacing with the public         Mechanism Operational (DLI 7)\nhealth.                            •  Operating the system including   •  Operationalization of ‘friends of\nthe facility’ committees (DLI 7)\n                                      analysis, monitoring and            •  Innovative projects\n                                      reporting on the feedback and    implemented particularly\n                                      response/actions taken              around outreach to vulnerable\ngroups (Component 2)\n                                   •  Training of the operators in the    use of the system                   \n                                   •  Mobilizing experts to support\n                                      the communications strategy\n                                      development\n                                   •  Communications to the public\n                                      about the newly branded PMCIs.",
-"notes": "Content related to project management activities and engagement strategies."
-}
-{
-"section": "B. Economic and Fiscal Analysis",
-"content": "Investing on prevention, screening, and early management of NCDs will help mitigate the upward pressure on Sri Lanka’s health budget and NCD’s adverse effect on household welfare and economic growth. The share of NCDs in aggregate DALYs in Sri Lanka has risen from 52 percent in 1990 to 77 percent in 2016 and the total number of DALYs attributable to NCDs has increased by 40 percent during this period. This trend poses a significant cost to the economy in general and household economic status, in particular. NCD-related disability reduces labor force participation of the working-age population, their productivity and savings, ultimately affecting economic growth. Rising NCDs and the subsequent burden on the health system would result in patients incurring more of the incremental cost of care. Two facts substantiate this claim. First, NCD treatment is in general expensive (requiring emergency care and hospitalization) and recurring in nature. Second, owing to Sri Lanka’s low public health expenditure and the country’s tight fiscal space, the cost of rising prevalence of NCDs will inevitably be borne by patients. This higher OOP payment will have implications on welfare through reducing nonmedical development expenditures and investments (including educational and nutritional spending). The project will improve efficiency in two ways: through the focus on prevention and early detection of NCDs rather than treatment after complications and through encouraging utilization of care at PMCIs that are arguably cheaper than utilization at specialist-level hospitals. Bypassing the PHCs and visiting higher-level facilities for detection and management of chronic NCDs (such as hypertension and diabetes) is inefficient because both labor and capital costs are much higher at this level. The project attempts to change this through incentivizing spending more on primary and secondary prevention of NCDs (through early detection and effective management of NCDs) at lower levels of care. The three disease-specific interventions that are explicitly incentivized by DLIs are also cost-effective as per global evidence drawn from the Disease Control Priorities project (see Horton et al. 2017) and other international studies (for example, Goldie et al. 2005). Reorganizing the PHC system and making it responsive to the needs of the population will benefit the poor more than the better-off. This is because utilization of PMCUs and DH is pro-poor. According to a recent household survey, about 8.8 percent of the bottom 20 percent utilized PMCUs/DH in the month preceding the survey while only 4.3 percent of the top 20 percent did the same. In addition, among the bottom 20 percent monthly visits to PMCUs/DH stands at 19 per 100, much higher than the corresponding figure for the top 20 percent (7.3 visits per 100). As such, Component 1 of the project (US$185 million) would improve equity by promoting healthy lifestyle and facilitating prevention, early detection, and management of NCDs at the level of care that is most accessible to the poor and vulnerable (that is, PMCIs). The strengthening of primary care in Sri Lanka is not expected to create unmanageable budgetary liabilities. There are several salient points to be made here. First, to a significant extent what is required is a redeployment of both supply capacity and demand from the secondary level to the primary.",
-"notes": "Original title: B. Economic and Fiscal Analysis, Page 42"
-}
-{
-"section": "Primary Health Care System Strengthening Project",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project   (P163721)\n      level, to free up space at the higher level for more complex services (and in anticipation of the increased\n      demand at all levels by a rapidly aging population). To the extent this occurs, the aggregate budget would\n      not be affected. Second, one of the goals of PHC strengthening is precisely to enhance efficiency, by\n      reorienting care toward lower (and therefore less costly) levels of the system. Third, about half of health\n      spending is on human resources, and because the capacity of the medical education system imposes a\n      constraint on the inflow of new medical professionals to the health system, there is a natural brake on\n      the rate of increase in the system’s largest single cost item. Of course, the question of human resource\n      availability may raise other concerns, but from the narrow budget sustainability perspective it should be\n      reassuring. Fourth, because the prevailing method of paying providers is input-based (line item budgets\n      and salaries), increases in demand for care do not automatically result in higher spending, as would be\n      the case if output-based funding such as fee-for-service was the norm (as in many other countries). To be\n      sure, Sri Lanka’s health system will require a significantly larger budget over the medium to long term, not\n      only to address the more advanced health care needs of an aging population but also to address systemic\n      issues such as low salaries/compensation of medical professionals. However significant increases in the\n      health budget are currently constrained by the overall fiscal environment (particularly low tax revenues)\n      and the budget share allocated to health in Sri Lanka (about 10   - 12 percent) is not far from regional\n      comparator norms. In summary, the factors noted here suggest that strengthening PHC facilities will not\n      impose an undue burden on the budget. To illustrate this, various costing scenarios were conducted\n      during project preparation.\n              The estimated incremental cost of the PHC strengthening strategy is a small fraction of the\n      MoH’s budget, making it feasible to be embraced in the ministry’s regular budget, especially given\n      prospects of economic growth.³² Strengthening the PHC system involves maintaining minimum standards\n      in human resources, equipment, drugs, and involves costs of staff training and maintaining personal\n      health records. To analyze the budgetary and fiscal implications of the proposed strategy, a macro-level\n      incremental cost of the major cost components is estimated under different scenarios.³³ These cost\n      components include human resource, medical supplies/drugs, equipment, training costs, and medical\n      records. Given that the largest share (77 percent in 2016) of Sri Lanka’s provincial health budget relates\n      to personal emoluments (salary, wages, overtime pay and allowances), costing these components of the\n      budget would give a clear picture of the budgetary implications of the project.³⁴ Two scenarios (low and\n      high) and three alternative phase-out plans (proposed, slower, and faster) are considered. Under the\n      proposed phase-out plan, estimated additional cost of the high scenario ranges between US$3.8 million\n      in 2019 when 50 PMCIs are upgraded and US$47.8 million in 2023 when 550 PMCIs are upgraded (Table\n      11). To put these figures  in context, they translate to 0.32 percent and 3.16 percent of the central\n      ministry’s estimated budget and 0.004 percent and 0.03 percent of the country’s projected GDP in the\n      respective years. The health budget does typically increase in real terms every year, mainly due to\n      economic growth (IMF projects a 5 percent annual growth in real GDP between 2017 and 2020). If this\n      increase is prioritized toward primary care facilities it should be possible to absorb the recurrent costs\n      that remain after the project ends. Although Sri Lanka’s fiscal position is   currently affected by low\n      revenues that  limit critical health spending, an ongoing IMF program aims at fiscal consolidation by\n      32 The MoH’s budget is here after referred to the central Ministry’s budget to distinguish it from the Provincial health spending\n      which is budgeted and executed directly by the Provincial Departments of Health Services under the authority of the Provincial\n      Councils and reported through the MPCLGS.\n      33 Micro costing of the whole Government PHC strengthening strategy is yet to be estimated.\n      34 This is in large part because drugs are procured centrally and distributed through the Regional MSDs. But, even at the central\n      ministry level, about half of health spending is on human resources.",
-"notes": "Original title: Primary Health Care System Strengthening Project"
-}
-{
-"section": "Estimated Incremental Cost under the Proposed Phase-Out Plan",
-"content": "Table 11. Estimated Incremental Cost under the Proposed Phase-Out Plan (LKR millions)\n\n                                                  2019        2020        2021        2022        2023\n       Currently proposed phase-out                 50.00      150.00      350.00      550.00      550.00\n       Human resource\n       Low scenario                                130.80      392.40      915.60    1,438.79    1,438.79\n       High scenario                               207.61      622.84    1,453.29    2,283.74    2,283.74\n       Medical supplies/drugs\n       Low scenario                                165.41      525.12    1,296.55    2,137.92    2,238.40\n       High scenario                               330.82    1,050.23    2,593.10    4,275.84    4,476.80\n       Equipment cost\n       Low scenario                                 12.12       36.36      101.82      176.09      192.19\n       High scenario                                24.24       72.73      203.63      352.19      384.38\n       Training cost (Initial)                       2.12        4.25        8.50        8.50        0.00\n       Health records                               19.97       59.90      139.77      219.64      219.64\n       Total (low scenario)                        330.42    1,018.03    2,462.23    3,980.94    4,089.03\n       Total (high scenario)                       584.77    1,809.95    4,398.29    7,139.90    7,364.57\n       Total (low scenario) US$, millions            2.14        6.60       15.96       25.81       26.51\n       Total (high scenario) US$, millions           3.79       11.73       28.52       46.29       47.75\n       High scenario as % of central ministry        0.32        0.95        2.11        3.23        3.16\n       budget\n       High scenario as % of GDP                     0.004       0.010       0.022       0.032       0.030",
-"notes": "Table of costs related to the proposed phase-out plan on page 44"
-}
-{
-"section": "Lessons Learned and Reflected in Project Design",
-"content": "The project design considers key lessons learned from the global experience with addressing NCDs through primary care. First, after tobacco cessation (an agenda on which Sri Lanka has long been ahead of the curve), the outpatient management of cardiovascular risk factors such as hypertension and diabetes has been the single most effective intervention to reduce mortality due to NCDs in advanced health systems, accounting for up to 25 percent of longevity gains over several decades. In other words, hospital-based care has played a much smaller role in overall health improvement than is commonly thought. This has motivated the choice of strengthening PHC to address the growing NCD burden of the Sri Lankan population. Moreover, significant progress in improving cardiovascular risk factors and other cost-effective NCD control measures has been achieved in advanced health systems with widely varying institutional designs for primary care payment and organization. This points to the importance of providing the right clinical interventions in the right setting to achieve impact rather than focusing exclusively on macro-level institutional reform initiatives. The project promotes these interventions through several DLIs such as identifying the population most at risk through empanelment and stratification based on common NCD risk factors, identifying up front design of evidence based on clinical protocols and ensuring that staff trained in those clinical protocols are providing the service, ensuring availability of the necessary medicines and tests for appropriate outpatient treatment, and focusing on the demonstrating the improved results for the selected health conditions.\n\nThe project design also considers lessons from the ongoing Sri Lanka SHSDP that was implemented through the same lending instrument. The SHSDP, which is closing as planned in September 2018, is projected to fully meet its development objective and to fully disburse. The SHSDP was the first experience by the Sri Lankan Ministry of Health, and indeed the entire World Bank portfolio in Sri Lanka, of using DLIs to benchmark progress of the sector and to release funds using country systems. Having implemented the SHSDP, there were many positive lessons as well as lessons for what can be done differently now that Sri Lankan stakeholders have experience with this instrument. First, the project will now take a more focused approach of supporting the MoH to implement a specific strategy to reorganize and strengthen PHC. The SHSDP supported the Government’s larger health sector development program more broadly and, therefore, the results were more diffuse. Second, while the MoH was largely able to achieve the results and disbursements to the treasury occurred, the MoH and provinces were not able to fully use the additional resources generated by the results achievement—that were then included in the MoH and MPCLGS budgets—due to not completing planned capital investments and incurring the related expenditures. This was especially true at the beginning of the project when plans were not yet fully developed. The project considers this while working with the MoH and provinces to fully develop their implementation plans from the start, to increase the value of funds that will be available over time rather than planning to have the same disbursement each year and increasing the funds available to the provinces rather than the MoH where there is more need and, therefore, greater absorption capacity. Third, the DLIs are structured in such a way as to allow for scalable results and results that are not time-bound to a specific year. The project considers good practice from the use of DLIs in other countries and will provide incentive to achieve more results faster which was not available under the SHSDP.",
-"notes": "Original title: D. Lessons Learned and Reflected in Project Design, Page 45"
-}
-{
-"section": "E. Sustainability",
-"content": "The project’s sustainability will be enhanced by several factors. First, there is a clear political leadership and Government ownership for reorganizing the PHC system as evidenced by the position paper titled ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’. As noted in the ‘Sectoral and Institutional Context’ section, it was at the request of the Honorable Minister that the TEC produced this position paper. In addition, the Government’s current National Health Policy 2016–2025, its five-year national health master plan, and Sri Lanka’s Vision 2025 highlight the importance of reorganizing the primary-level curative institutions (DH and PMCIs). These high-level commitments are crucial for the sustainability of the project.\n\nSecond, the sustainability of the project is enhanced by the thorough consultative process followed in the preparation of the envisaged people-centered PHC system. The MoH conducted a series of stakeholder consultations with a wide array of stakeholders and experts including academia, the Government, civil society, private sector, and unions. This process contributed to building a coalition of support for the proposed PHC reorganization to be supported by the project. The MoH has established a coordination mechanism to harmonize planned technical and investment support to the PHC system strengthening.\n\nThird, by using the country’s own systems and processes rather than introducing parallel mechanisms, the project enhances the likelihood of sustaining the changes made to the PHC system. The project uses the GoSL’s existing structures for implementation and budget allocation. The project will rely on the MoH for standard setting and updating of protocols and on provinces for implementation. Fund flows from the treasury through the MPCLGS, following the existing structure.\n\nFourth, the project’s focus on building capacities and systems further enhance the sustainability of the interventions under this project. Through DLIs the project incentivizes the establishment of standards, protocols, and systems, including better information management that facilitates evidence-based decision making. By supporting systems for citizen engagement and feedback, establishing personalized health records (to all citizens in a phased manner) and patient information sharing across providers of care, the fruits of the project can be sustained beyond the project’s horizon. In addition, technical and institutional capacity-building support will be provided through Component 2.\n\nFifth, macroeconomic developments and the nature of the project suggest that the risks of financial unsustainability are minimal. First, with IMF-projected annual real GDP growth of 5 percent from 2017 to 2020, Sri Lanka’s economic outlook is promising, increasing the probability of embracing the additional cost in the regular Government health budget. Second, an ongoing economic reform program under the IMF is aiming at fiscal consolidation that will increase tax revenue for higher health budget allocation. Third, the successful prevention and management of NCDs at PMCIs would save resources that would otherwise be spent in providing specialist care at tertiary level. Fourth, some of the additional resource required for strengthening the PHC system (such as human resources) merely reflect redistribution from higher levels of care within the health system.",
-"notes": "Original title: E. Sustainability, Page 46"
-}
-{
-"section": "F. Fiduciary Assessment",
-"content": "The FM team of the World Bank, together with the procurement team, conducted a joint fiduciary review of the health sector with the primary objective of updating the functioning of country systems and identifying current opportunities for greater use of country systems for the project. The fiduciary assessments are based on the boundary of the total project costs as described in paragraph 52 and fiduciary arrangements are based on the project description.\nFM assessment. The proposed overall FM procedures and practices for the project are satisfactory to meet GoSL’s and the World Bank’s fiduciary requirements as per OP 10.00. Given the MoH’s and the MPCLGS’s experience with sector-wide projects and DLI-based IPFs, in implementing prior health sector operations, the project is given a ‘Moderate’ FM risk rating. The GoSL’s financial regulations and applicable circulars will be used as the basis for exercising appropriate controls over program activities and transactions. The regulations will be supplemented by project-specific fiduciary management operating guidelines, which will include a detailed description of the funds flow and operations procedures based on results, agreed guidelines for different project components (that is, innovation grant mechanism and training plan), the initial 18-month procurement plan, the project preparation strategy document, disbursement, and other FM arrangements, and capacity development of the fiduciary staff. There are no outstanding audit reports or ineligible expenditures under the MoH and MPCLGS.\nProcurement assessment. Due to the nature of the project design and financing instrument (IPF with DLIs), the bulk of the disbursement will be through EEP consisting of non-procurable items. However, the procurements within the project boundary, even though not financed by the World Bank, could have an impact on the World Bank’s program, and therefore the MoH procurement was assessed as well. The ministry has previous experience of implementing procurement under World Bank financing. Additionally, the GoSL has well-established procurement guidelines, manuals and procedures, and standard procurement documents that provide a robust framework for the implementation of procurement. Nevertheless, delays are encountered in the execution of procurement owing mainly due the multiple layers of decision making and a general trend of elevating decisions to senior levels of management within the ministry even when not required. This risk will in part be mitigated through the project support toward increasing the efficiency of the MoH procurement supply chain for medical supplies. Due attention will need to be paid to non-World Bank financed contracts to the extent that these impinge on the smooth execution of the project. The ministry has identified a Procurement Specialist who will be dedicated to procuring the contracts to be financed with the World Bank funds and will also need to follow the progress of key non-World Bank-financed activities under the program. The program staff will be trained on the use of the World Bank’s Procurement Regulations as well as on the STEP system. Procurement of World Bank-financed contracts is not complex and comprises minor office renovation, office furniture, ICT equipment, printing equipment; two vehicles; legal services; social/citizen engagement/environment consultants; local consultants and consulting firms for project readiness; media production, airtime, and printing; and a firm to support the PMM in the verification of results. A PPSD has been prepared and no major market risks are envisaged.",
-"notes": ""
-},
-{
-"section": "G. Social (including Safeguards)",
-"content": "The project does not trigger any World Bank social safeguard policies. The project will not support infrastructure development and will not finance land acquisition. The expected social",
-"notes": ""
-}
-{
-"section": "Development Outcome",
-"content": "The development outcome of the project is deemed to be substantial with positive social impacts across the population. These positive impacts will be enhanced by the project’s focus on promoting equity, social inclusion, and contributing to poverty reduction goals of the country. The equity impacts of the project will be assessed through data on health outcomes disaggregated by geographical area and socioeconomic groups whenever possible. The project will address regional inequalities associated with health outcomes and develop quality health services in the conflict-affected and disadvantaged areas and for vulnerable groups. Further, the project is expected to address (a) social protection aspects through health development interventions, (b) quality of care, particularly for the poorer and more rural population accessing public health services, and (c) gender-specific issues as they relate to health care.",
-"notes": "Original title: Development Outcome"
-},
-{
-"section": "Gender",
-"content": "Gender. The project directly addresses key gender-related issues in PHC that have been identified as priorities and these have been reflected in DLIs. For instance, DLI 8 focuses on cervical cancer, the second most common cancer among women in Sri Lanka. About 9.6 (18.8) percent of cancer related deaths among women is due to cervical cancer (breast cancer). A considerable proportion of cancer cases are diagnosed and treated in advanced stages of the disease, resulting in poor survival and high mortality rates. In 2014 alone, cancer-related deaths among women was 7,200, slightly higher than the corresponding figure for men (6,800). The project will contribute to sensitizing and empowering women for preventive cervical cancer screening which will also test for breast and thyroid cancers. This will be done through targeted communication campaigns, which are essential to achieve DLI 8. In the case of cardiovascular diseases (CVDs), they affect men significantly more than women. The age-standardized death rate has been estimated by the WHO at 350 per 10,000 for men and 200 per 10,000 for women. In addition, there is a significant gender gap in longevity, with men living about eight years shorter than women. Furthermore, men are less likely to access PHC facilities due to stigma, in addition to service providers not being trained adequately to respond to men’s health needs. Therefore, DLI 9 focuses on screening and management of high-risk NCD patients, including CVDs, and it will be reported disaggregated by men and women. In addition, the project will track utilization of services by men and women with disaggregated data whenever possible. It is also worth noting that the project will support communication campaigns to encourage men to access PHC facilities while making the facilities more attractive and convenient particularly for men. The communication campaign is an essential strategy to increase the number of adult men identified as high-risk for NCDs (DLI 9). Finally, as part of the PHC service package, the project provides an opportunity for gender-based violence screening and training of PMCI staff to properly refer patients to reputable psychosocial, health, and legal services. The curriculum for staff training will include a separate module to sensitize and develop the skills of staff on identifying and managing people who faced gender-based violence.",
-"notes": "Original title: Gender"
-},
-{
-"section": "Citizen Engagement",
-"content": "Citizen engagement. The project supports active citizen engagement, starting from the design of the project and through implementation. The project was prepared through an extensive consultation process with the participation of stakeholders, including representatives from the MoF, MoH authorities (Secretary, Director General, Directors, Hospital Directors, Regional Health Directors, and PHC staff), the private sector, general practitioners, representatives from academia and professional organizations, unions, civil society organizations, and so on. In total, more than 200 people were consulted through a process that lasted for six weeks. The report ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’ which was prepared based on the consultations lays down a shared vision and aspiration of these varied stakeholders. As described, the project will support the implementation of key thematic areas highlighted in the report. The project has a specific DLI (DLI 7) to strengthen the engagement between the health sector, PHC providers and the citizens. DLI 7 will support.",
-"notes": "Original title: Citizen Engagement"
-}
-[
-{
-"section": "Civic Engagement",
-"content": "the development and endorsement of civic engagement guidelines at both the national and provincial level and the implementation of at least two primary mechanisms for strengthening the engagement and feedback mechanisms. First, the project will support the establishment of a health sector GRM for both receiving and responding to feedback from individual citizens, including grievances about service availability and where services do not meet the expected standards. The project will support the design of the system, development, operation, and reporting at both the national and provincial levels. Annual reports—generally reporting to the public on the feedback received and actions taken—will be made public by the end of the project. Second, the project will support strengthening the of the connection between the PHC facility and the community that they serve. ‘Friends of the Facility’ committees, connected with each PMCI, will be established and engaged to both help the facility to reach out to difficult target groups in the community and to bring feedback from the community to the facility on its responsiveness to the community needs. Finally, Sri Lanka has adopted a new access to information policy, in effect since February 4, 2017. This policy mandates all public entities to proactively disclose information on service standards, human and financial resources, decision-making processes, laws and regulations. The act further requires the MoH, its related institutions, and provincial-level health authorities to respond to citizen's request for information within 48 hours in case of a medical emergency. This implies the setup of effective and empowered information officers, information management systems and training and capacity building across the sector. Genuine access to information is also a prerequisite for meaningful citizen engagement, a national commitment under the Open Government Plan, and a corporate commitment of the World Bank. The project will support the implementation of this new policy at the central and provincial levels.",
-"notes": "Civic Engagement Guidelines and Mechanisms"
-},
-{
-"section": "Environment (including Safeguards)",
-"content": "The project is categorized as Environmental Category C and will not trigger any specific environmental safeguard policies. None of the project components will finance physical investments, such as the construction of new infrastructure and/or the rehabilitation of existing infrastructure. Project activities will mainly support soft interventions aimed at systemic improvements to health service delivery. No major environmental impacts are attributed to any of the project interventions and thus further environmental assessment will not be warranted. Climate and disaster risk screening. The project was screened for climate and disaster risk using the World Bank Climate and Disaster Risk Screening Tool which helps to consider short- and long-term climate and disaster risks. Emerging evidence from various sources and the experience over the past decade shows that Sri Lanka is highly vulnerable to the adverse effects of climate change. The most frequent disaster events in Sri Lanka are floods, droughts, landslides, storm surge, and cyclones. Sri Lanka is also vulnerable to high-impact, low-frequency events such as the 2004 Indian Ocean tsunami. Recent natural disasters in Sri Lanka led to significant economic, fiscal, and social impact. The floods and landslides of May 2016 and May 2017 cumulatively caused damages amounting to more than US$1.1 billion and killed more than 300 people. In addition, these two events damaged approximately 130,000 houses. The drought that prevailed over 2016 and 2017 affected approximately 2 million people and caused significant economic losses and livelihood impacts. However, the risk to the outcome/service delivery of the project is considered Low. The rating is justified because of the following reasons: (a) direct financing of civil works is not envisaged, as the project focuses on improving the quality of PHC system and the funds will be disbursed against DLIs; (b) despite natural disasters, Sri Lanka’s health system has been resilient and continued delivering health services as demonstrated by its remarkable PHC indicators.",
-"notes": "Environmental Safeguards and Climate Risk Screening"
-}
-]
-{
-"section": "World Bank Grievance Redress",
-"content": "Communities and individuals who believe that they are adversely affected by a World Bank (WB) supported project may submit complaints to existing project-level grievance redress mechanisms",
-"notes": "Original title: World Bank Grievance Redress, Page 50"
-}
-{
-"section": "Grievance Redress Service",
-"content": "The GRS ensures that complaints received are promptly reviewed to address project-related concerns. Project affected communities and individuals may submit their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be submitted at any time after concerns have been brought directly to the World Bank's attention, and Bank Management has been given an opportunity to respond. For information on how to submit complaints to the World Bank’s corporate Grievance Redress Service (GRS), please visit http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. For information on how to submit complaints to the World Bank Inspection Panel, please visit www.inspectionpanel.org.",
-"notes": "Original title: Grievance Redress Service, Page 51"
-}
-{
-"section": "VII. RESULTS FRAMEWORK AND MONITORING",
-"content": "Results Framework\nProject Development Objective(s)\nThe project development objective is to increase the utilization and quality of primary health care services, with an emphasis on detection and management of non-communicable diseases in high-risk population groups, in selected areas of the country.\n  RESULT_FRAME_T BL_ PD O\n  PDO Indicators by Objectives / Outcomes                             DLI  CRI  Unit of  Baseline                              End Target\n                                                                                Measure\n Increase utlization of PHC services, particularly prevention/management of NCDs in high-risk groups\n Number of women at age 35 and at age 45 years who are screened       DLI 8  Number     107,551.00                             213,000.00\n for cervical cancer at a network of public health facilities (DLI 8)\n Percentage of screened adults with high risk for non-communicable\n diseases who are registered and actively followed-up at primary      DLI 9  Percentage 0.00                                   25.00\n medical care institutions (DLI 9)\n Male                                                                        Percentage 0.00                                   25.00\n Female                                                                      Percentage 0.00                                   25.00\n Increase in the quality of PHC services, in selected areas of the country\n The number of primary medical care institutions that have the\n required capabilities for providing comprehensive and quality care.  DLI 3  Number     0.00                                   550.00\n (DLI 3)",
-"notes": "Results Framework and Monitoring on Page 52"
-}
-{
-"section": "Intermediate Results Indicators by Components",
-"content": "DLI   CRI  Unit of     Baseline                                  End Target\nImplementation of the PHC System Reorganization and Strengthening Strategies\nMoH and Provinces endorse policies and standards for reorganizing  DLI 1      Text       Policies and standards sufficient to guide  package of circulars and guidelines\nPHC (DLI 1)                                                                              PHC Reorganization do not exist             necessary for PHC model\n                                                                                                                                     implementation\nMoH adopts and updates clinical protocols for selected health      DLI 2      Text       No clinical protocols targeted for the      Package of protocols adopted for\nconditions (DLI 2)                                                                       PHC level exist for the defined tracer      defined selected health conditions\n                                                                                         conditions\nNumber of annual progress reviews on MoH Action Plan, including               Number     0.00                                        3.00\nProject Results Indicators at the central MoH\nNumber of patient-friendly services provided on the basis of 4 types DLI 4    Number     0.00                                        550.00\nof services at the PMCIs (DLI 4)\nPercentage of Medical Officers (both Medical Officers of Health in\nthe Public Health stream and Medical Officers at PMCIs) trained on            Percentage 0.00                                        70.00\nessential service package on NCDs\nPercentage of PMCIs with transport facilities for dispatching the             Percentage 0.00                                        55.00\nsamples for investigations to apex laboratories\nPercentage of PMCIs with capability for primary detection and                 Percentage 0.00                                        55.00\nmanagement of dengue\nPercentage of PMCIs providing a standard primary oral health care             Percentage 0.00                                        55.00\npackage\nPercentages of PMCIs with basic emergency care facilities                     Percentage 10.00                                       50.00\nPercentage of Medical Officer of Health areas offering mental health          Percentage 0.00                                        35.00",
-"notes": "Page 53 of 96"
-}
-{
-"section": "Performance Indicators",
-"content": "Percentage of PMCIs with capability for TB screening and referral             Percentage 0.00                                      45.00\nPercentage of Medical Officer of Health areas with at least one\nPMCI providing routine nutrition counseling services, particularly for        Percentage 0.00                                      35.00\nidentified high-risk population, by qualified nutritionist\nPercentage of public sector schools implementing health promoting             Percentage 31.00                                     45.00\nprograms (health promoting schools)\nPercentage of food business operators inspected and classified as             Percentage 51.00                                     75.00\nsatisfactory according to the healthy food standard\nNumber of PMCIs that use personal health records to coordinate    DLI 5       Number      0.00                                     550.00\npatient care over time and through the referral chain (DLI 5)\nNumber of PMCIs connected to and using the Medical Supplies       DLI 6       Number      0.00                                     550.00\nManagement Information System (DLR 6.1)\nPercentage of annual procurement by MSD that is less than or equal            Percentage 50.00                                     70.00\nto defined performance benchmarks (DLR 6.3)\nThe use of the urgent procurement procedure as a percent of total\nmedical supplies procurement that is reduced from the established             Percentage 0.00                                      40.00\nbaseline (DLR 6.5)\nCommunity Engagement Mechanism for health sector operational,                             There is no operational community        An operational community\nincluding grievance redressal mechanism (DLI 7)                   DLI 7       Text        engagement and grievance redressal       engagement and citizen feedback\n                                                                                          mechanism                                mechanism in place, especially for\n                                                                                                                                   users of PMCIs.\nNumber of PMCIs with active community engagement committees                   Number      0.00                                     550.00\n(DLR 7.5)\nAdequate and timely release of treasury funds requested to health             Percentage 75.00                                     85.00\nsector program",
-"notes": "Extracted from the performance indicators section on page 54"
-}
-{
-"section": "Monitoring & Evaluation Plan: PDO Indicators",
-"content": "Indicator Name                                   Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of\n                                                  public health facilities (DLI 8)\n                                                  The actual number of women at age 35 and at age 45 who are screened at any public health facility, in\neach calendar year. The baseline was established for the calendar year 2017, but only for those aged 35\n                                                  as the information system of the program did not capture the mandate for age 45 cohort since this was\n                                                  being added as a new addition to the program.\nFrequency                                        Annually\nData Source                                      Administrative Data\nMethodology for Data Collection                  Compiling routinely reported administrative data\nResponsibility for Data Collection               MoH / Family Health Bureau",
-"notes": "Original title: Monitoring & Evaluation Plan: PDO Indicators, Page 55"
-}
-{
-"section": "Indicator Definition",
-"content": "Indicator Name                                   Percentage of screened adults with high risk for non-communicable diseases who are registered and\n                                                 actively followed-up at primary medical care institutions (DLI 9)\n                                                 The denominator for this indicator is the total number of adults in selected communities who are\nDefinition/Description                           screened and found to be high risk. The numerator is the number of these adults who are registered and\n                                                 followed up within the last 3 months of the reporting period. A minimum number of adults screened per\n                                                 year is set at 750 per PMCI meeting the required capabilities.\nFrequency                                        Annually\nData Source                                      Administrative data\nMethodology for Data Collection                  Compiling routinely reported administrative data\nResponsibility for Data Collection               MoH / DDG NCD",
-"notes": "Original title: Indicator Name and Definition/Description, Page 56"
-}
-{
-"section": "Indicator Name",
-"content": "Male\nThe denominator for this indicator is the total number of adult men in selected communities who are screened and found to be high risk. The numerator is the number of these adult men who are registered and followed up within the last 3 months of the reporting period. A minimum number of adult men screened per year is set at 375 per PMCI meeting the required capabilities.\nFrequency\nAnnually\nData Source\nAdministrative data\nMethodology for Data Collection\nCompiling routinely reported administrative data\nResponsibility for Data Collection\nMoH / DDG NCD",
-"notes": "Original title: Indicator Name, Page 57"
-}
-{
-"section": "Indicator Name",
-"content": "Female\nThe denominator for this indicator is the total number of adult women in selected communities who are screened and found to be high risk. The numerator is the number of these adult women who are registered and followed up within the last 3 months of the reporting period. A minimum number of adult women screened per year is set at 375 per PMCI meeting the required capabilities.\nFrequency\nAnnually\nData Source\nAdministrative data\nMethodology for Data Collection\nCompiling routinely reported administrative data\nResponsibility for Data Collection\nMoH / DDG NCD",
-"notes": "Original title: Indicator Name, Page 58"
-}
-{
-"section": "Indicator Name",
-"content": "The number of primary medical care institutions that have the required capabilities for providing comprehensive and quality care. (DLI 3)\nThis indicator refers to the number of PMCIs that fulfill the following five minimum requirements:",
-"notes": "Original title: Indicator Name, Page 59"
-},
-{
-"section": "Definition/Description",
-"content": "screening at least 25% of the adult population (aged 35 or over) in its defined empanelment area, having minimum number of staff with the appropriate training, having minimum operational equipment, availability of essential drugs and lab test capacity and having quarterly supportive supervision visits.",
-"notes": "Original title: Definition/Description, Page 59"
-},
-{
-"section": "Frequency",
-"content": "Annually",
-"notes": "Original title: Frequency, Page 59"
-},
-{
-"section": "Data Source",
-"content": "Reported by PMCIs through Provinces to MoH",
-"notes": "Original title: Data Source, Page 59"
-},
-{
-"section": "Methodology for Data Collection",
-"content": "A checklist will be prepared and routinely reported on by the PMCIs through the provinces",
-"notes": "Original title: Methodology for Data Collection, Page 59"
-},
-{
-"section": "Responsibility for Data Collection",
-"content": "MoH / DDGMS11",
-"notes": "Original title: Responsibility for Data Collection, Page 59"
-}
-{
-"section": "Monitoring & Evaluation Plan: Intermediate Results Indicators",
-"content": "Indicator Name                                  MoH and Provinces endorse policies and standards for reorganizing PHC (DLI 1)\nDefinition/Description\nFrequency                                       Once when completed.\nData Source                                     Project Monitoring System\nMethodology for Data Collection                 Review of minutes of relevant meetings\nResponsibility for Data Collection              MoH and MPCLGS.\nIndicator Name                                  MoH adopts and updates clinical protocols for selected health conditions (DLI 2)\nDefinition/Description\nFrequency                                       There is no specific reporting period for the DLRs.\nData Source                                     MoH\nMethodology for Data Collection                 Review minutes of relevant meetings\nResponsibility for Data Collection              MoH / Family Health Bureau and DDG NCD",
-"notes": "Original title: Monitoring & Evaluation Plan: Intermediate Results Indicators, Page 60"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Number of annual progress reviews on MoH Action Plan, including Project Results Indicators at the\n                                                 central MoH\nDefinition/Description\nFrequency                                        Annually\nData Source                                      Reports / minutes of the review meeting\nMethodology for Data Collection                  Assess minutes of the review meetings\nResponsibility for Data Collection               MoH / Director Planning\nIndicator Name                                   Number of patient-friendly services provided on the basis of 4 types of services at the PMCIs (DLI 4)\n                                                 The enhanced services include: routinely providing defined list of NCD drugs through at least one-month\nDefinition/Description                           supply blister packs; having arrangements for laboratory network at the PMCIs, having arrangements\n                                                 with pharmacy services and having an operational appointment system.\nFrequency                                        Annually\nData Source                                      Reported by PMCIs through Provinces to MoH and MPCLGS\nMethodology for Data Collection                  A checklist will be prepared and routinely reported on by the PMCIs through the provinces\nResponsibility for Data Collection               MoH and MPCLGS",
-"notes": "Original title: Indicator Information, Page 61"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Percentage of Medical Officers (both Medical Officers of Health in the Public Health stream and Medical\n                                                 Officers at PMCIs) trained on essential service package on NCDs\nDefinition/Description                           The denominator for this indicator at baseline is 2664. The percentage reported annually will be a\n                                                 cumulative value.\nFrequency                                        Annually\nData Source                                      Annual report produced at DDG NCD\nMethodology for Data Collection                  Compiling administrative data\nResponsibility for Data Collection               MoH / DDG Training\nIndicator Name                                   Percentage of PMCIs with transport facilities for dispatching the samples for investigations to apex\n                                                 laboratories\nDefinition/Description                           The denominator will change annually and be the PMCIs who do not have in-house capability of doing\n                                                 essential diagnostic tests.\nFrequency                                        Annually\nData Source                                      Data base at DDG LS\nMethodology for Data Collection                  Compiling administrative data\nResponsibility for Data Collection               MoH / Director Laboratory Services",
-"notes": "Original title: Indicator Information, Page 62"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Percentage of PMCIs with capability for primary detection and management of dengue\nDefinition/Description\nFrequency                                        Annually\nData Source                                      Annual report by Dengue Control Programme\nMethodology for Data Collection                  Examination of annual report by the Dengue Control Programme\nResponsibility for Data Collection               MoH / Director Dengue Control Programme\nIndicator Name                                   Percentage of PMCIs providing a standard primary oral health care package\nDefinition/Description\nFrequency                                        Annually\nData Source                                      Database at Director Dental Services\nMethodology for Data Collection                  Compiling routinely reported administrative data\nResponsibility for Data Collection               MoH / Director Dental Care Services",
-"notes": "Original title: Not specified, Page 63"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                  Percentages of PMCIs with basic emergency care facilities\nDefinition/Description\nFrequency                                       Annually\nData Source                                     Database at DDG MS1\nMethodology for Data Collection                 Compiling routinely reported administrative data\nResponsibility for Data Collection              MoH / DDG MS 11\nIndicator Name                                  Percentage of Medical Officer of Health areas offering mental health services in at least one PMCI\nDefinition/Description                          The denominator will be the total number of Medical Officers of Health (MOH) areas in the country\n                                                which in the baseline year is 342.\nFrequency                                       Annual\nData Source                                     Annual report produced at DDG NCD\nMethodology for Data Collection                 Examination of annual report by DDG NCD\nResponsibility for Data Collection              MoH / Mental Health Unit",
-"notes": "Original title: Indicator Information, Page 64"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Percentage of PMCIs with capability for TB screening and referral\nDefinition/Description\nFrequency                                        Annually\nData Source                                      Database at TB Control Programme\nMethodology for Data Collection                  Examination of database at TB Control Programme\nResponsibility for Data Collection               MoH / Director TB Control Programme\nIndicator Name                                   Percentage of Medical Officer of Health areas with at least one PMCI providing routine nutrition\n                                                 counseling services, particularly for identified high-risk population, by qualified nutritionist\nDefinition/Description\nFrequency                                        Annually\nData Source                                      Database at Director Nutrition\nMethodology for Data Collection                  Examination of database at Director Nutrition\nResponsibility for Data Collection               MoH / Director Nutrition",
-"notes": "Original title: Not specified; Page 65 of 96"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Percentage of public sector schools implementing health promoting programs (health promoting\n                                                 schools)\nDefinition/Description\nFrequency                                        Annually\nData Source                                      Annual Family Health Report / School health returns\nMethodology for Data Collection                  Examination of the Annual Family Health Report\nResponsibility for Data Collection               MoH / Health Promotion Bureau\nIndicator Name                                   Percentage of food business operators inspected and classified as satisfactory according to the healthy\n                                                 food standard\nDefinition/Description                           The denominator would be the total number of food business operators in Sri Lanka, which at baseline is\n                                                 9850.\nFrequency                                        Annually\nData Source                                      Database at Director E & OH\nMethodology for Data Collection                  Examination of database at Director E & OH\nResponsibility for Data Collection               MoH / Director E & OH",
-"notes": "Original title: Not specified; Page 66"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                  Number of PMCIs that use personal health records to coordinate patient care over time and through the\n                                                referral chain (DLI 5)\nDefinition/Description                          This indicator refers to the unique identification of each patient and would initially be paper based.\nFrequency                                       Annually\nData Source                                     PMCIs through Provinces to MoH.\nMethodology for Data Collection                 A checklist will be prepared and routinely reported on by the PMCIs through the provinces\nResponsibility for Data Collection              MoH / Director PCS and when automated, Director Information\nIndicator Name                                  Number of PMCIs connected to and using the Medical Supplies Management Information System (DLR\n                                                6.1)\nDefinition/Description\nFrequency                                       Annually\nData Source                                     PMCIs through Provinces to MoH\nMethodology for Data Collection                 A checklist will be prepared and routinely reported on by the PMCIs through the provinces\nResponsibility for Data Collection              MoH / MSD",
-"notes": "Content related to indicators and data collection"
-}
-{
-"section": "Indicator Name",
-"content": "Percentage of annual procurement by MSD that is less than or equal to defined performance benchmarks (DLR 6.3)\nThis will be calculated for a defined set of tracer NCD drugs. The lead time for standard procurement (from receipt of procurement request to confirmed order being placed) will be compared to performance benchmarks in the new procurement guideline.",
-"notes": "Original title: Indicator Name, Page 68"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   The use of the urgent procurement procedure as a percent of total medical supplies procurement that is\n                                                 reduced from the established baseline (DLR 6.5)\nDefinition/Description                           \"Urgent\" or \"local\" procurement procedure excludes procurement used in case of emergency. This\n                                                 procedure is used at the provincial or facility level in cases of potential stock-out.\nFrequency                                        Annually\nData Source                                      MSD\nMethodology for Data Collection                  Examination of administrative data at MSD\nResponsibility for Data Collection               MoH   / MSD\nIndicator Name                                   Community Engagement Mechanism for health sector operational, including grievance redressal\n                                                 mechanism (DLI 7)\nDefinition/Description\nFrequency                                        No reporting period for some milestones / annually for reports\n                                                 MoH and provinces through MoH\nData Source\nMethodology for Data Collection                  Compiling routinely reported administrative data\nResponsibility for Data Collection               MoH / Additional Secretary (Admin) 1\n                                                                                                                            Page 69 of 96",
-"notes": "Original title: Indicator Information, Page 69"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Number of PMCIs with active community engagement committees (DLR 7.5)\nDefinition/Description                           Active community engagement committees refer to “Friends of the Facility” committees with minutes of\n                                                 having met for at least 3 times in the previous year.\nFrequency                                        Annually\nData Source                                      MoH through Provinces\nMethodology for Data Collection                  A checklist will be prepared and routinely reported on by the PMCIs through the provinces\nResponsibility for Data Collection               MoH and MPCLGS\nIndicator Name                                   Adequate and timely release of treasury funds requested to health sector program\nDefinition/Description                           Numerator: funds released for the health sector program by treasury / the funds requested by MoH and\n                                                 MPCLGS for the health sector\nFrequency                                        Annually\nData Source                                      Records/documentation of funds request vs. funds releases\nMethodology for Data Collection                  Examination of administrative documentations\nResponsibility for Data Collection               Chief Accountant of MoH and Chief Accountant at MPCLGS",
-"notes": "Content related to indicators and data collection"
-}
-{
-"section": "Indicator Information",
-"content": "Indicator Name                                   Percentage of MoH and district training/capacity building plans developed and monitored\nDefinition/Description                           The total number of plans is 26: 25 district plans and 1 MoH plan.\nFrequency                                        Annually\nData Source                                      Database at Planning Unit\nMethodology for Data Collection                  Examination of administrative documentations\nResponsibility for Data Collection               MoH / Director Training\nIndicator Name                                   Number of innovative subprojects supported, evaluated and disseminated\nDefinition/Description                           This indicator refers to the innovative sub-projects to be financed by grants under component 2.\nFrequency                                        Annually\nData Source                                      Project Monitoring System at PMU\nMethodology for Data Collection                  Examination of project monitoring system\nResponsibility for Data Collection               MoH / Director PMU PSSP",
-"notes": "Original title: Not specified; Page: 71"
-}
-{
-"section": "ANNEX 1: RESULTS FRAMEWORK WITH INTERMEDIATE TARGETS",
-"content": "PDO Indicators by Objectives / Outcomes           Unit of      Baseline                          Intermediate Targets               End Targets\n                                                     Measure\n                                                                                     2018           2019          2020          2021          2022\n  Increase utlization of PHC services, particularly prevention/management of NCDs in high-risk groups\n  Number of women at age 35 and at age 45 years\n  who are screened for cervical cancer at a          Number         107,551       131,000        147,000       166,000       188,000       213,000\n  network of public health facilities (DLI 8)\n  Percentage of screened adults with high risk for\n  non-communicable diseases who are registered       Percentage           0                            5            15            20             25\n  and actively followed-up at primary medical care\n  institutions (DLI 9)\n          Male                                       Percentage           0                            5            15            20             25\n          Female                                     Percentage           0                            5            15            20             25\n  Increase in the quality of PHC services, in selected areas of the country\n  The number of primary medical care institutions\n  that have the required capabilities for providing  Number               0                           50           150           350           550\n  comprehensive and quality care (DLI 3)",
-"notes": "Original title: ANNEX 1: RESULTS FRAMEWORK WITH INTERMEDIATE TARGETS, Page 72"
-}
-{
-"section": "Intermediate Results Indicators",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project (P163721)\n  Intermediate Results Indicators by             Unit of          Baseline          Intermediate Targets                                                    End Targets\n  Components                                     Measure\n                                                                                    2018              2019              2020              2021              2022\n  Component 1. Implementation of the PHC System Reorganization and Strengthening Strategies\n  MoH and Provinces endorse policies and         Text             Policies and      MoH and each\n  standards for reorganizing PHC (DLI 1)                          standards         Province\n                                                                  sufficient to     endorse PHC\n                                                                  guide PHC         strategy and\n                                                                  Reorganization    empanelment\n                                                                  do not exist      guidelines\n  MoH adopts and updates clinical protocols for  Text             No clinical       MoH adopts                                                              MoH adopts\n  selected health conditions (DLI 2)                              protocols         package of                                                              updated\n                                                                  targeted for the  protocols for                                                           package of\n                                                                  PHC level         defined                                                                 protocols for\n                                                                                    selected health                                                         defined\n                                                                                    conditions                                                              conditions\n  Number of annual progress reviews on MoH       Number           0                                   3                 3                 3                 3\n  Action Plan, including Project Results\n  Indicators at the central MoH\n  Number of patient-friendly services provided   Number           0                                   50                150               350               550\n  on the basis of 4 types of services at the PMCIs\n  (DLI 4)\n  Percentage of Medical Officers (both Medical   Percentage       0                                   10                20                40                 70\n  Officers of Health in the Public Health stream\n  and Medical Officers at PMCIs) trained on\n  essential service package on NCDs\n  Percentage of PMCIs with transport facilities  Percentage       0                                   5                 20                35                55\n  for dispatching the samples for investigations\n  to apex laboratories\n  Percentage of PMCIs with capability for        Percentage       0                                   5                 15                35                55\n  primary detection and management of\n  dengue\n  Percentage of PMCIs providing a standard       Percentage       0                                   5                 15                35                55\n  primary oral health care package",
-"notes": "Original title: Intermediate Results Indicators by Unit of Measure, Page 73"
-}
-{
-"section": "Performance Indicators",
-"content": "Percentages of PMCIs with basic emergency care facilities\nPercentage        10                                    15                20                 30                50\nPercentage of Medical Officer of Health areas offering mental health services in at least one PMCI\nPercentage        0                                     5                 15                 25                35\nPercentage of PMCIs with capability for TB screening and referral\nPercentage        0                                     5                 10                 25                45\nPercentage of Medical Officer of Health areas with at least one PMCI providing routine nutrition counseling services, particularly for identified high-risk population, by qualified nutritionist\nPercentage        0                                     5                 15                 25                35\nPercentage of schools implementing health promoting programs (health promoting schools)\nPercentage        31                                    35                38                 40                45\nPercentage of food business operators inspected and classified as satisfactory according to the healthy food standard\nPercentage        51                                    55                60                 65                75\nNumber of PMCIs that use personal health records to coordinate patient care over time and through the referral chain (DLI 5)\nNumber            0                                     50                150                350               550\nNumber of PMCIs connected to and using the Medical Supplies Management Information System (DLR 6.1)\nNumber            0                                     50                150                350               550\nPercentage of annual procurement by MSD that is less than or equal to defined performance benchmarks (DLR 6.3)\nPercentage        50                                                                         60                 70\nThe use of the urgent procurement procedure as a percent of total medical supplies procurement that is reduced from the established baseline (DLR 6.5)\nPercentage        0                                                                          20                40\nCommunity Engagement Mechanism for health sector operational, including grievance redressal mechanism (DLI 7)\nText              There is no        MoH adopts         Each Province     MoH                MoH makes         MoH makes\n                  operational        health sector      adopt health      establishes        public            public\n                  community          community          sector            health sector      consolidated      consolidated\n                  engagement         engagement         community         grievance          annual report     annual report\n                  and grievance      guidelines         engagement        redressal          for the health    for the health\n                  redressal                             guidelines        mechanism          sector grievance  sector grievance\n                  mechanism                                                                  redressal         redressal\n                                                                                                                                             mechanism         mechanism\n",
-"notes": "Original title: Performance Indicators, Page 74"
-}
-{
-"section": "Component 2. Project Implementation Support and Innovation Grants",
-"content": "Percentage of MoH and district                 Percentage   0                                 19               57               100              100\ntraining/capacity building plans developed and\nmonitored\nNumber of innovative subprojects supported,    Number       0                                 0                10               25               40       50\nevaluated and disseminated                                                                                                                       (2022)   (2023)",
-"notes": "Original title: Component 2. Project Implementation Support and Innovation Grants, Page 75"
-}
-{
-"section": "ANNEX 2: DLI MATRIX",
-"content": "Indicative DLR             FY2018                   FY2019                   FY2020                  FY2021                   FY2022               June 30, 2023\n       Period\n                                           Results Area 1. PHC policy and standards defined to support implementation\nDLI 1. Endorsement by the MoH and provinces of policies and standards for reorganizing PHC system        - US$14.775 million\nDLRs                   DLR 1.1 - The MoH         DLR 1.3 - The MoH\n                       endorses PHC              endorses the package of\n                       reorganization strategy   circulars and guidelines\n                       and issues guidelines on  necessary for PHC model\n                       PHC empanelment           implementation (1)\n                       process (1)               DLR 1.4 - Each province\n                       DLR 1.2 - Each province   endorses the package of\n                       endorses PHC              circulars and guidelines\n                       reorganization strategy   necessary for PHC model\n                       and issues guidelines on  implementation (3)\n                       PHC empanelment\n                       process (3)\nTargets                DLR 1.1 - Yes             DLR 1.3 - Yes\n                       DLR 1.2 - 9 provinces     DLR 1.4 - 9\n                                                 provinces\nAllocated Amounts      DLR 1.1 - US$3.00         DLR 1.3 - US$4.395\nand Disbursement       million                   million\nFormula                DLR 1.2 - US$3.24         DLR 1.4 - US$4.140\n                       million (US$0.36 million  million (US$0.46 million\n                       per province)             per\n                                                 province)",
-"notes": "Annex related to DLI Matrix on page 76"
-}
-{
-"section": "Indicative DLR",
-"content": "DLI 2. MoH adopts and updates clinical protocols for selected health conditions - US$9.25 million\nDLRs                                             DLR 2.1 – MoH adopts                                                       DLR 2.2 – MoH adopts\n                                                 package of protocols for                                                   updated package of\n                                                 defined selected health                                                    protocols for defined\n                                                 conditions (1)                                                             selected health conditions\n                                                                                                                            (2)\nTargets                                          DLR 2.1 - Yes                                                              DLR 2.2 - Yes\nAllocated Amounts                                DLR 2.1 - US$5.55 million                                                  DLR 2.2 - US$3.70 million\nand Disbursement\nFormula\n                          Results Area 2. PMCI provider capabilities and services strengthened for more comprehensive and quality care\nDLI 3. PMCIs have required capabilities for providing comprehensive and quality care - US$32.9 million\nDLRs                   DLR 3.1 - Each province   DLR 3.2 Number of PMCIs with defined required capabilities (4)                                             DLR 3.3 - Each\n                       completes a situation                                                                                                                province\n                       analysis necessary to                                                                                                                completes a\n                       identify gaps for                                                                                                                    situation analysis\n                       meeting required                                                                                                                     necessary to\n                       capabilities (4)                                                                                                                     identify gaps for\n                                                                                                                                                            meeting required\n                                                                                                                                                            capabilities (4)\nTargets                DLR 3.1 - 9 provinces     DLR 3.2 - 550 PMCIs meeting all 5 defined required capabilities                                            DLR 3.3 - 9\n                                                                                                                                                            provinces\nAllocated Amounts      DLR 3.1 - US$4.5 million  DLR 3.2 - US$27.5 million (US$35,000 per initial and any additional PMCI up to 550 PMCIs meeting 4 of the  DLR 3.3 - US$0.9\nand Disbursement       (US$0.5 million per       defined required capabilities in each FY greater than the PMCIs from the previous FY and US$15,000 per     million (US$0.1\nFormula                Province)                 additional PMCI meeting a fifth defined required capability in each FY greater than the PMCIs from the     million per\n                                                 previous FY)                                                                                               province)",
-"notes": "Original title: Indicative DLR"
-}
-{
-"section": "Indicative DLR",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project (P163721)\n  DLI 4. Enhanced patient-friendly services provided at PMCIs - US$19.25 million\n  DLRs                                              DLR 4.1 - Number of enhanced services at PMCIs (4)\n  Targets                                           DLR 4.1 - 550 enhanced services (based on the 4 pre-identified enhanced services) provided at PMCIs\n  Allocated Amounts                                 DLR 4.1 - US$19.25 million (US$35,000 per initial, and any additional enhanced service in each FY greater than the previous FY,\nand Disbursement                                  up to 550 enhanced services with a maximum of 4 enhanced services per PMCI)\n  Formula\n                           Results Area 3. Supportive systems developed to facilitate improved PHC service delivery, with a focus on NCD\n  DLI 5. Personal health records are used to coordinate patient care over time and through the referral chain          - US$18.50 million\n  DLRs                                              DLR 5.1 - MoH adopts\n                                                  updated e-health\n                                                  standards including\n                                                  personal health record\n                                                  (2)\n                                                  DLR 5.2 - Number of PMCIs that use personal health records for their patients (4)\n  Targets                                           DLR 5.1 - Yes\n                                                  DLR 5.2 - 550 PMCIs\n  Allocated Amounts                                 DLR 5.1 - US$4.20 million\n  and Disbursement                                  DLR 5.2 - US$14.30 million (US$26,000 per initial and additional PMCI that use personal health records for their patients in each\n  Formula                                           FY greater than the previous FY, up to 550 PMCIs in total)\n  DLI 6. Procurement and supply chain management efficiency is improved - US$16.50 million\n  DLRs                                                                         DLR 6.2 – Government     DLR 6.3 - For a selected set of tracer NCD drugs,\n                                                                             endorses revised         percentage of annual procurement by MSD that is\n                                                                             procurement              less than or equal to defined performance\n                                                                             guidelines for health    benchmarks (4)\n                                                                             sector goods,\n                                                                             including revised\n                                                                             performance\n                                                                             benchmarks for\n                                                                             standard procurement\n                                                                             lead times (2)",
-"notes": "Extracted from the section on DLI and DLRs, page 78"
-}
-{
-"section": "Indicative DLR",
-"content": "FY2018                    FY2019                    FY2020                   FY2021                     FY2022               June 30, 2023\n        Period\n                                                                             DLR 6.4 – MoH            DLR 6.5 - The use of the urgent procurement\n                                                                             establishes baseline     procedure by the Provincial Department of Health\n                                                                             for the use of the       Services or health facilities as a percent of total\n                                                                             ‘urgent’ procurement     medical supplies procurement that is reduced from\n                                                                             procedure as a           the established baseline (4)\n                                                                             percent of total\n                                                                             medical supplies\n                                                                             procurement (2)\n                                                  DLR 6.1 - Number of PMCIs connected to and using the Medical Supplies Management Information System (MSMIS) (4)\nTargets                                           DLR 6.1 - 550 PMCIs\n                                                                             DLR 6.2 – Yes            DLR 6.3 - 70%\n                                                                             DLR 6.4 – Yes            DLR 6.5 - 40% less than baseline\nAllocated Amounts                                                            DLR 6.2- US$2.3          DLR 6.3 - US$4.5 million (US$225,000 per initial and\neach additional 1% point more than 50% in each FY\ngreater than the previous FY up to 70%)\n                                                                             DLR 6.4 - US$1.0         DLR 6.5 - US$2.1 million (US$262,500 per each\n                                                                             million                  additional 5% less than the baseline in each FY\n                                                                                                      greater than the previous FY down to 40% less than\n                                                                                                      the baseline in total)",
-"notes": "Original title: Indicative DLR, Page 79"
-}
-{
-"section": "Results Area 4. Health system empowers and becomes more responsive to the demands of the population",
-"content": "DLI 7. Community engagement mechanism for health sector operational, including grievance redressal mechanism and community committees at PMCIs - US$25.80 million\nDLRs                   DLR 7.1 - MoH adopts     DLR 7.2 - Each province   DLR 7.3 – MoH          DLR 7.4 – MoH makes public consolidated annual     DLR 7.6 – MoH\n                       health sector            adopts health sector      establishes grievance  report for the health sector grievance redressal   updates and\n                       community                community engagement      redressal mechanism    mechanism (4)                                      adopts health\n                       engagement guidelines    guidelines                as per health sector                                                      sector community\n                       (1)                      engagement guidelines     community                                                                 engagement\n                                                (3)                       engagement                                                                guidelines (2)\n                                                                          guidelines (2)                                                            DLR 7.7 - Each\n                                                                                                                                                    province updates\n                                                                                                                                                    and adopts health\n                                                                                                                                                    sector community\n                                                                                                                                                    engagement\n                                                                                                                                                    guidelines (4)\n                                                DLR 7.5 - Number of PMCIs which have active community engagement committees (4)\nTargets                DLR 7.1 - Yes            DLR 7.2 - 9 provinces     DLR 7.3 - Yes          DLR 7.4 – 2 Annual Reports                         DLR 7.6 - Yes\n                                                                                                                                                    DLR 7.7 - 9\n                                                                                                                                                    provinces\n                                                DLR 7.5 - 550 PMCIs",
-"notes": "Original title: Indicative DLR, Page 80"
-}
-{
-"section": "Allocated Amounts and Disbursement Formula",
-"content": "DLR 7.1 - US$1.00\nDLR 7.2 - US$2.25 million\nDLR 7.3 - US$3.00 million\nDLR 7.4 - US$2.0 million (US$1.0 million per province)\nDLR 7.5 - US$16.5 million (US$30,000 per initial and additional PMCI with active community engagement greater than the previous FY, up to 550 PMCIs in total)\nDLR 7.6 - US$0.6 million\nDLR 7.7 - US$0.45 million (US$0.05 million per province)",
-"notes": "Original title: Allocated Amounts and Disbursement Formula, Page 81"
-},
-{
-"section": "Results Area 5",
-"content": "Utilization of PHC Services, with a focus on NCD detection and active follow-up, is increased.\nDLI 8. Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities - US$23.125 million\nDLRs\nDLR 8.1 - Number of women of ages 35 and 45 having had a cervical cancer screening at public health facilities (4)\nDLR 8.2 - MoH completes a study on the quality of cancer screening and referral practice (2)\nTargets\nDLR 8.1 - 131,000 women\nDLR 8.1 - 147,000 women\nDLR 8.1 - 166,000 women\nDLR 8.1 - 188,000 women\nDLR 8.1 - 213,000 women\nDLR 8.2 - Yes\nAllocated Amounts\nDLR 8.1 - US$21.125 million (US$25,000 per 1000 women per year)\nDLR 8.2 - US$2.0 million",
-"notes": "Original title: Results Area 5, Page 81"
-},
-{
-"section": "DLI 9",
-"content": "Adults determined to have high risk for non-communicable diseases registered and actively followed up at PMCIs - US$24.90 million\nDLRs\nDLR 9.1 - Percentage of screened adults with high risk for non-communicable diseases who are registered and actively followed up at PMCIs (4)\nDLR 9.2 – MoH completes a study on the quality of the non-communicable disease patient screening, stratification, treatment practice at PMCI and referral system (2)\nTargets\nDLR 9.1 - 25% with a minimum of 750 adults screened, on average, per PMCI meeting the required capabilities",
-"notes": "Original title: DLI 9, Page 81"
-}
-{
-"section": "Allocated Amounts and Disbursement Formula",
-"content": "DLR 9.1 - US$20.00 million (US$800,000 per initial, and any additional 1% point of screened adults with high risk for non-communicable diseases who are registered and actively followed up at a PMCI in each FY greater than the previous FY if the minimum number of adults screened in that year has been met, up to 25%)\nDLR 9.2 - US$4.90 million\nNotes:\n(1)  This DLR is non-scalable and shall be achieved only once. The timeframe for achievement is defined as not later than June 30, 2019.\n(2)  This DLR is non-scalable and shall be achieved only once. The timeframe for achievement of this DLR is indicative, but no later than December 31, 2023.\n(3)  This DLR is scalable and may only be achieved once annually in each FY, not later than June 30, 2019.\n(4)  This DLR is scalable and may only be achieved once annually in each FY, but not later than December 31, 2023.",
-"notes": "Original title: Allocated Amounts and Disbursement Formula, Page 82"
-}
-{
-"section": "ANNEX 3: DLI VERIFICATION PROTOCOLS",
-"content": "Protocol to Evaluate Achievement of the DLI and\n       DLI            Definition/Description of Results         Scalability of      Time Bound               Data        Data/Result Verification\n                                                               Disbursements          (Yes/No)         Source/Agency      Verification\n                                                                   (Yes/No)                             and Reporting        Entity               Procedure\n                                                                                                            Period\n DLI 1.           •   This DLI reflects the intention of the   DLR 1.1 No        DLR 1.1 Yes           MoH and            IVA (PMM)      Review of documentation to\n Endorsement          central MoH and the provinces            DLR 1.2 Yes       by June 30, 2019      provinces                         ensure conformity with\n by the MoH           endorsing through routine government     DLR 1.3 No        DLR 1.2 Yes           through the                       definition/description and\n and provinces        procedures the policies, standards, and  DLR 1.4 Yes       by June 30, 2019      MoH                               ensure that it was endorsed\n of policies and      implementation guidelines necessary to                     DLR 1.3 Yes                                             following appropriate\n standards for        implement the service delivery model                       by June 30, 2019      There is no                       government procedure\n reorganizing         at the level of provider in the                            DLR 1.4 Yes           specific\n PHC system           provinces.                                                 by June 30, 2019      reporting period\n                  •   DLRs 1.1 and 1.2 include the high-level                                          for the DLRs.\n                      strategy giving the orientation of the\n                      PHC reorganization objectives and\n                      approach. DLRs 1.1 and 1.2 also include\n                      guidelines for conducting the\n                      empanelment of the population to a\n                      PHC provider which may include the\n                      range of population to be served by a\n                      single provider, the process for\n                      assignment, the implications for patient\n                      to choose its PHC provider, the process\n                      for informing the citizen and\n                      institutional arrangements.\n                   •  DLRs 1.3 and 1.4 include a package of\n                      necessary standards and guidelines for\n                      the model to be implemented and is\n                      defined to include at least:\n                       o    Comprehensive PHC service\n                            package definition,\n                       o    Definition of PHC network to\n                            deliver PHC service package,",
-"notes": "Original title: ANNEX 3: DLI VERIFICATION PROTOCOLS"
-}
-{
-"section": "DLI Definition/Description of Results",
-"content": "DLI 2. MoH       •   This DLI reflects the intention of the   DLR 2.1 No      DLR 2.1 Yes          MoH                IVA (PMM)     Review of documentation to\nadopts and           MoH to adopt clinical protocols          DLR 2.2 No      by June 30, 2019                                      ensure conformity with\ndate clinical     appropriate for use by PHC providers                     DLR 2.2 No           There is no                      definition/description and\nprotocols for        which are evidence-informed and                                               specific                         ensure that it was endorsed\nselected health      follow good institutional practice,                                           reporting period                 following appropriate\ndconditions           based on international practice but                                           for the DLRs.                    government procedure\n                      adapted for Sri Lankan conditions.\n                  •   The selected health conditions include\n                      hypertension, diabetes mellitus, and\n                      cervical cancer.\n                  •   Protocols would include:\n                           Risk stratification based on\n                           population risk factors,\n                           Screening protocols,\n                           Management protocols,\n                           Referral protocols, and\n                           Essential drug and diagnostic\n                           (equipment and lab test)\n                           requirements.\n                  •   DLR 2.1 reflects that these protocols\n                      would be adopted.\n                  •   DLR 2.2 reflects that these protocols\n                      would be updated following the\n                      experience of using them.\nDLI 3. PMCIs     •   This DLI reflects the intention of each  DLR 3.1 Yes     DLR 3.1 No           Reported by        IVA (PMM)     DLRs 3.1 and DLR 3.3: Review\nhave required        PMCI to have 5 requirements that         DLR 3.2 Yes     DLR 3.2 No           PMCIs through                    of documentation to ensure\ncapabilities for     enhance its capability to provide        DLR 3.3 Yes     DLR 3.3 No                                            conformity with",
-"notes": "Extracted from the section detailing DLI definitions and descriptions."
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and Disbursements",
-"content": "DLI            Definition/Description of Results         Scalability of       Time Bound               Data        Data/Result Verification\n                                                                Disbursements          (Yes/No)        Source/Agency       Verification\n                                                                   (Yes/No)                              and Reporting        Entity               Procedure\n providing            comprehensive and quality services,                                              provinces to                       definition/description and\n comprehensive        particularly for the defined health                                              MoH                                agreed protocol; ensure that\n and quality          conditions, to the population it serves.                                                                            the updated standards were\n care                 These 5 minimum requirements are the                                             There is no                        endorsed following\n                      following:                                                                       reporting period                   appropriate government\n                            At least 25% of the adult                                                  for DLRs 3.1 and                   procedure.\n                            population (aged 35 or over) in its                                        3.3.\n                            defined empanelment area have                                              DLR 3.2 would                      DLR 3.2 Data Quality\n                            been screened and categorized                                              be reported on a                   Assessment Methodology\n                            following risk factors.                                                    calendar year                      Used to Assess Reports from\n                            The PMCI has minimum number                                                basis, that is, the                Service Providers through the\n                            of staff (at least two medical                                             number of                          provinces to the MoH. The\n                            officers and one nurse officer)                                            PMCIs meeting\n                            with the appropriate training as                                           requirements in                    sample taken would be of\n                            per defined requirements. The                                              2019 would be                      both new additional facilities\n                            staff have been on duty for at                                             included in                        as well as previously reported\n                            least 9 months of the previous                                             report with data                   facilities, to indicate that\n                            calendar year.                                                             reported as of                     facilities previously reported\n                            The PMCI has minimum                                                       December 31,                       have been maintained.\n                            operational equipment according                                            2019. The results\n                            to defined requirements.                                                   would then be\n                            The PMCI has minimum                                                       compiled and\n                            availability of essential drugs and                                        verified in early\n                            lab test capacity (on-site or                                              2019.\n                            through a networked pharmacy\n                            or laboratory) according to\n                            defined requirements.\n                            The PMCI would have quarterly\n                            supportive supervision visits,\n                            facilitated by a checklist, to\n                            ensure adherence to national",
-"notes": "Original title: Protocol to Evaluate Achievement of the DLI and Disbursements; Page 85"
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and Disbursements",
-"content": "DLI            Definition/Description of Results          Scalability of       Time Bound              Data         Data/Result Verification\nDisbursements         (Yes/No)          Source/Agency     Verification\n(Yes/No)                             and Reporting         Entity               Procedure\nPeriod\nquality and safety standards\n(evidence of at least 3 visits per\nyear)\n•   DLRs 3.1 and 3.3 should include, for\neach province, a situation analysis for\nat least the above referenced criteria.\n•   DLR 3.2 would pay US$35,000 for a\nPMCI meeting any four required\ncapabilities and US$15,000 for the fifth\ncapability. PMCIs with required\ncapabilities are to be maintained. If not\nmaintained, they would count against\nthe yearly results. As an example, in\nFY19 50 PMCIs are to be established\nwith the required capabilities. In FY20,\nthe payment would begin with the 51ˢᵗ\nPMCI meeting at least 4 of the required\ncapabilities.\nDLI 4. PMCIs      •   DLR 4.1 intends to support provinces     DLR 4.1 Yes        DLR 4.1 No           Reported by        IVA (PMM)       Data Quality Assessment\nprovide               and PMCIs to enhance the functionality                                           PMCIs through                      Methodology Used to Assess\nenhanced              of PMCIs with other conveniences that                                            provinces to                       Reports from Service\npatient-friendly      would make the service more patient                                              MoH                                Providers through the\nservices              friendly. Enhanced services are the                                                                                 Provinces to the MoH. The\nfollowing:                                                                       DLR 4.1 would                      sample taken would be of\nPMCI routinely provides defined                                             be reported on a                   both new additional\nlist of NCD drugs through one-                                              calendar year                      enhanced services as well as\nmonth supply blister packs.                                                 basis, that is, the                previously reported\nPMCI has arrangement(s) with                                                number of                          enhanced services, to\nlaboratory/diagnostic services                                              enhanced                           indicate whether the\n(either public or private or both)                                          services                           enhanced services previously\nprovided at                        PMCIs in 2019                      maintained.",
-"notes": "Original title: Protocol to Evaluate Achievement of the DLI and Disbursements"
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and",
-"content": "DLI            Definition/Description of Results         Scalability of      Time Bound               Data        Data/Result Verification\n                                                                Disbursements         (Yes/No)         Source/Agency      Verification\n                                                                   (Yes/No)                             and Reporting        Entity               Procedure\n                                                                                                            Period\n                            sample at the PMCI and receive                                             would be\n                            the results from the PMCI.                                                 included in a\n                            PMCI has arrangement(s) with                                               report with data\n                            pharmacy services (either state-                                           reported as of\n                            owned, private or both) where                                              December 31,\n                            patient can pick up free-of-charge                                         2019. The results\n                            prescription from the pharmacy                                             would then be\n                            service.                                                                   compiled and\n                            PMCIs have an operational                                                  verified in early\n                            appointment system (web-based,                                             2019.\n                            phone call, other) where the\n                            patients can register for a specific\n                            appointment time.\n                  •   DLR 4.1 would pay against additional\n                      enhanced services that have been\n                      added in each FY as compared to last\n                      FY, discounting those that have not\n                      been maintained (see the example for\n                      DLR 3.2).\n DLI 5. Personal  •   This DLI reflects the intention of the   DLR 5.1 No        DLR 5.1 No            DLR 5.1 MoH        IVA (PMM)      DLR 5.1: Review of\health records       MoH to improve the coordination of       DLR 5.2 Yes       DLR 5.2 No            DLR 5.2                           documentation to ensure\nare used to          patient care over time and through the                                           Reported by                       conformity with\ncoordinate           referral network by implementing                                                 PMCIs through                     definition/description and\npatient care         personal health records based on the                                             provinces to                      agreed protocol; ensure that\nover time and        unique identification of each patient.                                           MoH.                              the updated standards were\nthrough the      •   Initially this will be implemented                                                                                 endorsed following\nreferral chain       through paper-based personal health                                              There is no                       appropriate government\n                      records which will allow the PHC                                                 specific                          procedure.\n                      provider to track an individual patient                                          reporting period\n                      over time. Over time this will transition                                        for DLR 5.1.                      DLR 5.2: Undertake data\n                      to an electronic system that allows                                                                                quality assessment to review\nthe information reported by\n",
-"notes": "Content related to DLI and health records, page 87 of 96"
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and",
-"content": "DLI             Definition/Description of Results          Scalability of       Time Bound               Data         Data/Result Verification\n                                                                  Disbursements          (Yes/No)         Source/Agency       Verification\n                                                                     (Yes/No)                              and Reporting         Entity               Procedure\n                                                                                                               Period\n                       appropriate access by different service                                            DLR 5.2 will be                    the PMCIs through the\n                       providers.                                                                         reported on an                     provinces to the MoH. The\n                    •  DLR 5.1 will support the MoH to update                                             annual calendar                    sample taken would be of\n                       the e-health standards to support the                                              basis.                             both new PMCIs using\n                       robust development HMIS platforms                                                                                     personal health records as\n                       and use of electronic HMIS at public                                                                                  well as previously reported\n                       health service providers, including with                                                                              PMCIs using personal health\n                       unique individual patient records. The                                                                                records to indicate whether\n                       standards may confirm the process for                                                                                 the use of personal health\n                       unique identification of patients,                                                                                    records previously reported\n                       minimum functionality, minimum data                                                                                   have been maintained.\n                       fields for personal health records,\n                       standardized data definitions for\n                       minimum data fields, technology\n                       standards for the HMIS and inter-\n                       operability standards to report to and\n                       read from other systems. It should\n                       include the standard for defining the\n                       confidentiality of personal health\n                       records. This will be further elaborated\n                       in a distinct protocol.\n                    •  DLR 5.2 will recognize PMCIs which are\n                       implementing personal health records,\n                       either paper based or electronic. A\n                       PMCI is implementing personal health\n                       records if at least 25% of the\n                       empaneled adult (age over 35)\n                       population has a personal health record\n                       complete with minimum data fields.\n                       This would be further defined in a\n                       separate protocol. This DLR would be\n                       reported on both additional PMCIs",
-"notes": "Content related to DLI and health records on page 88"
-}
-{
-"section": "Procurement and supply chain management",
-"content": "•   This DLI reflects the intention of the MoH to increase the efficiency of its procurement and supply chain management system to ensure the availability, using the most economical procedures, of the drug supply at the facility, particularly for NCD drugs and the PMCI.\n•   DLR 6.1 will support the role of the MSMIS to the PMCI level to improve the drug stock management within the facility and to improve accuracy and the speed of the communication with the MoH in terms of the need. The MSMIS has been rolled out in the country but only down to the base hospital level. This DLR will extend this system down to the PMCI. This DLR would report both on the additional PMCIs connected to and using the MSMIS as compared to the previous FY as well as the maintenance of the previously reported PMCIs using the MSMIS. If any PMCI discontinues the use of health records would be discounted from the current FY results (see example under DLR 3.2).",
-"notes": "Original title: DLI 6. Definition/Description of Results"
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and Disbursements",
-"content": "DLI            Definition/Description of Results         Scalability of       Time Bound               Data        Data/Result Verification\n                                                                Disbursements          (Yes/No)          Source/Agency     Verification\n                                                                   (Yes/No)                              and Reporting        Entity               Procedure\n                                                                                                             Period\n                      use of the MSMIS, then they would be                                                                                DLRs 6.3 and 6.5 will include\n                      discounted against the current FY                                                                                   a review of the system and\n                      performance (see example under DLR                                                                                  data reported by MSD to the\n                      3.2).                                                                                                               MoH to ensure consistency of\n                   •  DLR 6.2 will support the approval by                                                                                the data reported according\nthe Government Cabinet of new                                                                                       to defined protocols.\n                      procurement guidelines for health\n                      sector goods that would facilitate faster\n                      and more effective procurement. To\n                      this end, it will establish new\n                      performance benchmarks for standard\n                      lead times (from receipt of\n                      procurement request with defined\n                      need to a confirmed order being\n                      placed).\n                   •  Following DLR 6.2, DLR 6.3 will—for a\n                      defined set of tracer drugs—measure\n                      the lead time for procurement (from\n                      receipt of procurement request to\n                      confirmed order being placed) against\n                      the defined lead time benchmarks to\ndetermine if the procurement meets or\ndoes not meet the defined\n                      performance benchmark (defined in\n                      6.1). Based on an assessment\n                      undertaken in 2015 for a similar set of\n                      drugs, where 50% of the tenders met\n                      the lead time, 50% is defined as the\n                      baseline. The project will support\n                      measured progress from this baseline.\n                   •  DLR 6.4 will support the development\n                      of a specific measurement and agreed",
-"notes": "Content related to DLI and Disbursements, Page 90"
-}
-{
-"section": "DLI Definition/Description of Results",
-"content": "DLI            Definition/Description of Results          Scalability of       Time Bound              Data         Data/Result Verification\n                                                                 Disbursements         (Yes/No)          Source/Agency     Verification\n                                                                    (Yes/No)                             and Reporting         Entity               Procedure\n                                                                                                             Period\n                       baseline for the number of ‘urgent’ or\n                       local purchases that are undertaken as\n                       a precaution against potential stock-\n                       outs. This measurement does not\n                       include ‘emergency’ purchases in case\n                       of a disease outbreak or other\n                       emergency. With better planning and\n                       faster lead times, there should be less\n                       need to undertake urgent\n                       procurements for this purpose. The\n                       baseline will be defined as the average\n                       number of these urgent or local\n                       purchases in the previous 3 fiscal years.\n                   •   Following DLR 6.4, DLR 6.5 will support\n                       the sustained reduction in the use of\n                       urgent or local purchases resulting\n                       from the improved planning and faster\n                       procurement processes. While there\n                       will always be a need for this option in\n                       case of factors beyond the control of\n                       the MoH and its MS, it is estimated that\n                       the need for such measures could be\n                       reduced by half over the period of the\n                       project. In defining the baseline, the\n                       MSD will establish a system for\n                       measuring and routinely reporting on\n                       this information.\n DLI 7.            •   This DLI reflects the intention of the  DLR 7.1 No         DLR 7.1 Yes           MoH and            IVA (PMM)       DLRs 7.1 and 7.2: Review of\n Community             MoH and the provinces to define,        DLR 7.2 Yes        by June 30, 2019      provinces                          documentation to ensure\n engagement            establish, implement, and report on     DLR 7.3 No         DLR 7.2 Yes, by       through the                        conformity with\n mechanism for         community engagement mechanism          DLR 7.4 Yes        June 30, 2019         MoH                                definition/description and\n health sector         where the public and patients can       DLR 7.5 Yes        DLR 7.3 No                                               agreed protocol; ensure that\n                                                                                                                                             Page 91 of 96",
-"notes": "Extracted from a section related to DLI definitions and descriptions."
-}
-{
-"section": "Primary Health Care System Strengthening Project (P163721)",
-"content": "DLI            Definition/Description of Results          Scalability of       Time Bound\n                                                                Disbursements          (Yes/No)\n                                                                    (Yes/No)\n\n operational,          express their complaints, suggestions,   DLR 7.6 No        DLR 7.4 No\n including a           or positive commendations. It will also  DLR 7.7 Yes       DLR 7.5 No\n health sector         include institutional arrangements that                    DLR 7.6 No\n grievance             would deepen community                                     DLR 7.7 No\n redressal             engagement.\n mechanism         •   The guidelines for community\n and                   engagement mechanism referenced in\n community             DLRs 7.1 and 7.2 should define the\n committees at         objectives of the system; the\n the PMCIs             institutional responsibilities for\n                       operating, supervising, and reporting;\n                       the process for review and response to\n                       the feedback, service standards; the\n                       portals for receipt of the complaints,\n                       that is, website, email, phone, text; the\n                       technology standards for the system;\n                       definition of who needs to be trained\n                       to operate the system; and\n                       communications strategy for informing\n                       the public. It would also include the\n                       Terms of Refence and Guidelines for\n                       establishing and operating ‘Friends of\n                       the Facility’ Committee that would\n                       deepen the connection between PMCIs\n                       and the empaneled communities they\n                       serve.\n                   •   DLR 7.3 would be an established GRM\n                       in accordance with the Guidelines\n                       defined in 7.1 and 7.2.\n                   •   DLR 7.4 would be an annual report\n                       analyzing the feedback received and\n                       health system responses to those\n\n\n     Protocol to Evaluate Achievement of the DLI and\n      Data         Data/Result Verification\nSource/Agency      Verification\n and Reporting         Entity               Procedure\n     Period\nThere is no                        the guidelines were approved\nreporting period                   following appropriate\nfor DLRs 7.1, 7.2,                 government procedure at the\nand 7.6.                           national and provincial level.\n\nDLRs 7.3, 7.4 and                  DLR 7.3: Ensure that a health\n7.5 would be                       sector grievance redressal\nreported on an                     mechanism is operational\nannual calendar                    following the guidelines, that\nbasis.                             is, the means of\n                                   communication with the\n                                   public have been opened, the\n                                   public has been made aware,\n                                   and initial\n                                   comments/feedback have\n                                   been received and responses\n                                   provided.\n\n                                   DLR 7.4: The annual report as\n                                   described should be available\n                                   to the IVA through readily\n                                   available platform, that is,\n                                   the MoH website or similar.\n\n                                   DLR 7.5: Undertake data\n                                   quality assessment to review\n                                   the information reported by\n                                   the PMCIs through the\n                                   provinces to the MoH. The\n                                   sample would be both of\n                                   additional PMCIs reported in\n                                   that FY as well as PMCIs\n                                     Page 92 of 96",
-"notes": "Extracted from the main content of the document."
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and",
-"content": "DLI            Definition/Description of Results         Scalability of       Time Bound               Data        Data/Result Verification\n                                                                Disbursements          (Yes/No)          Source/Agency     Verification\n                                                                   (Yes/No)                              and Reporting        Entity               Procedure\n                                                                                                             Period\n                      feedbacks, made public in an                                                                                        reported from the previous\n                      appropriate way.                                                                                                    FY to ensure that they are\n                   •  DLR 7.5 would be operational ‘Friends                                                                               maintained.\n                      of the Facility’ Committees in\n                      accordance with the Guidelines with                                                                                 DLRs 7.6 and 7.7: Review of\n                      minutes of having met for at least 3                                                                                documentation to ensure\n                      times in the previous year. This DLR                                                                                conformity with\n                      would report both new additional                                                                                    definition/description and\n                      PMCIs with active community                                                                                         agreed protocol; ensure that\n                      committees as compared to the                                                                                       the guidelines were updated\n                      previous FY as well as the maintenance                                                                              following appropriate\n                      of the committees reported in the                                                                                   government procedure at the\n                      previous FY. Those PMCIs which do not                                                                               national and provincial level.\n                      maintain an active committee\n                      previously reported would be\n                      discounted against the current FY\n                      results.\n                   •  DLRs 7.6 and DLR 7.7 would be updates\n                      of the community engagement\n                      guidelines at the national and\n                      provincial level based on the\n                      experience of implementing those\n                      guidelines in practice.\n DLI 8. Women      •  This DLI reflects the intention of       DLR 8.1 Yes        DLR 8.1 No           MoH and             IVA (PMM)      DLR. 8.1 Data Quality\n aged 35 and 45       increasing the screening of women for    DLR 8.2 No         DLR 8.2 No           provinces                          Assessment Methodology\n are screened         cervical cancer, as a proxy indicator for                                        through MoH                        Used to Assess Service\n for cervical         other preventive examinations for                                                                                   Delivery Reports from Service\n cancer at a          women.                                                                           DLR 8.1 would                      Providers through to the\n network of        •  DLR 8.1 reflects the MoH program of                                              be reported on                     MoH\n public health        screening women for cervical cancer                                              an annual\n facilities           and particularly targeting women ages                                            calendar basis.                    DLR 8.2: Review of\n                      35 and 45 where the cancer growth                                                                                   documentation to ensure\n                                                                                                                                            Page 93 of 96",
-"notes": "Extracted from a section detailing the evaluation of Disbursement Linked Indicators (DLIs) and their definitions."
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and",
-"content": "DLI             Definition/Description of Results          Scalability of      Time Bound                Data        Data/Result Verification\n                                                                  Disbursements         (Yes/No)         Source/Agency       Verification\n                                                                     (Yes/No)                              and Reporting        Entity               Procedure\n                                                                                                               Period\n                       may be at the early stages. The actual                                            There is no                        conformity with\n                       number of women screened at any                                                   reporting period                   definition/description and\n                       public HF, in each calendar year, will be                                         for DLR 8.2.                       agreed protocol. Ensure that\n                       measured. The majority (approximately                                                                                the study is accepted by the\n                       90%) of the services are provided at                                                                                 MoH following appropriate\n                       PHC facilities (Well Women Clinics,                                                                                  government procedure.\n                       PMCIs). The reporting system will\n                       capture these as well as those provided\n                       in base and tertiary care hospitals.\n                   •   DLR 8.2 To ensure that the screening\n                       and referral protocols are being\n                       followed and to access provider\n                       knowledge and practice, a study\n                       following an agreed methodology and\n                       based on a sample of the providers will\n                       be undertaken.\n DLI 9. Adults     •   This DLI reflects the intention that     DLR 9.1 Yes        DLR 9.1 No            MoH and             IVA (PMM)      DLR 9.1 Data Quality\n determined to         more adults at high risk for developing  DLR 9.2 No         DLR 9.2 No            provinces                          Assessment Methodology\n have high risk        NCD would be identified and actively                                              through MoH                        Used to Assess Service\n for non-              followed up at the PMCI. High risk is                                                                                Delivery Reports from Service\n communicable          defined as those with 20% or greater                                              DLR 9.1 would                      Providers through to the\n diseases              chance of a major cardiovascular event                                            be reported on                     MoH. The sample would\n registered and        in next 10 years, following the WHO                                               an annual                          include additional patients\n actively              standards for NCD risk identification.                                            calendar basis.                    that are reported in that FY\n followed up at    •   DLR 9.1 reflects that PMCIs will screen                                                                              as well as those that were\n PMCIs                 the adult population (greater than age                                            There is no                        reported in previous FY to\n                       35) in its empaneled area, with a                                                 reporting period                   ensure that the monitoring of\n                       minimum number of population to be                                                for DLR 9.2.                       those high-risk patients is\n                       screened each year (750 per PMCI on                                                                                  maintained.\n                       average). PMCIs will maintain data on\n                       the adult population screened and an                                                                                 DLR 9.2: Review of\n                       active registry of their empaneled                                                                                   documentation to ensure\n                       Page 94 of 96",
-"notes": "Extracted from a section detailing the evaluation of DLI and results, page 94"
-}
-{
-"section": "Protocol to Evaluate Achievement of the DLI and",
-"content": "DLI             Definition/Description of Results          Scalability of       Time Bound               Data         Data/Result Verification\n                                                                  Disbursements          (Yes/No)          Source/Agency      Verification\n                                                                     (Yes/No)                              and Reporting         Entity               Procedure\n                                                                                                               Period\n                       patients who have been identified as                                                                                  conformity with\n                       high risk following the defined                                                                                       definition/description and\n                       screening protocols (the denominator).                                                                                agreed protocol. Ensure that\n                       A patient will be considered as being                                                                                 the study is accepted by the\n                       actively followed up at the facility level                                                                            MoH following appropriate\n                       if seen within the last 3 months before                                                                               government procedure.\n                       the end of the reporting period. Those\n                       adults who are identified as high risk\n                       and actively followed up at the PMCI\n                       will define the numerator.\n                    •  This indicator will report the additional\n                       percentage of high-risk patients that\n                       are identified and followed up at the\n                       PMCI as compared to the previous FY\n                       as well as the maintenance of the\n                       percentage reported in the previous FY.\n                       Any percentage not maintained would\n                       be discounted against the current FY\n                       results (see example under DLR 3.2). It\n                       is important to note that it may or may\n                       not be the same individuals who are\n                       followed up from year to year.\n                    •  DLR 9.2: To ensure that the screening,\n                       management and referral protocols are\n                       being followed and to access provider\n                       knowledge and practice, a study\n                       following an agreed methodology and\n                       based on a sample of the providers will\n                       be undertaken.",
-"notes": "Content related to DLI evaluation and results verification on Page 95"
-}
-{
-"section": "MAP",
-"content": "The World Bank\nPrimary Health Care System Strengthening Project (P163721)\n                                           MAP\n   INDIA                                                         SRI LANKA\n               1                                                    SELECTED CITIES AND TOWN\n                                                                    FROMKCE CPELS\n                                                                    NAONA (AAAL\n                                                                    MAN ROAS\n                                                                     JUOADS\n                                                                    PROVNCE EOUNDARIES\n               Pall Bay                                            INIE~NATKCNAL BCLADARIES\n                              NORTHERN\n                                                                   LANKA/\n     Gulf of                 North CENTR\n      Mannar               Gnuroc Ocuro\n                                      GJru\n                                                                  Boy of Bengal\n                       North\n                      WESTERN                                      07008\n                                                        EASTERN\n                            Kuruncgak\n                                        EVTRAL\n                       'ESTERNTS\n                    Enfnm       SABARAGAMUWA\n    Laccadive\n       Sea                                                              INDIAN\n                                                                       OCEAN\n                                    SOUTHERN",
-"notes": "Map of the project area, Page 96"
-}
+# DOCUMENT OF THE WORLD BANK
+FOR OFFICIAL USE ONLY
+
+## Report No: PAD2695
+
+# INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+## PROJECT APPRAISAL DOCUMENT
+ON A
+## PROPOSED LOAN
+IN THE AMOUNT OF US$200 MILLION
+TO THE
+## DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+FOR A
+## PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT
+June 4, 2018
+
+Health, Nutrition and Population Global Practice
+South Asia Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official duties. After consideration of the operation by the World Bank’s Board of Executive Directors, this document may be updated and made publicly available in accordance with the Bank’s policy on Access to Information.
+# CURRENCY EQUIVALENTS
+(Exchange Rate Effective May 30, 2018)
+Currency Unit =   Sri Lankan Rupee (LKR)
+LKR 157.94 =   US$1.00
+LKR 100.00 =   US$0.63
+
+# FISCAL YEAR
+January 1 – December 31
+
+# ABBREVIATIONS AND ACRONYMS
+ADB       Asian Development Bank
+AG        Auditor General
+CERC      Contingent Emergency Response Component
+CPF       Country Partnership Framework
+CVD       Cardiovascular Disease
+DA        Designated Account
+DH        Divisional Hospital
+DALY      Disability-Adjusted Life Year
+DP        Development Partner
+DLI       Disbursement-Linked Indicator
+DLR       Disbursement-Linked Result
+EEP       Eligible Expenditures of the Project
+FCTC      Framework Convention on Tobacco Control
+FM        Financial Management
+GDP       Gross Domestic Product
+GoSL      Government of Sri Lanka
+GRM       Grievance Redress Mechanism
+GRS       Grievance Redress Service
+HF        Health Facility
+HLC       Healthy Lifestyle Center
+HMIS      Health Management Information System
+HRH       Human Resource for Health
+IA        Internal Audit
+ICT       Information and Communication Technology
+IMF       International Monetary Fund
+IPF       Investment Project Financing
+IUFR      Interim Unaudited Financial Report
+JICA      Japan International Cooperation Agency
+# ACRONYMS AND ABBREVIATIONS
+MCH        Maternal and Child Health
+M&E        Monitoring and Evaluation
+MoH        Ministry of Health, Nutrition and Indigenous Medicine
+MSMIS      Medical Supplies Management Information System
+MPCLGS     Ministry of Provincial Councils, Local Governments, and Sports
+MSD        Medical Supplies Division
+NCD        Noncommunicable Disease
+NSC        National Steering Committee
+OOP        Out-of-Pocket
+PDO        Project Development Objective
+PEF        Pandemic Emergency Financing Facility
+PHC        Primary Health Care
+PHCPI      Primary Health Care Performance Initiative
+PMCI       Primary Medical Care Institution
+PMCU       Primary Medical Care Units
+PMM        Project Management and Monitoring Department
+PMU        Project Management Unit
+PPSD       Project Procurement Strategy for Development
+PSSP       Primary Health Care System Strengthening Project
+SDG        Sustainable Development Goal
+SHDP       Second Health Sector Development Project
+STEP       Systematic Tracking of Exchanges in Procurement
+TEC        Technical Expert Committee
+WDI        World Development Indicators
+WHO        World Health Organization
+
+# CONTACT INFORMATION
+Acting Regional Vice President:  Ethel Sennhauser
+Country Director:   Idah Z. Pswarayi-Riddihough
+Senior Global Practice Director:  Timothy Grant Evans
+Practice Manager:    Rekha Menon
+Task Team Leaders:    Kanako Yamashita-Allen and Kari L. Hurt
+# BASIC INFORMATION
+## Country(ies)
+Sri Lanka
+
+## Project Name
+Sri Lanka: Primary Health Care System Strengthening Project
+
+## Project ID
+P163721
+
+## Financing Instrument
+Investment Project
+
+## Environmental Assessment Category
+C-Not Required
+
+## Financing & Implementation Modalities
+- [ ] Multiphase Programmatic Approach (MPA)
+- [✓] Contingent Emergency Response Component (CERC)
+- [ ] Series of Projects (SOP)
+- [ ] Fragile State(s)
+- [ ] Disbursement-linked Indicators (DLIs)
+- [ ] Small State(s)
+- [ ] Financial Intermediaries (FI)
+- [ ] Fragile within a non-fragile Country
+- [ ] Project-Based Guarantee
+- [ ] Conflict
+- [ ] Deferred Drawdown
+- [ ] Responding to Natural or Man-made Disaster
+- [ ] Alternate Procurement Arrangements (APA)
+
+## Expected Approval Date
+27-Jun-2018
+
+## Expected Closing Date
+31-Dec-2023
+
+## Bank/IFC Collaboration
+No
+
+# Proposed Development Objective(s)
+The project development objective is to increase the utilization and quality of primary health care services, with an emphasis on detection and management of non-communicable diseases in high-risk population groups, in selected areas of the country.
+
+# Components
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Component Name
+Cost (US$, millions)
+Implementation of the PHC System Reorganization and Strengthening Strategies                    4,404.00
+Project Implementation Support and Innovation Grants                                               14.22
+Contingent Emergency Response Component                                                             0.00
+
+## Organizations
+Borrower:                    Democratic Socialist Republic of Sri Lanka
+Implementing Agency:         Ministry of Health, Nutrition and Indigenous Medicine
+
+# PROJECT FINANCING DATA (US$, Millions)
+
+## Summary
+Total Project Cost                                                                                 4,419.00
+Total Financing                                                                                    4,419.00
+of which IBRD/IDA                                                                           200.00
+Financing Gap                                                                                          0.00
+
+## Details
+World Bank Group Financing
+International Bank for Reconstruction and Development (IBRD)                                      200.00
+Non-World Bank Group Financing
+Counterpart Funding                                                                             4,219.00
+Borrowing Agency                                                                             4,219.00
+
+## Expected Disbursements (in US$, Millions)
+WB Fiscal Year                                 2018     2019     2020      2021     2022     2023     2024
+Annual                                         0.00     21.00    35.00    39.00    50.00     50.00     5.00
+Cumulative                                     0.00     21.00    56.00    95.00   145.00   195.00    200.00
+# INSTITUTIONAL DATA
+## Practice Area (Lead)
+Health, Nutrition & Population
+
+## Contributing Practice Areas
+Climate Change and Disaster Screening
+
+This operation has been screened for short and long-term climate change and disaster risks.
+
+## Gender Tag
+Does the project plan to undertake any of the following?
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of country gaps identified through SCD and CPF
+**Yes**
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or men's empowerment
+**Yes**
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b)
+**Yes**
+
+# SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+## Risk Category
+1. Political and Governance
+**Rating:** ● Substantial
+2. Macroeconomic
+**Rating:** ● Moderate
+3. Sector Strategies and Policies
+**Rating:** ● Moderate
+4. Technical Design of Project or Program
+**Rating:** ● Substantial
+5. Institutional Capacity for Implementation and Sustainability
+**Rating:** ● Moderate
+6. Fiduciary
+**Rating:** ● Moderate
+7. Environment and Social
+**Rating:** ● Low
+8. Stakeholders
+**Rating:** ● Substantial
+9. Other
+10. Overall
+**Rating:** ● Substantial
+# COMPLIANCE
+## Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes   [✓] No
+Does the project require any waivers of Bank policies?
+[ ] Yes   [✓] No
+
+## Safeguard Policies Triggered by the Project
+Environmental Assessment OP/BP 4.01                                                                   ✔
+Performance Standards for Private Sector Activities OP/BP 4.03                                        ✔
+Natural Habitats OP/BP 4.04                                                                           ✔
+Forests OP/BP 4.36                                                                                    ✔
+Pest Management OP 4.09                                                                               ✔
+Physical Cultural Resources OP/BP 4.11                                                                ✔
+Indigenous Peoples OP/BP 4.10                                                                         ✔
+Involuntary Resettlement OP/BP 4.12                                                                   ✔
+Safety of Dams OP/BP 4.37                                                                             ✔
+Projects on International Waterways OP/BP 7.50                                                        ✔
+Projects in Disputed Areas OP/BP 7.60                                                                 ✔
+
+## Legal Covenants
+Sections and Description
+Schedule 2, Section I, A.2: The Borrower shall establish, not later than three (3) months after the Effective Date, and thereafter maintain, until the completion of the Project, a National Steering Committee to monitor the implementation progress and provide overall oversight and guidance.
+
+## Conditions
+Page 4 of 96
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT
+The World Bank
+Primary Health Care System Strengthening Project (P163721)
+SRI LANKA
+
+## Contents
+I. STRATEGIC CONTEXT ...................................................................................................... 8
+A. Country Context .................................................................................................................. 8
+B. Sectoral and Institutional Context ...................................................................................... 9
+C. Higher-level Objectives to Which the Project will Contribute and Rationale for the Use of the Lending Instrument ....................................................................................................... 16
+II. PROJECT DEVELOPMENT OBJECTIVES............................................................................ 17
+A. PDO.................................................................................................................................... 17
+B. Project Beneficiaries.......................................................................................................... 17
+C. PDO-Level Results Indicators............................................................................................. 18
+III. PROJECT DESCRIPTION.................................................................................................. 19
+A. Project Components.......................................................................................................... 19
+B. Project Cost and Financing ................................................................................................ 26
+IV. IMPLEMENTATION........................................................................................................ 30
+A. Institutional and Implementation Arrangements ............................................................. 30
+B. Fiduciary Arrangements .................................................................................................... 31
+C. Results Monitoring and Evaluation ................................................................................... 34
+D. Role of Partners................................................................................................................. 36
+V. KEY RISKS ..................................................................................................................... 37
+A. Overall Risk Rating and Explanation of Key Risks.............................................................. 37
+VI. PROJECT ASSESSMENT SUMMARY ................................................................................ 38
+A. Project Theory of Change.................................................................................................. 38
+B. Economic and Fiscal Analysis ............................................................................................ 42
+C. Technical Soundness ......................................................................................................... 44
+D. Lessons Learned and Reflected in Project Design ............................................................ 45
+E. Sustainability ..................................................................................................................... 46
+F. Fiduciary Assessment ........................................................................................................ 47
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## G. Social (including Safeguards)
+............................................................................................ 47
+
+## H. Environment (including Safeguards)
+............................................................................................ 49
+
+## I. World Bank Grievance Redress
+.......................................................................................... 50
+
+# RESULTS FRAMEWORK AND MONITORING
+......................................................................................... 52
+
+## ANNEX 1: RESULTS FRAMEWORK WITH INTERMEDIATE TARGETS
+....................................................................... 72
+
+## ANNEX 2: DLI MATRIX
+........................................................................................................ 76
+
+## ANNEX 3: DLI VERIFICATION PROTOCOLS
+........................................................................... 83
+
+## MAP
+................................................................................................................................... 96
+
+Page 7 of 96
+# STRATEGIC CONTEXT
+
+## Country Context
+Sri Lanka is a lower-middle-income country with a gross domestic product (GDP) per capita of US$3,835 in 2016 and a total population of 21.2 million people. Since the end of the 26-year civil war in 2009, Sri Lanka’s economy has enjoyed a rapid growth at an average rate of approximately 6.2 percent between 2010 and 2016, reflecting a peace dividend and a determined policy thrust toward reconstruction and growth, although there were some signs of a slowdown in the last three years. The economy is transitioning from a previously predominant rural-based economy toward a more urbanized economy oriented around manufacturing and services. The current Government that came to power in 2015 envisions promoting a globally competitive, export-led economy, with an emphasis on governance and inclusion.
+
+The country has made significant progress in its socioeconomic and human development. Social indicators rank among the highest in South Asia and compare favorably with those in middle-income countries. The country comfortably surpassed most of the Millennium Development Goal targets set for 2015 and was ranked 73 out of 188 countries in Human Development Index in 2015. Economic growth has translated into shared prosperity with national poverty headcount ratio declining from 15.3 percent in 2006–2007 to 4.1 percent in 2015–2016. Extreme poverty is rare and concentrated in some geographical pockets; however, a relatively large share of the population subsists on little more than the poverty line.
+
+Sri Lanka’s fiscal position is affected by low revenues, limiting critical development spending and making it vulnerable to adverse shocks. It has one of the lowest tax-GDP ratio (12.4 percent, 2016) in the world, especially for its income level. The major reasons for the low level of revenues are a small tax base (less than 7 percent of the labor force and formal establishments pay income tax), reductions in statutory rates without commensurate efforts to expand the tax base, inefficiencies in administration, and numerous exemptions. Low revenues combined with largely nondiscretionary expenditures in salary bill, transfers, and interest payments have constrained critical development spending including expenditure on health, education, and social protection, which are low compared to peers. The fiscal deficit in 2016 stood at 5.4 percent of GDP while the debt remained high at 79.3 percent of GDP. The lack of fiscal space could hamper the country’s ability to mitigate the impact of adverse shocks, which is a key consideration in an increasingly volatile economic environment.
+
+Sri Lanka is in a three-year Extended Fund Facility Program with the International Monetary Fund (IMF) to support its economic reform agenda for an amount equivalent to SDR 1.1 billion. The reform program aims to reduce the fiscal deficit, rebuild foreign exchange reserves, and introduce a simpler and a more equitable tax system to restore macroeconomic stability and promote inclusive growth. The program also calls for reforms in public financial management, state-owned enterprises, trade and competitiveness, and transition to flexible inflation targeting. The third review of the program was completed in December 2017, enabling disbursement of the next tranche.
+# SECTORAL AND INSTITUTIONAL CONTEXT
+Sri Lanka’s health system has a track record of strong performance. This is demonstrated by almost universal coverage of maternal and child health (MCH) services, effective infectious disease control, and much better MCH outcomes than would be predicted by the country’s income level. In 2015, the under-five mortality stood at 9.6 per 1,000 live births while maternal mortality ratio was 30 per 100,000 live births (World Development Indicators  [WDI] 2015).¹ The country is also close to eliminating communicable diseases such as tetanus and measles. In fact, Sri Lanka was certified by the World Health Organization (WHO) for eradicating polio in 2014 and as being malaria-free in 2016. However, challenges in malnutrition persist, especially in the country’s estates sector. Life expectancy at birth increased from 70 in 1990 to 75 in 2014 and compares favorably with both the 2014 average for South Asia (68) and countries in Sri Lanka’s income group (67) (WDI 2015).
+
+Now, the country’s main health sector challenge is the need to address the ongoing demographic and epidemiological transition. The share of the population over 60 years will nearly double over the 25‐year period (2015 to 2040), to over one‐fourth of the population, with implications for the country’s epidemiological profile.² Non-communicable diseases (NCDs) already account for 81 percent of total deaths and 77 percent of disability-adjusted life years (DALYs), a summary measure of years of life lost to death and disease (Institute for Health Metrics and Evaluation [IHME] 2017). Because of years lived with morbidity and disability, healthy life expectancy at birth in Sri Lanka in 2012 was 10 years lower than life expectancy at birth (75) (WHO 2015).³ This is partly a result of NCDs.
+
+The NCD challenge has proven especially difficult among men. Men are more likely to practice an unhealthy lifestyle (for example, smoking, drinking, and betel chewing) and are less likely to use preventive services and undergo NCD screening. In a recent NCD study conducted in the Western Province, 34 percent of adult men ages above 20 years were found to be hypertensive, significantly higher than the corresponding figure for women (23 percent). Although men are more likely to be hypertensive, they are found to be significantly less likely to be aware of their hypertensive status,⁴ suggesting a culture of forgoing preventive adult care (World Bank 2017).⁵ Long waiting hours in preferred and better equipped higher levels of care—located further away from where people live—and inconvenient opening hours in outpatient departments in public facilities (8 a.m. - 4 p.m.) make it difficult for working men to use these services. Notwithstanding the fact that women in general, live longer than men, the substantial gender gap in longevity (eight years) in Sri Lanka is consistent with the gender gap in NCD care utilization.
+
+Embarking on the changing burden of disease and adapting to an aging population requires a commitment for higher spending and/or a more efficient service delivery system. Sri Lanka’s strong MCH performance has been achieved with low government spending on health. The Government spends less.
+
+1 WDI (2015). Data retrieved on May 1, 2017 from World Development Indicators Online database, World Bank.
+2 Its population is aging at a faster rate than the average for lower-middle-income countries and the average for South Asia.
+3 WHO (2015). Sri Lanka: WHO statistical profile. World Health Organization, Geneva.
+4 Among those who are found to be hypertensive, only 23 percent of men and 34 percent of women are aware of their status.
+5 World Bank.2017. Non-communicable Disease Burden in the Western Province, Sri Lanka.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+than 2 percent of its GDP on health, a spending level (1.6 percent) that is lower than what can be predicted for its income level (Figure 1) and its usual comparators (2.6 percent for Vietnam and 2.8 percent for Thailand in 2015).⁶ The public health system is funded through general tax revenue, which is managed by the Ministry of Health, Nutrition, and Indigenous Medicine (MoH) and its nine provincial counterparts. Low tax revenue (12 percent of GDP in 2016) has made it difficult to expand public expenditure on health.⁷ Despite the provision of free public health care, public spending on health constitutes only 55 percent of the country’s total health expenditure. In 2015, out-of-pocket (OOP) health payments constituted 38.4 percent of total health expenditure, which is, for example, substantially higher than the corresponding figure for Thailand (11.4 percent). A significant share of total OOP spending is associated with payments for lab tests and drugs for public sector consultations. This could take a toll on the poor as the burden of NCDs rises and hence, the need to spend more and deliver services more efficiently.
+
+## Figures
+Figure 1. Public Expenditure on Health as a % of GDP by Income
+Figure 2. OOP as a % of Total Health Expenditure
+
+50
+8
+8
+8
+1
+7                           Sri Lanka                   10   13.8   12.1   12.3  11.7  12.1   11.4
+100           1000           10000         100000     0
+GNI per capita (Atlas method) current USS      2010   2011  2012   2013  2014   2015
+Sri Lanka    Thailand     Vietnam
+Source: WHO Global Expenditure Database (various years)
+
+Sri Lanka’s curative government health services are provided by a network of 1,118 government institutions operating at three levels. The primary level includes Primary Medical Care Units (PMCUs) and Divisional Hospitals (DHs). These institutions (referred as Primary Medical Care Institutions [PMCIs]) are considered non-specialist institutions/hospitals staffed by one or more medical officers. There is a total of 996 such institutions, 6 of which are under the MoH. The secondary level includes district general hospitals and base hospitals, which provide specialized care. A total of 98 such institutions exist across the country, 18 of which are under the central ministry. Specialized care is also provided by tertiary-level institutions (national hospital, teaching hospitals, and provincial general hospitals). All tertiary-level hospitals (24 in total) are directly under the MoH. A feature of Sri Lanka’s health system is that patients can choose to seek care directly from secondary and tertiary hospitals, bypassing the primary level altogether.
+6 The latest available data is for 2015.
+7 In 2016, Sri Lanka’s general government revenue as a percentage of GDP was 14 percent, much lower than the average for lower middle-income countries (23 percent).
+Page 10 of 96
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+Despite a strong MCH services base, there is limited capacity in the primary care system to provide comprehensive primary health care (PHC), making the country less prepared for the changing burden of diseases and potential health emergencies. First, because of supply shortages and inefficient distribution, the front lines have a critical gap in physicians to help manage chronic NCDs and other forms of curative care. While the size of the country’s health workforce is broadly like other Asian countries (with almost one doctor and two nurses per 1,000 population), it falls far short of levels in advanced health systems, especially in some staff categories such as medical laboratory technologists. Moreover, the geographic distribution of existing health care workers is skewed toward urban areas (especially Colombo and Kandy districts) and higher levels of care. Furthermore, medical officers’ training is focused on MCH services and communicable disease management rather than the prevention and management of NCDs.
+
+Second, primary care facilities are characterized by limited availability of laboratory services, drugs, and equipment for NCD screening. Until recently, many essential NCD drugs could not be dispensed at lower levels of care. While this has changed lately, these facilities dispense these drugs for only two weeks, needlessly requiring patients to visit facilities twice a month. Underinvestment in lower levels of care is also contributing to a growing need to pay OOP for drugs and lab tests even when using public facilities. Consequently, patients bypass these underfunded lower levels of care and go directly to larger hospitals, leading to an underuse of the primary care institutions and overcrowding at secondary and tertiary care institutions.
+
+Issues in supply chain management of drugs could detract utilization of NCD care at PHC facilities and compromise health sector objectives. As indicated earlier, the unavailability of drugs in public PHC facilities is one reason for the rising burden of OOP payments. Several supply chain management issues contribute to this, including limitations in planning and estimation as well as inefficient procurement processes at the central level. In 2015, Sri Lanka launched the Medical Supplies Management Information System (MSMIS) that is being used by higher-level medical institutions to request medical supplies and to forward consumption-related data to the Medical Supplies Division (MSD). PMCIs are yet to utilize this technology. Fully using this technology across the health sector has the potential to yield big savings and help the health sector achieve its objectives. Untimely stock reviews, shortage of storage space, and poorly maintained storage facilities altogether compromise quality and lead to waste and stock-outs. For example, a recent NCD drugs supply chain assessment in the health sector showed lead times of up to 18 months. This also leads to ‘urgent procurement’ as officials attempt to bridge the resulting gap between institutional demand and main order supply. Strengthening data collection in the MSMIS will aid better forecasting and help reduce the inefficiency in ‘urgent procurement’. The ‘standard pharmaceutical procurement’ procedure itself can be improved by reducing the lead time in various steps of procurement. Implementing framework contracts and improving systems and infrastructure can also shorten the lead time.
+
+The curative side of the public health service delivery system is not well suited to dealing with the overwhelming burden of NCDs that require coordinated and people-centered care. Currently, primary-level facilities do not routinely initiate NCD care. While opportunistic NCD screening of women seems to happen during reproductive health care visits, adult men are left oblivious to their health.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+The World Bank
+
+circumstances. As such, the absence of a routine initiation of NCD care appears to particularly harm working adult men. Although ‘healthy lifestyle centers’ (HLCs) were recently introduced to help address NCDs, the population has yet to embrace this model. Each year only about 10 percent of the adult population visits an HLC, mainly due to limited outreach and follow-up. The curative sector needs to adopt the successful approaches of the preventive medical officer of the health sector, such as community outreach by public health nurses and identification and follow-up of people who are at risk. Although the health system has been largely effective in the provision of episodic and curative care, it does not provide continuous and coordinated care. A strong doctor-patient relationship is crucial to the effectiveness of NCD treatments and to enable patients become partners in managing their health. Currently, patients cannot choose between doctors in public facilities but are assigned to whomever is available during their visit. Doctor-patient familiarity can be established more easily in PHC facilities as these are closer to where the patient lives, especially with the introduction of an appointment system.
+
+Although still the dominant source of care (largely due to its free provision), the public sector is increasingly being supplemented by a thriving private sector due to capacity limitations and differences in ‘consumer experience’. The public health system provides nearly 100 percent of the country’s preventive services and as much as 90 percent of inpatient services. However, despite accessible and freely provided government services, outpatient care is equally split between public and private providers.¹² Gaps in the supply of diagnostic and laboratory services (especially at lower levels of public care) and differences in ‘consumer experience’ are reasons for the relevance of the private sector in Sri Lanka’s context. These private providers of laboratory and diagnostic services offer these services without an effective quality control. Private practices, staffed for the most part by off-duty government doctors,¹³ are preferred by the better-off for their superior ‘consumer experience’, specifically (a) more convenient opening hours, (b) much shorter waiting times (an outpatient visit to a government hospital typically lasts at least twice as long as a consultation with a private doctor), (c) presence of provider choice (in the government sector patients are typically assigned to whomever is available when they reach the front of the queue), and (d) more responsive/attentive staff. Reconfiguring service delivery to better manage chronic NCDs and empowering citizens to actively engage in and interact with the management of public health services appear to be necessary steps to narrow the existing gap in ‘consumer experience’.
+
+The health system’s ability to ensure provision of tailored and coordinated services hinges on improvement of the existing health information systems. People with NCDs can experience obstacles at various stages of care from getting a diagnosis, being directed to care, and starting and adhering to treatment. Therefore, ensuring the continuum of care is vital because all these stages affect the chance of disease control. This would be possible if the health information system would allow to uniquely identify patients, track them over time, and share patient information across providers and databases. The absence of an electronic medical information system makes it difficult to track patients across levels of care and hinders provision of people-centered coordinated care. In this regard, the recent move by HLCs to provide patients with health records is commendable and should be scaled up. This will facilitate 12 Households are on average just 2.5 km from a maternity clinic, 4 km from a government dispensary, and 6.5 km from a hospital, and about 93 percent of the population is within 15 km of a hospital. 13 The public sector employs more than 90 percent of all doctors and nurses, consisting of nearly 120,000 staff across the country. There are 87 medical officers, 202 nurses, and 42 midwives per 100,000 population (Ministry of Health [2015] and Annual Health Bulletin, Colombo). As of 2011, the private sector’s share in total number of hospitals and hospital beds was 17 percent and 6 percent, respectively (Rannan-Eliya, R. P., I. K. Liyanage, J. Jayanthan, N. Wijemanne, S. de Alwis, S. Amarasinghe, , I. Siriwardana, S. Dalpatadu, and P. Cooray. 2012. Study on Quality of Care in Public and Private Sectors. Institute for Health Policy, Sri Lanka.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+The provision of coordinated care as people seek care from both public and private providers and different levels within the public system.
+
+To respond to the rising NCD challenge, the Government of Sri Lanka (GoSL) adopted a multipronged approach. On the primary prevention side, Sri Lanka already has some robust primary prevention efforts and is considering new regulations and fiscal measures to control risk factors and prevent the onset of NCDs. The country has a robust tobacco taxation policy. Recently, it was selected to receive technical support under the WHO Framework Convention on Tobacco Control (FCTC) 2030, which aims at strengthening the FCTC measures. Part of the ongoing discussion is to increase the excise tax rate on tobacco from the existing 63 percent to the WHO-recommended level of 75 percent. To discourage consumption of sweetened beverages that lead to obesity and diabetes, Sri Lanka is considering a ‘sugar tax’ on importers and manufacturers of beverages with added sugar. This was announced in the Government’s 2018 budget speech. The MoH is also discussing regulatory measures such as the mandatory front-of-package labelling of foods to reduce consumption of unhealthy foods.
+
+The MoH has developed a position paper to reorganize and strengthen the PHC system, with the objective of responding to the aforementioned challenges, following an extensive consultation process. A Technical Expert Committee (TEC) and several thematic subcommittees appointed by the MoH recently produced and launched a position paper titled ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’. This paper was a product of considerable consultation among Sri Lankan citizens and health experts, including national health and finance authorities, professional associations and unions, service providers, provincial and district administrators, local researchers, private sector and civil society. In total, more than 200 people were consulted through a process that lasted for six weeks. The paper identifies three thematic areas, each with a set of proposals as illustrated in Figure 3. These thematic areas include (a) reorganizing PHC to meet Sri Lanka’s needs, (b) improving information management to improve health services in real time, and (c) strengthening the health sector through key system improvements.
+
+Components of this PHC system strengthening paper are also reflected in the National Health Policy (2016–2025), which outlines broad strategic directions focusing on a people-centered health system. These strategic directions include commitment to develop referral and back referral system for patients in each defined catchment area and ensure patient rights and patient/client satisfaction at all health institutions. It also includes strategic directions to reduce OOP spending and reduce financial risk through providing all diagnostic services, including medical laboratory investigations, within public facilities. A commitment to rationalize the development and deployment of human resource for health (HRH), to expand the training capacity of nurses and other paramedics, and to establish a new structure for management of primary-level curative services is also included in the National Health Policy.
+
+This strategy is being supported by development partners (DPs) including WHO, Asian Development Bank (ADB), and Global Fund. The MoH has requested WHO to provide technical support among other things on defining an essential health care package focusing on management, service delivery, and accountability. The ADB will finance health system enhancement in four provinces with a focus on PHC. The Global Fund has provided the World Bank with resources necessary for establishing a.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+The World Bank
+World Bank-executed Trust Fund to provide technical assistance in support of PHC reorganization and system strengthening strategy implementation.
+
+Given the sector context, including the opportunities and constraints for change, the scope of the current project is to support this renewed effort to strengthen the PHC system to address the growing NCD burden. The project will address both the demand- and supply-side constraints to using NCD care. On the demand side, it includes proactive outreach activities and strong citizen feedback mechanism to change health seeking behavior. On the supply side, it incentivizes the use of PHC through improving their capabilities and responsiveness to population demands. Considering fiscal constraints to increase resources allocated to the sector, the project acts as a catalyst to build consensus and sustain commitment to prioritizing PHC. For example, the project will focus on strategic deployment of HRH, task shifting, and in-service training rather than an increase in production of HRH or pre-service training for family medicine cadre or other PHC-related staff. The project will also focus on screening and treating high-risk adults based on standard risk stratification. This is meant to avoid health complications that lead to cost escalation. While reducing the burden of NCDs requires multi-sectoral interventions including primary prevention, the project focuses on improving health services at PMCIs.
+
+While the focus of the project is to address the growing NCD burden, strengthening the PHC system also helps address other remaining challenges in infectious diseases control, particularly dengue. The recent outbreak of dengue fever, especially in the Western Province, is a reminder that prevention and early control of dengue through removal and modification of breeding sites, reducing human-vector contact through adult control measures and better preparedness is essential. A strong PHC team consisting of the new public health nursing officers is expected to change behaviors through opportunistic awareness creation at health facilities (HFs) as well as active outreach activities. Better equipped PMCIs will also facilitate early detection of outbreaks, increase readiness, and reduce avoidable deaths.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Figure 3. Thematic Areas of the Proposed PHC Reorganization and Strengthening Strategy in Sri Lanka
+Reorganize PHC and reinforce integration of preventive and curative care
+
+1. Reorganize PHC
+- a) Empanel the population at PMCIs and DH and offer quality medical services
+- Establish package of medical services
+- Establish standards for service delivery that meet population needs
+- Link each PMCI/DH/Hospital OPDs with the defined MoH area
+
+- b) Innovate and integrate prevention and treatment for NCDs
+- Develop HLCs
+- Link and locate community-based NCD screening within the PMCI
+- Establish HLCs for each PMCIs as per established standards
+- Create personal health record system parallel to health records
+
+- c) Streamline referrals and transportation
+- Standardize protocols and communication formats for providers making referrals
+- Standardize the format of health records across the health system
+- Establish countrywide ambulance network
+
+- d) Expand HRH capacity
+- Align staff-mix at PMCIs and DH with needs, including creating new cadres; rationalize workloads of PHMs; expand preservice training and build capacity of existing staff; redeploy staff
+
+2. Strengthen the health sector
+- a) Align health financing system with structure of health system
+- Expand allocation to PHCs, provide more funding directly to provinces, and increase financial incentives for performance
+
+- b) Strengthen and integrate health information and technology system
+- Establish a unique identifying health services number for each citizen
+- Expand electronic health records to all facilities
+- Harmonize other health information systems in use
+- Establish a Health Information Unit at each district and secondary and tertiary care hospitals
+- Integrate the use of a geographical information system into the health information system
+
+3. Improve information management system
+- a) Strengthen M&E of the performance of PHC services
+- Establish standards of quality for key NCD services and ensure that all staff are trained to meet them
+- Create appraisal system to measure performance against standards
+- Assign rewards for compliance
+- Introduce clinical audits and morbidity/mortality reviews
+
+- b) Strengthen supply chain management
+- Strengthen standard storage capacity at regional level; maintain three-month buffer stock of critically important drugs and supplies; increase financial delegation; expand MSMIS, dashboard monitoring system, and routine quality assurance
+
+- c) Expand laboratory service capacity
+- Revise and update lab capacity standards; ensure PMCIs have basic diagnostic capability and transportation capacity for samples to cluster labs, strengthen cluster labs at district hospitals; furnish mobile labs, establish lab information management system, and upgrade human resource capacity to meet technology and service demands
+
+- d) Citizen participation in oversight of PHCs
+- Develop, adopt, and promote Patient Rights Charter; create community engagement mechanism and independent investigation of feedback
+# HIGHER-LEVEL OBJECTIVES TO WHICH THE PROJECT WILL CONTRIBUTE AND RATIONALE FOR THE USE OF THE LENDING INSTRUMENT
+The project is well aligned with Pillar 2 of the World Bank’s Country Partnership Framework (CPF) for the period FY2017–FY2020: ‘Promoting Inclusion and Opportunities for All’ (World Bank 2016).¹⁵ Objective 2.2 of this pillar aims to improve health and social protection systems to address the challenges of the demographic transition. NCDs impose pressing challenges in aging populations because they are lifelong diseases that require increased expenditure. The CPF recognizes the growing NCD burden and the gender gap in life expectancy and underscores the need for healthy aging and the importance of ensuring that working-age populations remain productive and healthy. The project is also aligned with the World Bank’s comparative advantage given its global experience in supporting similar reforms and its extensive experience and knowledge in working with the Sri Lankan health system. The project builds on the experience with the World Bank’s support to the closing Second Health Sector Development Project as well as recent analytical and advisory work, including an analysis of the NCD burden in the Western Province, a health financing systems assessment, an assessment of the supply chain and an analysis of the health human resource challenges.
+
+The project results will contribute to the achievement of Sustainable Development Goal (SDG) 3—ensure healthy lives and promote well-being for all at all ages—and the Priority Directions for the Health, Nutrition, and Population Global Practice 2016–2020. One of the targets for 2030 under SDG 3 is to ‘reduce by one-third premature mortality from NCDs through prevention and treatment’. Investment in early detection and management of NCDs which is the primary focus of this project is crucial to the achievement of this SDG target. The project also contributes to the SDG 3 target for universal health coverage—ensuring that all people have access to needed promotive, preventive, curative, and rehabilitative health services, of sufficient quality to be effective, while also ensuring that people do not suffer financial hardship when paying for these services—by increasing the utilization and quality of necessary PHC services as well as ensuring the availability of essential medication.
+
+The World Bank’s Investment Project Financing (IPF) instrument with Disbursement-Linked Indicators (DLIs) is an appropriate instrument to support the Government’s objectives of strengthening accountability for results while streamlining implementation by primarily using the country’s systems. The MoH’s strategy for reorganizing PHC is integrated in the Government’s health sector development plans but is not defined as a separate or distinct Government program (with its own explicit budget, institutional arrangements, and Results Framework), which would have made the project amenable to a Program-for-Results instrument. However, this limitation does not prevent the use of a results-based approach. The use of an IPF with DLIs will allow for defining the important benchmarks of progress in the implementation of the strategy and to release the funds, reimbursing project expenditures, to achieve that strategy. While most of the financing will be released following the verified achievement of certain DLIs, a relatively small amount is reserved for traditional investment type of expenditure for those activities that cannot be reasonably implemented through the Sri Lankan country systems. The GoSL and the World Bank have successfully implemented a similar type of lending modality under the Second Health Sector Development Project (SHSDP), which will close in September 2018.
+15 World Bank, 2016. Country Partnership Framework for The Democratic Socialist Republic of Sri Lanka For the Period FY17-FY2020.
+# PROJECT DEVELOPMENT OBJECTIVES
+
+## PDO
+The Project Development Objective (PDO) is to increase the utilization and quality of primary health care services, with an emphasis on the detection and management of non-communicable diseases in high-risk population groups, in selected areas of the country.
+The utilization of services is defined as those services that will be provided by the public PHC facilities—particularly newly standardized and upgraded PMCIs—to the population with a focus on those patients that are most at risk of a severe or catastrophic NCD event in the next few years. Quality is defined by the standardized, upgraded, and maintained capacity of those PMCIs in terms of (a) the availability of skilled human resources;¹⁶ (b) availability of the laboratory services, drugs, and medical devices to provide appropriate diagnosis and treatment; (c) established relationship between the PHC provider and beneficiary; and (d) regular supervision to ensure quality and safety. Selected areas of the country are defined as the catchment areas that will be established around the upgraded PMCIs (with a target of about 5,000 population per Medical Officer or about 10,000-15,000 population per facility), selected by the provincial health authorities in consultation with the MoH following a needs assessment.
+The PDO will be achieved by supporting the reorganization and strengthening of the Sri Lankan PHC system. Specifically, the project will support the development and implementation of policies and standards and strengthening of various supportive systems, rolled out in a sequenced and phased approach. The project will lay the foundation for a more integrated, coordinated, and people-centered delivery system.
+
+## Project Beneficiaries
+The primary beneficiaries of the project will be the users of public PHC institutions in the selected communities₁₇ of the country. The primary users of the public PHC institutions tend to be the poorer segments of the population.¹⁸ Within the communities supported by the project, those who are most at risk of having or developing a severe or catastrophic NCD will be the primary target. This is both to maximize the potential health impact as well as to prioritize limited resources. This includes an expected 98 percent increase in the number of women at age 35 and at age 45 years who are screened for cervical cancer. The project also targets adults, particularly men, who have a 20 percent or greater chance of having a severe or catastrophic health incident due to NCDs during the next 10 years.¹⁹ The project will eventually benefit the population of the entire country by strengthening the policy and standards for a more comprehensive and people-centered PHC system. During the project period, the 16 One of the key factors is the inclusion of public health nurses within the human resource cadre at the PMCI. The public health nurse will be vital for the outreach, education, and establishment of a long-term relationship between the PMCI and the community that the PMCI serves.
+17 The communities may be the same as municipality boundaries or they may not. Specific catchment areas for each PMCI will be defined and then there will be active outreach and screening process starting with the identified target population of the adult population over the age of 35.
+18 According to a recent household survey, about 8.8 percent of the bottom 20 percent wealth quintile used PMCIs/DH in the month preceding the survey while only 4.3 percent of the top 20 percent did the same. It is recognized though that improved PHC institutions may begin to attract better off households who now seek care in private and higher-level HFs.
+19 According to the WHO NCD risk stratification standards.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+investments toward implementing the policy are expected to reach more than half of the 990 PMCIs or their catchment population (communities). Implementation will take place in each of the nine provinces of the country but in selected communities of those provinces. This will be done in a phased approach scaling from 50 communities in Year 2 to 550 communities by Year 5. The selected communities where the project will initially be implemented are expected to be in the rural or peri-urban areas.
+
+Project interventions will benefit the health sector staff at the central and provincial levels by strengthening their capacities and making resources available to plan and execute the strategy for strengthening PHC services. The staff of PHC facilities (doctors, nurses, and other health professionals) in project-supported areas will also benefit from improved working conditions and elevated professional education and training opportunities.
+
+## PDO-LEVEL RESULTS INDICATORS
+The following result indicators will be used to measure progress toward the achievement of the two key elements—utilization and quality of PHC services—contained within the PDO:
+- (a) Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities (utilization);
+- (b) Percentage of screened adults (disaggregated by men and women) with high risk for non-communicable diseases who are registered and actively followed-up at primary medical care institutions (utilization); and
+- (c) Number of primary medical care institutions that have the required capacities for providing comprehensive and quality care (quality).²⁰
+
+By completion, the project is expected to increase the number of women of ages 35 years and 45 years who are screened for cervical cancer by 98 percent from the current situation; the registration and active follow-up of at least 25 percent of the adults with high risk for a severe or catastrophic NCD event at the PHC level in the communities supported by the project; and the standardization, upgrade, and maintenance of quality of 550 PMCIs serving about 50 percent of the communities in Sri Lanka. It is important to note that these are tracer conditions that also indicate performance of the system in the diagnosis and treatment of other key NCDs. For example, the current practice is such that women who undergo cervical cancer screening also undergo clinical screening for breast and thyroid cancer.
+
+A PMCI meeting this requirement is reported and verified as having:
+- (a) the availability of two trained medical officers and one nurse officer;
+- (b) availability of the laboratory services, drugs, and medical devices to provide appropriate diagnosis and treatment;
+- (c) established relationship between the PHC provider and beneficiary by active empanelment and screening of at least 25 percent of the adult population in the PMCI catchment area; and
+- (d) regular supervision to ensure quality and safety.
+
+For the detailed definition refer to PDO Indicator 3 in the Results Framework and DLI 3 in Annex 3.
+# PROJECT DESCRIPTION
+A. Project Components
+The project will be implemented over a period of about 5.5 years and has three components.
+
+## Component 1. Implementation of the PHC System Reorganization and Strengthening Strategies (US$185 million World Bank Financing)
+Component 1 will support the MoH and the provinces to implement the PHC system reorganization and strengthening strategies through the routine health sector planning and budget execution systems. This approach will further strengthen the capacity of the sector for strategic planning, results monitoring, and budget absorption. For this component, a total of US$185 million has been allocated for disbursement upon achievement of disbursement-linked results (DLRs), as defined in Annexes 2 and 3. DLRs 1.1, 1.2, 1.3, 1.4, 2.1, 7.1 and DLR 7.2 are time bound, given that the achievement of these DLRs is critical for successful implementation of subsequent activities.
+
+As described previously, the MoH’s position paper ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’ lays out three thematic areas. Following consultations with relevant stakeholders during project preparation, the three thematic areas were further translated into five results areas to be supported by the project—
+(a) PHC policy and standards defined to support implementation;
+(b) PMCI capabilities and services strengthened for more comprehensive and quality care;
+(c) supportive systems developed to facilitate improved PHC delivery, with a focus on NCDs;
+(d) health system empowers and becomes more responsive to the demands of the population; and
+(e) utilization of PHC services, with a focus on NCD detection and active follow-up, is increased (as shown in Figure 4). Each of the results areas is described below.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Figure 4. Translation of PHC Reorganization Position Paper into Project Results Areas
+Reorganizing PHC to meet Sri Lanka’s needs
+(Thematic Area 1)
+PHC policy and standards defined to improve comprehensiveness and coordination
+(PSSP Results Area 1)
+A more centered and quality of PHC services, with an emphasis on the detection and management of NCDs of high-risk population groups, in selected areas of the country.
+(PSSP Results Area 5)
+
+Strengthening the health sector through key system improvements
+(Thematic Area 2)
+PHC provider functions and capabilities strengthened for more comprehensive and quality service provision
+(PSSP Results Area 2)
+
+Information management to improve health services in real time
+(Thematic Area 3)
+Supportive systems developed to facilitate improved PHC delivery
+(PSSP Results Area 3)
+Health system empowers and becomes more responsive to demands of the population
+(PSSP Results Area 4)
+
+Note: PSSP = Primary Health Care System Strengthening Project
+
+## Results Area 1
+- PHC policy and standards defined to support implementation (US$24.025 million). This results area will provide the overall strategic focus for PHC reorganization, as well as detailed policies, standards, and implementation guidelines. It will provide the necessary foundation for provincial-level implementation that will be supported under Results Area 2. The specific DLIs that will be supported under this results area are summarized in Table 1 and further detailed in Annexes 2 and 3.
+- (a) The component will support the central MoH’s and the provincial authorities’ endorsement of policies, standards, and guidelines for reorganizing the PHC system (DLI 1). This will involve efforts to define (i) population empanelment and risk stratification processes; (ii) a comprehensive PHC service package; (iii) a PHC network; (iv) functionality and service standards for PMCIs; and (v) PMCI requirements in terms of HR (categories and...
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+The component will support the MoH’s adoption of clinical protocols for defined priority health conditions (DLI 2). The project will support the MoH to define protocols for preventing, detecting, and managing NCDs with a focus on hypertension, diabetes mellitus, and cervical cancer at the PMCIs. The necessary protocols will include defining the risk stratification thresholds based on population risk factors, screening guidelines that are both facility- and community-based, management guidelines for a PMCI, referral guidelines for these conditions, and requirements for essential drug and diagnostic services. It is expected that the MoH will receive necessary technical support from DPs, including WHO to ensure that the clinical protocols follow international good practice which is adapted for the Sri Lanka country context. It is also expected that these protocols will be adjusted and updated, following the utilization by PHC providers.
+
+## Table 1. DLIs under Results Area 1
+- DLI 1. Endorsement by the MoH and by the provinces of policies and standards for reorganizing PHC system
+- Amount Allocated to MoH-Level Results: US$7,395,000
+- Amount to Allocated Provincial-Level Results: US$7,380,000
+- DLI 2. MoH adopts and updates clinical protocols for selected health conditions
+- Amount Allocated to MoH-Level Results: US$9,250,000
+- Amount to Allocated Provincial-Level Results: —
+
+## Results Area 2 - PMCI capabilities and services strengthened for more comprehensive and quality care (US$52.15 million)
+This results area will support the implementation of the PHC reorganization strategies at the provincial level starting in Year 2, following the issued policies, standards, and guidelines. First, it will focus on ensuring that necessary PMCI capabilities for delivering the defined service package with quality, is established. Second, it will support provision of more patient-friendly services. Implementation is planned to take place in all nine provinces around the country. Within provinces, implementation is expected to be phased out over time, increasing the number of PMCIs that meet the minimum requirements to at least 550 by the end of the project. The specific DLIs that will be supported under this results area are summarized in Table 2 and further detailed in Annexes 2 and 3.
+
+### (a) The required PMCI capabilities for providing comprehensive and quality care (DLI 3) are
+- (i) having at least 25 percent of the adult population in its defined empanelment area screened and stratified for risk factors,
+- (ii) having at least two trained medical officers and one nurse (public health) officer,
+- (iii) having minimum set of operational diagnostic equipment and tools,
+- (iv) having minimum availability of essential drugs and lab test capacity (on-site or through a networked/contracted pharmacy or laboratory), and
+- (v) undergoing quarterly supportive supervision facilitated by a checklist to ensure adherence to national quality and safety standards.
+
+Since the project will also strengthen PHC as a comprehensive service delivery platform to meet the health needs of the population, there are several intermediate results indicators—not linked to disbursement—to support the more gradual expansion of PMCI capability as the first point of contact in non-NCD services such as mental, oral, infectious disease, and emergency health care (see Section VII and Annex 1).
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Patient-friendly services
+(b) Patient-friendly services that may be provided by PMCIs (DLI 4) are as follows:
+(i) the PMCI routinely provides NCD drugs through one-month supply blister packs,
+(ii) the PMCI has arrangements with laboratory services, including with private laboratories, where patients can drop off specimens and pick up results at the PMCI,
+(iii) the PMCI has an arrangement with pharmacies, including with private pharmacies, where patients can pick up prescriptions for publicly financed drugs free of charge, and
+(iv) the PMCI has an operational appointment system (web-based, phone, and other) for patients to register specific appointment times.
+
+The promotion of patient-friendly services, in cooperation with the private sector, will be a significant step toward a more public-private partnership enabling environment. As necessary precursors to offering these services, technical analysis, and policy work will be necessary to define how and under what conditions services can be contracted out to the private sector, how to price and make payments, how to define contracts and the institutional responsibilities for managing these arrangements. Undertaking this analysis and experimenting with contracting out with some PMCIs will facilitate a larger discussion about engagement with the private sector for publicly financed health service provision.
+
+The establishment of an operational appointment system and proactive outreach services is expected to address the gender gap in utilization of preventive NCD care services. One of the major reasons for low utilization of preventive and follow-up NCD care among working men is longer waiting times and the inconvenience of opening hours at public out-patient departments. The appointment system is expected to reduce this constraint. Learning from the experience of HLCs that were less successful in reaching adult men, the project aims to provide proactive outreach services.
+
+## Table 2. DLIs under Results Area 2
+- Amount Allocated to MoH-Level Results: —
+- Amount Allocated to Provincial-Level Results: US$32,900,000
+- DLI 3. PMCIs have required capabilities for providing comprehensive and quality care
+- Amount Allocated to Provincial-Level Results: US$19,250,000
+- DLI 4. Enhanced patient-friendly services provided at PMCIs
+
+## Results Area 3 - Support to personal health record system and improvement of the national procurement and supply chain system
+(US$35.0 million). This results area will support two systems that are essential for the PMCIs to provide improved patient care, particularly for NCDs. The first system is the development and scaling up of health information systems that will facilitate coordinated patient care using personal health records and eventually, a web-based referral network. The second system is the improved supply chain management system to ensure timely and efficient supply of drugs. The specific DLIs that will be supported under this results area are summarized in Table 3 and further detailed in Annexes 2 and 3.
+
+To support the process of patient empanelment and risk stratification, the component will support the adoption and rollout of a personal health record for use by the PMCI (DLI 5). The personal record will be maintained in a personal health book by the patient and can be of reference to different providers in the referral network. This concept has already been initiated through the HLCs based on the experience with the MCH books. Initially, this will be implemented through paper-based personal health records. Over time this will transition to an electronics-based system, which is based on the Government.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+strategy to adopt an electronic and web-based health management information system (HMIS). Basic design standards have been adopted by the MoH, and a system has been developed and is currently being rolled out, initially focusing on hospital providers. The component will support the update of those standards, including defining the privacy requirements for online personal health records as well as the rollout of the online system to the PHC level of care.
+
+To ensure that the drug supply at the facility level is based on demand, timely, and using the most economical procedures, the component will support improvement of the procurement and supply chain management system efficiency (DLI 6). This will involve the Government to (a) roll out the MSMIS to the PMCI facilities for better planning, accuracy, and communication; (b) approve revised procurement guidelines for health sector goods; (c) establish shorter procurement lead times as performance benchmarks and measure improvements in meeting those benchmarks for a defined set of tracer NCD drugs; and (d) establish a baseline and measure improvements in reducing the number of urgent, local purchases.
+
+## Table 3. DLIs under Results Area 3
+- DLI 5. Personal health records are used to coordinate patient care over time and through the referral chain
+- Amount Allocated to MoH-Level Results: US$4,200,000
+- Amount Allocated to Provincial-Level Results: US$14,300,000
+- DLI 6. Procurement and supply chain management efficiency is improved
+- Amount Allocated to MoH-Level Results: US$16,500,000
+- Amount Allocated to Provincial-Level Results: —
+
+# Results Area 4 - Development and implementation of a community engagement mechanism
+(US$25.80 million). The component will strengthen the community engagement mechanism and increase accountability for the health sector (DLI 7). The specific DLI that will be supported under this results area is summarized in Table 4 and further detailed in Annexes 2 and 3. The component will support (a) the implementation of an extensive communications strategy to inform the public and the stakeholders of the changes in the PHC system, the availability of improved and comprehensive PHC services, and the specific outreach to high-risk population groups; (b) the establishment, testing, and update of community engagement guidelines at the national and provincial levels; (c) the establishment of a Grievance Redress Mechanism (GRM) for receiving and responding to public feedback on health services through web, telephone, SMS, or other communication channels including the institutional arrangements for managing the mechanism and the accountability and transparency to the public through annual reports, summarizing the feedback received, and health sector response; and (d) the establishment of direct links between the PMCIs and the communities they serve through ‘Friends of the Facility’ committees that will hold regular meetings to deepen community involvement.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project  (P163721)
+
+## Table 4. DLIs under Results Area 4
+- DLI 7. Community engagement mechanisms for health sector operational, including grievance redressal mechanism and community committees at the PMCIs
+- Amount Allocated to MoH-Level Results: US$6,600,000
+- Amount Allocated to Provincial-Level Results: US$19,200,000
+
+## Results Area 5 - Utilization of PHC services, with a focus on NCD detection and active follow-up, is increased (US$48.025 million).
+This results area ensures the focus on the service delivery progress that is expected to be achieved following the implementation of actionable Results Areas 1–4. The specific DLIs that will be supported under this results area are summarized in Table 5 and further detailed in Annexes 2 and 3. While the effort to strengthen the PHC system will benefit a broad range of services, the project will focus on strengthening the detection and management of specified NCDs.
+
+(a) The component will support the MoH’s continued effort to screen women for cervical cancer, targeting women at age 35 and at age 45 years (DLI 8). It will track the number of women screened at public HFs, including PMCIs and Well Women Clinics and ensure that the screening and referral protocols have been followed.
+
+(b) The component will support the effort to identify and actively follow up with high risk adults for NCDs (according to the WHO standards for NCD risk stratification) at PMCIs (DLI 9). A patient will be considered as being actively followed up if seen at the facility within the last 3 months before the end of the reporting period.
+
+## Table 5. DLIs under Results Area 5
+- DLI 8. Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities
+- Amount Allocated to MoH-Level Results: US$2,000,000
+- Amount Allocated to Provincial-Level Results: US$21,125,000
+- DLI 9. Adults determined to have high risk for non-communicable diseases registered and actively followed up at PMCIs
+- Amount Allocated to MoH-Level Results: US$4,900,000
+- Amount Allocated to Provincial-Level Results: US$20,000,000
+
+# Component 2. Project Implementation Support and Innovation Grants (US$14.22 million World Bank Financing)
+This component will provide direct support to the MoH and through the MoH to provinces for activities that would be difficult to implement through the country’s regular public financial management systems. The component would provide essential support to facilitate and enhance the implementation of the PHC system reorganization and strengthening strategies. The component has four subcomponents.
+
+## Subcomponent 2.1
+Will provide support for project management, coordination, and routine project monitoring (US$2.22 million). While the project will chiefly be implemented by the relevant units of the MoH and the provincial MoH, a dedicated team will provide support to the MoH and provinces to ensure proper coordination, monitoring, reporting, and implementation of the activities such as capacity building and innovation grant mechanisms. The composition of the Project Management Unit (PMU) is provided in the Institutional and Implementation Arrangement section. Some of the personnel will be.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project  (P163721)
+
+## Project Financing
+The project will finance salaries of staff in accordance with the Management Services Department Circular 01/2016 (or any update thereto); operating expenditures of an office including rent and utilities; vehicle maintenance and operating costs; office equipment and furniture; banking charges; media fees such as advertisements, air time and space; printing; other expenditures related to communications activities, meetings, and workshop-related expenditures; and short-term or part-time consultants for specific consultancy such as information technology and legal expertise.
+
+## Subcomponent 2.2
+Subcomponent 2.2 will provide support for the results verification as well as operational research that is deemed appropriate for assessing the health needs, demand, utilization, and quality of basic health service delivery (US$4.0 million). The verification process is described in the Results Monitoring and Evaluation section. The verification report on the service capability, functions, and actual service provision will require field-based assessments on the quality of the data being reported by the system. In addition, household and facility-based surveys will be undertaken to inform and assess the progress and challenges related to the PHC reorganizing strategy implementation. For instance, in preparation for the retraining of the health staff, a survey to assess the current strengths and weaknesses in the diagnosis and treatment capability of PMCI staff for the priority conditions will be undertaken. Specific baseline and end-line surveys will be undertaken which will provide supplementary information to the Results Framework including preference of the population for first point of contact, drop-off rate of the population that has NCD risk factors, the proportion of adults who have been diagnosed, referred for treatment, under treatment, and in control of disease. In the last five years, surveys supporting health sector performance analysis using a standard international methodology have been undertaken. Follow-up surveys such as Demographic Health Survey, WHO step-wise Approach to Disease Surveillance Survey, and Service Availability and Readiness Assessment may also be supported. The project will support institutional arrangements through an oversight committee and partnerships with research organizations for continuous monitoring and adaptation as the strategy is being implemented. The project will finance the related expenditures for technical assistance and surveys.
+
+## Subcomponent 2.3
+Subcomponent 2.3 will provide capacity building at the central and provincial levels, aimed at building strategic, managerial, and technical capacity for the benefit of the health sector (US$5.0 million). The component will support capacity building of the central- and provincial-level personnel through short-term, non-degree professional training/courses. The focus areas include (a) strategic planning and project management; (b) dissemination of new evidences, good practices, and innovations in service delivery; (c) economics and finance; (d) private sector participation in health sector delivery; and (e) M&E. In addition, postgraduate degree fellowships in health economics, public health, and public health policy will be offered, through a competitive selection process. Agreements for the postgraduates to return to work for the health sector will be in place. A consolidated human resource development plan —consisting of a central-level plan of the MoH and other related national agencies and plans for each of the 9 provinces—will be prepared, routinely updated, and monitored and will be approved by the Component 2 Review Committee of the MoH and the World Bank. The project will finance both in-country and external training costs including tuition fees, living allowances per national approved rates, travel, workshops, and other related expenditures in the context of the human resource development plan agreed with the MoH.
+
+## Subcomponent 2.4
+Subcomponent 2.4 will support service delivery innovations through a competitive small grant mechanism (US$3.0 million). The component will finance provision of the Competitive Small Grants to
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+support innovations in priority areas, including but not limited to:
+- (i) patient-friendly service delivery improvements;
+- (ii) technological innovations in basic health service delivery;
+- (iii) outreach and empowerment of high-risk groups;
+- (iv) civil engagement;
+- (v) public-private partnerships.
+
+The operational guidelines for ongoing innovations grant mechanism have been developed and agreed by the MoH and World Bank. The grants will be advertised for competitive selection of applications from public institutions such as health providers, nongovernment organizations, and research organizations with sufficient qualifications. The component will finance innovations with defined outputs that are relevant for PHC reorganization. The expenditures under the grants will follow national good practice standards for procurement and financial management (FM).
+
+## Component 3. Contingent Emergency Response Component (US$0 million World Bank Financing)
+The objective of this component, with a provisional zero allocation, is to improve the country’s response capacity in the event of an emergency, following the procedures governed by OP 10.0, paragraphs 12–14, regarding ‘Projects in Situations of Urgent Need of Assistance or Capacity Constraints’. There is a moderate to high probability that during the life of the project, the country may experience a natural or man-made disaster or crisis, including a disease outbreak of public health importance or other health emergency, which has caused, or is likely to imminently cause, a major adverse economic and/or social impact. In anticipation of such an event, the Contingent Emergency Response Component (CERC) provides the country with rapid reallocation of undisbursed funds of other traditional investment project components following an emergency to address immediate financing needs to mitigate, respond, and recover from the potential harmful consequences arising from such emergency. The availability of immediate financing is critically important in
+- (a) supporting the client in the first response,
+- (b) helping coordinate the early recovery phase, and
+- (c) bridging the gap to longer-term recovery and reconstruction phases.
+
+To perform the reallocation of undisbursed funds, a request should be sent from the Ministry of Finance (MoF). The CERC can be activated based on a statement of facts, acceptable to the World Bank, after an adverse natural or man-made event. No withdrawal shall be made unless the World Bank is satisfied. The requests would be reviewed by the World Bank, and if approved, the reallocation of undisbursed funds would be made from Component 2 to Component 3. Disbursements will be made on a reimbursement basis against an approved list of goods, works, and services required to support crisis mitigation, response, and recovery purposes. A CERC Operations Manual—including the operational, fiduciary, disbursement and safeguard arrangements—to underpin its implementation has been developed and agreed by the MoH and World Bank.
+
+In addition, together with its Operations Manual, the CERC provides a natural conduit for potential flow of funds from the Pandemic Emergency Financing Facility (PEF), in the form of grant funding through an Additional Financing. Requests and decisions regarding allocations from PEF would be reviewed and evaluated by PEF Steering Body and informed by technical experts’ advice.
+
+## B. Project Cost and Financing
+The lending instrument is an IPF, financed by a Loan in the amount of US$200 million provided under IBRD terms. The GoSL selected a variable spread loan with a total maturity of 33 years, including a grace period of 6 years, with level repayment linked to commitment and front-end fee financed out of the loan proceeds.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+The project costs and financing are detailed in Table 6. The total project costs are estimated to be US$4,419 million over the project period. This estimate of the total project cost includes all the recurrent costs for delivering PHC and essential referral services as well as the direct investment costs toward PHC system reorganization and strengthening during the project period (Q2 2018 – Q3 2023). These are expenditures deemed necessary for achieving the project objectives. World Bank financing will consist of an IBRD Loan in the amount of US$200.00 million. The project will reimburse the Government up to US$185.00 million of certain defined expenditures under the total project cost, based on the verified achievement of the DLIs. The remaining US$15.00 million of the IBRD loan will go toward Component 2, which finances investments directly (US$14.22 million), refinancing the project-related expenditures under the country Programmatic Preparation Advance (US$0.28 million) and capitalizing the front-end fee of the IBRD Loan (US$0.5 million). The GoSL will contribute an estimated US$4,219 million in parallel counterpart financing to project results, through both capital and recurrent expenditures at the national and provincial levels for running and investing in improved essential referral services. This figure is estimated based on an analysis of existing expenditures and trends.
+
+## Table 6. Project Financing Breakdown (US$, millions)
+- Project Components
+- Project Cost: 4,404.00
+- IBRD Financing: 185.00
+- GoSL Parallel Counterpart Funding: 4,219.00
+- 1. Implementation of PHC System Reorganization and Strengthening Strategies
+- 2. Project Implementation Support and Innovation Grants
+- Project Cost: 14.22
+- IBRD Financing: 14.22
+- GoSL Parallel Counterpart Funding: 0.00
+- 3. Contingent Emergency Response Component
+- Project Cost: 0.00
+- IBRD Financing: 0.00
+- GoSL Parallel Counterpart Funding: 0.00
+- Project Preparation Advance Reimbursement
+- Project Cost: 0.28
+- IBRD Financing: 0.28
+- GoSL Parallel Counterpart Funding: 0.00
+- Total Costs
+- Total Project Costs: 4,418.50
+- IBRD Financing: 199.50
+- GoSL Parallel Counterpart Funding: 4,219.00
+- Front End Fees: 0.50
+- IBRD Financing: 0.50
+- GoSL Parallel Counterpart Funding: 0.00
+- Total Financing Required
+- Total Financing Required: 4,419.00
+- IBRD Financing: 200.00
+- GoSL Parallel Counterpart Funding: 4,219.00
+
+In addition to the above referenced costs, the ADB and GoSL are currently discussing a US$50.00 million loan to the health sector to be approved around September 2018, of which an estimated US$40.00 million will be invested in strengthening of PHC and referral network facilities (infrastructure, equipment, networking of HFs, and so on) in four provinces. While not essential to achieve the PDO, these investments are sufficiently complementary to the project; particularly in the four provinces, they may in part contribute to the objective.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+The total costs of Component 1 are defined as the total provincial health expenditure and the part of the MoH budget that is fully or partially targeted to the delivery of and investment in PHC and immediate referral services during the project period. Provincial health expenditure represents the cost of providing primary care at the level of PMCU and DH (A, B, and C) as well as the cost of care at specialized secondary-level hospitals (base hospitals) under the provincial MoH. The latter serves as the immediate referral units for the lower levels of care. As such, expenditure at base hospitals is also critical for achieving the PDOs.
+
+Table 7 provides projections for provincial recurrent and capital expenditure for the period 2018–2023. To align with the project period and disburse for results achieved after April 1, 2018, the projections for 2018 and 2023 are for three quarters only. Estimated provincial health expenditure ranges from LKR 57 billion (US$368 million) for the three quarters of 2018 to LKR 111 billion (US$719 million) for the three quarters of 2023. About 88 percent of this is recurrent expenditure. From the MoH budget, the following budget codes are identified to fully or partially go to PHC: (a) health sector training (111-02-11-1), (b) medical supplies/drugs (111-1-3-), (c) biomedical equipment (111-2-13-11-2103), and (d) strengthening PHC (111-2-14-25-2502). The first two are recurrent while the last two are capital expenditures. This MoH portion of the PHC estimated expenditure ranges from US$69 million for the three quarters of 2018 to US$78 million for the three quarters of 2023. In total, estimated provincial health expenditure ranges from US$437 million in 2018 to US$797 million in 2023, representing 0.61 percent to 0.72 percent of the country’s GDP, respectively. The World Bank’s reimbursement of these expenditures, up to a total amount of US$185.00 million depending on the achievement of the DLIs, represents 4 percent of the total estimated expenditure from the second quarter of 2018 to the end of the third quarter of 2023.
+
+## Table 7. Estimated Component 1 Expenditures (in LKR millions and converted to US$ millions)
+- 2018 (three quarters):
+- Recurrent: 50,117
+- Capital: 6,719
+- Subtotal: 56,836
+- 2019:
+- Recurrent: 76,479
+- Capital: 10,139
+- Subtotal: 86,618
+- 2020:
+- Recurrent: 87,530
+- Capital: 11,475
+- Subtotal: 99,005
+- 2021:
+- Recurrent: 100,179
+- Capital: 12,987
+- Subtotal: 113,166
+- 2022:
+- Recurrent: 114,655
+- Capital: 14,698
+- Subtotal: 129,353
+- 2023 (three quarters):
+- Recurrent: 98,418
+- Capital: 12,476
+- Subtotal: 110,894
+- Total (2018–2023):
+- Subtotal: 595,871
+- Health sector training: 21,998
+- Medical supplies/drugs: 58,284
+- Biomedical equipment: 2,867
+- Strengthening PHC: 273
+- Total (LKR millions): 679,293
+- Total (US$ millions): 4,404
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+2018 2023 Total
+(three quarters) 2019 2020 2021 2022 (three quarters) (2018–2023)
+
+GDP (current) LKR
+11,090,250 16,333,000 18,076,000 19,555,500 21,120,700 17,014,425 103,189,800
+Percent of GDP
+0.61 0.62 0.63 0.66 0.69 0.72 0.66
+
+Note: Actual provincial health expenditure in 2016 is used to estimate provincial health expenditure 2018–2023.²⁷
+The underlying expenditure types, as represented by the specific budget codes for the expenditures identified under Component 1, are shown in Table 8. Due to the sufficiency of the annual expenditure (estimated expenditure on salaries and wages for the entire project period is US$1.02 billion) and to minimize dual administrative burden of the project counterparts, the eligible expenditures of the project (EEP) for reimbursement under Component 1 will consist of salaries and wages (budget code 1001) under the Provincial Departments of Health Services. The World Bank will reimburse the first amount of salaries up to the value of the DLR achieved in that period. The entirety of the expenditures, including all recurrent and capital investments, will be considered as part of the project expenditure boundary for the purposes of fiduciary and safeguard assessments as well as audit requirements.
+
+## Table 8. Budget Items and Budget Codes
+Source: MPCLGS (Consolidated FM report) Appropriation Account-2016
+Recurrent expenditure
+- Salaries and wages (1001)
+- Overtime and Holiday Pay (1002)
+- Other allowances (1003)
+- Domestic travelling (1101)
+- Foreign traveling (1102)
+- Transport (1401)
+- Postal communication (1402)
+- Electricity and water (1403)
+- Rents and local taxes (1404)
+- Others recurrent
+
+Capital expenditure
+- Acquisition of capital assets (unspecified)
+
+Source: Central MoH budget book
+Recurrent expenditure
+- Health sector training (111-02-11-1)
+
+These data come from the ‘Appropriation Account-2016 of the MPCLGS’. Due to lack of trend data in provincial health expenditure, the average annual growth rate of the central ministry’s actual health expenditure from 2013 to 2016 is used to estimate provincial health expenditure 2017–2023. This average annual growth rate is 14 percent for recurrent expenditure and 13 percent for capital expenditure (nominal terms). On top of this, four budget codes were identified in the central ministry’s budget that go to PHC either in full or partially (strengthening PHC: 100 percent, biomedical equipment: 8 percent, medical supplies/drugs 25 percent, and health sector training: 35 percent). The source for these ratios is the Chief Accountant Office of the Ministry of Health. For these budget lines, actual spending in 2016 and budget estimates and projections for 2017–2020 are there. This budget is extrapolated till 2023 and actual utilization of budget in 2016 is used to estimate the proportion that will be spent on these items 2017–2023. Budget utilization rates are as follows: strengthening PHC (17 percent), biomedical equipment (97 percent), medical supplies/drugs (85 percent), and health sector training (114 percent). GDP for 2016 is from WDIs. For the period 2017–2020, IMF GDP projection is used and the IMF projection for the period 2021–2023 is extrapolated. Exchange rate as of February 2, 2018. All figures for 2018 and 2023 are for three quarters only. This is done for 2023 to match the project period and for 2018 to disburse for results (in retroactive financing mode) as of April 1, 2018. The corresponding GDP figure is also adjusted accordingly.
+
+Page 29 of 96
+# IMPLEMENTATION
+## Institutional and Implementation Arrangements
+The MoH will be the primary organization from the GoSL responsible for implementing the project. The MoH is responsible for setting policy and standards and updating protocols for strengthening the PHC system with the aim of streamlining access to quality people-centered health services, increasing efficiency of these services, and ensuring a continuum of primary care for people throughout their life cycles. It is also responsible for M&E of the performance of the sector including the PHC system, using administrative data and period surveys.
+
+The MPCLGS provides oversight, coordination and has authority over the Project Councils for provincial-level project activities. Nine provincial departments of health services as part of the provincial Ministries of Health and under the authority of the Provincial Councils, are responsible for adopting protocols and planning and implementing the PHC reorganization and strengthening activities per the set standards. Therefore, the MoH will be working closely with the MPCLGS in the project management structures and directly with the provinces and their department of health services in coordinating, monitoring and reporting on the project implementation. The provinces will receive funds through and report to the MPCLGS. The MPCLGS has the necessary authority to ensure that the loan funds are transferred to the provinces on a Grant basis, that the provincial authorities provide the necessary progress and financial reports and undertake the other necessary responsibilities in participation of the project.
+
+A National Steering Committee (NSC) will be established, not later than three months after effectiveness, and will meet at least semiannually to provide oversight, monitor the implementation progress, and provide overall guidance. The committee will be co-chaired by the Secretaries of the MoH and MPCLGS. In the absence of either Secretary may delegate their representation. The additional members will consist of: Secretary finance commission, nine provincial Chief Secretaries, representatives from the central MoH and provincial MoHs, External Resources Department, National Planning Department, the Budget and Treasury Departments of MoF, Department of Project Management and Monitoring (PMM) and any others as per the Management Services Department (MoF) Circular 1/2016. Separately, the MoH and MPCLGS will have more regular meetings with necessary stakeholders to review project progress, identify challenges and agree on actions to address implementation challenges. Provincial-level coordination meetings are planned to identify local and address local implementation issues about every other month, particularly in the early stages of the project.
+
+Under the Ministry of Health, there will be a standing Component 2 Review Committee chaired by the Director General of Health who will be responsible for reviewing and recommending for approval by the MoH Secretary: (a) the budget and activity plans; (b) the capacity-development plan and the small competitive innovation grants as per the operational guidelines; and (c) high-level contracts or
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Project Management Unit (PMU)
+A PMU has been established and will consist of the following key positions: Project Director, Deputy Project Directors (MoH and MPCLGS), Project Officers, Procurement Specialist, FM Specialist, Accountants (MoH and MPCLGS), Internal Auditor, M&E Officers (MoH and MPCLGS), Communications and Information and Communication Technology (ICT) Officers, Provincial Project Managers, Provincial Project Officers and Regional Project Coordinators as well as other relevant administrative and technical support staff. The Project Director will report to the Secretaries of the MoH and MPCLGS who will co-chair the NSC. It is important for provincial and regional project staff to be an integral part of the project management structure given the provincial involvement in project implementation. The provincial and regional project staff will have responsibilities for coordination with various stakeholders and reporting on the project’s progress and performance. Specific job descriptions and responsibilities for each position will be established. The staffing structure is based on this high level of effort required to manage the substantial stakeholder and technical risk, but will be reviewed and updated from time to time to ensure that the staffing is consistent with the workload and requirements.
+
+## Fiduciary Arrangements
+FM, disbursement, and audit arrangements. The FM responsibility for activities under the central health agencies rests with the MoH. The MPCLGS will be responsible for FM for activities under the provincial health agencies, including the compliance with the financial covenants of the legal agreement. The MoH, MPCLGS, and other relevant health sector institutions will be strengthened to carry out the program-related FM arrangements. The MoH will have assigned staff including an FM Specialist and any other supporting staff assessed as necessary, satisfactory to the World Bank to manage and coordinate the overall FM arrangements related to the project. The MPCLGS will also have assigned staff to coordinate overall FM arrangements related to the provincial component of the project.
+
+### Component 1
+The MoH and MPCLGS will have budgetary allocations for the entire project and funds will be released to MoH agencies and Provincial Councils (through MPCLGS) as needed. Under Component 1, which will disburse following the achievement of the DLIs, all project activities will be pre-financed by the GoSL and accordingly the disbursement method will be on a reimbursement basis supported by financial reports. Interim Unaudited Financial Reports (IUFRs) will be prepared, as necessary, by the MoH and MPCLGS. There will be one set of IUFRs prepared by MPCLGS for the provinces and, if necessary, one set of IUFRs prepared by the MoH containing the EEP.
+
+Reimbursements of funds by the World Bank will be made to a USD denominated account under the consolidated fund of the GoSL, based on IUFRs and fulfillment of agreed DLIs. Therefore, the project will follow the regular GoSL systems of funds flow for the project operation. The GoSL would be responsible to channel the required funds in adequate amounts to the respective sector institutions from the consolidated funds. A cash flow indicator will be used to monitor the funds flows against the requests being made by the health sector institutions. The project IUFRs will include expenditures incurred under the EEP and the withdrawal claim will be restricted to the cumulative expenditures under the EEP. The disbursement amount will be based on the (a) incurred expenditures for the EEP and (b) the amount assigned to the DLIs achieved and validated. The disbursements under the project are planned to occur twice per year, normally around January and June of each year, based on the achievement of the DLIs. A minimum application for reimbursement will be established at US$100,000. The project will include the
+# THE WORLD BANK
+Primary Health Care System Strengthening Project  (P163721)
+
+Provision for retroactive financing starting from April 1, 2018, in the amount up to US$20 million to recognize results that will expenditures will be made towards project results before the signing of the Financing Agreement and to facilitate the initiation of activities in early 2019. Satisfactory FM arrangements are in place as this will be a continuation from the Second Health Sector Development Project for which expenditures will be reimbursed up to December 31, 2017.
+
+The internal audit (IA) of the project is expected to be carried out by the IA units of the MoH and Provincial Councils. The external audit of the project will be performed by the Auditor General (AG) of Sri Lanka. For the proposed program, the AG will carry out project-related audits of the MoH and MPCLGS and issue two audit reports, one each for MoH and MPCLGS within six months of the end of the government financial year. For the project, a consolidated audit report, including an audit opinion on the consolidated financial statements will be prepared reflecting health sector expenditure incurred by central-level institutions and for the provincial-level health sector expenditures. The consolidated financial reports will reflect the health sector expenditures selected under the EEP from all sources of funds. The EEP selected for the program will consist of non-procurable items (see paragraph 55) and further details of the same will be reflected in the fiduciary management operational guidelines. The objective of the consolidated audit reports is for the World Bank to obtain assurances that the consolidated financial reports present a true and fair view of the health sector expenditures and are free from material mis-statements.
+
+For Component 2, the budget provision for the traditional investment component will be reflected separately under MoH overall budget estimates under foreign financing sources. Disbursements under Component 2 will be made against eligible expenditures for activities under the component upon submission of quarterly IUFRs. Eligible expenditures will comprise (a) consulting and non-consulting services, (b) goods, (c) workshops and training, (d) other operating costs, and (e) innovation grants. FM responsibility will rest with the FM unit within the PMU at the MoH. A separate Designated Account (DA) will be opened for Component 2. The DA will be operated and managed by the MoH, which will maintain separate sets of accounts for the component. Disbursements of funds will be report based. The MoH will submit quarterly IUFRs to the World Bank within 45 days of the end of each quarter. The World Bank will advance funds to the DA in adequate amounts to meet forecasted expenditures for a period of six months, as reflected in the respective IUFR. Withdrawal applications will be prepared by the MoH and replenishments to the DA will be based on the IUFRs approved by the World Bank. The specific format of IUFRs, designed for Component 2 in accordance with the guidelines issued by the World Bank, were agreed and attached to the Disbursement Letter. The specific financial reporting from the MoH to the World Bank on the innovation grants would be limited to the specific release of the grant tranches. The financial reporting requirements from the grantee to the MoH will be included in the operational guidelines of the small innovation grant mechanism.
+
+The MoH will also open a dedicated Sri Lankan Rupee account. The MoH will have the option of requesting a direct payment to suppliers by (a) the Central Bank of Sri Lanka, using the proceeds in the DA or (b) the World Bank against the credit for large payments. It is agreed that all payments related to the technical assistance component will be handled centrally by the MoH and no funds will be transferred to any other agency/unit.
+
+The MoH will prepare the annual financial statements of Component 2 for auditing by the AG’s Department. The audit will cover all technical assistance component activities carried out by the MoH and all payments made from the project accounts related to the same. This audit report will be a separate one.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Audit arrangements
+The audit will be conducted annually. Audit report will be submitted within six months after the end of the financial year. The MoH will be responsible for the timely submission of the annual audited financial statements to the World Bank. The audit report will be monitored in the World Bank’s Audit Reports Compliance System in PRIMA. According to the World Bank’s Access to Information Policy, the audit reports received by the World Bank will be disclosed on the World Bank’s external website for public access.
+
+## Procurement arrangements
+Procurement for the proposed project will be carried out in accordance with the World Bank Regulations for IPF Borrowers July 2016, revised in November 2017, hereafter referred to as ‘Procurement Regulations’. The project will be subject to the World Bank’s Anticorruption Guidelines, dated July 1, 2016. As per the requirement of the Procurement Regulations, and given that the project does not involve high value and complex contracts, an abbreviated version of the Project Procurement Strategy for Development (PPSD) has been prepared. The 18 months procurement plan sets out the selection methods to be followed by the Borrower during project implementation in the procurement of goods, works, and non-consulting, and consulting services financed by the World Bank. The Procurement Plan will be updated at least annually or as required to reflect the actual project implementation needs and improvements in institutional capacity.
+
+Due to the nature of the project design and financing instrument (IPF with DLIs), the bulk of the disbursement will be through EEP consisting of non-procurable items. However, the procurements within the project boundary, even though not financed by the World Bank, could have an impact on the World Bank’s program, and therefore the MoH procurement was assessed as well. The MoH has previous experience of implementing procurement under World Bank financing. Additionally, the GoSL has well-established procurement guidelines, manuals and procedures, and standard procurement documents that provide a robust framework for the implementation of procurement. Nevertheless, delays are encountered in the execution of procurement owing mainly due the multiple layers of decision making and a general trend of elevating decisions to senior levels of management within the ministry even when not required. This risk will in part be mitigated through the project support toward increasing the efficiency of the MoH procurement supply chain for medical supplies. Due attention will need to be paid to non-World Bank financed contracts to the extent that these impinge on the smooth execution of the project. The MoH has identified a Procurement Specialist who will be dedicated to procuring the contracts to be financed with the World Bank funds and will also need to follow the progress of non-World Bank financed contracts under the program. The project staff will be trained on the use of the World Bank’s Procurement Regulations as well as on Systematic Tracking of Exchanges in Procurement or STEP (Systematic Tracking of Exchanges in Procurement) system. Some small-value procurement is expected to be carried out by grant recipients under the innovation grants under Subcomponent 2.4. Since these are grants, they will not be supervised by the World Bank. However, a grant mechanism has been agreed that includes details of procurement procedures and requirements for record keeping.
+
+Procurement of World Bank-financed contracts is not complex and comprises minor office renovation, office furniture, ICT equipment, printing equipment; two vehicles; legal services; social/citizen engagement/environment consultants; local consultants and consulting firms for project readiness; media production, airtime, and printing; and an organization to support the appointed third-party verification agent in the verification of results. A PPSD has been prepared and no major market risks are envisaged.
+# CURRENT_PAGE_RAW_OCR_TEXT
+The World Bank
+Primary Health Care System Strengthening Project   (P163721)
+The PPSD describes the overall project operational context, market situations, implementing agencies
+capacity, and possible procurement risks.
+
+## Results Monitoring and Evaluation
+The Results Monitoring and Evaluation will take two approaches: (a) routine project results
+monitoring, reporting and verification and (b)     operational research   for  learning, particularly to
+understand provider- and population-level change. The institutional arrangements for the first approach
+will be integrated into the MoH and Provincial-level monitoring and reporting systems, supplemented by
+the PMU which will have a full-time monitoring and evaluation (M&E) Specialist and which will facilitate
+the regular collection and reporting of the project results. Verification of those results will be undertaken
+by an independent third party. The institutional arrangements for the second approach will be overseen
+by a group of external technical experts, key project implementers, local research organizations and DPs.
+The PMU M&E Specialist will be the secretariat for this group. The two approaches are described in further
+detail below.
+
+## Routine project results monitoring, reporting and verification
+There will be regular tracking and
+review of the entire project performance using DLI and non-DLI indicators. Project quarterly reviews of
+the indicators will be carried out by the MoH and provincial MoH at progress review meetings. Information
+will be periodically shared with   the PMM to facilitate their    verification process and government
+monitoring role. At least annual reviews of performance will be conducted by the NSC. The report to be
+reviewed by the NSC will cover the progress of the PHC reorganization overall and the activities financed
+by Component 2 of the project. A midterm review of the PHC reorganization, including the project, will be
+conducted by the second quarter of 2021. The complete results framework and monitoring with baseline,
+intermediate and end targets are provided in Annex 1.
+
+The verification process will depend on the specific type of DLRs of which there are three types:
+(a) process-related results that consist of Government action (policy approved, guidelines and standards
+issued, reports accepted), (b) defined output results such as PMCIs that have defined qualities or
+information systems that are installed and used, and (c) intermediate outcomes of health services utilized
+by the population and delivered by certain defined providers. The process-related results will be verified
+following the review of the official document (policy, circular, or other instrument), ensuring that the
+content of the document is consistent with the required definition for that DLR, the document has
+necessary approval authority and was issued as required by the standard Government procedure. DLRs
+reflecting outputs are related to service delivery capacity and supply, requiring data to be reported at the
+facility level. Similarly, measurement and verification of intermediate outcome DLRs, measuring numbers
+of services delivered and utilized, require data reported at the facility level through the Government’s
+HMIS. Verification of output- and outcome-oriented DLRs at the facility level will involve the application
+of standard HMIS data quality audit methods²⁸, give a qualitative measure of confidence of the data
+reported and assessing the underlying data management and reporting systems for standard program-
+level output indicators. Thus, verification will involve two tasks at two levels: (a) reviewing evidence at the
+Government, MoH or Provincial-level that the actions and processes have taken place with the necessary
+authority and with the agreed content; and (b) applying the standard data quality audit methodology at
+28 For a complete reference guide, see (see https://www.measureevaluation.org/resources/publications/ms-08-29).
+Page 34 of 96
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## DLR Types, Reporting Systems, and Verification Methods
+Level of
+Types      Examples     Characteristics    Reporting    Reporting      Verification Methods
+of DLRs                           and        Systems
+Verification
+Actions and   1.1, 1.2,  Policy documents    MoH and      Government    Evidence that the
+processes     2.1, 2.2   approved,           provinces    reports       actions/processes have
+guidelines and                                 taken place meeting the
+standards issued,                              minimum requirements
+reports accepted                               as described in the
+protocols and with the
+necessary authorization
+for implementation
+Outputs       3.2, 4.1,  PMCIs with          PMCIs and    HMIS          Data quality audit
+5.2        certain capacities  other health
+Intermediate  8.1 and    Services delivered  institutions
+outcomes      9.1        by health
+institutions
+
+The verification of the DLIs will be conducted by a verification agent with the necessary level of
+independence from the project implementers, credibility, and authority to lead the verification process.
+It has been agreed that the PMM will be the verification agent. The PMM and PMU will jointly select an
+organization (firm, research center, or other type of institution) to provide necessary technical support
+for the verification process, based on terms of reference agreed by the World Bank. The PMM will verify
+achievement of DLIs based on the results reported by the MoH, will verify the information obtained from
+the technical support agency validating or providing commentary on the results reported, and will
+determine the verified DLI performance and resulting disbursement amounts. This verification
+arrangement is subject to continual review and may be subject to change if necessary.
+
+Operational research for learning about provider- and population-level change. To assess the
+performance of the system with respect to the cascade of care and provide supplemental information to
+the Results Framework, three rounds of household surveys will be canvassed (baseline, mid-line and end-
+line) in the catchment areas of the PMCIs that are to be upgraded. The surveys will assess the actual
+prevalence of NCDs and risk factors; the proportion of adults who have been diagnosed, actively followed
+up, and under treatment; and the share of those that have controlled the disease. The panel nature of the
+surveys will help track progress and do necessary course corrections. The survey will also include modules
+on preferences of people for first point of contact and will supplement information on community
+engagement and satisfaction. Other rapid survey approaches aimed at the facility—for example, to
+understand provider level knowledge and competencies—may also be deployed. The group of
+implementers and other experts overseeing this research will use the information for assessing whether
+the expected provider and population-level change is occurring and to make recommendations on
+strategy course corrections, when and as appropriate. Associated expenditures will be financed from
+Component 2.
+# ROLE OF PARTNERS
+There is considerable donor commitment to the health sector program in Sri Lanka. Therefore, it is important to ensure that every agency that is active in the Sri Lankan health sector contributes to one common country-led strategy and moves toward harmonizing and aligning its processes and procedures. In this context, the MoH, under the leadership of Director General of Health Services, has established a committee to coordinate the PHC system strengthening support among key DPs. The main external DPs involved in health other than the World Bank are ADB, Japan International Cooperation Agency (JICA), the Global Fund, the European Union, German Agency for International Cooperation (Deutsche Gesellschaft für Internationale Zusammenarbeit), United States Agency for International Development, WHO, United Nations Children's Fund, United Nations Population Fund, International Labour Organization, and World Food Program. The Health Sector Development Partner Forum meet periodically to facilitate joint planning and conduct joint reviews of the sector performance.
+
+The Global Fund has provided the resources to establish a World Bank-executed Trust Fund in the amount of about US$1.5 million to provide technical assistance and analytical work in support of PHC reorganization and system strengthening strategy implementation. The World Bank will be able to expand its support to the GoSL and MoH specifically with international good practice and detailed analysis that would further inform the policies, standards, and details of the implementation strategy; facilitate dialogue with and analysis of options for engagement with the private and non-governmental sectors; support knowledge exchange of countries who have positive experience implementing similar reforms; and document Sri Lanka’s positive experience with addressing MCH that was learned by its experience in addressing NCDs.
+
+In addition to the World Bank, ADB and WHO will be key partners providing support to PHC policy development and investments requiring a strong and active coordination mechanism. ADB and the GoSL are at an advanced stage of discussion in concluding an agreement in support of the health system development, with a focus on PHC in socioeconomic vulnerable areas in four provinces. The support will include infrastructure and equipment upgrades, technical assistance support focusing on PHC development, and disease surveillance system support. There will be a coordination mechanism at the national level and within the four provinces to ensure that the resources from the different sources of financing are well aligned. WHO has been requested by the MoH to provide support on PHC related policy including (a) a sustainable development framework that identifies priorities in the health sector; (b) essential health care package focusing on management, service delivery, and accountability; and (c) road map for sustainable health financing. The technical expert group referenced in paragraph 71 will also play the role of coordinating the technical assistance among the different DP agencies to ensure that there is no duplication or critical gaps.
+
+The Primary Health Care Performance Initiative (PHCPI) is a partnership of the World Bank, the Bill and Melinda Gates Foundation and WHO to catalyze global improvement in PHC through better performance measurement, knowledge sharing, and benchmarking. The development of a national yet internationally comparable scorecard under the above initiative was discussed as a possible tool for assessing the performance of the reorganized PHC system. Once agreed, the indicators in the country specific score card will be updated regularly to monitor the program supported under this reorganization. If GOSL permits, the country scorecard will also be made available on the PHCPI website (https://phcperformanceinitiative.org/). In addition, the PHCPI will continue to share information and
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Key Risks
+A. Overall Risk Rating and Explanation of Key Risks
+The overall risk of the project is rated Substantial given that there are three project risks that are also rated Substantial by the Systematic Operations Risks-Rating Tool: (a) political and governance, (b) stakeholders, and (c) technical design. Substantial political and governance risk is due to the highly contentious nature of reorganizing the health sector generally and particularly in the Sri Lankan environment. Reforms initiated under the Government can become politicized easily and can be blocked by important and powerful stakeholders. To mitigate the political and governance risk, the team conducted a stakeholder analysis to identify key stakeholders, assess their position and relative influence on adoption and implementation of the proposed PHC reorganization, and develop strategies for coalition building. The TEC appointed by the Minister of Health organized a series of consultation meetings, with participation of representatives from academia, medical administrators, professional organizations, trade unions, private sector, research institutions, civil society, program directors, and middle-level managers at the provincial and district levels. These consultation processes have contributed to building a coalition of support and highlighting potential benefits of contentious areas such as harmonizing the PMCIs, engaging the private sector, and strengthening procurement and supply chain management. The mitigation measure of wide stakeholder consultation and consensus building will be continued through implementation.
+
+Substantial stakeholder risk reflects the wide range of stakeholders mentioned earlier and DPs that provide support to the Sri Lanka’s health sector. In addition to the stakeholder consultation outside of the Ministry of Health, concerted effort was made during preparation to consult and align the project with different initiatives and departments under the MoH and different DP support, all in support of PHC system reorganization and strengthening. The GoSL is aware of the need to continue coordinating within the MoH and the different partner support to effectively implement its strategy. The MoH has established an internal coordination mechanism for the PHC reorganization strategy implementation under the authority of the Director General of Health to ensure that the departments under the MoH work together toward a common vision. DPs will be asked to contribute to this committee when and as needed. The MoH’s Department of Planning will also play an active role in harmonizing the different external investments in the health sector more broadly.
+
+The nature of the technical risk is based on the ambitious nature of the project and the need to ensure that the MoH receives timely and quality technical support during the implementation of the project. During the project preparation, this risk was mitigated through good technical contributions from national and international experts in the design of the project and making sure that good international experience was adapted to the country context. To mitigate the technical risk during implementation, the World Bank will continue to work with key DPs to provide coordinated and timely technical advice that will fit the Sri Lankan context. The need to enhance institutional technical capacity will be addressed through capacity-building support financed by Component 2 and South-South exchange, which will give implementing health authorities/policy makers opportunities to (a) obtain new knowledge about innovations and standards in people-centered health care, especially for addressing NCDs; (b) enhance
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Project Assessment Summary
+A. Project Theory of Change
+The project was designed following several stakeholder consultations that defined the actions and outputs necessary to address the defined challenges and result in improved service delivery. Table 10 is a simplified presentation of that consultation process. As seen in this table, the DLIs represent one or two of the key outputs (seven in total) for each of the defined problems and two of the expected intermediate results.
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Table 10. Conceptualizing the Change Supported by Project
+
+**Challenges**
+PHC as a comprehensive concept and model of service delivery is not well-defined. Insufficient guidelines available for quality NCD care. The result is that the system insufficiently prioritizes NCD management.
+
+**Indicative Actions**
+- National medical institutions, colleges, councils, and individual experts mobilized to work on the policies
+- Review of international literature and practice
+- National and provincial stakeholder consultations
+- Drafts and reviews
+- Operational research to review progress and change at the facility and the population level
+- Routine M&E of progress
+- Review of project indicators by the MoH in the review of National Health Development Plan regularly (that is, 3 times per year)
+
+**Outputs**
+- Strategy for strengthening and reorganizing PHC adopted (DLI 1)
+- National and provincial policies on patient empanelment and risk stratification adopted (DLI 1)
+- National and provincial adoption defining comprehensive PHC, the network of service providers, and related standards (DLI 1)
+- Clinical protocols adopted and disseminated for priority NCD conditions (DLI2)
+- Baseline, Midline and End-of-project Surveys (Component 2)
+
+**Behavior Change**
+Providers are expected to provide more and better-quality services because of the following reasons:
+- Clear indication of national and provincial priority which is routinely monitored
+- Provision of all the necessary enabling centered conditions to provide those services;
+- Through very clear targeting of the priority people target population;
+- Through a recognition and award system for providers who perform best. Such a system currently exists and is motivating in the MCH part of the system;
+- Access to professionally rewarding and career enhancing training opportunities;
+- Regular supportive supervision;
+- Some increase in autonomy for providers.
+
+**Intermediate Outcomes**
+- An increase in the number of women at age 35 and at age 45 years having had a cervical cancer screening test at the network of public health facilities (DLI 8 and PDO indicator).
+- An increase in the percentage of screened adults, disaggregated by gender, with high risk for NCDs registered and actively followed up at PMCIs (DLI 9 and PDO indicator).
+- Delivery of other PHC services improved (infectious disease, mental, oral health detection and primary treatment as well as emergency response).
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Contracts/arrangements
+- Contracts/arrangements are made with referral laboratory and pharmacy outlets.
+- Transportation is arranged for transport of specimens.
+- Information technology is provided.
+- An operational appointment system in place.
+
+## Systems to coordinate patient care
+- National medical institutions, colleges and experts mobilized to define standards.
+- Draft and debate on content of personal health record and patient book.
+- Updating and testing of HMIS for PMCIs.
+- Provision of equipment and access to systems.
+- Training in use of the system.
+- Policy-level effort for revising procurement guidelines for health sector goods.
+- Procurement tracking system established at MSD to measure performance.
+- Improving IT infrastructure at PMCIs.
+- Training of personnel on MSMIS.
+
+## PHC system responsiveness
+- Mobilizing national institutions and experts in defining the community engagement mechanism.
+- Health sector community engagement guidelines adopted (DLI 7).
+- Communications strategy implemented.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Community Engagement
+- Mechanism Operational (DLI 7)
+- Operating the system including analysis, monitoring and reporting on the feedback and response/actions taken
+- Training of the operators in the use of the system
+- Mobilizing experts to support the communications strategy development
+- Communications to the public about the newly branded PMCIs.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Economic and Fiscal Analysis
+Investing on prevention, screening, and early management of NCDs will help mitigate the upward pressure on Sri Lanka’s health budget and NCD’s adverse effect on household welfare and economic growth. The share of NCDs in aggregate DALYs in Sri Lanka has risen from 52 percent in 1990 to 77 percent in 2016 and the total number of DALYs attributable to NCDs has increased by 40 percent during this period. This trend poses a significant cost to the economy in general and household economic status, in particular. NCD-related disability reduces labor force participation of the working-age population, their productivity and savings, ultimately affecting economic growth. Rising NCDs and the subsequent burden on the health system would result in patients incurring more of the incremental cost of care. Two facts substantiate this claim. First, NCD treatment is in general expensive (requiring emergency care and hospitalization) and recurring in nature. Second, owing to Sri Lanka’s low public health expenditure and the country’s tight fiscal space, the cost of rising prevalence of NCDs will inevitably be borne by patients. This higher OOP payment will have implications on welfare through reducing nonmedical development expenditures and investments (including educational and nutritional spending).
+
+The project will improve efficiency in two ways: through the focus on prevention and early detection of NCDs rather than treatment after complications and through encouraging utilization of care at PMCIs that are arguably cheaper than utilization at specialist-level hospitals. Bypassing the PHCs and visiting higher-level facilities for detection and management of chronic NCDs (such as hypertension and diabetes) is inefficient because both labor and capital costs are much higher at this level. The project attempts to change this through incentivizing spending more on primary and secondary prevention of NCDs (through early detection and effective management of NCDs) at lower levels of care. The three disease-specific interventions that are explicitly incentivized by DLIs are also cost-effective as per global evidence drawn from the Disease Control Priorities project (see Horton et al. 2017) and other international studies (for example, Goldie et al. 2005).
+
+Reorganizing the PHC system and making it responsive to the needs of the population will benefit the poor more than the better-off. This is because utilization of PMCUs and DH is pro-poor. According to a recent household survey, about 8.8 percent of the bottom 20 percent utilized PMCUs/DH in the month preceding the survey while only 4.3 percent of the top 20 percent did the same. In addition, among the bottom 20 percent monthly visits to PMCUs/DH stands at 19 per 100, much higher than the corresponding figure for the top 20 percent (7.3 visits per 100). As such, Component 1 of the project (US$185 million) would improve equity by promoting healthy lifestyle and facilitating prevention, early detection, and management of NCDs at the level of care that is most accessible to the poor and vulnerable (that is, PMCIs).
+
+The strengthening of primary care in Sri Lanka is not expected to create unmanageable budgetary liabilities. There are several salient points to be made here. First, to a significant extent what is required is a redeployment of both supply capacity and demand from the secondary level to the primary.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+To the extent this occurs, the aggregate budget would not be affected. Second, one of the goals of PHC strengthening is precisely to enhance efficiency, by reorienting care toward lower (and therefore less costly) levels of the system. Third, about half of health spending is on human resources, and because the capacity of the medical education system imposes a constraint on the inflow of new medical professionals to the health system, there is a natural brake on the rate of increase in the system’s largest single cost item. Of course, the question of human resource availability may raise other concerns, but from the narrow budget sustainability perspective it should be reassuring. Fourth, because the prevailing method of paying providers is input-based (line item budgets and salaries), increases in demand for care do not automatically result in higher spending, as would be the case if output-based funding such as fee-for-service was the norm (as in many other countries).
+
+To be sure, Sri Lanka’s health system will require a significantly larger budget over the medium to long term, not only to address the more advanced health care needs of an aging population but also to address systemic issues such as low salaries/compensation of medical professionals. However significant increases in the health budget are currently constrained by the overall fiscal environment (particularly low tax revenues) and the budget share allocated to health in Sri Lanka (about 10 - 12 percent) is not far from regional comparator norms. In summary, the factors noted here suggest that strengthening PHC facilities will not impose an undue burden on the budget.
+
+To illustrate this, various costing scenarios were conducted during project preparation. The estimated incremental cost of the PHC strengthening strategy is a small fraction of the MoH’s budget, making it feasible to be embraced in the ministry’s regular budget, especially given prospects of economic growth. Strengthening the PHC system involves maintaining minimum standards in human resources, equipment, drugs, and involves costs of staff training and maintaining personal health records.
+
+To analyze the budgetary and fiscal implications of the proposed strategy, a macro-level incremental cost of the major cost components is estimated under different scenarios. These cost components include human resource, medical supplies/drugs, equipment, training costs, and medical records. Given that the largest share (77 percent in 2016) of Sri Lanka’s provincial health budget relates to personal emoluments (salary, wages, overtime pay and allowances), costing these components of the budget would give a clear picture of the budgetary implications of the project.
+
+Two scenarios (low and high) and three alternative phase-out plans (proposed, slower, and faster) are considered. Under the proposed phase-out plan, estimated additional cost of the high scenario ranges between US$3.8 million in 2019 when 50 PMCIs are upgraded and US$47.8 million in 2023 when 550 PMCIs are upgraded. To put these figures in context, they translate to 0.32 percent and 3.16 percent of the central ministry’s estimated budget and 0.004 percent and 0.03 percent of the country’s projected GDP in the respective years.
+
+The health budget does typically increase in real terms every year, mainly due to economic growth (IMF projects a 5 percent annual growth in real GDP between 2017 and 2020). If this increase is prioritized toward primary care facilities it should be possible to absorb the recurrent costs that remain after the project ends. Although Sri Lanka’s fiscal position is currently affected by low revenues that limit critical health spending, an ongoing IMF program aims at fiscal consolidation by...
+# THE WORLD BANK
+Primary Health Care System Strengthening Project  (P163721)
+
+## Estimated Incremental Cost under the Proposed Phase-Out Plan (LKR millions)
+- Currently proposed phase-out:
+- 2019: 50.00
+- 2020: 150.00
+- 2021: 350.00
+- 2022: 550.00
+- 2023: 550.00
+- Human resource
+- Low scenario:
+- 2019: 130.80
+- 2020: 392.40
+- 2021: 915.60
+- 2022: 1,438.79
+- 2023: 1,438.79
+- High scenario:
+- 2019: 207.61
+- 2020: 622.84
+- 2021: 1,453.29
+- 2022: 2,283.74
+- 2023: 2,283.74
+- Medical supplies/drugs
+- Low scenario:
+- 2019: 165.41
+- 2020: 525.12
+- 2021: 1,296.55
+- 2022: 2,137.92
+- 2023: 2,238.40
+- High scenario:
+- 2019: 330.82
+- 2020: 1,050.23
+- 2021: 2,593.10
+- 2022: 4,275.84
+- 2023: 4,476.80
+- Equipment cost
+- Low scenario:
+- 2019: 12.12
+- 2020: 36.36
+- 2021: 101.82
+- 2022: 176.09
+- 2023: 192.19
+- High scenario:
+- 2019: 24.24
+- 2020: 72.73
+- 2021: 203.63
+- 2022: 352.19
+- 2023: 384.38
+- Training cost (Initial):
+- 2019: 2.12
+- 2020: 4.25
+- 2021: 8.50
+- 2022: 8.50
+- 2023: 0.00
+- Health records:
+- 2019: 19.97
+- 2020: 59.90
+- 2021: 139.77
+- 2022: 219.64
+- 2023: 219.64
+- Total (low scenario):
+- 2019: 330.42
+- 2020: 1,018.03
+- 2021: 2,462.23
+- 2022: 3,980.94
+- 2023: 4,089.03
+- Total (high scenario):
+- 2019: 584.77
+- 2020: 1,809.95
+- 2021: 4,398.29
+- 2022: 7,139.90
+- 2023: 7,364.57
+- Total (low scenario) US$, millions:
+- 2019: 2.14
+- 2020: 6.60
+- 2021: 15.96
+- 2022: 25.81
+- 2023: 26.51
+- Total (high scenario) US$, millions:
+- 2019: 3.79
+- 2020: 11.73
+- 2021: 28.52
+- 2022: 46.29
+- 2023: 47.75
+- High scenario as % of central ministry budget:
+- 2019: 0.32
+- 2020: 0.95
+- 2021: 2.11
+- 2022: 3.23
+- 2023: 3.16
+- High scenario as % of GDP:
+- 2019: 0.004
+- 2020: 0.010
+- 2021: 0.022
+- 2022: 0.032
+- 2023: 0.030
+
+## Technical Soundness
+Strong PHC systems are essential for achieving universal, equitable, people-centered, and integrated health services. Facility organization and management backed by strong governance and accountability is imperative for effective functioning of the PHC systems. Key building blocks include (a) population empanelment; (b) workforce (multidisciplinary teams); (c) availability of drugs and laboratory services; (d) integrated health information system backed up by functioning referral, communication, and transport systems; and (e) engagement of people in managing their own health. Lancet Commission asserted in 2013 that stronger PHC could deliver most needed services to achieve dramatic health gains by 2035. Based on the international experiences, people-centered, integrated care with strengthened PHC, as outlined in the MoH’s position paper entitled ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’ will better address the ongoing demographic transition and an increasing prevalence of NCDs, with improved coordination of preventive and curative health services. Evidence from a review conducted by the Organization for Economic Cooperation and Development indicates that to deliver high-quality and efficient NCD care, primary care should be the first point of call, providing comprehensive people-centered care, ensuring continuity through referring.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Lessons Learned and Reflected in Project Design
+The project design considers key lessons learned from the global experience with addressing NCDs through primary care. First, after tobacco cessation (an agenda on which Sri Lanka has long been ahead of the curve), the outpatient management of cardiovascular risk factors such as hypertension and diabetes has been the single most effective intervention to reduce mortality due to NCDs in advanced health systems, accounting for up to 25 percent of longevity gains over several decades. In other words, hospital-based care has played a much smaller role in overall health improvement than is commonly thought. This has motivated the choice of strengthening PHC to address the growing NCD burden of the Sri Lankan population. Moreover, significant progress in improving cardiovascular risk factors and other cost-effective NCD control measures has been achieved in advanced health systems with widely varying institutional designs for primary care payment and organization. This points to the importance of providing the right clinical interventions in the right setting to achieve impact rather than focusing exclusively on macro-level institutional reform initiatives. The project promotes these interventions through several DLIs such as identifying the population most at risk through empanelment and stratification based on common NCD risk factors, identifying up front design of evidence based on clinical protocols and ensuring that staff trained in those clinical protocols are providing the service, ensuring availability of the necessary medicines and tests for appropriate outpatient treatment, and focusing on the demonstrating the improved results for the selected health conditions.
+
+The project design also considers lessons from the ongoing Sri Lanka SHSDP that was implemented through the same lending instrument. The SHSDP, which is closing as planned in September 2018, is projected to fully meet its development objective and to fully disburse. The SHSDP was the first experience by the Sri Lankan Ministry of Health, and indeed the entire World Bank portfolio in Sri Lanka, of using DLIs to benchmark progress of the sector and to release funds using country systems. Having implemented the SHSDP, there were many positive lessons as well as lessons for what can be done differently now that Sri Lankan stakeholders have experience with this instrument. First, the project will now take a more focused approach of supporting the MoH to implement a specific strategy to reorganize and strengthen PHC. The SHSDP supported the Government’s larger health sector development program more broadly and, therefore, the results were more diffuse. Second, while the MoH was largely able to achieve the results and disbursements to the treasury occurred, the MoH and provinces were not able to fully use the additional resources generated by the results achievement—that were then included in the MoH and MPCLGS budgets—due to not completing planned capital investments and incurring the related expenditures. This was especially true at the beginning of the project when plans were not yet fully developed. The project considers this while working with the MoH and provinces to fully develop their implementation plans from the start, to increase the value of funds that will be available over time rather than planning to have the same disbursement each year and increasing the funds available to the provinces rather than the MoH where there is more need and, therefore, greater absorption capacity. Third, the DLIs are structured in such a way as to allow for scalable results and results that are not time-bound to a specific year. The project considers good practice from the use of DLIs in other countries and will provide incentive to achieve more results faster which was not available under the SHSDP. Finally, the
+# SUSTAINABILITY
+The project’s sustainability will be enhanced by several factors. First, there is a clear political leadership and Government ownership for reorganizing the PHC system as evidenced by the position paper titled ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’. As noted in the ‘Sectoral and Institutional Context’ section, it was at the request of the Honorable Minister that the TEC produced this position paper. In addition, the Government’s current National Health Policy 2016–2025, its five-year national health master plan, and Sri Lanka’s Vision 2025 highlight the importance of reorganizing the primary-level curative institutions (DH and PMCIs). These high-level commitments are crucial for the sustainability of the project.
+
+Second, the sustainability of the project is enhanced by the thorough consultative process followed in the preparation of the envisaged people-centered PHC system. The MoH conducted a series of stakeholder consultations with a wide array of stakeholders and experts including academia, the Government, civil society, private sector, and unions. This process contributed to building a coalition of support for the proposed PHC reorganization to be supported by the project. The MoH has established a coordination mechanism to harmonize planned technical and investment support to the PHC system strengthening.
+
+Third, by using the country’s own systems and processes rather than introducing parallel mechanisms, the project enhances the likelihood of sustaining the changes made to the PHC system. The project uses the GoSL’s existing structures for implementation and budget allocation. The project will rely on the MoH for standard setting and updating of protocols and on provinces for implementation. Fund flows from the treasury through the MPCLGS, following the existing structure.
+
+Fourth, the project’s focus on building capacities and systems further enhance the sustainability of the interventions under this project. Through DLIs the project incentivizes the establishment of standards, protocols, and systems, including better information management that facilitates evidence-based decision making. By supporting systems for citizen engagement and feedback, establishing personalized health records (to all citizens in a phased manner) and patient information sharing across providers of care, the fruits of the project can be sustained beyond the project’s horizon. In addition, technical and institutional capacity-building support will be provided through Component 2.
+
+Fifth, macroeconomic developments and the nature of the project suggest that the risks of financial unsustainability are minimal. First, with IMF-projected annual real GDP growth of 5 percent from 2017 to 2020, Sri Lanka’s economic outlook is promising, increasing the probability of embracing the additional cost in the regular Government health budget. Second, an ongoing economic reform program under the IMF is aiming at fiscal consolidation that will increase tax revenue for higher health budget allocation. Third, the successful prevention and management of NCDs at PMCIs would save resources that would otherwise be spent in providing specialist care at tertiary level. Fourth, some of the additional resource required for strengthening the PHC system (such as human resources) merely reflect redistribution from higher levels of care within the health system.
+# FIDUCIARY ASSESSMENT
+The FM team of the World Bank, together with the procurement team, conducted a joint fiduciary review of the health sector with the primary objective of updating the functioning of country systems and identifying current opportunities for greater use of country systems for the project. The fiduciary assessments are based on the boundary of the total project costs as described in paragraph 52 and fiduciary arrangements are based on the project description.
+
+## FM assessment
+The proposed overall FM procedures and practices for the project are satisfactory to meet GoSL’s and the World Bank’s fiduciary requirements as per OP 10.00. Given the MoH’s and the MPCLGS’s experience with sector-wide projects and DLI-based IPFs, in implementing prior health sector operations, the project is given a ‘Moderate’ FM risk rating. The GoSL’s financial regulations and applicable circulars will be used as the basis for exercising appropriate controls over program activities and transactions. The regulations will be supplemented by project-specific fiduciary management operating guidelines, which will include a detailed description of the funds flow and operations procedures based on results, agreed guidelines for different project components (that is, innovation grant mechanism and training plan), the initial 18-month procurement plan, the project preparation strategy document, disbursement, and other FM arrangements, and capacity development of the fiduciary staff. There are no outstanding audit reports or ineligible expenditures under the MoH and MPCLGS.
+
+## Procurement assessment
+Due to the nature of the project design and financing instrument (IPF with DLIs), the bulk of the disbursement will be through EEP consisting of non-procurable items. However, the procurements within the project boundary, even though not financed by the World Bank, could have an impact on the World Bank’s program, and therefore the MoH procurement was assessed as well. The ministry has previous experience of implementing procurement under World Bank financing. Additionally, the GoSL has well-established procurement guidelines, manuals and procedures, and standard procurement documents that provide a robust framework for the implementation of procurement. Nevertheless, delays are encountered in the execution of procurement owing mainly due the multiple layers of decision making and a general trend of elevating decisions to senior levels of management within the ministry even when not required. This risk will in part be mitigated through the project support toward increasing the efficiency of the MoH procurement supply chain for medical supplies. Due attention will need to be paid to non-World Bank financed contracts to the extent that these impinge on the smooth execution of the project. The ministry has identified a Procurement Specialist who will be dedicated to procuring the contracts to be financed with the World Bank funds and will also need to follow the progress of key non-World Bank-financed activities under the program. The program staff will be trained on the use of the World Bank’s Procurement Regulations as well as on the STEP system. Procurement of World Bank-financed contracts is not complex and comprises minor office renovation, office furniture, ICT equipment, printing equipment; two vehicles; legal services; social/citizen engagement/environment consultants; local consultants and consulting firms for project readiness; media production, airtime, and printing; and a firm to support the PMM in the verification of results. A PPSD has been prepared and no major market risks are envisaged.
+
+# SOCIAL (INCLUDING SAFEGUARDS)
+The project does not trigger any World Bank social safeguard policies. The project will not support infrastructure development and will not finance land acquisition. The expected social
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+The development outcome of the project is deemed to be substantial with positive social impacts across the population. These positive impacts will be enhanced by the project’s focus on promoting equity, social inclusion, and contributing to poverty reduction goals of the country. The equity impacts of the project will be assessed through data on health outcomes disaggregated by geographical area and socioeconomic groups whenever possible. The project will address regional inequalities associated with health outcomes and develop quality health services in the conflict-affected and disadvantaged areas and for vulnerable groups. Further, the project is expected to address (a) social protection aspects through health development interventions, (b) quality of care, particularly for the poorer and more rural population accessing public health services, and (c) gender-specific issues as they relate to health care.
+
+## Gender
+The project directly addresses key gender-related issues in PHC that have been identified as priorities and these have been reflected in DLIs. For instance, DLI 8 focuses on cervical cancer, the second most common cancer among women in Sri Lanka. About 9.6 (18.8) percent of cancer related deaths among women is due to cervical cancer (breast cancer). A considerable proportion of cancer cases are diagnosed and treated in advanced stages of the disease, resulting in poor survival and high mortality rates. In 2014 alone, cancer-related deaths among women was 7,200, slightly higher than the corresponding figure for men (6,800). The project will contribute to sensitizing and empowering women for preventive cervical cancer screening which will also test for breast and thyroid cancers. This will be done through targeted communication campaigns, which are essential to achieve DLI 8. In the case of cardiovascular diseases (CVDs), they affect men significantly more than women. The age-standardized death rate has been estimated by the WHO at 350 per 10,000 for men and 200 per 10,000 for women. In addition, there is a significant gender gap in longevity, with men living about eight years shorter than women. Furthermore, men are less likely to access PHC facilities due to stigma, in addition to service providers not being trained adequately to respond to men’s health needs. Therefore, DLI 9 focuses on screening and management of high-risk NCD patients, including CVDs, and it will be reported disaggregated by men and women. In addition, the project will track utilization of services by men and women with disaggregated data whenever possible. It is also worth noting that the project will support communication campaigns to encourage men to access PHC facilities while making the facilities more attractive and convenient particularly for men. The communication campaign is an essential strategy to increase the number of adult men identified as high-risk for NCDs (DLI 9). Finally, as part of the PHC service package, the project provides an opportunity for gender-based violence screening and training of PMCI staff to properly refer patients to reputable psychosocial, health, and legal services. The curriculum for staff training will include a separate module to sensitize and develop the skills of staff on identifying and managing people who faced gender-based violence.
+
+## Citizen engagement
+The project supports active citizen engagement, starting from the design of the project and through implementation. The project was prepared through an extensive consultation process with the participation of stakeholders, including representatives from the MoF, MoH authorities (Secretary, Director General, Directors, Hospital Directors, Regional Health Directors, and PHC staff), the private sector, general practitioners, representatives from academia and professional organizations, unions, civil society organizations, and so on. In total, more than 200 people were consulted through a process that lasted for six weeks. The report ‘Reorganizing Primary Health Care in Sri Lanka: Preserving Our Progress, Preparing Our Future’ which was prepared based on the consultations lays down a shared vision and aspiration of these varied stakeholders. As described, the project will support the implementation of key thematic areas highlighted in the report. The project has a specific DLI (DLI 7) to strengthen the engagement between the health sector, PHC providers and the citizens. DLI 7 will support.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+The development and endorsement of civic engagement guidelines at both the national and provincial level and the implementation of at least two primary mechanisms for strengthening the engagement and feedback mechanisms. First, the project will support the establishment of a health sector GRM for both receiving and responding to feedback from individual citizens, including grievances about service availability and where services do not meet the expected standards. The project will support the design of the system, development, operation, and reporting at both the national and provincial levels. Annual reports—generally reporting to the public on the feedback received and actions taken—will be made public by the end of the project. Second, the project will support strengthening the connection between the PHC facility and the community that they serve. ‘Friends of the Facility’ committees, connected with each PMCI, will be established and engaged to both help the facility to reach out to difficult target groups in the community and to bring feedback from the community to the facility on its responsiveness to the community needs. Finally, Sri Lanka has adopted a new access to information policy, in effect since February 4, 2017. This policy mandates all public entities to proactively disclose information on service standards, human and financial resources, decision-making processes, laws and regulations. The act further requires the MoH, its related institutions, and provincial-level health authorities to respond to citizen's request for information within 48 hours in case of a medical emergency. This implies the setup of effective and empowered information officers, information management systems and training and capacity building across the sector. Genuine access to information is also a prerequisite for meaningful citizen engagement, a national commitment under the Open Government Plan, and a corporate commitment of the World Bank. The project will support the implementation of this new policy at the central and provincial levels.
+
+## Environment (including Safeguards)
+
+The project is categorized as Environmental Category C and will not trigger any specific environmental safeguard policies. None of the project components will finance physical investments, such as the construction of new infrastructure and/or the rehabilitation of existing infrastructure. Project activities will mainly support soft interventions aimed at systemic improvements to health service delivery. No major environmental impacts are attributed to any of the project interventions and thus further environmental assessment will not be warranted.
+
+### Climate and disaster risk screening
+
+The project was screened for climate and disaster risk using the World Bank Climate and Disaster Risk Screening Tool which helps to consider short- and long-term climate and disaster risks. Emerging evidence from various sources and the experience over the past decade shows that Sri Lanka is highly vulnerable to the adverse effects of climate change. The most frequent disaster events in Sri Lanka are floods, droughts, landslides, storm surge, and cyclones. Sri Lanka is also vulnerable to high-impact, low-frequency events such as the 2004 Indian Ocean tsunami. Recent natural disasters in Sri Lanka led to significant economic, fiscal, and social impact. The floods and landslides of May 2016 and May 2017 cumulatively caused damages amounting to more than US$1.1 billion and killed more than 300 people. In addition, these two events damaged approximately 130,000 houses. The drought that prevailed over 2016 and 2017 affected approximately 2 million people and caused significant economic losses and livelihood impacts. However, the risk to the outcome/service delivery of the project is considered Low. The rating is justified because of the following reasons: (a) direct financing of civil works is not envisaged, as the project focuses on improving the quality of PHC system and the funds will be disbursed against DLIs; (b) despite natural disasters, Sri Lanka’s health system has been resilient and continued delivering health services as demonstrated by its remarkable PHC indicators;
+# THE WORLD BANK
+Primary Health Care System Strengthening Project  (P163721)
+
+(c) an ongoing World Bank supported health project, that also includes NCD activities, is on track despite the natural disasters that impacted Sri Lanka in 2016 and 2017. Finally, the GoSL could use the project’s Component 2 for technical support for mainstreaming climate change adaptation and risk reduction in HFs.
+
+Climate co-benefits. As described in the previous paragraphs, Sri Lanka is highly vulnerable to the adverse effects of climate change. According to Sri Lanka’s Climate Change Secretariat, climate change is expected to create significant public health problems, particularly with respect to vector borne diseases. The country has recently experienced outbreaks of diseases which are closely connected with weather patterns. Seasonal outbreaks of dengue are a prime example. Additionally, extreme weather conditions can lead to injuries and fatalities. This is especially so for Sri Lanka’s ageing population that would be particularly vulnerable to heat waves.
+
+Although the PSSP is not primarily motivated by climate change, it will support interventions related to climate change adaptation and disaster risk mainstreaming and contribute to reduction in carbon dioxide emissions. The project aims to closely monitor population health. As expressed by DLI 1, PSSP will support the assignment of segments of the population to a health team (empanelment). To achieve this goal, the PSSP will support the MoH to implement a new cadre of health workers that will visit each household for screening and monitoring purposes. In the case of dengue (or similar vector diseases), a key intervention is to work closely with the population to find and eliminate vector sources. If there is a dengue outbreak, the new cadre of health professionals will have a substantial contribution to control the outbreak, as they will already have an established relationship working closely with the households in their geographical assignment. These activities—establishing the policies and then putting in place the capacities to undertake the response—are connected to Component 1—DL 1 in the amount of US$14.775 million and DLI 3 in the amount of US$32.95 million. Through DLI 6, the project also incentivizes the rollout of MSMIS to the PMCI level which will improve drug stock management within facilities and hence increase adaptation to severe weather events that may disrupt and delay delivery of essential medicines. This activity is linked to DLR 6.1, for an amount of US$6.6 million.
+
+In addition, the PSSP is expected to reduce carbon dioxide emissions through incentivizing the reduction of unnecessary transportation of patients. It supports networking health services and laboratories which enables patients to provide samples at the PMCIs and receive the results from there rather than traveling to laboratory facilities located far from the PMCIs. These activities are linked to DLI 4 for a total amount of US$19.25 million. Moreover, while the project does not include any civil works, under Component 2.3, the project finances health sector capacity building with modules incorporating climate change adaptation and mitigation measures. This will include training on safe and resilient drainage systems, storm resistant structures, and heat resistant materials. Furthermore, the training will encourage the use of reduced energy devices (for example, lighting), and waste minimization and management. These activities are linked to Component 2.3 for a total amount of US$5.0 million.
+
+Finally, the project carries a CERC that will allow the Government to efficiently respond to disasters during the project period and this will also contribute to climate co-benefits.
+
+## World Bank Grievance Redress
+Communities and individuals who believe that they are adversely affected by a World Bank (WB) supported project may submit complaints to existing project-level grievance redress mechanisms.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+or the WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed to address project-related concerns. Project affected communities and individuals may submit their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be submitted at any time after concerns have been brought directly to the World Bank's attention, and Bank Management has been given an opportunity to respond. For information on how to submit complaints to the World Bank’s corporate Grievance Redress Service (GRS), please visit http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. For information on how to submit complaints to the World Bank Inspection Panel, please visit www.inspectionpanel.org.
+# RESULTS FRAMEWORK AND MONITORING
+
+## Results Framework
+Project Development Objective(s)
+The project development objective is to increase the utilization and quality of primary health care services, with an emphasis on detection and management of non-communicable diseases in high-risk population groups, in selected areas of the country.
+
+### PDO Indicators by Objectives / Outcomes
+| DLI | CRI | Unit of Measure | Baseline | End Target |
+|-----|-----|-----------------|----------|------------|
+| Increase utilization of PHC services, particularly prevention/management of NCDs in high-risk groups | | | | |
+| Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities (DLI 8) | DLI 8 | Number | 107,551.00 | 213,000.00 |
+| Percentage of screened adults with high risk for non-communicable diseases who are registered and actively followed-up at primary medical care institutions (DLI 9) | DLI 9 | Percentage | 0.00 | 25.00 |
+| Male | | Percentage | 0.00 | 25.00 |
+| Female | | Percentage | 0.00 | 25.00 |
+| Increase in the quality of PHC services, in selected areas of the country | | | | |
+| The number of primary medical care institutions that have the required capabilities for providing comprehensive and quality care. (DLI 3) | DLI 3 | Number | 0.00 | 550.00 |
+
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### RESULT FRAME TABLE - IO
+#### Intermediate Results Indicators by Components
+
+| DLI | CRI | Unit of Measure | Baseline | End Target |
+|-----|-----|----------------|----------|------------|
+|     |     |                |          |            |
+| MoH and Provinces endorse policies and standards for reorganizing PHC (DLI 1) | DLI 1 | Text | Policies and standards sufficient to guide PHC Reorganization do not exist | package of circulars and guidelines necessary for PHC model implementation |
+| MoH adopts and updates clinical protocols for selected health conditions (DLI 2) | DLI 2 | Text | No clinical protocols targeted for the PHC level exist for the defined tracer conditions | Package of protocols adopted for defined selected health conditions |
+| Number of annual progress reviews on MoH Action Plan, including Project Results Indicators at the central MoH |     | Number | 0.00 | 3.00 |
+| Number of patient-friendly services provided on the basis of 4 types of services at the PMCIs (DLI 4) | DLI 4 | Number | 0.00 | 550.00 |
+| Percentage of Medical Officers (both Medical Officers of Health in the Public Health stream and Medical Officers at PMCIs) trained on essential service package on NCDs |     | Percentage | 0.00 | 70.00 |
+| Percentage of PMCIs with transport facilities for dispatching the samples for investigations to apex laboratories |     | Percentage | 0.00 | 55.00 |
+| Percentage of PMCIs with capability for primary detection and management of dengue |     | Percentage | 0.00 | 55.00 |
+| Percentage of PMCIs providing a standard primary oral health care package |     | Percentage | 0.00 | 55.00 |
+| Percentages of PMCIs with basic emergency care facilities |     | Percentage | 10.00 | 50.00 |
+| Percentage of Medical Officer of Health areas offering mental health |     | Percentage | 0.00 | 35.00 |
+
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Key Performance Indicators
+- Percentage of PMCIs with capability for TB screening and referral: Percentage 0.00                                      45.00
+- Percentage of Medical Officer of Health areas with at least one PMCI providing routine nutrition counseling services, particularly for identified high-risk population, by qualified nutritionist: Percentage 0.00                                      35.00
+- Percentage of public sector schools implementing health promoting programs (health promoting schools): Percentage 31.00                                     45.00
+- Percentage of food business operators inspected and classified as satisfactory according to the healthy food standard: Percentage 51.00                                     75.00
+- Number of PMCIs that use personal health records to coordinate patient care over time and through the referral chain (DLI 5): DLI 5 Number 0.00                                     550.00
+- Number of PMCIs connected to and using the Medical Supplies Management Information System (DLR 6.1): DLI 6 Number 0.00                                     550.00
+- Percentage of annual procurement by MSD that is less than or equal to defined performance benchmarks (DLR 6.3): Percentage 50.00                                     70.00
+- The use of the urgent procurement procedure as a percent of total medical supplies procurement that is reduced from the established baseline (DLR 6.5): Percentage 0.00                                      40.00
+- Community Engagement Mechanism for health sector operational, including grievance redressal mechanism (DLI 7): DLI 7 Text There is no operational community engagement and grievance redressal mechanism in place, especially for users of PMCIs.
+- Number of PMCIs with active community engagement committees (DLR 7.5): Number 0.00                                     550.00
+- Adequate and timely release of treasury funds requested to health sector program: Percentage 75.00                                     85.00
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+### Project Implementation Support and Innovation Grants
+- Percentage of MoH and district training/capacity building plans developed and monitored
+- Percentage 0.00 100.00
+- Number of innovative subprojects supported, evaluated and disseminated
+- Number 0.00 50.00
+
+### Monitoring & Evaluation Plan: PDO Indicators
+- Indicator Name
+- Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities (DLI 8)
+- The actual number of women at age 35 and at age 45 who are screened at any public health facility, in each calendar year. The baseline was established for the calendar year 2017, but only for those aged 35 as the information system of the program did not capture the mandate for age 45 cohort since this was being added as a new addition to the program.
+- Frequency
+- Annually
+- Data Source
+- Administrative Data
+- Methodology for Data Collection
+- Compiling routinely reported administrative data
+- Responsibility for Data Collection
+- MoH / Family Health Bureau
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Indicator Name
+Percentage of screened adults with high risk for non-communicable diseases who are registered and actively followed-up at primary medical care institutions (DLI 9)
+The denominator for this indicator is the total number of adults in selected communities who are screened and found to be high risk. The numerator is the number of these adults who are registered and followed up within the last 3 months of the reporting period. A minimum number of adults screened per year is set at 750 per PMCI meeting the required capabilities.
+
+## Frequency
+Annually
+
+## Data Source
+Administrative data
+
+## Methodology for Data Collection
+Compiling routinely reported administrative data
+
+## Responsibility for Data Collection
+MoH / DDG NCD
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+### Indicator Name
+Male
+
+### Definition/Description
+The denominator for this indicator is the total number of adult men in selected communities who are screened and found to be high risk. The numerator is the number of these adult men who are registered and followed up within the last 3 months of the reporting period. A minimum number of adult men screened per year is set at 375 per PMCI meeting the required capabilities.
+
+### Frequency
+Annually
+
+### Data Source
+Administrative data
+
+### Methodology for Data Collection
+Compiling routinely reported administrative data
+
+### Responsibility for Data Collection
+MoH / DDG NCD
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Female
+
+### Definition/Description
+The denominator for this indicator is the total number of adult women in selected communities who are screened and found to be high risk. The numerator is the number of these adult women who are registered and followed up within the last 3 months of the reporting period. A minimum number of adult women screened per year is set at 375 per PMCI meeting the required capabilities.
+
+### Frequency
+Annually
+
+### Data Source
+Administrative data
+
+### Methodology for Data Collection
+Compiling routinely reported administrative data
+
+### Responsibility for Data Collection
+MoH / DDG NCD
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Indicator Name
+The number of primary medical care institutions that have the required capabilities for providing comprehensive and quality care. (DLI 3)
+This indicator refers to the number of PMCIs that fulfill the following five minimum requirements:
+
+## Definition/Description
+screening at least 25% of the adult population (aged 35 or over) in its defined empanelment area, having minimum number of staff with the appropriate training, having minimum operational equipment, availability of essential drugs and lab test capacity and having quarterly supportive supervision visits.
+
+## Frequency
+Annually
+
+## Data Source
+Reported by PMCIs through Provinces to MoH
+
+## Methodology for Data Collection
+A checklist will be prepared and routinely reported on by the PMCIs through the provinces
+
+## Responsibility for Data Collection
+MoH / DDGMS11
+# MONITORING & EVALUATION PLAN: INTERMEDIATE RESULTS INDICATORS
+
+## Indicator Name
+MoH and Provinces endorse policies and standards for reorganizing PHC (DLI 1)
+
+### Definition/Description
+
+### Frequency
+Once when completed.
+
+### Data Source
+Project Monitoring System
+
+### Methodology for Data Collection
+Review of minutes of relevant meetings
+
+### Responsibility for Data Collection
+MoH and MPCLGS.
+
+## Indicator Name
+MoH adopts and updates clinical protocols for selected health conditions (DLI 2)
+
+### Definition/Description
+
+### Frequency
+There is no specific reporting period for the DLRs.
+
+### Data Source
+MoH
+
+### Methodology for Data Collection
+Review minutes of relevant meetings
+
+### Responsibility for Data Collection
+MoH / Family Health Bureau and DDG NCD
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Number of annual progress reviews on MoH Action Plan, including Project Results Indicators at the central MoH
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Reports / minutes of the review meeting
+
+### Methodology for Data Collection
+Assess minutes of the review meetings
+
+### Responsibility for Data Collection
+MoH / Director Planning
+
+### Indicator Name
+Number of patient-friendly services provided on the basis of 4 types of services at the PMCIs (DLI 4)
+The enhanced services include: routinely providing defined list of NCD drugs through at least one-month supply blister packs; having arrangements for laboratory network at the PMCIs, having arrangements with pharmacy services and having an operational appointment system.
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Reported by PMCIs through Provinces to MoH and MPCLGS
+
+### Methodology for Data Collection
+A checklist will be prepared and routinely reported on by the PMCIs through the provinces
+
+### Responsibility for Data Collection
+MoH and MPCLGS
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentage of Medical Officers (both Medical Officers of Health in the Public Health stream and Medical Officers at PMCIs) trained on essential service package on NCDs
+
+### Definition/Description
+The denominator for this indicator at baseline is 2664. The percentage reported annually will be a cumulative value.
+
+### Frequency
+Annually
+
+### Data Source
+Annual report produced at DDG NCD
+
+### Methodology for Data Collection
+Compiling administrative data
+
+### Responsibility for Data Collection
+MoH / DDG Training
+
+### Indicator Name
+Percentage of PMCIs with transport facilities for dispatching the samples for investigations to apex laboratories
+
+### Definition/Description
+The denominator will change annually and be the PMCIs who do not have in-house capability of doing essential diagnostic tests.
+
+### Frequency
+Annually
+
+### Data Source
+Data base at DDG LS
+
+### Methodology for Data Collection
+Compiling administrative data
+
+### Responsibility for Data Collection
+MoH / Director Laboratory Services
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentage of PMCIs with capability for primary detection and management of dengue
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Annual report by Dengue Control Programme
+
+### Methodology for Data Collection
+Examination of annual report by the Dengue Control Programme
+
+### Responsibility for Data Collection
+MoH / Director Dengue Control Programme
+
+### Indicator Name
+Percentage of PMCIs providing a standard primary oral health care package
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Database at Director Dental Services
+
+### Methodology for Data Collection
+Compiling routinely reported administrative data
+
+### Responsibility for Data Collection
+MoH / Director Dental Care Services
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentages of PMCIs with basic emergency care facilities
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Database at DDG MS1
+
+### Methodology for Data Collection
+Compiling routinely reported administrative data
+
+### Responsibility for Data Collection
+MoH / DDG MS 11
+
+### Indicator Name
+Percentage of Medical Officer of Health areas offering mental health services in at least one PMCI
+
+### Definition/Description
+The denominator will be the total number of Medical Officers of Health (MOH) areas in the country which in the baseline year is 342.
+
+### Frequency
+Annual
+
+### Data Source
+Annual report produced at DDG NCD
+
+### Methodology for Data Collection
+Examination of annual report by DDG NCD
+
+### Responsibility for Data Collection
+MoH / Mental Health Unit
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentage of PMCIs with capability for TB screening and referral
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Database at TB Control Programme
+
+### Methodology for Data Collection
+Examination of database at TB Control Programme
+
+### Responsibility for Data Collection
+MoH / Director TB Control Programme
+
+### Indicator Name
+Percentage of Medical Officer of Health areas with at least one PMCI providing routine nutrition counseling services, particularly for identified high-risk population, by qualified nutritionist
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Database at Director Nutrition
+
+### Methodology for Data Collection
+Examination of database at Director Nutrition
+
+### Responsibility for Data Collection
+MoH / Director Nutrition
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentage of public sector schools implementing health promoting programs (health promoting schools)
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+Annual Family Health Report / School health returns
+
+### Methodology for Data Collection
+Examination of the Annual Family Health Report
+
+### Responsibility for Data Collection
+MoH / Health Promotion Bureau
+
+### Indicator Name
+Percentage of food business operators inspected and classified as satisfactory according to the healthy food standard
+
+### Definition/Description
+The denominator would be the total number of food business operators in Sri Lanka, which at baseline is 9850.
+
+### Frequency
+Annually
+
+### Data Source
+Database at Director E & OH
+
+### Methodology for Data Collection
+Examination of database at Director E & OH
+
+### Responsibility for Data Collection
+MoH / Director E & OH
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Number of PMCIs that use personal health records to coordinate patient care over time and through the referral chain (DLI 5)
+
+### Definition/Description
+This indicator refers to the unique identification of each patient and would initially be paper based.
+
+### Frequency
+Annually
+
+### Data Source
+PMCIs through Provinces to MoH.
+
+### Methodology for Data Collection
+A checklist will be prepared and routinely reported on by the PMCIs through the provinces.
+
+### Responsibility for Data Collection
+MoH / Director PCS and when automated, Director Information.
+
+### Indicator Name
+Number of PMCIs connected to and using the Medical Supplies Management Information System (DLR 6.1)
+
+### Definition/Description
+
+### Frequency
+Annually
+
+### Data Source
+PMCIs through Provinces to MoH.
+
+### Methodology for Data Collection
+A checklist will be prepared and routinely reported on by the PMCIs through the provinces.
+
+### Responsibility for Data Collection
+MoH / MSD
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentage of annual procurement by MSD that is less than or equal to defined performance benchmarks (DLR 6.3)
+This will be calculated for a defined set of tracer NCD drugs. The lead time for standard procurement (from receipt of procurement request to confirmed order being placed) will be compared to performance benchmarks in the new procurement guideline.
+
+### Frequency
+Annually
+
+### Data Source
+MoH/MSD
+
+### Methodology for Data Collection
+Examination of administrative data at MSD
+
+### Responsibility for Data Collection
+MoH / MSD
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+The use of the urgent procurement procedure as a percent of total medical supplies procurement that is reduced from the established baseline (DLR 6.5)
+
+### Definition/Description
+"Urgent" or "local" procurement procedure excludes procurement used in case of emergency. This procedure is used at the provincial or facility level in cases of potential stock-out.
+
+### Frequency
+Annually
+
+### Data Source
+MSD
+
+### Methodology for Data Collection
+Examination of administrative data at MSD
+
+### Responsibility for Data Collection
+MoH / MSD
+
+### Indicator Name
+Community Engagement Mechanism for health sector operational, including grievance redressal mechanism (DLI 7)
+
+### Definition/Description
+
+### Frequency
+No reporting period for some milestones / annually for reports MoH and provinces through MoH
+
+### Data Source
+
+### Methodology for Data Collection
+Compiling routinely reported administrative data
+
+### Responsibility for Data Collection
+MoH / Additional Secretary (Admin) 1
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Number of PMCIs with active community engagement committees (DLR 7.5)
+
+### Definition/Description
+Active community engagement committees refer to “Friends of the Facility” committees with minutes of having met for at least 3 times in the previous year.
+
+### Frequency
+Annually
+
+### Data Source
+MoH through Provinces
+
+### Methodology for Data Collection
+A checklist will be prepared and routinely reported on by the PMCIs through the provinces
+
+### Responsibility for Data Collection
+MoH and MPCLGS
+
+### Indicator Name
+Adequate and timely release of treasury funds requested to health sector program
+
+### Definition/Description
+Numerator: funds released for the health sector program by treasury / the funds requested by MoH and MPCLGS for the health sector
+
+### Frequency
+Annually
+
+### Data Source
+Records/documentation of funds request vs. funds releases
+
+### Methodology for Data Collection
+Examination of administrative documentations
+
+### Responsibility for Data Collection
+Chief Accountant of MoH and Chief Accountant at MPCLGS
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicator Name
+Percentage of MoH and district training/capacity building plans developed and monitored
+
+### Definition/Description
+The total number of plans is 26: 25 district plans and 1 MoH plan.
+
+### Frequency
+Annually
+
+### Data Source
+Database at Planning Unit
+
+### Methodology for Data Collection
+Examination of administrative documentations
+
+### Responsibility for Data Collection
+MoH / Director Training
+
+### Indicator Name
+Number of innovative subprojects supported, evaluated and disseminated
+
+### Definition/Description
+This indicator refers to the innovative sub-projects to be financed by grants under component 2.
+
+### Frequency
+Annually
+
+### Data Source
+Project Monitoring System at PMU
+
+### Methodology for Data Collection
+Examination of project monitoring system
+
+### Responsibility for Data Collection
+MoH / Director PMU PSSP
+# ANNEX 1: RESULTS FRAMEWORK WITH INTERMEDIATE TARGETS
+
+## PDO Indicators by Objectives / Outcomes
+Unit of Measure | Baseline | Intermediate Targets | End Targets
+--- | --- | --- | ---
+|  | 2018 | 2019 | 2020 | 2021 | 2022
+Increase utilization of PHC services, particularly prevention/management of NCDs in high-risk groups
+Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities (DLI 8) | Number | 107,551 | 131,000 | 147,000 | 166,000 | 188,000 | 213,000
+Percentage of screened adults with high risk for non-communicable diseases who are registered and actively followed-up at primary medical care institutions (DLI 9) | Percentage | 0 | 5 | 15 | 20 | 25
+Male | Percentage | 0 | 5 | 15 | 20 | 25
+Female | Percentage | 0 | 5 | 15 | 20 | 25
+Increase in the quality of PHC services, in selected areas of the country
+The number of primary medical care institutions that have the required capabilities for providing comprehensive and quality care (DLI 3) | Number | 0 | 50 | 150 | 350 | 550
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+Intermediate Results Indicators by Unit of Measure
+
+## Components
+- Component 1. Implementation of the PHC System Reorganization and Strengthening Strategies
+- MoH and Provinces endorse policies and standards for reorganizing PHC (DLI 1)
+Text
+Policies and standards sufficient to guide PHC Reorganization do not exist
+MoH and each Province endorse PHC strategy and empanelment guidelines
+- MoH adopts and updates clinical protocols for selected health conditions (DLI 2)
+Text
+No clinical protocols targeted for the PHC level
+MoH adopts clinical package of protocols for defined selected health conditions
+MoH adopts updated package of protocols for defined selected health conditions
+- Number of annual progress reviews on MoH Action Plan, including Project Results Indicators at the central MoH
+Number
+0
+3
+3
+3
+3
+- Number of patient-friendly services provided on the basis of 4 types of services at the PMCIs (DLI 4)
+Number
+0
+50
+150
+350
+550
+- Percentage of Medical Officers (both Medical Officers of Health in the Public Health stream and Medical Officers at PMCIs) trained on essential service package on NCDs
+Percentage
+0
+10
+20
+40
+70
+- Percentage of PMCIs with transport facilities for dispatching the samples for investigations to apex laboratories
+Percentage
+0
+5
+20
+35
+55
+- Percentage of PMCIs with capability for primary detection and management of dengue
+Percentage
+0
+5
+15
+35
+55
+- Percentage of PMCIs providing a standard primary oral health care package
+Percentage
+0
+5
+15
+35
+55
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Percentages of PMCIs with basic emergency care facilities
+- Percentage: 10, 15, 20, 30, 50
+
+## Percentage of Medical Officer of Health areas offering mental health services in at least one PMCI
+- Percentage: 0, 5, 15, 25, 35
+
+## Percentage of PMCIs with capability for TB screening and referral
+- Percentage: 0, 5, 10, 25, 45
+
+## Percentage of Medical Officer of Health areas with at least one PMCI providing routine nutrition counseling services, particularly for identified high-risk population, by qualified nutritionist
+- Percentage: 0, 5, 15, 25, 35
+
+## Percentage of schools implementing health promoting programs (health promoting schools)
+- Percentage: 31, 35, 38, 40, 45
+
+## Percentage of food business operators inspected and classified as satisfactory according to the healthy food standard
+- Percentage: 51, 55, 60, 65, 75
+
+## Number of PMCIs that use personal health records to coordinate patient care over time and through the referral chain (DLI 5)
+- Number: 0, 50, 150, 350, 550
+
+## Number of PMCIs connected to and using the Medical Supplies Management Information System (DLR 6.1)
+- Number: 0, 50, 150, 350, 550
+
+## Percentage of annual procurement by MSD that is less than or equal to defined performance benchmarks (DLR 6.3)
+- Percentage: 50, 60, 70
+
+## The use of the urgent procurement procedure as a percent of total medical supplies procurement that is reduced from the established baseline (DLR 6.5)
+- Percentage: 0, 20, 40
+
+## Community Engagement Mechanism for health sector operational, including grievance redressal mechanism (DLI 7)
+- Text: There is no operational community engagement and grievance redressal mechanism
+- MoH adopts health sector community engagement guidelines
+- Each Province adopts health sector community engagement guidelines
+- MoH establishes grievance redressal mechanism
+- MoH makes public consolidated annual report for the health sector grievance redressal mechanism
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Number of PMCIs with active community engagement committees (DLR 7.5)
+- Number: 0, 50, 150, 350, 550
+
+## Adequate and timely release of treasury funds requested to health sector program
+- Percentage: 75, 75, 80, 80, 85
+
+## Component 2. Project Implementation Support and Innovation Grants
+
+### Percentage of MoH and district training/capacity building plans developed and monitored
+- Percentage: 0, 19, 57, 100, 100
+
+### Number of innovative subprojects supported, evaluated and disseminated
+- Number: 0, 0, 10, 25, 40, 50 (2022) (2023)
+# ANNEX 2: DLI MATRIX
+Indicative DLR             FY2018                   FY2019                   FY2020                  FY2021                   FY2022               June 30, 2023
+Period
+Results Area 1. PHC policy and standards defined to support implementation
+DLI 1. Endorsement by the MoH and provinces of policies and standards for reorganizing PHC system        - US$14.775 million
+DLRs                   DLR 1.1 - The MoH         DLR 1.3 - The MoH
+endorses PHC              endorses the package of
+reorganization strategy   circulars and guidelines
+and issues guidelines on  necessary for PHC model
+PHC empanelment           implementation (1)
+process (1)               DLR 1.4 - Each province
+DLR 1.2 - Each province   endorses the package of
+endorses PHC              circulars and guidelines
+reorganization strategy   necessary for PHC model
+and issues guidelines on  implementation (3)
+PHC empanelment
+process (3)
+Targets                DLR 1.1 - Yes             DLR 1.3 - Yes
+DLR 1.2 - 9 provinces     DLR 1.4 - 9
+provinces
+Allocated Amounts      DLR 1.1 - US$3.00         DLR 1.3 - US$4.395
+and Disbursement       million                   million
+Formula                DLR 1.2 - US$3.24         DLR 1.4 - US$4.140
+million (US$0.36 million  million (US$0.46 million
+per province)             per
+province)
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicative DLR
+| DLI 2. MoH adopts and updates clinical protocols for selected health conditions - US$9.25 million | | | | | | |
+|-------------------------------------|----------------|----------------|----------------|----------------|----------------|---|
+| DLRs                               | FY2018         | FY2019         | FY2020         | FY2021         | FY2022         | June 30, 2023 |
+| DLR 2.1 – MoH adopts              |                 |                |                |                |                |                |
+| package of protocols for           |                 |                |                |                |                |                |
+| defined selected health            |                 |                |                |                |                |                |
+| conditions (1)                     |                 |                |                |                |                |                |
+| DLR 2.2 – MoH adopts              |                 |                |                |                |                |                |
+| updated package of                 |                 |                |                |                |                |                |
+| protocols for defined              |                 |                |                |                |                |                |
+| selected health conditions (2)     |                 |                |                |                |                |                |
+
+### Targets
+- DLR 2.1 - Yes
+- DLR 2.2 - Yes
+
+### Allocated Amounts and Disbursement Formula
+- DLR 2.1 - US$5.55 million
+- DLR 2.2 - US$3.70 million
+
+### Results Area 2. PMCI provider capabilities and services strengthened for more comprehensive and quality care
+#### DLI 3. PMCIs have required capabilities for providing comprehensive and quality care - US$32.9 million
+| DLRs                               | FY2018         | FY2019         | FY2020         | FY2021         | FY2022         | June 30, 2023 |
+|-------------------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
+| DLR 3.1 - Each province            |                 |                |                |                |                |                |
+| completes a situation              |                 |                |                |                |                |                |
+| analysis necessary to              |                 |                |                |                |                |                |
+| identify gaps for                  |                 |                |                |                |                |                |
+| meeting required                   |                 |                |                |                |                |                |
+| capabilities (4)                   |                 |                |                |                |                |                |
+| DLR 3.2 Number of PMCIs with       |                 |                |                |                |                |                |
+| defined required capabilities (4)   |                 |                |                |                |                |                |
+| DLR 3.3 - Each province            |                 |                |                |                |                |                |
+| completes a situation analysis      |                 |                |                |                |                |                |
+| necessary to identify gaps for      |                 |                |                |                |                |                |
+| meeting required                   |                 |                |                |                |                |                |
+| capabilities (4)                   |                 |                |                |                |                |                |
+
+### Targets
+- DLR 3.1 - 9 provinces
+- DLR 3.2 - 550 PMCIs meeting all 5 defined required capabilities
+- DLR 3.3 - 9 provinces
+
+### Allocated Amounts and Disbursement Formula
+- DLR 3.1 - US$4.5 million (US$0.5 million per Province)
+- DLR 3.2 - US$27.5 million (US$35,000 per initial and any additional PMCI up to 550 PMCIs meeting 4 of the defined required capabilities in each FY greater than the PMCIs from the previous FY and US$15,000 per additional PMCI meeting a fifth defined required capability in each FY greater than the PMCIs from the previous FY)
+- DLR 3.3 - US$0.9 million (US$0.1 million per province)
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicative DLR
+- FY2018
+- FY2019
+- FY2020
+- FY2021
+- FY2022
+- June 30, 2023
+
+#### DLI 4. Enhanced patient-friendly services provided at PMCIs - US$19.25 million
+- DLRs
+- DLR 4.1 - Number of enhanced services at PMCIs (4)
+- Targets
+- DLR 4.1 - 550 enhanced services (based on the 4 pre-identified enhanced services) provided at PMCIs
+- Allocated Amounts and Disbursement
+- DLR 4.1 - US$19.25 million (US$35,000 per initial, and any additional enhanced service in each FY greater than the previous FY, up to 550 enhanced services with a maximum of 4 enhanced services per PMCI)
+- Formula
+
+### Results Area 3. Supportive systems developed to facilitate improved PHC service delivery, with a focus on NCD
+#### DLI 5. Personal health records are used to coordinate patient care over time and through the referral chain - US$18.50 million
+- DLRs
+- DLR 5.1 - MoH adopts updated e-health standards including personal health record (2)
+- DLR 5.2 - Number of PMCIs that use personal health records for their patients (4)
+- Targets
+- DLR 5.1 - Yes
+- DLR 5.2 - 550 PMCIs
+- Allocated Amounts and Disbursement
+- DLR 5.1 - US$4.20 million
+- DLR 5.2 - US$14.30 million (US$26,000 per initial and additional PMCI that use personal health records for their patients in each FY greater than the previous FY, up to 550 PMCIs in total)
+- Formula
+
+#### DLI 6. Procurement and supply chain management efficiency is improved - US$16.50 million
+- DLRs
+- DLR 6.2 – Government endorses revised procurement guidelines for health sector goods, including revised performance benchmarks for standard procurement lead times (2)
+- DLR 6.3 - For a selected set of tracer NCD drugs, percentage of annual procurement by MSD that is less than or equal to defined performance benchmarks (4)
+# THE WORLD BANK
+## Primary Health Care System Strengthening Project (P163721)
+
+### Indicative DLR
+- FY2018
+- FY2019
+- FY2020
+- FY2021
+- FY2022
+- June 30, 2023
+
+#### Period
+- DLR 6.4 – MoH establishes baseline for the use of the ‘urgent’ procurement procedure as a percent of total medical supplies procurement (2)
+- DLR 6.5 - The use of the urgent procurement procedure by the Provincial Department of Health Services or health facilities as a percent of total medical supplies procurement that is reduced from the established baseline (4)
+- DLR 6.1 - Number of PMCIs connected to and using the Medical Supplies Management Information System (MSMIS) (4)
+
+### Targets
+- DLR 6.1 - 550 PMCIs
+- DLR 6.2 – Yes
+- DLR 6.3 - 70%
+- DLR 6.4 – Yes
+- DLR 6.5 - 40% less than baseline
+
+### Allocated Amounts and Disbursement Formula
+- DLR 6.2- US$2.3 million
+- DLR 6.3 - US$4.5 million (US$225,000 per initial and each additional 1% point more than 50% in each FY greater than the previous FY up to 70%)
+- DLR 6.4 - US$1.0 million
+- DLR 6.5 - US$2.1 million (US$262,500 per each additional 5% less than the baseline in each FY greater than the previous FY down to 40% less than the baseline in total)
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Indicative DLR
+FY2018                   FY2019                   FY2020                  FY2021                   FY2022               June 30, 2023
+Period
+DLR 6.1 - US$6.60 million (US$12,000 per initial and additional PMCI in each FY greater than the previous FY, up to 550 PMCIs in total)
+
+## Results Area 4. Health system empowers and becomes more responsive to the demands of the population
+DLI 7. Community engagement mechanism for health sector operational, including grievance redressal mechanism and community committees at PMCIs - US$25.80 million
+
+### DLRs
+- DLR 7.1 - MoH adopts health sector community engagement guidelines (1)
+- DLR 7.2 - Each province adopts health sector community engagement guidelines (3)
+- DLR 7.3 – MoH establishes grievance redressal mechanism as per health sector community engagement guidelines (2)
+- DLR 7.4 – MoH makes public consolidated annual report for the health sector grievance redressal mechanism (4)
+- DLR 7.5 - Number of PMCIs which have active community engagement committees (4)
+- DLR 7.6 – MoH updates and adopts health sector community engagement guidelines (2)
+- DLR 7.7 - Each province updates and adopts health sector community engagement guidelines (4)
+
+### Targets
+- DLR 7.1 - Yes
+- DLR 7.2 - 9 provinces
+- DLR 7.3 - Yes
+- DLR 7.4 – 2 Annual Reports
+- DLR 7.5 - 550 PMCIs
+- DLR 7.6 - Yes
+- DLR 7.7 - 9 provinces
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Indicative DLR
+- FY2018
+- Allocated Amounts
+- DLR 7.1 - US$1.00 million
+- DLR 7.2 - US$2.25 million (US$0.25 million per province)
+- DLR 7.3 - US$3.00 million
+- DLR 7.4 - US$2.0 million (US$1.0 million per published Annual Report)
+- DLR 7.5 - US$16.5 million (US$30,000 per initial and additional PMCI with active community engagement greater than the previous FY, up to 550 PMCIs in total)
+- DLR 7.6 - US$0.6 million
+- DLR 7.7 - US$0.45 million (US$0.05 million per province)
+
+## Results Area
+Utilization of PHC Services, with a focus on NCD detection and active follow-up, is increased.
+
+### DLI 8
+Number of women at age 35 and at age 45 years who are screened for cervical cancer at a network of public health facilities - US$23.125 million
+
+#### DLRs
+- DLR 8.1 - Number of women of ages 35 and 45 having had a cervical cancer screening at public health facilities (4)
+- DLR 8.2 - MoH completes a study on the quality of cancer screening and referral practice (2)
+
+#### Targets
+- DLR 8.1 - 131,000 women
+- DLR 8.1 - 147,000 women
+- DLR 8.1 - 166,000 women
+- DLR 8.1 - 188,000 women
+- DLR 8.1 - 213,000 women
+- DLR 8.2 - Yes
+
+### Allocated Amounts
+- DLR 8.1 - US$21.125 million (US$25,000 per 1000 women per year)
+- DLR 8.2 - US$2.0 million
+
+### DLI 9
+Adults determined to have high risk for non-communicable diseases registered and actively followed up at PMCIs - US$24.90 million
+
+#### DLRs
+- DLR 9.1 - Percentage of screened adults with high risk for non-communicable diseases who are registered and actively followed up at PMCIs (4)
+- DLR 9.2 – MoH completes a study on the quality of the non-communicable disease patient screening, stratification, treatment practice at PMCI and referral system (2)
+
+#### Targets
+- DLR 9.1 - 25% with a minimum of 750 adults screened, on average, per PMCI meeting the required capabilities
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Indicative DLR
+- FY2018
+- FY2019
+- FY2020
+- FY2021
+- FY2022
+- June 30, 2023
+
+## Allocated Amounts and Disbursement Formula
+- DLR 9.1 - US$20.00 million (US$800,000 per initial, and any additional 1% point of screened adults with high risk for non-communicable diseases who are registered and actively followed up at a PMCI in each FY greater than the previous FY if the minimum number of adults screened in that year has been met, up to 25%)
+- DLR 9.2 - US$4.90 million
+
+## Notes:
+(1) This DLR is non-scalable and shall be achieved only once. The timeframe for achievement is defined as not later than June 30, 2019.
+(2) This DLR is non-scalable and shall be achieved only once. The timeframe for achievement of this DLR is indicative, but no later than December 31, 2023.
+(3) This DLR is scalable and may only be achieved once annually in each FY, not later than June 30, 2019.
+(4) This DLR is scalable and may only be achieved once annually in each FY, but not later than December 31, 2023.
+# ANNEX 3: DLI VERIFICATION PROTOCOLS
+Protocol to Evaluate Achievement of the DLI and
+
+| DLI  | Definition/Description of Results | Scalability of Disbursements (Yes/No) | Time Bound | Data Source/Agency | Data/Result Verification Entity | Verification Procedure |
+|------|-----------------------------------|----------------------------------------|------------|--------------------|-------------------------------|-----------------------|
+| DLI 1. | • This DLI reflects the intention of the central MoH and the provinces endorsing through routine government procedures the policies, standards, and implementation guidelines necessary to implement the service delivery model at the level of provider in the provinces. | DLR 1.1 No | DLR 1.1 Yes | MoH and provinces | IVA (PMM) | Review of documentation to ensure conformity with definition/description and ensure that it was endorsed following appropriate government procedure |
+|      | • DLRs 1.1 and 1.2 include the high-level strategy giving the orientation of the PHC reorganization objectives and approach. DLRs 1.1 and 1.2 also include guidelines for conducting the empanelment of the population to a PHC provider which may include the range of population to be served by a single provider, the process for assignment, the implications for patient to choose its PHC provider, the process for informing the citizen and institutional arrangements. | DLR 1.2 Yes | by June 30, 2019 | provinces | | |
+|      | • DLRs 1.3 and 1.4 include a package of necessary standards and guidelines for the model to be implemented and is defined to include at least: | DLR 1.3 No | DLR 1.2 Yes | MoH | | |
+|      | | DLR 1.4 Yes | by June 30, 2019 | | | |
+|      | | DLR 1.3 Yes | by June 30, 2019 | | | |
+|      | | DLR 1.4 Yes | by June 30, 2019 | | | |
+|      | | There is no specific reporting period for the DLRs. | | | | |
+|      | | | | | | |
+|      | o Comprehensive PHC service package definition, | | | | | |
+|      | o Definition of PHC network to deliver PHC service package, | | | | | |
+
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and
+### DLI
+- Model PMCI functionality and service standards defined, and
+- PMCI cadre (categories and numbers) defined.
+
+### DLI 2. MoH
+- This DLI reflects the intention of the MoH to adopt clinical protocols appropriate for use by PHC providers which are evidence-informed and follow good institutional practice, based on international practice but adapted for Sri Lankan conditions.
+- The selected health conditions include hypertension, diabetes mellitus, and cervical cancer.
+- Protocols would include:
+- Risk stratification based on population risk factors,
+- Screening protocols,
+- Management protocols,
+- Referral protocols, and
+- Essential drug and diagnostic (equipment and lab test) requirements.
+- DLR 2.1 reflects that these protocols would be adopted.
+- DLR 2.2 reflects that these protocols would be updated following the experience of using them.
+
+### DLI 3. PMCIs
+- This DLI reflects the intention of each PMCI to have 5 requirements that enhance its capability to provide
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and Disbursements
+### DLI
+- Definition/Description of Results
+- Scalability of (Yes/No)
+- Time Bound (Yes/No)
+- Data Source/Agency and Reporting Entity
+- Data/Result Verification Procedure
+
+- providing comprehensive and quality services, particularly for the defined health conditions, to the population it serves. These 5 minimum requirements are the following:
+- At least 25% of the adult population (aged 35 or over) in its defined empanelment area have been screened and categorized following risk factors.
+- The PMCI has minimum number of staff (at least two medical officers and one nurse officer) with the appropriate training as per defined requirements. The staff have been on duty for at least 9 months of the previous calendar year.
+- The PMCI has minimum operational equipment according to defined requirements.
+- The PMCI has minimum availability of essential drugs and lab test capacity (on-site or through a networked pharmacy or laboratory) according to defined requirements.
+- The PMCI would have quarterly supportive supervision visits, facilitated by a checklist, to ensure adherence to national standards.
+
+- There is no reporting period for DLRs 3.1 and 3.3. DLR 3.2 would be reported on a calendar year basis, that is, the number of PMCIs meeting requirements in 2019 would be included in report with data reported as of December 31, 2019. The results would then be compiled and verified in early 2019.
+
+- DLR 3.2 Data Quality Assessment Methodology Used to Assess Reports from Service Providers through the provinces to the MoH. The sample taken would be of both new additional facilities as well as previously reported facilities, to indicate that facilities previously reported have been maintained.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and
+### DLI
+- Definition/Description of Results
+- Scalability of Disbursements (Yes/No)
+- Time Bound (Yes/No)
+- Data Source/Agency and Reporting Entity
+- Data/Result Verification Procedure
+
+### quality and safety standards
+- (evidence of at least 3 visits per year)
+- DLRs 3.1 and 3.3 should include, for each province, a situation analysis for at least the above referenced criteria.
+- DLR 3.2 would pay US$35,000 for a PMCI meeting any four required capabilities and US$15,000 for the fifth capability. PMCIs with required capabilities are to be maintained. If not maintained, they would count against the yearly results. As an example, in FY19 50 PMCIs are to be established with the required capabilities. In FY20, the payment would begin with the 51ˢᵗ PMCI meeting at least 4 of the required capabilities.
+
+### DLI 4. PMCIs
+- DLR 4.1 intends to support provinces and PMCIs to enhance the functionality of PMCIs with other conveniences that would make the service more patient friendly. Enhanced services are the following:
+- PMCI routinely provides defined list of NCD drugs through one-month supply blister packs.
+- PMCI has arrangement(s) with laboratory/diagnostic services (either public or private or both) where the patient can provide.
+- DLR 4.1 would be reported on a calendar year basis, that is, the number of enhanced services provided at PMCIs in 2019 to indicate whether the enhanced services previously reported have been maintained.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and Disbursements
+| DLI | Definition/Description of Results | Scalability of Disbursements (Yes/No) | Time Bound (Yes/No) | Data Source/Agency | Data/Result Verification Entity | Verification Procedure |
+|-----|-----------------------------------|----------------------------------------|---------------------|--------------------|-------------------------------|-----------------------|
+|     | sample at the PMCI and receive the results from the PMCI. PMCI has arrangement(s) with pharmacy services (either state-owned, private or both) where patient can pick up free-of-charge prescription from the pharmacy service. PMCIs have an operational appointment system (web-based, phone call, other) where the patients can register for a specific appointment time. | DLR 4.1 would pay against additional enhanced services that have been added in each FY as compared to last FY, discounting those that have not been maintained (see the example for DLR 3.2). | | | | |
+| DLI 5. Personal health records are used to coordinate patient care over time and through the referral chain | • This DLI reflects the intention of the MoH to improve the coordination of patient care over time and through the referral network by implementing personal health records based on the unique identification of each patient. | DLR 5.1 No | DLR 5.1 No | DLR 5.1 MoH | IVA (PMM) | DLR 5.1: Review of documentation to ensure conformity with definition/description and agreed protocol; ensure that the updated standards were endorsed following appropriate government procedure. |
+|     | • Initially this will be implemented through paper-based personal health records which will allow the PHC provider to track an individual patient over time. Over time this will transition to an electronic system that allows | DLR 5.2 Yes | DLR 5.2 No | DLR 5.2 | | |
+|     | There is no specific reporting period for DLR 5.1. | | | | | DLR 5.2: Undertake data quality assessment to review the information reported by |
+
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and
+### DLI
+- Definition/Description of Results
+- Scalability of Disbursements (Yes/No)
+- Time Bound (Yes/No)
+- Data Source/Agency and Reporting Entity
+- Data/Result Verification Procedure
+- Verification Period
+
+- appropriate access by different service providers.
+- DLR 5.1 will support the MoH to update the e-health standards to support the robust development HMIS platforms and use of electronic HMIS at public health service providers, including with unique individual patient records. The standards may confirm the process for unique identification of patients, minimum functionality, minimum data fields for personal health records, standardized data definitions for minimum data fields, technology standards for the HMIS and inter-operability standards to report to and read from other systems. It should include the standard for defining the confidentiality of personal health records. This will be further elaborated in a distinct protocol.
+- DLR 5.2 will recognize PMCIs which are implementing personal health records, either paper based or electronic. A PMCI is implementing personal health records if at least 25% of the empaneled adult (age over 35) population has a personal health record complete with minimum data fields. This would be further defined in a separate protocol. This DLR would be reported on both additional PMCIs.
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and Disbursements
+| DLI | Definition/Description of Results | Scalability of Disbursements (Yes/No) | Time Bound (Yes/No) | Data Source/Agency | Data/Result Verification Entity | Verification Procedure |
+|-----|------------------------------------|----------------------------------------|---------------------|--------------------|-------------------------------|-----------------------|
+| DLI 6. | • This DLI reflects the intention of the MoH to increase the efficiency of its procurement and supply chain management system to ensure the availability, using the most economical procedures, of the drug supply at the facility, particularly for NCD drugs and the PMCI. | DLR 6.1 Yes | DLR 6.1 No | DLR 6.1 PMCIs | IVA (PMM) | DLR 6.1: Undertake data quality assessment to review the information reported by the PMCIs through the provinces to the MoH. The sample will include both the new additional PMCIs reporting the use MSMIS and those that were reported in the previous FYs to ensure that the use of MSMIS is maintained. |
+| | • DLR 6.1 will support the role of the MSMIS to the PMCI level to improve the drug stock management within the facility and to improve accuracy and the speed of the communication with the MoH in terms of the need. The MSMIS has been rolled out in the country but only down to the base hospital level. This DLR will extend this system down to the PMCI. This DLR would report both on the additional PMCIs connected to and using the MSMIS as compared to the previous FY as well as the maintenance of the previously reported PMCIs using the MSMIS. If any PMCI discontinues the use of health records, it would be discounted from the current FY results (see example under DLR 3.2). | DLR 6.2 No | DLR 6.2 No | DLR 6.2 MoH | | DLRs 6.1, 6.3, and 6.5 will be measured on an annual calendar basis. There is no reporting period for DLR 6.2 and 6.4. |
+| | | DLR 6.3 Yes | DLR 6.3 No | DLR 6.3, 6.4 and 6.5 | MoH/MSD | DLRs 6.2 and 6.4: Review of documentation to ensure conformity with definition/description and agreed protocol; ensure that the guidelines were approved following appropriate government procedure at the national and provincial level. |
+| | | DLR 6.4 No | DLR 6.4 No | | | |
+| | | DLR 6.5 Yes | DLR 6.5 No | | | |
+
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and
+DLI            Definition/Description of Results         Scalability of       Time Bound               Data        Data/Result Verification
+Disbursements          (Yes/No)          Source/Agency     Verification
+(Yes/No)                              and Reporting        Entity               Procedure
+Period
+
+- use of the MSMIS, then they would be discounted against the current FY performance (see example under DLR 3.2).
+- DLR 6.2 will support the approval by the Government Cabinet of new procurement guidelines for health sector goods that would facilitate faster and more effective procurement. To this end, it will establish new performance benchmarks for standard lead times (from receipt of procurement request with defined need to a confirmed order being placed).
+- Following DLR 6.2, DLR 6.3 will—for a defined set of tracer drugs—measure the lead time for procurement (from receipt of procurement request to confirmed order being placed) against the defined lead time benchmarks to determine if the procurement meets or does not meet the defined performance benchmark (defined in 6.1). Based on an assessment undertaken in 2015 for a similar set of drugs, where 50% of the tenders met the lead time, 50% is defined as the baseline. The project will support measured progress from this baseline.
+- DLR 6.4 will support the development of a specific measurement and agreed.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and Disbursements
+| DLI | Definition/Description of Results | Scalability of Disbursements (Yes/No) | Time Bound | Data Source/Agency | Data/Result Verification Entity | Verification Procedure |
+|-----|------------------------------------|----------------------------------------|------------|--------------------|-------------------------------|-----------------------|
+|     | baseline for the number of ‘urgent’ or local purchases that are undertaken as a precaution against potential stock-outs. This measurement does not include ‘emergency’ purchases in case of a disease outbreak or other emergency. With better planning and faster lead times, there should be less need to undertake urgent procurements for this purpose. The baseline will be defined as the average number of these urgent or local purchases in the previous 3 fiscal years. | | | | | |
+|     | Following DLR 6.4, DLR 6.5 will support the sustained reduction in the use of urgent or local purchases resulting from the improved planning and faster procurement processes. While there will always be a need for this option in case of factors beyond the control of the MoH and its MS, it is estimated that the need for such measures could be reduced by half over the period of the project. In defining the baseline, the MSD will establish a system for measuring and routinely reporting on this information. | | | | | |
+| DLI 7. | This DLI reflects the intention of the MoH and the provinces to define, establish, implement, and report on community engagement mechanism for health sector where the public and patients can | DLR 7.1 No | DLR 7.1 Yes | MoH and provinces | IVA (PMM) | DLRs 7.1 and 7.2: Review of documentation to ensure conformity with definition/description and agreed protocol; ensure that |
+|     | | DLR 7.2 Yes | by June 30, 2019 | | | |
+|     | | DLR 7.3 No | DLR 7.2 Yes, by June 30, 2019 | | | |
+|     | | DLR 7.4 Yes | | | | |
+|     | | DLR 7.5 Yes | DLR 7.3 No | | | |
+
+# PRIMARY HEALTH CARE SYSTEM STRENGTHENING PROJECT (P163721)
+
+## DLI
+- Definition/Description of Results
+- Scalability of Disbursements (Yes/No)
+- Time Bound (Yes/No)
+
+- operational, express their complaints, suggestions, or positive commendations. It will also include institutional arrangements that would deepen community engagement.
+- DLR 7.6 No
+- DLR 7.4 No
+- DLR 7.7 Yes
+- DLR 7.5 No
+- DLR 7.6 No
+- DLR 7.7 No
+
+### grievance redressal mechanism and community committees at the PMCIs
+- The guidelines for community engagement mechanism referenced in DLRs 7.1 and 7.2 should define the objectives of the system; the institutional responsibilities for operating, supervising, and reporting; the process for review and response to the feedback, service standards; the portals for receipt of the complaints, that is, website, email, phone, text; the technology standards for the system; definition of who needs to be trained to operate the system; and communications strategy for informing the public. It would also include the Terms of Reference and Guidelines for establishing and operating ‘Friends of the Facility’ Committee that would deepen the connection between PMCIs and the empaneled communities they serve.
+- DLR 7.3 would be an established GRM in accordance with the Guidelines defined in 7.1 and 7.2.
+- DLR 7.4 would be an annual report analyzing the feedback received and health system responses to those.
+
+## Protocol to Evaluate Achievement of the DLI and Data
+- Data/Result Verification Source/Agency
+- Verification Entity Procedure
+- Reporting Period
+
+- There is no reporting period for DLRs 7.1, 7.2, and 7.6.
+- DLRs 7.3, 7.4 and 7.5 would be reported on an annual calendar basis.
+- DLR 7.3: Ensure that a health sector grievance redressal mechanism is operational following the guidelines, that is, the means of communication with the public have been opened, the public has been made aware, and initial comments/feedback have been received and responses provided.
+- DLR 7.4: The annual report as described should be available to the IVA through readily available platform, that is, the MoH website or similar.
+- DLR 7.5: Undertake data quality assessment to review the information reported by the PMCIs through the provinces to the MoH. The sample would be both of additional PMCIs reported in that FY as well as PMCIs.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and Disbursements
+DLI            Definition/Description of Results         Scalability of       Time Bound               Data        Data/Result Verification
+Disbursements          (Yes/No)          Source/Agency     Verification
+(Yes/No)                              and Reporting        Entity               Procedure
+Period
+
+- feedbacks, made public in an appropriate way.
+- DLR 7.5 would be operational ‘Friends of the Facility’ Committees in accordance with the Guidelines with minutes of having met for at least 3 times in the previous year. This DLR would report both new additional PMCIs with active community committees as compared to the previous FY as well as the maintenance of the committees reported in the previous FY. Those PMCIs which do not maintain an active committee previously reported would be discounted against the current FY results.
+- DLRs 7.6 and DLR 7.7 would be updates of the community engagement guidelines at the national and provincial level based on the experience of implementing those guidelines in practice.
+
+DLI 8. Women aged 35 and 45 are screened for cervical cancer at a network of public health facilities
+- This DLI reflects the intention of increasing the screening of women for cervical cancer, as a proxy indicator for other preventive examinations for women.
+- DLR 8.1 reflects the MoH program of screening women for cervical cancer and particularly targeting women ages 35 and 45 where the cancer growth.
+- DLR 8.1 would be reported on an annual calendar basis.
+- DLR 8.2: Review of documentation to ensure.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and
+DLI             Definition/Description of Results          Scalability of      Time Bound                Data        Data/Result Verification
+Disbursements         (Yes/No)         Source/Agency       Verification
+(Yes/No)                              and Reporting        Entity               Procedure
+Period
+may be at the early stages. The actual                                            There is no                        conformity with
+number of women screened at any                                                   reporting period                   definition/description and
+public HF, in each calendar year, will be                                         for DLR 8.2.                       agreed protocol. Ensure that
+measured. The majority (approximately                                                                                the study is accepted by the
+90%) of the services are provided at                                                                                 MoH following appropriate
+PHC facilities (Well Women Clinics,                                                                                  government procedure.
+PMCIs). The reporting system will
+capture these as well as those provided
+in base and tertiary care hospitals.
+•   DLR 8.2 To ensure that the screening
+and referral protocols are being
+followed and to access provider
+knowledge and practice, a study
+following an agreed methodology and
+based on a sample of the providers will
+be undertaken.
+DLI 9. Adults     •   This DLI reflects the intention that     DLR 9.1 Yes        DLR 9.1 No            MoH and             IVA (PMM)      DLR 9.1 Data Quality
+determined to         more adults at high risk for developing  DLR 9.2 No         DLR 9.2 No            provinces                          Assessment Methodology
+have high risk        NCD would be identified and actively                                              through MoH                        Used to Assess Service
+for non-              followed up at the PMCI. High risk is                                                                                Delivery Reports from Service
+communicable          defined as those with 20% or greater                                              DLR 9.1 would                      Providers through to the
+diseases              chance of a major cardiovascular event                                            be reported on                     MoH. The sample would
+registered and        in next 10 years, following the WHO                                               an annual                          include additional patients
+actively              standards for NCD risk identification.                                            calendar basis.                    that are reported in that FY
+followed up at    •   DLR 9.1 reflects that PMCIs will screen                                                                              as well as those that were
+PMCIs                 the adult population (greater than age                                            There is no                        reported in previous FY to
+35) in its empaneled area, with a                                                 reporting period                   ensure that the monitoring of
+minimum number of population to be                                                for DLR 9.2.                       those high-risk patients is
+screened each year (750 per PMCI on                                                                                  maintained.
+average). PMCIs will maintain data on
+the adult population screened and an                                                                                 DLR 9.2: Review of
+active registry of their empaneled                                                                                   documentation to ensure
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Protocol to Evaluate Achievement of the DLI and
+DLI             Definition/Description of Results          Scalability of       Time Bound               Data         Data/Result Verification
+Disbursements          (Yes/No)          Source/Agency      Verification
+(Yes/No)                              and Reporting         Entity               Procedure
+Period
+
+patients who have been identified as high risk following the defined screening protocols (the denominator). A patient will be considered as being actively followed up at the facility level if seen within the last 3 months before the end of the reporting period. Those adults who are identified as high risk and actively followed up at the PMCI will define the numerator.
+- This indicator will report the additional percentage of high-risk patients that are identified and followed up at the PMCI as compared to the previous FY as well as the maintenance of the percentage reported in the previous FY. Any percentage not maintained would be discounted against the current FY results (see example under DLR 3.2). It is important to note that it may or may not be the same individuals who are followed up from year to year.
+- DLR 9.2: To ensure that the screening, management and referral protocols are being followed and to access provider knowledge and practice, a study following an agreed methodology and based on a sample of the providers will be undertaken.
+# THE WORLD BANK
+Primary Health Care System Strengthening Project (P163721)
+
+## Map
+INDIA                                                         SRI LANKA
+1                                                    SELECTED CITIES AND TOWN
+FROMKCE CPELS
+NAONA (AAAL
+MAN ROADS
+JUOADS
+PROVINCE BOUNDARIES
+Pall Bay                                            INTERNATIONAL BOUNDARIES
+NORTHERN
+LANKA/
+Gulf of                 North CENTRAL
+Mannar               GURUC OCURE
+GJRU
+Bay of Bengal
+North
+WESTERN                                      07008
+EASTERN
+Kuruncgak
+CENTRAL
+WESTERN
+Enfnm       SABARAGAMUWA
+Laccadive
+Sea                                                              INDIAN
+OCEAN
+SOUTHERN
+Page 96 of 96

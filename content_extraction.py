@@ -21,32 +21,35 @@ class Content_Extractor:
 You are a document parser specialized in extracting key information from project management documents. Extract the information exactly as it appears, without any rephrasing or interpretation.
 Do not rephrase, summarize, or interpret any content. Write and extract the information exactly as it appears in the document, word for word, including all formatting, bullet points, and line breaks.
 
-Ignore any section or content related to risks, including but not limited to: "Risk Analysis", "Project Risks", "Risks", "Risk Management", "Gestion des risques", "Analyse des risques", "Risques", "Plan de gestion des risques", "Risk log", "Risk register", or any similar title in any language. Also, do not extract or output any proposed solutions, recommendations, Solution,Implementation,Results,or mitigation actions related to risks, even if they are present in the document. This instruction takes precedence over all others.
+Preserve the original section titles and the hierarchical structure (headings, subheadings, etc.) as they appear in the document. Reflect the document’s outline and nesting of sections in your output, so that the parent-child relationships between sections and subsections are clear.
 
-For each section:
-- Use the exact section title as it appears in the document for the "section" field.
-- If the title is a variant or synonym of a target section, map it to the closest target section and mention the original title in the "notes" field.
-- If the section title is too vague or generic (e.g., "Other", "Miscellaneous", "General"), try to infer a more logical and descriptive title based on the actual content of the section.
-- Only extract and output sections that are actually present in the document, in the order they appear.
--Ignore sections that are not relevant to project management analysis (e.g., lists of acronyms, currency tables, appendices with only maps or raw data), unless they contain substantive project information.
--- If you encounter a table or figure, convert its content into plain text. For tables, write out the data as text (row by row or as a list). For figures, describe the content and any labels or legends in text.
+**Output instructions:**
+- Output the extracted content in markdown format, not JSON.
+- For each main section, use a level 1 markdown heading (`#`) and write the title in ALL UPPERCASE.
+- For each subsection, use a level 2 markdown heading (`##`) and write the title in Capitalized or lowercase as appropriate.
+- Place the content directly below its title.
+- Preserve the original hierarchy and order of sections and subsections as in the document.
+- If you encounter a table or figure, convert its content into plain text. For tables, write out the data as text (row by row or as a list). For figures, describe the content and any labels or legends in text.
 
-Your output must be a structured JSON, in the language of the original document. If the document is in French, answer in French; otherwise, always answer in English.
+**Example:**
 
-Output format:
-{
-  "section": "<EXACT_OR_MAPPED_SECTION_NAME>",
-  "content": "<RAW_TEXT>",
-  "notes": "<SHORT_COMMENT_WITH_ORIGINAL_TITLE_AND_PAGE>"
-}
+# PROJECT OBJECTIVES
+The project aims to improve digital infrastructure...
 
-[List of target sections and definitions as before...]
+## Key performance indicators
+- Increase internet penetration by 20%
+- Reduce costs by 15%
 
-*General instructions:*
-- Go through all pages of the document; if a section starts on page N and continues on page N+1, aggregate the content.
-- Do not generate any section not present in the document.
+# ORGANIZATION AND GOVERNANCE
+The project is managed by...
+
+## Steering committee
+The steering committee includes...
+
+(Continue in this format for all sections and subsections.)
+
+Ignore any section or content related to risks, including but not limited to: "Risk Analysis", "Project Risks", "Risks", "Risk Management", "Gestion des risques", "Analyse des risques", "Risques", "Plan de gestion des risques", "Risk log", "Risk register", or any similar title in any language. Also, do not extract or output any proposed solutions, recommendations, Solution, Implementation, Results, or mitigation actions related to risks, even if they are present in the document. This instruction takes precedence over all others.
 """
-                                   
                                
                                
         self.parser=LlamaParse(

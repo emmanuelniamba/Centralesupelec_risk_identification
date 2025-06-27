@@ -1,806 +1,2824 @@
-{
-"section": "Project Appraisal Document",
-"content": "Document of The World Bank\nFOR OFFICIAL USE ONLY\nReport No: PAD2258\nINTERNATIONAL DEVELOPMENT ASSOCIATION\nPROJECT APPRAISAL DOCUMENT\nON A\nPROPOSED CREDIT\nIN THE AMOUNT OF US$23.375 MILLION EQUIVALENT\nAND A PROPOSED GRANT\nIN THE AMOUNT OF SDR7.480 MILLION\n(US$10.255 MILLION EQUIVALENT)\nTO\nSOLOMON ISLANDS\nFOR A\nTINA RIVER HYDROPOWER DEVELOPMENT PROJECT\nMay 24, 2017\nEnergy & Extractives Global Practice\nEast Asia and Pacific Region\nThis document has a restricted distribution and may be used by recipients only in the performance of their official duties. Its contents may not otherwise be disclosed without World Bank authorization.",
-"notes": "Original title: Project Appraisal Document"
-}
-{
-"section": "Currency Equivalents",
-"content": "CURRENCY EQUIVALENTS\n(Exchange Rate Effective April 30, 2017)\nCurrency Unit =  US Dollars\nSBD7.80 =   US$1\nUS$1.37=   SDR 1\nFISCAL YEAR\nJanuary 1 - December 31\nRegional Vice President:   Victoria Kwakwa\nCountry Director:    Michel Kerf\nSenior Global Practice Director:  Riccardo Puliti\nPractice Manager:    Jie Tang\nTask Team Leader(s):    Takafumi Kadono, Erik Caldwell Johnson",
-"notes": "Original title: CURRENCY EQUIVALENTS"
-}
-[
-{
-"section": "STRATEGIC CONTEXT",
-"content": "8\nA. Country Context\n8\nB. Sectoral and Institutional Context\n9\nC. Higher Level Objectives to which the Project Contributes\n12",
-"notes": ""
-},
-{
-"section": "PROJECT DEVELOPMENT OBJECTIVE",
-"content": "14\nA. PDO\n14\nB. Project Beneficiaries\n14\nC. PDO-Level Results Indicators\n14",
-"notes": ""
-},
-{
-"section": "PROJECT DESCRIPTION",
-"content": "15\nA. Project Components\n15\nB. Project Cost and Financing\n17",
-"notes": ""
-},
-{
-"section": "IMPLEMENTATION",
-"content": "19\nA. Institutional and Implementation Arrangements\n19\nB. Results Monitoring and Evaluation\n21\nC. Sustainability\n21\nD. Role of Partners\n22",
-"notes": ""
-},
-{
-"section": "APPRAISAL SUMMARY",
-"content": "26\nA. Economic and Financial Analysis\n26\nB. Technical\n35\nC. Financial Management\n35\nD. Procurement\n36\nE. Social (including Safeguards)\n36\nF. Environment (including Safeguards)\n38\nG. Other Safeguard Policies\n39\nH. World Bank Grievance Redress\n40",
-"notes": ""
-}
-]
-{
-"section": "RESULTS FRAMEWORK AND MONITORING",
-"content": "41",
-"notes": "Page 41"
-}
-{
-"section": "Abbreviations and Acronyms",
-"content": "ADB       Asian Development Bank                 GGA        Government Guarantee Agreement\nADFD      Abu Dhabi Fund for Development         GHG        Greenhouse Gas\nAEP       Annual Exceedance Probability          GIF        Global Infrastructure Facility\nAPIP      Australia-Pacific Islands Partnership  GoA        Government of Australia\n          Trust Funds\nBLIC      Bahomea Land Identification            GRM        Grievance Redress Mechanism\n          Committee\nBOOT      Build-Own-Operate-Transfer             GRS        Grievance Redress Service\nCAGR      Compound Annual Growth Rate            GWh        Gigawatt-hour\nCDP       Community Development Plan             ha         Hectare\nCPS       Country Partnership Strategy           HCA        Honiara Club Agreement\nCQS       Consultant’s Qualification Based       HDI        Human Development Index\n          Selection\nDA        Designated Account                     HEC        Hyundai Engineering Co., Ltd.\nDSCR      Debt Service Coverage Ratio            HPF        Hydropower Facility\nDFAT      Department of Foreign Affairs and      IA         Implementation Agreement\n          Trade\nDSAP      Dam Safety Advisory Panel              ICSI       Investment Corporation of the\n                                                            Solomon Islands\nEBITDA    Earnings before Interest, Tax          IDA        International Development\n          Depreciation and Amortization                     Association\nEDCF      Economic Development Cooperation       IFC        International Finance Corporation\n          Fund of the Government of Korea\nEPC       Engineering-Procurement-               IMF        International Monetary Fund\n          Construction\nEPP       Emergency Preparedness Plan            INDC       Intended Nationally Determined\n                                                            Contribution\nERR       Economic Rate of Return                IPP        Independent Power Producer\nESIA      Environmental and Social Impact        IRENA      International Renewable Energy\n          Assess                                            Agency\nESMP      Environmental and Social               JICA       Japan International Cooperation\n          Management Plan                                   Agency\nESRS      Environmental and Social Review        JSDF       Japan Social Development Fund\n          Summary\nFIRR      Financial Internal Rate of Return      K-water    Korea Water Resources Corporation\nFM        Financial Management                   km²        Square Kilometers\nFSL       Full Supply Level                      kW         Kilowatt\nGAP       Gender Action Plan                     kWh        Kilowatt-hour\nGCF       Green Climate Fund                     LALRP      Land Acquisition and Livelihood\n                                                            Restoration Plan\nGDP       Gross Domestic Product                 m³/s       Cubic Meters per Second",
-"notes": "Original title: ABBREVIATIONS AND ACRONYMS"
-}
-{
-"section": "Acronyms",
-"content": "MECDM     Ministry of Environment, Climate        PPSD        Project Procurement Strategy for\n          Change, Disaster Management and                     Development\nMIGA      Multilateral Investment Guarantee       PS          World Bank Performance Standards\n          Agency\nMMERE     Ministry of Mines, Energy and Rural     RCC         Roller-Compacted Concrete\n          Electrification\nMOFT      Ministry of Finance and Treasury        SAIDI       System Average Interruption\n                                                              Duration Index\nMW        Megawatt                                SAIFI       System Average Interruption\n                                                              Frequency Index\nMWh       Megawatt-hour                           SIA         Social Impact Assessment\nNDS       National Development Strategy           SIEA        Solomon Islands Electricity Authority\nNGO       Non-Governmental Organization           SIEAEP      Solomon Islands Electricity Access\n                                                              Expansion Project\nNIIP      National Infrastructure Investment      SIG         Solomon Islands Government\n          Plan\nNPV       Net Present Value                       SINEP       Solomon Islands National Energy\n                                                              Policy (draft)\nO&M       Operation and Maintenance               SISEP       Solomon Islands Sustainable Energy\n                                                              Project\nPC        Project Company                         STEP        Systematic Tracking of Exchanges in\n                                                              Procurement\nPO        Project Office                          TA          Technical Assistance\nPV        Photovoltaics                           TF          Trust Fund\nPPA       Power Purchase Agreement                TCLC        Tina Core Land Company\nPPP       Public-Private Partnership              tCO2eq      Tons of Carbon Dioxide Equivalent\n                                                  TRHDP       Tina River Hydropower\n                                                              Development Project",
-"notes": "Acronyms and Abbreviations - Page 1"
-}
-{
-"section": "BASIC INFORMATION",
-"content": "Is this a regionally tagged project?  Country(ies)                     Financing Instrument\nNo                                                                     Investment Project Financing\n[  ]  Situations of Urgent Need of Assistance or Capacity Constraints\n[  ]  Financial Intermediaries\n[  ] Series of Projects\nApproval Date              Closing Date             Environmental Assessment Category\n20-Jun-2017                30-Jun-2023              A - Full Assessment\nBank/IFC Collaboration     Joint Level\nYes                        Historical Project/Activity implemented in sequence with an IFC\n                            activity(Loan/Credit/Guarantee/AAA)\nProposed Development Objective(s)\nThe project development objective (PDO) is to increase the share of renewable energy through hydropower in\nSolomon Islands.\nComponents\nComponent Name                                                                            Cost (US$, millions)\nComponent 1: Tina River Hydropower Facility (HPF)                                                     185.66\nComponent 2: Access Roads                                                                               25.00\nComponent 3: Transmission lines                                                                         22.82\nComponent 4: Technical Assistance                                                                        7.00",
-"notes": ""
-}
-{
-"section": "Organizations",
-"content": "Borrower :                  Solomon Islands Ministry of Finance and Treasury\nImplementing Agency :       Solomon Islands Ministry of Mines, Energy and Rural Electrification\n                            Solomon Islands Electricity Authority\n                            Project Company to be established",
-"notes": "Organizations section on page 1"
-},
-{
-"section": "PROJECT FINANCING DATA (IN USD MILLION)",
-"content": "[ ✔ ]             [  ] IBRD   [ ✔ ] IDA Credit          [ ✔ ] IDA Grant           [ ✔ ] Trust      [ ✔ ]\nCounterpart                                                                       Funds            Parallel\nFunding                       [  ] Crisis Response      [  ] Crisis Response                       Financing\n                              Window                    Window\n                              [  ] Regional Projects    [  ] Regional Projects\n                              Window                    Window\nFIN_COST_OLD\n         Total Project Cost:                      Total Financing:              Financing Gap:\n                    240.48                                 240.48                         0.00\n                               Of Which Bank Financing (IBRD/IDA):\n                                                             33.63\nFinancing (in US$, millions)\nFIN_SUMM_OLD\nFinancing Source                                                                        Amount\nABU DHABI: Abu Dhabi Fund for Arab Economic Development                                   15.00\nAsian Development Bank                                                                    30.00\nBorrower                                                                                  22.15\nKOREA, Rep of: Economic Development Cooperation Fund                                      31.60\nGreen Climate Fund                                                                        86.00\nInternational Development Association (IDA)                                               23.38\nIDA Grant                                                                                 10.26\nAustralia-Pacific Islands Partnership Trust Fund                                          11.70\nForeign Private Commercial Sources (identified)                                           10.40",
-"notes": "Project Financing Data section on page 2"
-}
-{
-"section": "Expected Disbursements",
-"content": "Total                                                                                     240.49\nExpected Disbursements (in US$, millions)\nFiscal Year                                   2017      2018      2019      2020      2021      2022      2023\nAnnual                                         0.00      1.32      2.16      4.40      7.23      8.72      9.77\nCumulative                                     0.00      1.32      3.48      7.88     15.11     23.83     33.63",
-"notes": "Page 3 of 97"
-},
-{
-"section": "INSTITUTIONAL DATA",
-"content": "Practice Area (Lead)\nEnergy & Extractives\nContributing Practice Areas\nSocial, Urban, Rural and Resilience Global Practice\nClimate Change and Disaster Screening\nThis operation has been screened for short and long-term climate change and disaster risks\nGender Tag\nDoes the project plan to undertake any of the following?\na. Analysis to identify Project-relevant gaps between males and females, especially in light of country gaps identified\nthrough SCD and CPF\nYes\nb. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or men's empowerment\nYes\nc. Include Indicators in results framework to monitor outcomes from actions identified in (b)\nYes",
-"notes": "Page 3 of 97"
-}
-{
-"section": "COMPLIANCE",
-"content": "Policy\nDoes the project depart from the CPF in content or in other significant respects?\n[ ] Yes  [✔] No\nDoes the project require any waivers of Bank policies?\n[ ] Yes  [✔] No\nSafeguard Policies Triggered by the Project                                                  Yes       No\nEnvironmental Assessment OP/BP 4.01                                                           ✔\nNatural Habitats OP/BP 4.04                                                                   ✔\nForests OP/BP 4.36                                                                            ✔\nPest Management OP 4.09                                                                                 ✔\nPhysical Cultural Resources OP/BP 4.11                                                        ✔\nIndigenous Peoples OP/BP 4.10                                                                 ✔\nInvoluntary Resettlement OP/BP 4.12                                                           ✔\nSafety of Dams OP/BP 4.37                                                                     ✔",
-"notes": "Compliance section from page 4"
-}
-{
-"section": "Legal Covenants",
-"content": "Sections and Description\nSequencing of legal covenants will be designed when the negotiations of the Project Documents among their respective parties are more advanced.",
-"notes": "Original title: Legal Covenants, Page 5"
-},
-{
-"section": "Conditions",
-"content": "Type                           Description\nEffectiveness                  Sequencing of conditions (of effectiveness or first disbursement under a\ndisbursement category) will be designed when the negotiations of the Project\nDocuments among their respective parties are more advanced.",
-"notes": "Original title: Conditions, Page 5"
-},
-{
-"section": "PROJECT TEAM",
-"content": "Bank Staff\nName                        Role                           Specialization                 Unit\nTakafumi Kadono             Team Leader(ADM                                               GEE02\n                            Responsible)\nErik Caldwell Johnson       Team Leader                                                   GSU02\nZhentu Liu                  Procurement Specialist(ADM                                    GGO08\n                            Responsible)\nManuela Da Cruz             Procurement Specialist                                        GGO08\nStephen Paul Hartung        Financial Management                                          GGO20\n                            Specialist\nAlison Ofotalau             Team Member                                                   EAPEC\nAni Balabanyan              Peer Reviewer                                                 GEE01\nArtur Kochnakyan            Peer Reviewer                                                 GEE03\nArturo S. Rivera            Peer Reviewer                                                 GEE03\nBarry Trembath              Team Member                    Hydropower                     GEE06\nBipulendu Narayan Singh     Team Member                    Economic and Financial         GEE06",
-"notes": "Original title: PROJECT TEAM, Page 5"
-}
-{
-"section": "Team Members",
-"content": "Dejan R. Ostojic         Peer Reviewer                                               GEE03\nFederica Cimato          Team Member                   Benefit sharing               GEE09\nFowzia Hassan            Team Member                                                 GEE02\nHelene Bertaud           Counsel                                                     LEGES\nJanet Funa               Team Member                                                 EACSB\nJennifer Appo            Team Member                                                 EACSB\nJennifer Sarah Scott     Team Member                   Gender                        GEE08\nMasood Ahmad             Peer Reviewer                                               GEE06\nOliver George Whalley    Team Member                   Transport                     GTI02\nRoss James Butler        Safeguards Specialist                                       GSU02\nSatoru Ueda              Team Member                   Dam safety                    GWASO\nThomas E. Walton         Environmental Specialist                                    GEN01\nThomas Michael Perry     Team Member                                                 EAPEC\nTowfiqua S. Hoque        Team Member                   Corporate Financial Analysis  GCPGF\n                                                       (GIF)\nVivien Foster            Peer Reviewer                                               GEEDR\nWansup Kim               Team Member                                                 EAPKR\nWilliam Rex              Peer Reviewer                                               GWADR\n Extended Team\nName                     Title                         Organization                  Location\nFrederick Brusberg       Safeguard Specialist          WB\nGrant Reed               Managing Director             EGR Consulting                New Zealand\nRamu Naidoo              Director                      Scientia Consulting",
-"notes": "Original title: Team Members and Extended Team, Page 6"
-}
-{
-"section": "Notes",
-"content": "Note 1: Under the Compliance section of the Data Sheet above, the “No” box is checked for “Does the project require any waivers of Bank Policies”. Note, however, that Management exceptionally waived the application of Paragraph 28 of BP 10.00, in order to allow the submission of the Approval package to the Executive Directors on the basis of a negotiated term sheet instead of a negotiated Financing Agreement and Project Agreements, following a procedure similar to the one described under Paragraph 29 of BP 10.00 for Bank Guarantees. The term sheet is attached as Annex 4 of the PAD. The Financing Agreement and the two Project Agreements will be negotiated after Board approval, signed at a time determined by LEGAL and declared effective so that funds become available when Project implementation begins.\nNote 2: In the Data Sheet, “Total Financing” is correctly indicated as US$240.48 million, but the Total of the “Financing Source” is incorrectly indicated as US$240.49 million. This is a rounding error caused by IDA Credit being rounded up to US$23.38 million (correct figure is US$23.375 million) and IDA Grant also being rounded up to US$10.26 million (correct figure is US$10.255 million equivalent). “Bank Financing” is indicated correctly as US$33.63 million which is the sum of IDA Credit of US$23.375 million and IDA Grant of US$10.255 million equivalent.",
-"notes": "Original title: Notes; Page 7"
-}
-{
-"section": "STRATEGIC CONTEXT",
-"content": "A. Country Context\n1.      Solomon   Islands is a  remote   archipelago  with  one  of  the  lowest  population  densities (20 persons/km²) and urbanization rates (17     percent) in the world. The country      consists of 997 islands encompassing a total land area of 29,900 km² spread over 1.34 million km² of ocean. The population of approximately 616,000 is dispersed across an estimated 90 islands.¹ The island geography, coupled with weak infrastructure links, presents formidable challenges to service delivery and economic integration. Major obstacles to development are the high cost environment resulting from the country’s remoteness as well as its small market, lack of competition, high transportation and energy costs, and customary land issues. It is also vulnerable to natural disasters such as cyclones, tsunamis, flooding, drought and earthquakes.\n2.      Solomon Islands has one of the lowest levels of gross domestic product (GDP) per capita among the Pacific Island states, at US$2,013/capita. The country  is still recovering from many years  of intermittent political turmoil and civil strife. Locally referred to as the “tension”, the conflict during 1998-2003 disrupted the functioning of state and social institutions which resulted in a 40 percent decline of GDP. To support the stabilization of Solomon Islands, neighboring countries led by Australia deployed the Regional Assistance Mission to the Solomon Islands to restore law and order and other basic state functions. Ever since, peace has generally been maintained, barring major riots in 2006 (which did not trigger further conflict), and political protests in 2011 following a change in prime minister.\n3.      The economy has    since rebounded, but remains vulnerable to external shocks. Solomon Islands Government (SIG) managed its economy pursuant to the agreed principles of the Honiara Club Agreement (HCA) set up to support the recovery of the Solomon Islands, and the economy grew mainly on export of commodities such as logging and substantial amounts of Official Development Assistance. However, the global financial crisis of 2009 hit the Solomon Islands hard, resulting in GDP contracting by 4.7 percent, a budget crunch and a depletion of foreign currency reserves. Furthermore, the oil price spike of 2008, and subsequently during 2011 to 2013, demonstrated Solomon Islands’ vulnerability to global oil price volatility as the country’s balance of payments came under severe pressure since fossil fuels account for about a quarter of all imports.\n4.      Going forward, real GDP is projected to grow on average by 3.1 percent over the medium-term (in the next 5 years). This projection is based on the assumption of resumed gold-mining activity, the exploitation of  large  nickel deposits,  and  increased  investments   in  key  transport  infrastructure, energy,  and telecommunications projects. There are considerable down-side risks to this outlook, notably the expected decline in log production over the medium-term.\n          1 Population data based on Solomon Islands 2012/13 Household Income and Expenditure Survey – National Analytical Report [Volume 1], October 2015.",
-"notes": "Original title: A. Country Context, Page 8"
-}
-{
-"section": "Sectoral and Institutional Context",
-"content": "5.     Low access to electricity services. About 9 percent of the population in Solomon Islands has access to grid-connected electricity supplied by the national power utility, Solomon Islands Electricity Authority (SIEA), and about 2 percent are supplied by diesel generators owned by households or communities.² Access to grid electricity is uneven across the country. About 50 percent of the urban households are supplied by SIEA of which the majority are being supplied through the Honiara Electricity System (HES) in the capital city, with a population of nearly 70,000, on the main island of Guadalcanal. Only about 3 percent of the rural households are supplied by SIEA or through diesel generators owned by households or communities. Nationally, one-third of the households have installed small solar home systems, with photovoltaic (PV) panels typically of 20 watts, which are only sufficient for a few light bulbs and to charge cell phones. At an average annual consumption of 125 kilowatt-hours (kWh) per capita, the country has the lowest energy consumption rate in the Pacific.\n6.     Demand and supply.    Currently the demand growth on the HES is constrained by interruptions in supply caused by frequent maintenance of diesel generators, limited distribution network coverage, small number of overall customers and high retail tariffs (see section below). The total installed capacity of the HES is 33.6 megawatts (MW), out of which 32.6 MW³ are diesel generators and 1 MW is a solar farm. Peak demand of the HES has increased from 9.3 MW in 2003 to 15.5 MW in 2016 representing a compound annual growth rate (CAGR) 4.0 percent. Over the same period, annual electricity generation in HES grew at 4.9 percent CAGR from 45.1 gigawatt-hours (GWh) to 83.9 GWh, with a notable 6.7 percent growth in 2016 alone mainly due to the increased generation capacity realized through the commissioning of four 2.5 MW diesel generators. Total electricity generated in the provincial grids was 6.7 GWh in 2016.\n7.     Heavy reliance on imported diesel, high cost of generation and high retail tariff.    SIEA’s system  is almost 100 percent reliant on diesel generation. The cost of generation has reduced over the recent years, from US$ 35.6 cents/kWh in 2014 to US$ 23.8 cents/kWh in 2016, along with the drop in oil prices. Retail tariffs for grid-supplied electricity, adjusted down from US$ 93 cents/kWh in 2014 to US$ cent 65/kWh as of January 2017. The 2017 reduction was partly due to low oil prices, and partly due to enforcement of a new tariff calculation methodology. The Tariff Regulation mechanism adopted since 2005 linked retail tariffs to fuel cost. However, while the retail tariff increased along with rising oil prices up to mid-2014, the drop in fuel cost which began in late-2014 was largely not translated into lower retail tariffs. In 2014, SIEA, with the support of the World Bank, conducted a cost-of-service and tariff review in order to develop recommendations on SIEA’s future revenue requirements and its electricity tariff. The cost-of-service and tariff review was completed in 2016 which resulted in the development and gazetting of the Tariff Regulation 2016, which came into effect in January 2017. Through the new tariff methodology, tariff levels are set by determining the Maximum Allowable Revenue for SIEA based on Non Fuel Revenue Requirements and a pass-through of Fuel Charges of all fuel costs, including power purchased under power purchase agreements, adjusted for heat rate and losses. However, the retail tariff is still significantly higher than the Pacific regional average of residential retail tariffs.",
-"notes": "Original title: Sectoral and Institutional Context, Page 9"
-}
-{
-"section": "SIEA financial performance",
-"content": "SIEA was in financial crisis and close to insolvency with severe cash-flow problems until 2010 due to civil unrest, large outstanding receivables, non-revenue losses, rising oil prices, large debt levels, and a depreciating Solomon Islands Dollar (SBD). Together with support provided through the World Bank-financed Solomon Islands Sustainable Energy Project (SISEP), SIEA’s financial performance improved dramatically from making losses until 2010 to a net profit of SBD68 million in 2012, and SBD107 million in 2015. Electricity sales revenues increased from SBD351.5 million in 2011 to SBD433.5 million in 2016, while the cost of generation kept going down, largely due to lower oil prices, from US$ 35.6 cents/kWh in 2014 to",
-"notes": "Original title: SIEA financial performance; Page 10"
-}
-{
-"section": "Indigenous energy resources and government strategy",
-"content": "Beyond the aims of lower cost of electricity, the Solomon Islands National Energy Policy (SINEP) aims to enhance energy security at a national level, by increasing the share of renewable energy to 50 percent of total installed capacity by 2020. SINEP estimates the country’s hydropower potential to be 300 MW, but past attempts to develop hydropower in Guadalcanal to supply Honiara were abandoned due to customary land issues and challenging geological conditions. While SIEA is preparing to develop the 500 kilowatt (kW) Fiu River Hydropower Project in Malaita with assistance from the Asian Development Bank (ADB), TRHDP will be the first large hydropower project in the country according to the SIEA’s least-cost expansion plan. SINEP estimates the solar irradiation to be in the range of 5.5 to 6.5 kWh/m²/day, and with the timing of its peak output coinciding with the daily peak load at mid-day, solar energy is regarded as a promising source of energy. In addition to SIEA’s 1 MW grid-connected solar farm commissioned in 2016, SIEA plans to incrementally develop similar size installations. However, a significant constraint to developing solar farms in the Solomon Islands is the difficulty of acquiring land in a country where approximately 90 percent of the land is customary. Other alternatives such as geothermal, wind and biomass have been examined, but do not currently offer cost-effective alternatives to hydropower and solar energy.",
-"notes": "Original title: Indigenous energy resources and government strategy; Page 11"
-},
-{
-"section": "Sector Institutions",
-"content": "The Ministry of Mines, Energy and Rural Electrification (MMERE) is the supervising ministry for the energy sector, and its Energy Division bears responsibility for legal and regulatory development, institutional strengthening and supervision of the state-owned utility, SIEA. Operating under the Electricity Act, SIEA is a vertically-integrated power utility that is responsible for electric power generation, transmission and distribution to all urban and provincial centers. Retail tariff is nationally uniform and is regulated by MMERE, and there is a cross-subsidy between the HES customers with relatively lower cost of supply and the customers of the outer islands with higher generation costs mainly due to the high cost of transporting fuel. Since an independent regulatory authority does not exist in the Solomon Islands, SIEA also advises SIG on regulatory instruments, and is given the authority to issue licenses to entities who wish to generate and distribute electricity in areas not supplied by SIEA.",
-"notes": "Original title: Sector Institutions; Page 11"
-}
-{
-"section": "Higher Level Objectives to which the Project Contributes",
-"content": "14. Solomon Islands’ 2016-35 National Development Strategy (NDS) places emphasis on private sector-led investment and growth, and the promotion of renewable energy. To mitigate the impact of high cost diesel fuel, SIG adopted a policy to develop domestic sources of energy, particularly hydropower and other renewables. At the same time, since the Honiara Club Agreement (HCA) placed a moratorium on new loans, public financing of larger infrastructure projects was made very difficult. While this moratorium has since been lifted, it gave an initial impetus to the drive for private sector participation in infrastructure development, financing and operation - a policy that was later embedded in NDS 2011-2020, and inherited in the new NDS 2016-2035 promulgated in April 2016\n15. TRHDP is a national priority under the Solomon Islands National Infrastructure Investment Plan (NIIP). NIIP presents an integrated plan for development priorities of key infrastructure sectors, including electricity, and supports SIG’s development strategy by helping to: (i) ease constraints to growth through the provision of lower cost and reliable electricity; (ii) facilitate private sector development; and (iii) promote clean energy development and enhance energy security by substituting diesel power generation by hydropower. Through a multi-criteria analysis, NIIP selected TRHDP as one of the strategic priority investments for the Solomon Islands.\n16. TRHDP is critical for greenhouse gas (GHG) emissions reduction and for SIG to achieve its Intended Nationally Determined Contribution (INDC) commitment. SIG’s INDC is to reduce GHG by 18,800 tons of carbon dioxide equivalent (tCO₂eq) per year by 2025 and by 31,125 tCO₂eq per year by 2030. With an installed capacity of 15 MW, TRHDP is expected to annually generate, on average, 78.35 GWh of clean renewable energy to displace equivalent amount of energy to be generated by current and future diesel generators. This would be roughly 68 percent of the annual demand forecast for 2022. Applying the default grid emission factor of 650 tCO₂eq/GWh for a 100 percent diesel-based system, the net GHG emission reduction potential of the Project is 49,500 tCO₂eq per year after deducting potential emissions during construction, land clearing, and the reservoir. This is more than twice the INDC target for 2025.",
-"notes": "Original title: C. Higher Level Objectives to which the Project Contributes, Page 12"
-}
-{
-"section": "Project Alignment and Objectives",
-"content": "17.   TRHDP is aligned with the World Bank’s Country Partnership Strategy (CPS) FY2013-2017 and other Bank operations. The World Bank Group’s CPS is structured around two engagement areas: strengthening economic resilience and improving public service provision. The Project supports the Bank’s engagement on economic resilience by easing constraints to growth, leveraging private capital and promoting climate friendly growth. In particular, the Project will support CPS outcome # 5 of lower cost and reliable electricity from cleaner energy sources. The Project, through provision of lower cost electricity, will also strengthen SIEA’s performance and contribute to the objectives of SISEP.\n18.   TRHDP supports the World Bank corporate twin goals of reducing poverty and increasing shared prosperity for the poorest 40 percent of the population. The impact of TRHDP on the retail electricity tariff is expected to be significant. From an average retail tariff of US$ 65 cents/kWh in 2017, in its first year of operations in 2022 TRHDP is expected to help reduce electricity retail tariff to about US$ 33 cents/kWh. By 2052, retail tariff levels are expected to reach US$ 26 cents/kWh. By reducing the cost of power supply, the TRHDP would make electricity more affordable to lower income households, lowering the barrier for new households to connect to the grid. This would enable these households to lower their expenditures on electricity and enhance their income earning capacity through use of power for productive and social purposes. Lower costs of power would also reduce the costs of doing business for small and medium enterprises, thus increasing profits and stimulating investment and job creation leading to increased prosperity for lower income households. It should be noted that the reduced cost of supply in Honiara (and its suburbs as the grid is extended) will also benefit customers in the outer islands through a lower national uniform electricity tariff.\n19.   The Project is consistent with the World Bank Group’s “cascade” approach to infrastructure finance. Given the limited public resources and large scale investment needed by TRHDP, the SIG decided to solicit private investments and commercial financing for the TRHDP. Through a competitive process supported with IFC advisory services, a pre-qualified international developer was invited for negotiations on the needed PPA tariff to make the project financially viable and attractive to private investment. It was initially envisaged that the sponsor would arrange commercial loans whereas the Bank would support the Project with a guarantee of SIG’s obligation in favor of commercial lenders financing the Project Company (PC). However, due to the high investment cost given the inherent high cost environment of the Solomon Islands, it was determined that the PPA tariff will be too high for SIEA and its customers under this structure. To make TRHDP financially attractive to reputable international developers to bring private equity and the capacity to construct and operate the Project, while also reducing the PPA tariff to ultimately lowering the retail tariff for the consumers, SIG decided to request concessional public financing to support the Project. The Bank was instrumental in supporting SIG in preparing a robust project and in arranging concessional financing. In addition, the sponsors have requested for insurance provided by the Multilateral Investment Guarantee Agency (MIGA). The “four-point cover” provided by MIGA, including insurance against non-transferability, political violence, expropriation and breach of contract, provides the sponsors with the confidence required to invest and to enter into a long-term PPA in a country with no such precedents.",
-"notes": "Original title: Project Alignment and Objectives, Page 13"
-}
-{
-"section": "PROJECT DEVELOPMENT OBJECTIVE",
-"content": "A. PDO\nThe project development objective (PDO) is to increase the share of renewable energy through hydropower in Solomon Islands.\nB. Project Beneficiaries\n20. The direct beneficiaries of the Project are SIEA and its residential, commercial and industrial customers who will benefit from a lower national uniform electricity tariff resulting from the proposed TRHDP. Individual households, public and private enterprises, will have the opportunity to apply the savings to other uses such as education and business expansion. Household disposable income is expected to increase, particularly in the project area, due to jobs during construction, improved road access, royalties and benefit sharing investments. During the extensive community consultations conducted during project preparations, community members expressed interest in a range of benefits from the project including job acquisition and skills development, improved access to schools and markets for goods as a result of the road, opportunities for connections to the electricity grid as a result of the transmission lines, service delivery improvement, eco-tourism and business development activities. Business activity at a national level is expected to grow with investment enabled by significant electricity cost savings. Furthermore, a reduction in the cost of electricity supply will improve the financial performance of SIEA and thereby provide the utility with more resources to finance system expansion and maintain existing assets, therefore, indirectly improving the population’s access to electricity and the reliability of its supply. Furthermore, the Project-financed access road will improve mobility of people and goods in the surrounding communities.\n21. The proposed Project is expected to have wider transformational benefits beyond the power sector. As the first major build-own-operate-transfer (BOOT) scheme invested by a foreign investor, and as an example of successful introduction of innovative approaches to acquiring community-owned customary land and obtaining social acceptance. The Project will also set an example for risk sharing arrangements and help improve the investment environment for international private finance.\n22. In addition, the benefit-sharing mechanism expected to be introduced in conjunction with the Project, with separate financing but coordinated implementation arrangements, will demonstrate how host communities can also benefit equitably from large-scale natural resources development projects and enhance prospects for sustainability.\nC. PDO-Level Results Indicators\n23. Progress will be measured against the following PDO level results indicators, as applicable:\n\ta. Generation capacity of hydropower constructed under the Project (MW);\n\tb. Share of hydropower in the generation mix (%); and\n\tc. Electricity generated by the Project (GWh).",
-"notes": "Original title: PROJECT DEVELOPMENT OBJECTIVE, Page 14"
-}
-{
-"section": "PROJECT DESCRIPTION",
-"content": "A. Project Components\n   24.    The Project has the following unique, transformational characteristics: increase of renewable energy generation in HES from 1 percent in 2016 to 85 percent in 2022 (with 68 percent from the Project and the remainder from expected solar); GHG reduction of more than twice the entire INDC commitment; the first utility-scale hydropower project; perhaps the largest investment project in the country; the first BOOT project to be invested by international private sponsors; understanding and sharing risks between public and private sectors; introduction of a benefit-sharing mechanism to benefit the wider community; and an unique land acquisition process which distributes compensation and royalties equally to all members of newly established tribal cooperatives and establishes a joint government-landowner land management company. All of these factors will help build private sector confidence to invest in large-scale investment projects, in particular, infrastructure, in the Solomon Islands.\n   25.    The World Bank Group has mobilized a range of resources and instruments to enable the Government to attract an experienced international hydropower developer to construct and operate the hydropower facility (HPF), and to enhance the quality and viability of the Project. The IFC Advisory Service has played a leading role in supporting SIG to attract a private developer through an international competitive process and negotiation with a pre-qualified bidder. IDA has provided extensive technical support to SIG to undertake feasibility, safeguard, and other preparation studies, and to engage world-class experts to help SIG design an attractive investment project. IDA also assisted SIG to mobilize concessional financing to cover majority of the project cost once it had become clear that even with an IDA Guarantee the cost of private financing would endanger the financial viability of the Project.¹⁰ To address the risks inherent in investing in a relatively untested investment environment with a recent history of political unrest, a MIGA insurance has also been requested by the private sponsors of the PC: Korea Water Resources Corporation (K-water) and Hyundai Engineering Co. Ltd. (HEC).¹¹ While the volume of private equity mobilized is limited, the private sponsors bring vast experience on hydropower development and operation to the Solomon Islands, and add certainty over the cost and sustainability of the Project. By having the sponsors being responsible for the construction and operation of the HPF, the risk of poor quality construction and operation is significantly reduced compared to an arrangement where an inexperienced public entity would be the implementing entity.\n   26.    The TRHDP will consist of four components: (i) HPF; (ii) access road; (iii) transmission lines; and (iv) TA. In terms of timing, the TA component is expected to begin first in order to maintain continuity of the TRHDP Project Office (PO) with the preparation phase and to support the other project components. Implementation of the access road would proceed ahead of construction of the HPF to facilitate access to the dam and powerhouse sites. Construction of the transmission lines will come last. Construction of the HPF would begin in 10 Assuming commercial loan of 7.5% interest with maturity of 16 years including 4-year grace period, the levelized cost of the Project with commercial loan will be nearly double that of the level attainable with concessional financing being arranged for the Project.\n          11 The “private sponsors” will be K-water and HEC, both of which will hold shares in the Project Company. K-water and HEC qualify as Private Entities for the sake of the World Bank Performance Standards even though K-water is publicly owned.",
-"notes": "Original title: PROJECT DESCRIPTION, Page 15"
-}
-{
-"section": "Component 1: Tina River Hydropower Facility",
-"content": "Estimated cost: US$185.66 million. Under a 34-year PPA (including 4-year construction period), the PC will develop, finance, construct and operate the HPF with an installed capacity of 15 MW located on the Tina River, 20 km southeast of Honiara, and will comprise:\n\na. A roller-compacted-concrete (RCC) dam 72 m high (from foundation) located in a narrow gorge on the Tina River;\nb. A waterway including a 3.3 km headrace tunnel in 3.3 m diameter, surge shaft and a surface-type steel penstock in 3.0 m diameter to convey water from the dam to the powerhouse;\nc. A powerhouse 5.7 km downstream of the dam site that will house three 5 MW Francis turbines and an extra bay for future installation of a possible fourth 5 MW turbine.",
-"notes": "Page 16 of 97"
-},
-{
-"section": "Component 2: Access Road",
-"content": "Estimated cost: US$25 million. The access road to facilitate HPF construction and operations includes two lots: Lot 1 involving the upgrade of the existing 13.2 km road from Black Post Junction to Managikiki Village; and Lot 2 involving a 5.5 km “greenfield” road through steep heavily forested terrain from Managikiki Village to the dam and power station. Upon commissioning of the HPF, Lot 1 will become the responsibility of SIG and Lot 2 will remain the responsibility of the PC for the duration of the PPA, after which it will be handed over to SIG together with the HPF.",
-"notes": "Page 16 of 97"
-},
-{
-"section": "Component 3: Transmission Lines",
-"content": "Estimated cost: US$22.82 million. Power to be generated from the HPF will be evacuated to HES through two parallel single-circuit 66 kilovolt (kV) transmission lines of 23 km to the existing Lungga Diesel Power Station. The cost of this component includes the upgrading the switchyard of Lungga Power Station, the highest system voltage at present being 33 kV. Since the transmission lines are only required by the time of testing and commissioning of the HPF in 2022, the exact route has not been decided by the implementing agency, SIEA. Financing from IDA will be on-lent by SIG to SIEA. Cost in excess of this allocation will be arranged between SIEA and SIG.",
-"notes": "Page 16 of 97"
-},
-{
-"section": "Component 4: Technical Assistance",
-"content": "Estimated cost: US$7.0 million. This TA supports the operation of the TRHDP PO under MMERE to finance consultants to monitor overall project implementation, prepare and periodically update a Project Operations Manual in cooperation with the other implementing entities, provide awareness building and training for various stakeholders, monitor and support environmental and social safeguard arrangements and the Gender Action Plan (GAP), implement the LALRP for Components 1 and 2, maintain a Dam Safety Advisory Panel (DSAP) and an independent environmental and social monitoring agent, conduct a cumulative impact assessment, liaise with various government counterparts and other stakeholders, support implementation arrangements agreed under the land acquisition process, support communities in utilizing their share of project benefits for community development, and to report to the Bank and other financiers on project performance and achievement of objectives. A non-governmental organization (NGO) will also be engaged to work with landowning tribes in the upper catchment to support the first stages of establishing a protected area, up to the point of preparing a Protected Area Management Plan and Budget, if community members are interested and committed to doing so. The planning and implementation of the benefit sharing mechanism and the proposed protected area management shall adopt an inclusive community-based planning approach with due consideration to the gender dimensions of the activities.",
-"notes": "Page 16 of 97"
-}
-{
-"section": "Project Cost and Financing",
-"content": "31.    The total project cost is estimated at US$240.48 million. This is expensive for a 15 MW hydropower\n plant even if considering that the civil works are designed for 20 MW to accommodate the fourth 5 MW unit\n when demand increases.\n 32.    Component 1 HPF: The total cost for Component 1 is estimated at US$185.66 million. The largest cost\n item is the proposed Engineering-Procurement-Construction (EPC) price of US$140.0 million excluding taxes\n (under negotiation with K-water and HEC). For the same scope, excluding access road and transmission lines,\n the Feasibility Study estimated the cost to be approximately US$124.5 million in 2014, which was verified by an\n independent cost estimator recommended by the DSAP. The proposed EPC price is 12.5 percent higher than\n the Feasibility Study estimate. The proposed EPC price has also been reviewed by SIEA’s own international\n consulting firm in March 2017 who, through an independent cost estimate, concluded that the offered price is\n adequate assuming a reasonable levels of profit and overhead cost, and factoring in that HEC will be taking\n majority of the construction-related geological risks.\n 33.    Other notable costs include development costs of US$20.7 million and contingencies of US$16.7 million.\n The development costs include PC operation cost and cost of advisors during the 4-year construction period,\n including the estimated cost of the Owner’s Engineer currently at US$3.5 million. While these costs will\n continue to be negotiated, it is also important to ensure sufficient costs are allocated to ensure quality\n construction and full compliance with environmental and social management requirements.\n 34.    Component 2 Access Road: The estimated cost of US$ 25.0 million is based on the detailed design being\n executed by SIG’s international consulting firm and ongoing negotiations with the sponsors.\n 35.    Component 3 Transmission Line: The cost of US$22.82 million is based on estimates made by an\n international consulting firm contracted by SIEA to prepare a detailed concept design, which included\n assessment of different routes and requirements to upgrade the connection point (i.e. Lungga Power Station)\n to accommodate the 66 kV voltage connection. This study was completed in November 2016.\n 36.    Due to the inherent high cost environment of the Solomon Islands, further exacerbated by the complex\n technical conditions to develop a major hydropower plant, financing costs associated with commercial loans\n would have made the Project financially unviable. SIG, therefore, requested IDA and other financiers to provide\n concessional financing for it to on-lend to the PC and SIEA with a nominal spread. SIG, through its main public\n investment vehicle, the Investment Corporation of Solomon Islands (ICSI), will also be a shareholder of the PC\n whereby ICSI will only require a marginal return on its equity in an effort to reduce the PPA tariff.\n 37.    The total proposed financing by component is summarized in Table 1.\n                               Table 1: Project Financing by Component (US$ million)\n Project        Project     IDA      IDA     GCF     GCF   ADBᵇ   EDCFᶜ    IRENA/    GOA     K-water   Borrower\n Components       Costᵃ  Creditᵃ   Grantᵃ   Loan   Grant                    ADFDᶜ   APIPᵈ         /HEC\n Component 1    185.659   21.304   7.355   70.00    0.00   30.00  31.60      15.00   0.00      10.40        0.00\n Component 2     25.000    0.000   0.000    0.00   16.00    0.00    0.00      0.00   9.00         0.00      0.00\n",
-"notes": "Original title: Project Cost and Financing, Page 17"
-}
-[
-{
-"section": "Financing Plan",
-"content": "The financing plan for Component 1 assumes the PC’s debt/equity ratio to be 90:10. A lower leveraging of 80:20 had been initially expected, but due to the increase in the financing cost of the Green Climate Fund (GCF) loan, leveraging was increased as a measure to lower the PPA tariff to levels acceptable to the off-taker (i.e. SIEA). Increasing leverage from 80:20 to 90:10 has the effect of reducing the overall equity, which in turns reduces K-water and HEC’s equity shares which are most expensive, but further leveraging is not recommended as the sponsors will need to maintain sufficient stakes in the Project.",
-"notes": "Original title: Financing Plan and Debt/Equity Ratio"
-},
-{
-"section": "Lessons Learned and Reflected in Project Design",
-"content": "Implementation through BOOT modality can usefully fill gaps in country capacity to build and operate hydropower facilities. For the development and sustainable operation of a relatively large infrastructure facility, experience shows that the private sector brings not only financing but valuable experience. In the case of TRHDP, K-water and HEC will take responsibility under the BOOT arrangement to develop and operate the Project since neither SIG nor SIEA has the experience or the capacity to do so. This arrangement is critical to ensure quality design and construction, and responsible operation, as well as to ensure dam safety and sound implementation of environmental and social impact mitigation measures. The PPA requires that the operator develop the capacity of SIG and SIEA to operate the plant responsibly by the termination of the 30-year PPA operation period.",
-"notes": "Original title: Lessons Learned and Reflected in Project Design"
-},
-{
-"section": "PPA Payment Structure",
-"content": "PPA payment for net available capacity can be used to attract private sector investment interest in the absence of substantial hydrological data. Hydropower projects are often contracted to a private investor under an energy (i.e. per kWh) payment PPA, where the investor takes the hydrological risk. However, since the investor must ensure a revenue stream to service its debt, perform necessary maintenance and secure its return on equity, the PPA energy tariff is based on the energy that is assessed to be produced at all times with a high degree of confidence (‘primary energy’). While the excess energy (‘secondary energy’) is priced lower, the off-taker is paying additionally on top of the revenue the investor has secured to meet its obligations through sales of ‘primary energy’. Therefore, the investor is not fully taking on the hydrological risk. For TRHDP, particularly due to the very limited availability of hydrological data, a net available capacity payment modality.",
-"notes": "Original title: PPA Payment Structure"
-}
-]
-{
-"section": "IV. IMPLEMENTATION",
-"content": "A. Institutional and Implementation Arrangements\n   42.   General. The PO under MMERE will be the main implementing agency of the Project, as it has been during project preparation. The PO will provide overall project oversight, coordinate between the project components, project monitoring and reporting. As a majority of the project financing will be provided through SIG, the Ministry of Finance and Treasury (MOFT) will play an instrumental role in coordinating the provision of financing from various sources.   A donor coordination mechanism, led by the Bank, is expected to be established for reporting and information sharing between SIG and donors, and among donors.\n   43.   Component 1     will be implemented by the PC. K-water and HEC will enter into a shareholders’ agreement with ICSI to establish the PC which is still under negotiation.\n   44.   Under the PPA, the PC will contract an EPC contractor (expected to be HEC) for the construction of the HPF and the access road (Component 2), and an O&M contractor (expected to be K-water) for the operation of the HPF and Lot 2 of the access road. After HPF commissioning, Lot 1 of the access road will be maintained by SIG. The EPC contract, in particular, will be a fixed-price contract whereby the EPC contractor will assume majority of the construction-related geological risks. The PC will contract an Owner’s Engineer to supervise the EPC contract.\n   45.   The PC will enter into an Implementation Agreement (IA) with SIG which will specify the roles and responsibilities of each party, for example, SIG’s responsibility to provide land for the Project and guarantee foreign exchange convertibility. The PC will also enter into a Government Guarantee Agreement (GGA) also with SIG in which SIG guarantees the payment obligations of SIEA under the PPA. The PC will enter into a Lease Agreement with the Tina Core Land Company (TCLC; to be established) with respect to the land it owns, which is necessary for the implementation of Component 1 and part of Component 2 of the Project.\n   46.   The PC and SIEA will jointly recruit and finance an Independent Engineer to ensure that the HPF is designed and constructed in adherence with the provisions of the PPA. In addition, PO will retain the DSAP under Component 4 to ensure that design, construction and operation of the HPF meet required safety standards. At the end of the PPA period in 2052, K-water/HEC’s share will be transferred to SIG, thereby facilitating full ownership of the HPF by the SIG.",
-"notes": "Content related to implementation arrangements and institutional roles."
-}
-{
-"section": "Implementation Arrangements",
-"content": "47.   Component 2 will be implemented as a part of the overall EPC contract under Component 1. Supervision would be conducted by the PC’s Owner’s Engineer to review project design and ensure quality and timely construction of the access road.\n48.   Component 3 will be implemented by SIEA who will contract a supply and installation contractor. SIEA will supervise the installation using its own resources using international consulting firms it retains through framework agreements. The lease of the Core Land would address SIEA’s rights to construct and maintain sections of the transmission line.\n49.   Component 4 will be implemented by MMERE, through the PO, who will recruit (i) key PO staff including environmental and social experts and a gender focal point;      (ii) DSAP members;    (iii) an Independent Environmental and Social Monitoring Agent, (iv) external auditors; and (v) specialized technical experts when required.\n50.   Financing Arrangements. IDA will sign a financing agreement with SIG, for the financing of SIG/ICSI’s equity shares in the PC and other debt financing for the construction of the HPF (Component 1), construction of the transmission lines (Component 3) and TA (Component 4). IDA, acting as the administrator for Australia-Pacific Islands Partnership Trust Funds (APIP TF) will also sign a grant agreement with SIG to extend the APIP TF financing of the access road (Component 2) and TA (Component 4); and           the International Bank for Reconstruction and Development (IBRD) and IDA, acting jointly as an Accredited Entity for the GCF (further to the completion of an on-going accreditation process) will enter into a GCF financing agreement with SIG for the financing of the HPF (Component 1) and the access road (Component 2). The Bank will sign project agreements, respectively, with the PC for Components 1 and 2, and with SIEA for Component 3. ADB, Economic Development   Cooperation  Fund   of the  Government   of  Korea  (EDCF)  and  IRENA/ADFD   will sign legal agreements directly with SIG.\n51.   IRENA/ADFD financing was confirmed in January 2017, and GCF financing was approved by its board in April 2017. APIP TF was also confirmed in April 2017. EDCF and ADB are expected to obtain approval from their respective board in June and August 2017.\n52.   Further details, including a diagram illustrating the various contractual relationships within the Project and the fund flow are included in Annex 2.\n53.   The benefit-sharing mechanism is not a component under the Project. However, it will be supported under an associated project for which SIG requested financing from the Japan Social Development Fund (JSDF) administered by the Bank. The PO will be the implementing entity to ensure consistency and seamless coordination with the Project. A benefit-sharing mechanism is an arrangement to share the Project’s benefit with the wider community, and is expected to be implemented throughout the PPA operation period. The JSDF program is intended to bring the sharing of the benefits forward by implementing community development investments during the Project construction period. In the event JSDF funding does not materialize, SIG has agreed to seek alternative resources to implement the benefit-sharing mechanism during the construction period. The detailed mechanism to be implemented during Project operation will also be devised during Project construction. Implementation of this benefit sharing mechanism is expected to provide an example for the development of similar arrangements in the Solomon Islands and elsewhere.",
-"notes": "Original title: Implementation Arrangements, Page 20"
-}
-{
-"section": "Results Monitoring and Evaluation",
-"content": "54.   The PO will be primarily responsible for gathering data and reporting on progress towards the achievement of PDO measured with project results indicators via quarterly project reports. Most of the results indicators are tied to the completion of major milestones in the project, namely the completion of access road and transmission line construction and the commissioning of the HPF and the benefits which emanate from them (e.g. reduced GHG emissions and renewable energy generation). Drawing upon technical specialists when needed, in particular the Independent Engineer and the DSAP, the PO will verify satisfactory completion of each milestone. The PC and SIEA will collect data on result indicators and submit reports on key milestones to MMERE and MOFT.\n55.   In addition to the indicators stated in the Results Framework, the PO will monitor the implementation of the GAP, social and environmental mitigation actions, impacts and beneficiary feedback through regular community meetings as well as a grievance redress mechanism (GRM) which will systematically monitor feedback from various stakeholders and ensure that appropriate responses to such feedback are provided. Inputs will be provided by the environment and social safeguard specialists contracted by the PO as well as from the Independent Environmental and Social Monitoring Agent.",
-"notes": "Original title: B. Results Monitoring and Evaluation, Page 21"
-},
-{
-"section": "Sustainability",
-"content": "56.   Technical Sustainability. The Project has been prepared through a series of pre-feasibility, feasibility and least-cost system planning studies to ensure a design that is the least cost solution for long-term power system development, and which meets international best practice. For Component 1, DSAP has provided comments on the feasibility study prepared by SIG and on the bidding design submitted by K-water/HEC consortium. DSAP will continue to provide guidance on the detailed design, construction of the HPF, reservoir filling and operation and the Bank’s dam expert will monitor how such guidance is taken into account.\n57.   The private sector project sponsors, K-water and HEC, have also been selected through a rigorous pre-qualification process to ensure it has sufficient experience in developing and operating a hydropower plant. The provisions of the PPA, particularly the minimum functional specifications, has been prepared with inputs from IFC’s technical advisors, and the commercial sections have been developed with inputs from IFC’s legal advisors to ensure technical and commercial sustainability. The Independent Engineer will also ensure that the design and construction of the HPF adheres to the provisions of the PPA.\n58.   The PPA also includes provisions for O&M of the HPF, including major overhauls, over the PPA period as well as provisions for the transfer of the facility in a specified condition at the time of PPA termination. The PPA also contains provision for the PC, through its O&M Contractor, to provide O&M training to SIEA staff so that SIG can continue to operate the facility after handover. In terms of sedimentation, the feasibility study has estimated that it would take 65 years for the dead storage volume of the reservoir to fill up. The dam is equipped with a sediment scouring gate, and since the reservoir is relatively small, dredging of sediments is also an option, if required.\n59.   For Component 2, the specifications of the access road will ensure appropriate design to withstand loading by heavy equipment. Upon commissioning of the HPF, the O&M of Lot 2 will remain with the PC to be.",
-"notes": "Original title: C. Sustainability, Page 21"
-}
-{
-"section": "Financial Sustainability",
-"content": "Financial sustainability of the Project is ensured through the PPA terms which are being negotiated to ensure a reasonable return on equity to the shareholders, an adequate debt service coverage ratio (DSCR) for debt services, and at a PPA tariff (LCOE) level that is financially viable to SIEA. K-water/HEC consortium has satisfied the financial eligibility criteria during pre-qualification, and the corporate financial analysis on SIEA has concluded that SIEA has the ability to pay for the electricity as per the provisions of the PPA while reducing retail tariff for its customers. In addition, the GGA backstops the payment obligations of SIEA.",
-"notes": "Original title: Financial Sustainability, Page 22"
-},
-{
-"section": "Environmental and Social Sustainability",
-"content": "As described in detail under the Appraisal Summary section below, the Project has been appraised to have incorporated best international practice in ensuring environmental sustainability and adopted an innovative approach to acquiring land through a customary process with due respect to the local customs and traditions. The tribal groups with customary ownership of the Core Land--the land acquired by SIG for the Project--will benefit through royalties and lease payments, while also retaining part ownership of the land through the proposed TCLC, jointly owned by SIG and the land-owning tribes. Upon de-commissioning of the HPF, the land would be returned to the tribal landowners and the TCLC would cease to exist. An informal screening based on the Hydropower Sustainability Assessment Protocol devised by the International Hydropower Association was performed in March 2017 whereby the draft report concluded that significant gaps against the basic good practice criteria of the Protocol is unlikely.",
-"notes": "Original title: Environmental and Social Sustainability, Page 22"
-},
-{
-"section": "Role of Partners",
-"content": "The Bank will take the lead in coordinating among the donors during implementation, pursuant to a donor coordination mechanism (which may be formalized through a Memorandum of Understanding) involving the Bank, GOA, ADB, GCF, EDCF, and IRENA/ADFD for reporting and information sharing between SIG and donors and among donors, as well regular implementation support and joint supervision missions. EDCF is also considering contracting more formally the Bank services under the Co-financing Framework Agreement signed between the Bank and Export-Import Bank of Korea which is entrusted with the administrative operation of EDCF. The roles and responsibilities of the partners are provided in detail in Annex 2.",
-"notes": "Original title: Role of Partners, Page 22"
-}
-{
-"section": "KEY RISKS",
-"content": "A. Overall Risk Rating and Explanation of Key Risks\n   64.    The overall implementation risk is High as this is a complex project being implemented in a fragile, low\n   capacity environment with no previous experience constructing or operating a large-scale HPF. These main risks\n   are being shared between the shareholders in the PC (with K-water maintaining management control) and SIG,\n   with construction risks also being built in through the fixed-price EPC contract. The following are the key risks\n   roughly  in  sequential  order,  from   the  pre-construction  through   construction  and   operation  after\n   commissioning.\n   65.    Need   for  concurrent  negotiations   of  Project design,  implementation,    financing  and   equity\n   arrangement.      The implementation of Components 1 and 2 and their financing by the Government, K-water\n   and HEC are designed as a project finance structure¹², where a special purpose Project Company is set up to\n   carry out these activities, and where the overall cost incurred for the establishment of the PC and the\n   implementation of its activities is paid by the income generated by Components 1 and 2 of the Project. This\n   means that each aspect of the cost of the Project (including the cost of construction and operation, as well as\n   the terms and conditions of its financing, tax regime and other inputs) and its income (the tariff) has an impact\n   on the whole Project: none of them can be dealt with independently from the others. This is the reason why\n   the negotiations of the legal agreements for Project financing (i.e. the IDA Financing Agreement and Project\n   Agreements) must take place at the same time as the negotiations of the Project Documents (i.e. Power\n   Purchase  Agreement,    Implementation   Agreement,   etc.), instead  of  finalizing the Project design  and\n   implementation first and then the financing documents, as is common practice in most Bank-supported IPF\n   projects. The various Project financiers, including IDA, need to confirm the availability of their financing and\n   their financial terms, through Board approval, before the other elements of the Project costs and income can\n   be finalized. Once those elements are all finally agreed, the financiers can confirm their assessment of the\n   economic and legal aspects of the Project (which are estimates only, until the finalization of costs and income)\n   and enter into their respective financing agreements. This is not due to a lack of readiness of the Project, but\n   rather a reflection of the process of project financing preparation.\n   66.    In order to mitigate this sequencing issue, World Bank Management has waived the requirement\n   specified in Paragraph 28 of BP 10.00 of the Operational Manual, allowing Board approval on the basis of the\n   negotiated term sheet attached as Annex 4 of the PAD, instead of negotiated legal agreements. The provisions\n   of the Financing Agreement to be entered into between IDA and the Solomon Islands, the Project Agreement to\n   be entered into between IDA and the PC once it will have been established and the Project Agreement to be\n   entered into between IDA and SIEA, will be finalized after Board approval. If the finalization of the legal\n   agreements after Board approval results in substantial changes to the term sheet previously approved by the\n   Board, Management will resubmit the proposal to the Executive Directors for approval of the changes.\n   67.    This different sequencing between finalization of the legal agreements and Board approval does not\n   carry additional risk. It allows the Government and its partners to structure the Project, give other financiers\n   the confidence to also seek approval of their respective financing and confirm their financial terms, finalize the\n          12 As opposed to a corporate finance structure, where the repayment of the Project is made from the overall\n          owners’ assets.",
-"notes": "Extracted from a section titled 'KEY RISKS' on page 23."
-}
-{
-"section": "Project and Financial Documentation Risk for Component 1",
-"content": "At the time of the IDA Board, the negotiations between K-water/HEC, SIG and SIEA will still be on-going. The PC and the proposed TCLC will not be established; the Lease Agreement, the IA, the GGA, the PPA, and the EPC Contract with the PC (the Project Documents) will not be finally agreed. This means that the implementation arrangements for the Project may be delayed or concluded on a basis which ultimately differs from what is expected at the time of the IDA Board. It is not unusual for this type of Project to negotiate the Project Documents after the availability of the financing is confirmed in principle (but before the financing agreements are finalized and signed). This is especially important when, as is the case, the confirmation of the cost of financing is an important element of the discussion between the Government and the sponsors. Standard sequencing of the type of project’s documentation, similar to what is structured for Component 1, would involve first the signature of the PPA, then the signature of the financial documentation and the EPC Contract, and then the Financial Closing will.",
-"notes": "Original title: Project and Financial Documentation Risk for Component 1, Page 24"
-}
-{
-"section": "Project Overview",
-"content": "The World Bank\nTina River Hydropower Development Project (P161319)\nhappen when the obligations to build the HPF and the effectiveness of most of the financing agreements would\nkick in concomitantly. The negotiations between SIG, ICSI, SIEA, K-water and HEC are on-going. The Recipient,\nICSI, K-water and HEC are currently focusing their efforts on the shareholders’ arrangement. The objective is to\nbe able to sign the Shareholders’ Agreement in August 2017 so that K-water and HEC could disburse their\nequity, in September, 2017, in order to fund development costs, if needed. The sequencing of equity\ndisbursement needs to be further discussed. Once an agreement will have been reached on the Shareholders’\nAgreement, the Recipient, SIEA, K-water and HEC will resume their work on the Power Purchase Agreement\n(PPA), with respect to which the schedules need to be agreed upon (especially the tariff – once the cost of\nfinancing will be confirmed). The other agreements (Implementation Agreement, Lease Agreement, EPC\nContract, O&M Contract and Government Guarantee Agreement) are conditions of closing under the PPA. The\ntarget date for the signature of the PPA is end of October 2017 and the parties hope to be able to achieve\nclosing under the PPA within three months of its signature. The objective is for all financing agreements to be\nsigned and ready to become effective and proceed with a first disbursement as the obligations to implement\nthe Project under the Project Documents begin, upon “financial close” under the Power Purchase Agreement.\nHowever, part of the IDA financing allocated to the financing of the ICSI’s equity investment is likely to become\navailable earlier, to finance part of the development costs incurred to achieve PPA financial close.",
-"notes": "Original title: Project Overview, Page 25"
-}
-{
-"section": "APPRAISAL SUMMARY",
-"content": "A. Economic and Financial Analysis\n\n76.    Economic Analysis. The economic analysis of the Project using the Bank recommended discount rate of 3.0 percent¹³ finds that the Project is economically viable. Under the Base Case scenario assuming (a) a 2.1 percent CAGR¹⁴ for demand growth; (b) international crude oil price increasing from US$ 64/barrel in 2017 to US$ 72/Barrel in 2025, and up to 87 by 2046 in real terms; (c) solar farm installation price going down from US$ 2.8 to 1.6 million/MW from 2017 to 2030 and remaining constant afterwards; and (d) an economic discount rate of 3 percent pursuant to the Bank’s Discounting Costs and Benefits in Economic Analysis of World Bank Projects (May 2016) the economic rate of return (ERR) of the Project is 4.9 percent with global environmental benefits and 3.8% without global environmental benefits (See Table 2). Under the Plausible\n\n          13 The Bank’s discount rate guidelines issued in May 2016 recommend the use of discount rate that is twice the rate of increase in the projected GDP per capita in real terms. Since the per capita real GDP of Solomon Islands is projected to grow at an average rate of 1.2% during the project period, a discount rate of 3% has been used in the economic analysis by rounding out the discount rate implied by the guidance.\n          14 From the Debt Sustainability Analysis of Solomon Islands carried out by World Bank and International Monetary Fund.\n",
-"notes": "Original title: APPRAISAL SUMMARY, Page 26"
-}
-{
-"section": "Economic Analysis Results",
-"content": "Worst Case scenario (see Table 4 for detailed assumptions), the ERR would fall to -0.7% while under the plausible best case scenario, the ERR would increase to 10.9%.\n\nThree fourth of the benefits of the project comes from displacement of diesel generation. Global environmental benefits valued using the Bank-recommended social value of carbon constitute 1.1 percentage points of the ERR. Since the population density of the Solomon Islands is very low, local environmental benefits from avoided particulate matters, nitrogen oxides and sulfur oxides are not a major consideration and comprise less than 1 percent of the benefits.\n\nTRHDP is cost effective in achieving GHG emission reductions. The Project helps reduce GHG emission by 1.3 million tCO₂eq over the life of the project.¹⁵ The marginal abatement cost of the Project is -$20.2 per ton, which makes it a highly cost effective option for reducing GHG emission in Solomon Islands.\n\nA lower value for GHG emission reduction is used for the economic analysis, because the analysis optimizes TRHDP dispatch based on economic costs without considering the contractual arrangement whereby SIEA has the incentive to dispatch as much electricity as possible from TRHDP since the PPA payment is based on net available capacity. In addition, the planning horizon of the economic analysis is 40 years, while the GHG accounting uses 50 years as the life of the Project.",
-"notes": "Original title: Economic Analysis Results, Page 27"
-}
-{
-"section": "Economic Analysis",
-"content": "Base Case           High Case\nLoad demand CAGR                                  2.10%                  4.30%\nDiscount rate                                     3.0%                   3.0%\nEconomic rate of return\nERR                                               3.8%                   5.0%\nERR+local externalities                           3.8%                   5.0%\nERR+local+GHG@BankGuidanceValues                  4.9%                   6.2%\nLevelized cost of elec. 'from TINA River          US$/kWh              0.17                   0.16\nLevelized cost of diesel generation               US$/kWh              0.19                   0.21\nComposition of NPV\nTINA River Hydro Costs\nCapital costs                                     [$USm]               158                   158\nAccess road                                       [$USm]                23                    23\nT&D costs                                         [$USm]                20                    20\nGeneration O&M                                    [$USm]                36                    36\nT&D O&M                                           [$USm]                5                     5\ntotal costs                                       [$USm]               243                   243\nBenefits [avoided capex and fuel ]\nAvoided diesel fuel                               [$USm]               209                    246\nAvoided diesel capex                              [$USm]               -12                     -6\nAvoided diesel O&M                                [$USm]                30                     34\nAvoided solar capex                               [$USm]                22                     9\nAvoided solar battery                             [$USm]                21                     28\nAvoided solar O&M                                 [$USm]               0.8                     0\n total benefits                                    [$USm]               270                    311\nNPV (before environmental benefits)               [$USm]                27                    68\nlocal env. benefits: avoided grid gen.            [$USm]               0.3                   0.4\nNPV (incl. local environmental benefits)          [$USm]                27                    69\nvalue of avoided GHG emissions                    [$USm]                43                    51\nNPV (including environment)                       [$USm]                70                   119\nLifetime GHG emissions, undiscounted              mtons CO2            1.3                   1.6\nMarginal abatement cost                           $/ton               -20.2                 -43.7\nSource: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP” and “without TRHDP” scenarios.",
-"notes": "Economic Analysis section extracted from page 28"
-}
-[
-{
-"section": "Summary of Switching Value Analysis",
-"content": "Variable      Base Case                       Switching value  Comments\nOil Price     1                               0.66             January 2017 World Bank commodity forecast\n                                                                used in base case. Switching value occurs when oil\n                                                                prices are 34% lower than those in the base case.\nCapital Cost  US$ 217 million                 US$ 300 million\nHydrology     100%                            49%              Switching value occurs when river flow is 51%\n                                                                lower than in the base case.\nCOD Delay     0                               6 years\nSocial Value  US$ 30 per ton in 2015,         -US$ 40 per ton\nof Carbon     increasing to US$80 per ton in\n               2050\nCost of       US$ 2.8/W in 2016 falling to    Not applicable   ERR falls to 4.0% if solar costs are quarter of those\nSolar         US$ 1.6/W in 2030                                assumed in the base case\nSource: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP”\nand “without TRHDP” scenarios.",
-"notes": "Original title: Table 3: Summary of Switching Value Analysis"
-},
-{
-"section": "Summary of Scenario Analysis",
-"content": "Variable      Plausible best case        Base Case                                 Plausible worst case\nOil Price     50% higher                 January 2017World Bank commodity          50% lower\n                                          forecast\nCapital Cost  20% lower                  US$ 217 million                           20% higher\nHydrology     100%                       100%                                      20% lower\nCOD Delay     0                          0                                         5-year delay\nSocial Value  US$ 50 in 2015 increasing  US$ 30 per ton in 2015, increasing to     US$ 15 per ton in 2015\nof Carbon     to US$ 150 in 2050         US$80 per ton in 2050                     increasing to US$50 in 2050\nCost of       50% higher                 US$2.8/Watt in 2016 falling to $1.6/Watt  50% lower\nSolar                                    in 2030\nLoad          4.3%                       2.1%                                      2.1%\ndemand\nERR           10.9%                      4.9%                                      -0.7%\nSource: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP”\nand “without TRHDP” scenarios.",
-"notes": "Original title: Table 4: Summary of Scenario Analysis"
-},
-{
-"section": "Financial Analysis",
-"content": "The Project is financially viable under the proposed financing structure. The PPA between the PC and SIEA is expected to be structured on a net available capacity, and will ensure a return on equity required by K-water and HEC, and a nominal return for SIG to service its IDA Credit. The financial internal rate of return (FIRR) of the PC is estimated to be 3.4 percent, which is above its 2.6 percent Weighted Average Cost of Capital (WACC). A minimum DSCR of 1.12 is projected to be maintained during the debt repayment period.",
-"notes": "Original title: Financial Analysis"
-}
-]
-{
-"section": "Distributional Analysis",
-"content": "The distributional analysis of the project shows broad based gains from the Project to different stakeholders. Since electricity from the Project is expected to be cheaper than electricity generated using the counterfactual, SIEA is one of the major beneficiaries of the Project. A significant share of these financial benefits can be expected to be passed onto SIEA’s customers in the form of retail tariff reductions. According to the Bank’s Corporate Financial Analysis of SIEA, the Project is expected to help reduce electricity retail tariffs, in 2016 prices, to about US$ 33 cents/kWh immediately after Project commissioning and to US$26 cents/kWh by 2052 after handing over of the HPF to SIG. Local communities benefit through the benefit sharing mechanism while K-water and HEC receive their required return on equity. Development partners collectively help bear the costs of the Project by providing financing for the project at a rate that is significantly below than the market rate. SIG would help to improve financial viability if it provides tax exemptions to the Project.\nFigure 1: Distribution of Costs and Benefits among Stakeholders\n150                                                                                     71\n100\n50      19         135                    13                     28          43\n0\nNPV, $USm\n-50                                                  -35\n-100                              -105\n-150\nProject   Sol. Power/ Dev. Partners Community Gov. of  econ impact    GHG      total econ\nCompany   SP Consumers                        Solomon   (including               impact\nIslands     local env)\nSource: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP” and “without TRHDP” scenarios.",
-"notes": "Page 30 of 97"
-}
-[
-{
-"section": "Financial Overview",
-"content": "In 2016, SIEA marked its sixth year of positive financials, with a net profit of SBD 205 million (US$24.7 million). Table 5 provides a summary of the audited financial statements of SIEA over 2011 - -2016.\nThe key components to SIEA's Operating Income are, Electricity Sales and Grant Income. Over the 2011-2016 period, electricity sales revenues have increased from a level of SBD 351.5 million in 2011 to SBD 437.5 million in 2016, marking an average annual growth of 4 percent. It is important to note that between 2014-15 and 2015-16, electricity sales revenues actually decreased by 1.5 percent and by 0.5 percent, respectively, despite increases in the volumes sold in the same period. This decrease in revenues was due to an average tariff reduction from SBD 6.77/kWh (US$ 93 cents/kWh) in 2014, to SBD 6.59/kWh (US$ 84 cents/kWh) in 2015, to SBD 6.22/kWh (US$ 80 cents/kWh) in 2016.",
-"notes": "Original title: Financial Overview, Page 30"
-},
-{
-"section": "Summary of SIEA’s Historical Financial Statements",
-"content": "Solomon Islands Dollars (SBD)\nPROFIT & LOSS SUMMARY                                   2011          2012           2013           2014           2015              2016\nElectricity Generated (GWh)                             84.86        84.03           81.2          85.47         86.823             92.03\nOperating Income\n Electricity Sales                                      351,476,721 397,574,602  404,299,236  446,557,219    439,887,311     437,528,391\n Grant, CSO and Others                                   25,778,452  26,148,872   17,971,597   30,474,340      7,245,090        12,874,784\n Total Operating Income                                 377,255,173 423,723,474  422,270,834  477,031,559    447,132,401     450,403,175\nCost of Goods Sold - Generation and Distribution Costs\n Electricity Purchased                                  -             -          11,265,063    3,228,334      6,160,216        5,557,395\n Fuel                                                  227,900,876 212,879,191  200,596,481  207,156,539    149,930,357     129,691,478\n Lubricants                                             18,522,673  12,588,421  3,206,656      2,234,023      4,876,902        3,748,438\n Generation R&M                                         15,660,661  40,436,838   47,419,501   41,612,909     44,945,873      48,351,573\n Total COGS                                            262,084,210 265,904,450  262,487,701  254,231,805    205,913,348     187,348,884\nGross Profit                                            115,170,963 157,819,024  159,783,133  222,799,754    241,219,053     263,054,291\nOperating Expenses\n Other Operating Expenses                                34,104,002  38,638,345   52,140,516   52,136,862     65,350,109      61,343,934\n Overheads                                              9,831,559    22,222,816   25,773,013   24,009,296     31,836,151      30,807,434\n Allowance for Uncollectability                         (27,886,761)  4,178,999  4,919,238      4,604,834     (3,997,994)        (861,604)\n Revaluation decrement - property, plant and equipment  2,387,857      -         5,958,900          -              -                 -\n Inventory & Asset Write-Off                            4,579,138   106,936        165,471     13,066,174      1,850,967        1,134,219\n Bad debts written off                                   29,999,287    -              -             -              -              158,334\n Total Operating Expenses                                53,015,082  65,147,096   88,957,138   93,817,166     95,039,233      92,582,317\nEBITDA                                                   62,155,881  92,671,928   70,825,995  128,982,588    146,179,820     170,471,974\n Interest expense                                        -             -              -         1,096,621          -                 -\n Depreciation and Amortization                           11,584,061  27,645,159   28,370,196   35,856,247     40,549,658      46,006,826\n FX (gain/loss)                                         (14,417)   (902,806)     3,880,554       (614,452)     1,057,134        (4,416,280)\n Other Income (revaluation and adjustments)             173,343,210  4,985,383    64,071,171        -              -          85,414,971\nTotal Comprehensive Income for the Year                 223,900,613  69,109,346  110,407,524   91,415,268    106,687,296     205,463,839\nMargins and Ratios\n Gross Margin                                             31%          37%            38%            47%            54%              58%\n Fuel/COGS                                                87%          80%            76%            81%            73%              69%\n EBIDTA Margin                                            16%          22%            17%            27%            33%              38%\n Net Margin                                               59%          16%            26%            19%            24%              46%\nSource: Prepared by World Bank based on SIEA’s audited annual financial reports.",
-"notes": "Original title: Solomon Power - Audited Financial Statements 2011-2016, Page 30"
-},
-{
-"section": "Financial Projections and Retail Tariff",
-"content": "A set of financial projections were made by the Bank with inputs from SIEA for the period 2017 to 2052. The 2017-2022 projections are based on SIEA’s budget plan. Table 6 summarizes the key assumptions used in building SIEA’s financial projections.",
-"notes": "Original title: Financial Projections and Retail Tariff, Page 31"
-}
-]
-{
-"section": "Key Assumptions for SIEA’s Financial Projections for Honiara",
-"content": "2017  2020                                        2021    2022     2025     2030    2035    2040    2045    2050    2051   2052\nElectricity Demand Growth    5%     3%                                         3%      3%       2%       2%      2%      2%      2%      -       -        -\nGWh Generated                83.38                                     92.92   95.82   98.28   104.30  115.15  127.13  140.35  154.94  161.20  161.20  161.20\nDies el                     78.48                                     88.03   90.93   15.04    9.65    44.03    8.79    9.62   13.63   17.68   17.68   17.68\nSolar                       4.89  4.89                                        4.89    4.89     16.30   31.94   39.99   51.94   58.93   60.77   60.77   60.77\nSolar w ba ttery              -                                         -       -     -          -      -       -       0.44    4.03    4.40    4.40   4.40\nHydro (Tina River)            -                                         -       -     78.35    78.35   39.18   78.35   78.35   78.35   78.35   78.35   78.35\nGWh Sold                     61.56                                     68.61   70.75   90.59    95.03   94.03  111.89  121.76  133.36  138.06  138.06  138.06\nSBD Real Avg Tariff (2016)   4.51  4.48                                         4.46    2.72    2.66     5.14    2.70    2.62    2.60    2.58    2.59   2.23\nUS$ Real Avg Ta riff (2016)  0.53  0.53                                         0.52    0.32    0.31     0.60    0.32    0.31    0.31    0.30    0.30   0.26\nOi l Price (US$/bbl)         56.06                                     63.38   65.38   67.27    73.59   83.89   94.23  104.56  114.89  125.22  127.29  131.42\nTina PPA Payments (SBD Mil)    -                                         -     -       112.73  137.34  194.11  248.41  280.99  333.74  383.11  417.31     -\nFuel Cos t (SBD Mil)         128.78                                    163.23  174.85  28.92    20.69  199.83   72.69  116.84  203.33  310.24  319.90  329.69\nCAPEX (SBD Mil)              205.32                                    229.95  255.25  252.98   65.75   90.00  190.95   90.00  219.39   90.00   90.00   90.00\nDebt : Equity Ra tio         9%    31%                                         47%     45%      36%      18%     6%      2%      1%      1%      1%       -\nSource: Prepared by World Bank based on assumptions and data provided by SIEA.",
-"notes": "Table 6: Key Assumptions for SIEA’s Financial Projections for Honiara"
-}
-{
-"section": "Financial Projections",
-"content": "“without TRHDP” projections, tariff reductions were significantly less generous than in the “with TRHDP” scenario (i.e., tariff reduction of 10 percent per year for the period 2017-2021, and 5 percent for 2022-2052) and led to a deterioration of SIEA’s profitability with an average net margin of around 10 percent.\nWith the benefit of additional assumptions on operational efficiency, losses, input costs, overheads, depreciation, and financing costs, SIEA’s Projected Income Statement, Cash Flow Statement, and Balance Sheet were built and are presented in Tables 7 and 8.\nSIEA’s average EBITDA margin is expected to grow from 24 percent to 53 percent, and Net Margin from 14 percent to 43 percent, over the projection period. SIEA’s liquidity ratio is strong, with a minimum of 3.70 in 2020, largely driven by the strong cash position. Over the projection period, SIEA’s average annual cash from operations is of SBD 442 million and allows financing of capex investments with internal cash generation. SIEA’s debt gearing is very low at an average of 11:89. At its highest level of debts, in 2021, SIEA’s gearing is still heavily inclined towards use of equity at a debt/equity ratio of 36:64. As a result, SIEA maintains strong DSCR throughout, with lowest DSCR, in 2024 at 1.43. This is still a healthy DSCR which provides SIEA an average Return on Equity of 6 percent, over the period.",
-"notes": "Original title: Financial Projections, Page 33"
-}
-[
-{
-"section": "Table 7: Summary of SIEA’s Projected Financial Statements",
-"content": "2017   2018       2019     2020       2025    2030        2035     2040      2045      2050        2051    2052\nIncome Statement\nRevenues                291.70    320.27    346.92    373.71    393.56   517.26     742.45   1,023.73  1,430.56  1,898.90  1,988.09  1,784.43\nCost of Goods Sold      143.17    157.64    169.63    181.21    162.73   182.28     296.59    402.24    565.88    765.02    793.56    366.07\nGross Profit            148.53    162.63    177.29    192.50    230.83   334.97     445.86    621.48    864.69   1,133.87  1,194.53  1,418.36\nOPEX and Overheads         77.82  85.44      92.55    99.70     104.99   137.99     198.07    273.10    381.64    506.57    530.37    476.04\nEBITDA                     70.71  77.19      84.74    92.81     125.84   196.98     247.80    348.38    483.05    627.30    664.16    942.32\nDepreciation               29.17  32.03      34.69    37.37      39.36   51.73       74.25    102.37    143.06    189.89    198.81    178.44\nInterest                   1.09   2.20      3.09     4.24        15.68   6.12        0.40    0.00         -       -           -       -\nNet Profit                 40.45  42.96      46.96    51.20      70.80   139.13     173.15    246.01    339.99    437.41    465.35    763.88\nBalance Sheet\nFixed Assets            933.45   1,085.06  1,241.39  1,433.97  1,946.21  2,093.87  2,331.09  2,862.07  2,844.34  2,436.20  2,327.39  2,238.95\nCash                       54.37  236.50    125.65    16.83      14.20   16.40       62.26    342.55   1,499.82  3,448.70  3,925.19  4,588.43\nReserve Cash               6.49   33.25      47.73    50.17      89.75   89.75       89.75    89.75     89.75     89.75      89.75    89.75\nOther Current Assets       47.00  51.66      55.86    60.07      34.66   45.13       68.16    95.34     136.53    184.54    192.80    176.55\nTotal Assets           1,041.31  1,406.47  1,470.63  1,561.04  2,084.82  2,245.14  2,551.26  3,389.72  4,570.43  6,159.19  6,535.12  7,093.67\nCurrent Liabilities        27.14  29.86      32.12    34.30      23.34   24.26       39.05    53.76     74.85     100.11    103.78    51.22\nLT Debt                    86.21  409.97    429.61   471.76     736.36   415.86     153.80    59.20     59.20     59.20      59.20    -\nEquity                  927.97    966.63   1,008.90  1,054.98  1,298.13  1,774.74  2,358.41  3,276.76  4,436.38  5,999.88  6,372.15  6,983.26\nCash Flow from Operations  46.74  73.06      79.71    86.54     107.15   188.94     245.60   345.22     478.45    622.93    659.55    906.01\nSource: Prepared by World Bank based on assumptions and data provided by SIEA.",
-"notes": "Table 7: Summary of SIEA’s Projected Financial Statements"
-},
-{
-"section": "Table 8: SIEA’s Forecasted Growth and Performance Ratios",
-"content": "2017   2018       2019     2020       2025    2030        2035     2040      2045      2050        2051    2052\nYoY Growth Rates\nRevenues                          10%        8%        8%         6%     7%          4%        8%        8%       5%           5%     -10%\nGross Profit                       9%        9%        9%         7%     6%          11%       5%        5%       5%           5%     19%\nNet Profit                         6%        9%        9%        14%     6%          24%       1%        1%       6%           6%     64%\nAssets                            35%        5%        6%         2%     2%          4%        6%        7%       6%           6%     9%\nCash and Reserve Cash            343%       -36%     -61%         4%     1%          -11%     91%       14%       14%         13%     17%\nLT Debt                          376%        5%       10%        -8%     -13%        -20%      0%        0%       0%           0%     -100%\nEquity                             4%        4%        5%         6%     7%          6%        6%        7%       6%           6%     10%\nKey Ratios\nEBITDA Margin              24%   24%         24%      25%        32%     38%         33%      34%       34%        33%        33%     53%\nNet Margin                 14%   13%         14%      14%        18%     27%         23%      24%       24%        23%        23%     43%\nReturn on Equity            4%     4%        5%        5%         5%     8%           7%       8%        8%       7%           7%     11%\nReturn on Assets            4%     3%        3%        3%         3%     6%           7%       7%        7%       7%           7%     11%\nLT Debt/ (LT Debt + Equity) 9%   30%         30%      31%        36%     19%          6%       2%        1%       1%           1%     0%\nCurrent Ratio              3.97   10.76       7.14     3.70      5.94    6.23        5.64    9.82       23.06     37.19      40.55    94.79\nDSCR                       17.01  10.93       9.09     7.09      1.58    2.81        6.29     N/A       N/A        N/A        N/A      N/A\nUS$ 1 = SBD                8.50  8.71         8.92     9.14      10.31   11.63       13.12   14.80      16.70     18.83      19.29    19.76\nSource: Prepared by World Bank based on assumptions and data provided by SIEA.",
-"notes": "Table 8: SIEA’s Forecasted Growth and Performance Ratios"
-}
-]
-{
-"section": "Technical",
-"content": "The hydropower potential of the Tina River to supply the growing electricity demand was first identified through the Bank’s Guadalcanal Renewable Development Concept Study in 2006, and was followed by SIG’s pre-feasibility study. Subsequently, a feasibility study was prepared for the Project in three phases between 2010 and 2015 targeting different sites along the Tina River. Based on geotechnical investigations and recommendations of DSAP, it was decided to select Site 7C for the full feasibility study under Phase 3 which was completed in November 2014 and later updated with additional hydrological data by November 2015.\n\nTwo alternative analyses conducted independently by SIEA and the Bank found TRHDP to be part of the least-cost generation plan to satisfy the growing demand. Against the backdrop of lower global oil prices, dramatically reduced PV costs and improvements in battery storage technologies since the time the Project was conceived, alternative analyses were conducted independently by SIEA and the Bank in 2016-2017 to confirm the viability of the Project. Both studies concluded that the Project is the least-cost alternative for HES. While the cost of solar has been reducing drastically, high penetration of variable renewable energy sources such as solar requires enabling technologies to compensate for their intermittency and to supply electricity during the night and during consecutive cloudy days. TRHDP can store energy in its reservoir and provide frequency regulation and spinning reserve functions to complement solar. Diesel generation can also provide such functions, but is expensive and emits GHG; and while battery storage is a promising technology, it is still expensive. The “without TRHDP” and “with TRHDP” comparison conducted under the Bank’s analysis found that the solar penetration is higher in the “without TRHDP” scenario (58 percent of total demand in 2046) compared to the “with TRHDP” scenario (40 percent of total demand in 2046). However, since TRHDP generates 43 percent of the demand in 2046 under the “with TRHDP” scenario, the total share of renewable energy will become 83 percent “with TRHDP”.",
-"notes": "Page 35 of 97"
-},
-{
-"section": "Financial Management",
-"content": "A financial management (FM) assessment was carried out in accordance with the “Principles Based Financial Management Practice Manual” issued by the Board on March 1, 2010. Under the Bank’s OP/BP 10 with respect to projects financed by the Bank, the borrower and implementing agency are required to maintain financial management systems – including accounting, financial reporting, and auditing systems – adequate to ensure they can provide the Bank with accurate and timely information regarding the project resources and expenditures. An assessment of PC capacity could not be conducted as the entity has not yet been established. The assessment of MMERE and SIEA concluded that the proposed FM arrangements of these implementing entities satisfy the requirements of OP/BP 10 subject to the effective implementation of recommended risk mitigating measures. The main FM risks are: that the equity funding under Component I will not be used for the intended purpose, consistent with the PDO; payments for major civil works under Components 1, 2 & 3 do not meet acceptable technical standards or are misused; and the lack of capacity within MMERE. The recommended mitigation measures are detailed in Annex 2.",
-"notes": "Page 35 of 97"
-}
-[
-{
-"section": "Procurement",
-"content": "The project will follow procurement procedures under World Bank Procurement Regulations for Investment Project Financing (IPF) Borrowers (July 2016) and the provisions stipulated in the Financing Agreement to be entered into by the Bank and SIG. SIEA will procure items under Component 3 and MMERE under Component 4. A Project Procurement Strategy for Development (PPSD) was prepared as the basis for procurement arrangements and planning of Components 3 and 4. Key procurement risks are: (a) lack of procurement and contract management capacity, and (b) limited number of local suppliers/contractors. Risk mitigation measures have been discussed and agreed with government and detailed in Annex 2. For Components 1 and 2, the sponsor selection process followed by SIG was reviewed by the World Bank and found to be substantially consistent with the Core Procurement Principles of the Bank’s New Procurement Framework, including the provisions set forth in Paragraphs 3.14 to 3.17 (Conflict of Interest) and Paragraphs 3.21 to 3.23 (Eligibility) of the Procurement Regulation. Provisions on Anti-Corruption specified in Paragraph 3.32 of the Procurement Regulations will be included into all the agreements and contracts between the project sponsors and SIG. The final draft agreements and contracts between the project sponsor and SIG will be subject to prior review by the World Bank before signing. As such, the PC is permitted to use its own procedures for the procurement of goods, works, non-consulting services and/or consulting services from eligible sources. MMERE will submit a Contract Management Plan for Components 1 and 2 in accordance with Annex XI of the Procurement Regulations for IPF Borrowers. The Project’s Procurement Plan, submitted by the Borrower on May 10, 2017, is acceptable to the Bank.",
-"notes": "Page 36 of 97"
-},
-{
-"section": "Social (including Safeguards)",
-"content": "Notwithstanding the potential benefits of lower cost and more stable power supply to all consumers and potential beneficiaries of the project, the main social impacts to be considered in the implementation of the project are those related to land acquisition and the construction and operation of the dam and associated infrastructure such as the access road and transmission line. A detailed Social Impact Assessment (SIA) was conducted during project preparation as a part of the overall Environmental and Social Impact Assessment (ESIA). This ESIA includes an Environmental and Social Management Plan (ESMP) which provides a comprehensive identification of the Project’s social and environmental impacts and recommended mitigation measures. Policies triggered. The ESIA and ESMP have been prepared to meet the requirements of the relevant World Bank safeguards Operation Policies (OPs) and Performance Standards (PSs). Because Component 1 will be delivered by a private sector entity, the provisions of OP/BP 4.03 – Performance Standards for Private Sector Activities applies to this component. As a result, for Component 1, the developer will be responsible for addressing seven of the eight World Bank Performance Standards. PS 5: Land Acquisition and Involuntary Resettlement is not triggered for Component 1 because the developer will not have any responsibilities that fall beyond government’s responsibility via its acquisition of land. OP 4.12 – Involuntary Resettlement will be.",
-"notes": "Page 36 of 97"
-}
-]
-{
-"section": "Community Development Plan",
-"content": "A Community Development Plan (CDP) has been prepared and disclosed on May 5, 2017. The CDP specifies development activities that would benefit the project communities both during construction and during the 30-year operational period of the PPA, as well as the estimated costs and financing mechanisms during these periods. The CDP also summarizes the findings of the social assessment, describes an ongoing consultation process, a monitoring and evaluation system, and grievance redress mechanism.",
-"notes": "Original title: Community Development Plan; Page 106"
-}
-{
-"section": "Gender Action Plan",
-"content": "A  Gender Action Plan (GAP)     has been completed as part of project preparation to guide the mainstreaming of gender into the TRHDP to help promote equal opportunities for women and men to participate in project benefits, with a particular focus on addressing impacts on communities directly affected by the TRHDP construction. The Plan includes actions, monitoring and reporting arrangements. The GAP is summarized in Annex 2.",
-"notes": "Original title: Gender Action Plan"
-},
-{
-"section": "Environment (including Safeguards)",
-"content": "The project is categorized as environmental Category A and has triggered for component 1 the World Bank Performance Standards – the dam, reservoir, and power station in accordance with OP 4.03 Performance Standards for Private Sector Activities, since these activities will be executed by a private sector entity. Bank Operational Policies for safeguards apply to Components 3 and 4, because agencies of SIG will execute them. In addition to the social safeguard policies indicated above, the Bank’s safeguard policies on Environmental Assessment, Natural Habitats, and Forests will be triggered. MMERE has commissioned a single ESIA for all four components, which covers the HPF, the access road and transmission line. MMERE engaged an Environmental and Social Panel of experts to advise on ESIA preparation and other environmental and social matters. The ESIA was initially disclosed both in country and on the Bank’s external website on August 15, 2016. MMERE held consultations for communities and NGOs in October and November 2016, and a revised ESIA draft was disclosed January 27, 2017. The ESIA and the ESMP, which are included in the same document, provide a comprehensive identification of the project’s social and environmental impacts and recommended mitigation measures for them. The following are the potential environmental impacts identified in the ESIA as being of most concern. Alterations in downstream hydrology and water quality.   In the absence of planned mitigations, the 5.7 km reach of the river that will be bypassed by the tunnel between dam and powerhouse would be dry (except for minor inflow from small tributaries) other than during flood events large enough to cause releases via the dam spillway. The operator will be required to maintain an environmental flow of 1 m³/s below the dam, which the ESIA predicts is the minimum to mitigate loss of aquatic habitat and to allow fish movement in the dam-to-powerhouse reach.   The operator will also maintain a minimum flow through the powerhouse at all times of day, and throughout the year of 2.43 m³/s (equivalent to the minimum generating discharge through one turbine) to maintain habitat in the wider channel downstream and reduce the range of flow fluctuations between periods of peak generation and reservoir refilling. Mitigation measures will be supplemented or modified on the basis of monitoring of water quality, fish populations, and aquatic invertebrates. Daily transitions from generation to non-generation would cause fluctuations in water flow downstream of the tailrace. Impacts could include loss of habitat for fish and other aquatic organisms, changes in fish spawning and migration behavior, abrupt changes in river level, and reduced availability of water for drinking and other human uses. Dam safety is being incorporated in the design and the operating plans in accordance with PS 4, under the guidance of a DSAP for which the terms of reference are based on OP 4.37 Safety of Dams. Obstruction of fish migration. Most of the fish species found during ESIA baseline surveys in the river near the dam and reservoir sites and in the upper reach of the river are migratory.    The main mitigation measure in the ESMP, a “trap and haul” system, was selected as a practical, relatively low-cost option that has been proposed.",
-"notes": "Original title: Environment (including Safeguards)"
-}
-{
-"section": "Other Safeguard Policies",
-"content": "116.   For Component 1, the developer will be responsible for addressing dam safety under PS 4: Community Health, Safety and Security. Terms of Reference for consultants advising on topics related to this PS were approved by the Bank to ensure the requirements of the Performance Standards are effectively integrated into the TA work under Component 4.",
-"notes": "Original title: G. Other Safeguard Policies, Page 39"
-}
-{
-"section": "World Bank Grievance Redress",
-"content": "Communities and individuals who believe that they are adversely affected by a World Bank (WB) supported project may submit complaints to existing project-level grievance redress mechanisms or the WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address project-related concerns. Project affected communities and individuals may submit their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be submitted at any time after concerns have been brought directly to the World Bank's attention, and Bank Management has been given an opportunity to respond. For information on how to submit complaints to the World Bank’s corporate GRS, please visit www.worldbank.org/grs. For information on how to submit complaints to the World Bank Inspection Panel, please visit www.inspectionpanel.org.",
-"notes": "Original title: Grievance Redress; Page 40"
-}
-{
-"section": "Results Framework",
-"content": "COUNTRY : Solomon Islands\nTina River Hydropower Development Project\nProject Development Objectives\nThe project development objective (PDO) is to increase the share of renewable energy through hydropower in Solomon Islands.\nProject Development Objective Indicators\n  Indicator Name                Core   Unit of      Baseline      End Target    Frequency                Data Source/Methodology     Responsibility for\n                                       Measure                                                                                       Data Collection\n   Name: Generation capacity    ✔       Megawatt     0.00         15.00         Quarterly                Project progress report      Project Company\n   of energy constructed or\n   rehabilitated\n    Hydropower generation       ✔       Megawatt     0.00         15.00         Quarterly                Project progress reports     Project Company\n    capacity constructed under\n    the project\n  Description:\n   Name: Share of hydropower            Percentage   0.00         68.00         Annual                   SIEA                         SIEA",
-"notes": "Page 41 of 97"
-}
-{
-"section": "Intermediate Results Indicators",
-"content": "Indicator Name                Core    Unit of      Baseline       End Target    Frequency                Data Source/Methodology      Responsibility for\n                                       Measure                                                                                         Data Collection\nName: Transmission lines              Kilometers   0.00          23.00         Annual                   Annual Report                SIEA\nconstructed or rehabilitated\nunder the project\nTransmission lines                 Kilometers   0.00          23.00         Annual                   Annual Report                 SIEA\nconstructed under the\nproject\nDescription: This indicator measures the length of the transmission lines constructed or rehabilitated/upgraded under the project.\nName: Roads constructed,              Kilometers   0.00          18.70         Quarterly                Project Progress Report      MMERE",
-"notes": "Original title: Intermediate Results Indicators, Page 42"
-}
-{
-"section": "Indicators",
-"content": "Indicator Name                  Core     Unit of       Baseline       End Target     Frequency                  Data Source/Methodology        Responsibility for\n                                         Measure                                                                                               Data Collection\n Rural\nDescription: Kilometers of rural roads constructed under the project. Rural roads are roads functionally classified in various countries below Trunk or Primary, Secondary\nor Link roads, or sometimes Tertiary roads. Such roads are often described as rural access, feeder, market, agricultural, irrigation, forestry or community roads. Typically,\nrural roads connect small urban centers/towns/settlements of less than 2,000 to 5,000 inhabitants to each other or to higher classes of road, market towns and urban\ncenters.\n Name: Net greenhouse gas                 Tones/year   0.00           49500.00       Annual                     Dispatch records                SIEA and Project\n (GHG) reduction (tCO2-eq                                                                                                                       Company\n per year)\nDescription:\n Name: Quarterly meetings                 Number       0.00           26.00          Quarterly                  Quarterly reports               Project Office\nof the Gender Action Plan\n Steering Committee taking\n place in a year\nDescription: Measurement of the frequency in which the GAP is reviewed by key stakeholders, and therefore, the extent to which active attention is being paid to GAP\nimplementation and monitoring.\n Name: Women who are                      Percentage   0.00           75.00          Annual                     Annual household survey of      Project Office\nsatisfied with the way in                                                                                      women in the project area\nwhich their individual Tribal\n Cooperative account funds,\nand those of their children,\nare spent\n",
-"notes": "Extracted from the section on indicators, page 43"
-}
-{
-"section": "Indicator Name",
-"content": "Core    Unit of       Baseline       End Target     Frequency                  Data Source/Methodology        Responsibility for\nMeasure                                                                                               Data Collection\nDescription: Measurement of the extent to which new, innovative tribal accounts are reducing the effects of elite capture and allowing women more control in the\nmanagement of project-related resources.\n Name: Increase in project-              Percentage    0.00           20.00          Three times during        Household survey                Project Office\naffected community                                                                  project life              conducted at baseline, mid-\nhousehold consumption                                                                                         term and at project\nbefore and after                                                                                              completion\n hydropower facility\n commissioning\nDescription: Measurement of the economic benefits gained by people living in the project area, disaggregated by gender\n Name: Fuel savings (million             Liters        0.00           18.00          Annual                    SIEA                            SIEA\nliters per year)                        (Million)\nDescription: Total liters of diesel fuel that would have to be purchased to generate the equivalent amount of electricity generated by the project per year.\n Name: Private Capital                   Amount(US     0.00           10400000.                                Amount of equity\nMobilized                               D)                           00                                       contributed to Project\n                                                                                                               Company from project\n                                                                                                               developers\nDescription: The core indicator track the amount of direct financing (in the form of equity and/or debt) mobilized by private entities, using private funding, to finance\ninvestments within an IBRD/IDA operation or investments (PE, GE, RE, SF, and GU) directly linked to that operation.",
-"notes": "Data Indicators and Measurements, Page 44"
-}
-{
-"section": "Indicators",
-"content": "Indicator Name                Core    Unit of      Baseline       End Target    Frequency                 Data Source/Methodology      Responsibility for\n                                       Measure                                                                                          Data Collection\nName: Completion of semi-             Number        0.00          12.00         Semi-annual               Independent social and        Independent social\nannual, independent social                                                                                environmental monitoring      and environmental\nand environmental                                                                                         reports                       monitoring agent\nmonitoring reports\nDescription: Submission of a semi-annual reports required by the organization contracted as the independent social and environmental monitoring agent.\nName: Completion of Dam               Number        0.00          6.00          Annual                    Dam Safety Advisory Panel     Dam Safety Advisory\nSafety Advisory Panel annual                                                                              annual reviews                Panel\nreviews\nDescription: Submission of required annual reports by the Panel members\nName: Preparation of                  Yes/No        N             Y             Semi-annual               MMERE progress reports        MMERE\nProtected Area Management\nPlan and Budget by upper\ncatchment communities\nDescription: Completion of a Protected Area Management Plan and Budget by the upper catchment communities with the support provided by an NGO contracted with\nproject funds. This is the last step before submitting an application for a protected area which the communities would need to do on their own.",
-"notes": "Original title: 'Indicators' on Page 45"
-}
-{
-"section": "Project Development Objective Indicators",
-"content": "Indicator Name                    Baseline     YR1          YR2           YR3           YR4          YR5           YR6           YR7           End\n                                                                                                                                                Target\nGeneration capacity of energy      0.00         0.00         0.00          0.00          0.00         0.00          15.00         15.00         15.00\nconstructed or rehabilitated\nHydropower generation capacity     0.00         0.00         0.00          0.00          0.00         0.00          15.00         15.00         15.00\nconstructed under the project\nShare of hydropower in the         0.00         0.00         0.00          0.00          0.00         0.00          30.00         68.00         68.00\ngeneration mix\nElectricity generated by the       0.00         0.00         0.00          0.00          0.00         0.00          30.00         78.35         78.35\nProject",
-"notes": "Page 46 of 97"
-},
-{
-"section": "Intermediate Results Indicators",
-"content": "Indicator Name                    Baseline     YR1          YR2           YR3           YR4          YR5           YR6           YR7           End\n                                                                                                                                                Target\nTransmission lines constructed or  0.00         0.00         0.00          0.00          23.00        23.00         23.00         23.00         23.00\nrehabilitated under the project\nTransmission lines constructed     0.00         0.00         0.00          0.00          23.00        23.00         23.00         23.00         23.00\nunder the project\nRoads constructed, Rural           0.00         0.00         18.70         18.70         18.70        18.70         18.70         18.70         18.70",
-"notes": "Page 46 of 97"
-}
-{
-"section": "Indicator Results",
-"content": "Indicator Name                    Baseline     YR1          YR2           YR3           YR4          YR5           YR6           YR7           End\n                                                                                                                                                Target\nNet greenhouse gas (GHG)           0.00         0.00         0.00          0.00          0.00         0.00          19000.00      49500.00      49500.00\nreduction (tCO2-eq per year)\nQuarterly meetings of the Gender\nAction Plan Steering Committee     0.00         4.00         4.00          4.00          4.00         4.00          4.00          2.00          26.00\ntaking place in a year\nWomen who are satisfied with the\nway in which their individual\nTribal Cooperative account funds,  0.00         75.00        75.00         75.00         75.00        75.00         75.00         75.00         75.00\nand those of their children, are\nspent\nIncrease in project-affected\ncommunity household\nconsumption before and after       0.00         0.00         0.00          10.00         10.00        20.00         20.00         20.00         20.00\nhydropower facility\ncommissioning\nFuel savings (million liters per   0.00         0.00         0.00          0.00          0.00         0.00          6.80          18.00         18.00\nyear)\nPrivate Capital Mobilized          0.00         2.00         4.00          6.00          10.40        10.40         10.40         0.00          10400000.0\n                                                                                                                                                0\nCompletion of semi-annual,\nindependent social and             0.00         1.00         3.00          5.00          7.00         9.00          11.00         12.00         12.00\nenvironmental monitoring reports\nCompletion of Dam Safety           0.00         0.00         1.00          2.00          3.00         4.00          5.00          6.00          6.00",
-"notes": "Original title: Indicator Results, Page 47"
-}
-{
-"section": "Indicator Name",
-"content": "Advisory Panel annual reviews\nPreparation of Protected Area Management Plan and Budget by upper catchment communities\nBaseline     YR1          YR2         YR3          YR4          YR5          YR6          YR7          End Target\nN            N            N           N            Y                                                   Y",
-"notes": "Content related to project indicators and targets on page 48"
-}
-{
-"section": "ANNEX 1: DETAILED PROJECT DESCRIPTION",
-"content": "COUNTRY: Solomon Islands\nTina River Hydropower Development Project\n1.     The power sector of the Solomon Islands can be characterized by its low electrification rate, heavy reliance on diesel generation and high retail tariff. Within the Pacific region, Solomon Islands has the lowest grid-connected electrification rate of 11 percent, lowest consumption at 125 kilowatt-hour (kWh) per capita, second highest percentage of total fuel imports at 20 percent of GDP, and the highest retail tariff at over US$ cent 65/kWh as of January 2017. About 50 percent of the urban households are supplied by SIEA of which the majority are being supplied through the Honiara Electricity System (HES) in the capital city, with a population of nearly 70,000, on the main island of Guadalcanal. Only about 3 percent of the rural households is supplied by SIEA or through diesel generators owned by households or communities. Nationally, one-third of the households have installed small solar home systems, with photovoltaic (PV) panels typically of 20 watts, which are only sufficient for a few light bulbs and to charge cell phones.\n2.     The total installed capacity of the HES is 33.6 megawatts (MW), out of which 32.6 MW are diesel generators and a 1 MW solar farm. Peak demand of the HES has increased from 9.3 MW in 2003 to 15.5 MW in 2016 representing a compound annual growth rate (CAGR) of 4.0 percent. Over the same period, annual electricity generation in HES grew at 4.9 percent CAGR from 45.1 gigawatt-hours (GWh) to 83.9 GWh, with a notable 6.7 percent growth in 2016 alone mainly due to increased supply with the commissioning of four 2.5 MW diesel generators. Generated electricity includes purchase of 1.1 GWh from Solomon Tropical Products company which sells excess electricity to SIEA under a loosely negotiated power purchase agreement (PPA). Total electricity generated in the provincial grids in 2016 was 6.7 GWh.\n3.     The high retail tariff has been due to the expensive diesel generation cost and the application of the 2005 Tariff Regulation.  SIEA’s system was 100 percent reliant on diesel generation until 1 MW grid-connected solar farm was commissioned in June 2016. As seen in Table A1-1, retail tariffs increased during years of high global oil prices between 2011 and 2014. However, it should be noted that the retail tariff was still increasing in 2014 when oil prices had already started to reduce. Also, while oil prices more than halved in 2015 compared to 2014, the retail tariff reduced only marginally.\n                                    Table A1-1: SIEA Average Retail Tariff (2011-2016)\n                     Customers                  2011      2012     2013    2014      2015    2016\n                     Domestic                 5.2477    5.9553   6.0816  6.4341    6.2365  5.8667\n                     Commercial               5.6569    6.3977   6.3695  6.7374    6.5539  6.1870\n                     Industrial               5.5039    6.2323   6.5413  6.9186    6.7434  6.3783\n                     Weighted Average         5.4467    6.1705   6.4031  6.7729    6.5910  6.2244\n                     Avg Tariff in US$/KwHr     0.72      0.87     0.90    0.93      0.84    0.80\n                  Source: Bank analysis based on SIEA data, 2017\n4.     The modest reduction in retail tariff relative to the reduction in global oil prices was because the Electricity Tariff Regulation of 2005 adopts a simplified tariff formula. The fuel cost increase of the previous term was included as the base tariff in the following term. Since the base tariff increased during the years of",
-"notes": "Original title: ANNEX 1: DETAILED PROJECT DESCRIPTION, Page 49"
-}
-{
-"section": "Electricity Tariff and Financial Performance",
-"content": "high oil prices, the benefit of the lower fuel cost in later years was not fully translated into lower retail tariff levels.\n5.     SIEA conducted a cost-of-service and tariff review and introduced the new tariff methodology, Tariff Regulation of 2016, in January 2017 to appropriately reflect the fuel price in the tariff. With its introduction, the base tariff was reset resulting in a reduction in the average retail tariff from US$ 80 cents/kWh in 2016 to US$ 65 cents/KWh for the first two months of 2017. Despite the reduction, the retail tariff is still significantly higher than the Pacific regional average of residential retail tariff of approximately US$ 40 cents/kWh. To further lower its retail tariff to levels at par with the other Pacific countries, SIEA plans to expand its customer base, enhance efficiency and significantly expand the use of less expensive, indigenous renewable energy sources.\n6.     SIEA has had a strong financial position since 2011. SIEA was in financial crisis and close to insolvency with severe cash-flow problems until 2010 as a result of the “tension” and poor utility management. However, owing to the strong intervention of the Solomon Islands Government (SIG), a tariff calculation methodology that adjusted the tariff up along with the increase of fuel, but did not adequately pass through reductions in fuel price to the retail tariff (i.e. SIEA’s customers), and support provided through the World Bank-financed SISEP project, SIEA’s financial performance improved dramatically from making losses until 2010 to a net profit of SBD68 million in 2012, and increasing since to SBD107 million in 2015. Electricity sales revenues increased from SBD351.5 million in 2011 to SBD433.5 million in 2016. Accounts receivable also improved from 70 days of sales in 2011 to 40 days in 2015. The system average interruption duration index (SAIDI) improved from 51,840 minutes/customer/year in 2007 to 2,604 minutes/customer/year in 2015, and the system average interruption frequency index (SAIFI) also improved from 816 times/customer/year to 38 times/customer/year during the same period.\n7.     In addition to investments in lower cost, renewable generation capacity, there are other steps that can be taken to continue to drive down the retail electricity tariff. SIEA is targeting further improvements in efficiency such as setting an aggressive target to reduce losses from 21 percent in 2016 to 11 percent in 2021. Table A1-2 summarizes SIEA’s average system loss from 2011 to 2016. SIEA also aims to reduce input costs, overheads, depreciation, and financing costs. Appropriate re-basing of the non-fuel tariff component of the 2016 Tariff Regulation due in October 2020 will likely allow the retail tariff to be further reduced.\n                                Table A1-2: SIEA System Loss in Honiara (2011-2016)\n                                                 2011       2012      2013       2014       2015      2016\n Energy Generation in Honiara     GWh            74.7       75.3       73.0      77.4       78.7      83.9\n Own Use in Honiara               GWh             2.9        2.7        3.2        2.7       2.6       3.1\n Loss in Honiara                  GWh            15.8       16.1       14.0      15.3       16.0      17.5\n Energy Sold in Honiara           GWh            56.0       56.5       56.0      59.4       60.1      63.3\n Loss                             %             21.1%      21.4%     18.9%      19.7%      20.4%     20.9%\n8.     Spurred by increased demand, an increased customer base, and expectations for new commercial developments to be supplied by HES, SIEA projects the annual demand to grow at 4.3 percent CAGR to over 250 GWh by 2040. Based on this demand forecast SIEA formulated a least-cost generation expansion plan, incorporating a range of generation sources, which found that TRHDP should be commissioned in 2022 under the optimized Base Case (Figure A1-1).",
-"notes": "Original title: 'Electricity Tariff and Financial Performance' on Page 50"
-}
-{
-"section": "Figure A1-1: Least-Cost Generation Expansion Plan by SIEA (Base Case)",
-"content": "300\n250\n200\n150\n100\n50\n2016                  2022\n2023          2026}                            2036       2039\n2017                                                                               2040\n2018\n2019\n2020\n2021       2024\n2025   2027\n2028\n2029\n2030\n2031\n2032\n2033\n2034\n2035   2037\n2038\n41                 Hz                                   \"Lz                LJ\nLId                  FL6                                eLa\nBiomas          #Nex Dictel           Geahemal\nNo Sdnr            Nc Sdar Soroge\nSource: SIEA, Least Cost Modelling of Future Generation Expansion Options for the Honiara Electricity System,\nDecember 2016 (prepared by Marsden Jacobs Associates)",
-"notes": "Figure A1-1: Least-Cost Generation Expansion Plan by SIEA (Base Case) on Page 51"
-}
-{
-"section": "Economic Analysis",
-"content": "The World Bank\nTina River Hydropower Development Project (P161319)\nbeen used consistently in this analysis and in the economic analysis by rounding up the discount rate implied by\nthe guidance.\n10.    Using such different parameters, the study also found that TRHDP constitutes a key component of the\nleast-cost generation expansion plan in the Base Case (Figure A1-2). Sensitivity analysis using 10 percent\nreduction in hydrology²⁰ caused the optimum commissioning year of TRHDP to be pushed back to 2024.\n                     Figure A1-2: Least-Cost Generation Expansion Plan by the World Bank (Base Case)\nsclar     nvoro     therma     battery_discharge  unserved    demand      cemanc    battery_cnarge\n           180\n           160\n           140\n           120\n          8¹⁰⁰\n       Source: Independent study conducted by World Bank (contracted through Concept Consulting Group and executed by Dr. Grant\n       Reed and Dr. Ramu Naidoo)\n11.    Further sensitivity analysis using 4 percent discount rate resulted in optimal commissioning of TRHDP\nbeing in 2027; and reduction in hydrology by 10 percent using the same discount rate would push back TRHDP\nto 2028.\n12.    The counterfactual “without TRHDP” scenario (Figure A1-3) formulated by the Bank’s analysis showed\nthat the share of renewable energy is higher in the “with TRHDP” scenario. Solar generation (partly supported\nby the use of battery storage) would be expected to meet 58 percent of the total demand by 2046 under the\n“without TRHDP” scenario which is higher than 40 percent under the “with TRHDP” scenario. However, the\ntotal renewable energy percentage “with TRHDP” in 2046 is 83 percent since TRHDP will generate additional 43\npercent on top of the solar share. As such, the percentage of renewable energy in the system would be 25\npercentage points higher with TRHDP than without. Therefore, in terms of climate change mitigation impact,\ndiesel generation in 2046 remains high at 42 percent under the “without TRHDP” scenario, while diesel only\ngenerates 16 percent under the “with TRHDP” scenario. This analysis show that TRHDP provides an opportunity\nfor the grid to simultaneously increase the share of renewable energy in HES and at least-cost.\n       20 The least-cost dispatch optimized rules for, and implicitly simulated, a lag-one Markov stochastic inflow model,\nbased on the synthetic data generated in the Feasibility Study, and captures variability of hydropower generation.\n                                                                                                         Page 52 of 97",
-"notes": "Original title: Economic Analysis, Page 52"
-}
-{
-"section": "Project Description",
-"content": "The TRHDP is located on the Tina River which is one of the two tributaries of the Ngalimbiu River which discharges to the east of Honiara into the Iron Bottom Sound. The Project’s dam site is located in Malango Ward 20, Central Guadalcanal District approximately 20 km (direct distance) from Honiara. The water from the reservoir is conveyed through a headrace tunnel and a penstock to a powerhouse on the left bank. A short tailrace will discharge the water back into the Tina River, whereas the bypass section length is 5.7 km. An access road of 18.7 km will connect Kukum Highway to the HPF, and a transmission line to Lungga Power Station will evacuate the power from the HPF to the Honiara power system.\n\nTRHDP will consist of four components:\n\na.  Component 1 - Hydropower Facility (HPF) with an installed capacity of 15 MW (with an extra bay to expand capacity to 20 MW when demand increases) to be developed and operated by the PC under a 34-year concession on a build-own-operate-transfer (BOOT) basis. The power off-taker will be the Solomon Islands Electricity Authority (SIEA);\nb.  Component 2 - Access Road of 18.7 km to be developed between Kukum Highway and the HPF site;\nc.  Component 3 - Transmission Line to be developed by SIEA to evacuate electricity from the HPF to HES; and\nd.  Component 4 - Technical Assistance (TA) to the SIG to monitor and support project implementation and ensure social and environmental safeguard risk mitigation including the sound execution of the Environmental and Social Management Plan (ESMP) as well as the",
-"notes": "Content extracted from the Project Description section on page 53"
-}
-{
-"section": "Component 1 HPF",
-"content": "15.   The HPF will be implemented on a BOOT basis by the PC to be established jointly by three shareholders,\nKorea Water Resources Corporation (K-water), Hyundai Engineering Co., Ltd. (HEC), and SIG through its main\npublic investment vehicle, ICSI. The PC will enter into a 34-year PPA (including 4-year construction period) with\nSIEA for the sale of net available generation capacity.\n16.   Component    1  costs include  the  PC’s cost  of construction, development    costs, interest during\nconstruction, and  non-EPC  contingencies.  ADB, Economic Development Cooperation       Fund  (EDCF), IDA,\nInternational Renewable Energy Agency/Abu Dhabi Fund for Development (IRENA/ADFD) and GCF will provide\nconcessional financing to SIG which will on-lend the proceeds to the PC. SIG’s equity share will be financed by\nIDA.\n17.   The salient features of HPF is provided below.\n                                         Table A1-3: Salient Features of HPF\n                      Item                                           Description\n      River Basin                            Ngalimbiu River\n      River                                  Tina River\n      Catchment Area at Dam Site             125 km²\n      Average River Discharge at Dam Site    13.1 m³/s\n      Dam Type                               Roller-compacted concrete (RCC)\n      Dam Height                             72 m from foundation\n      Dam Crest Length                       207 m\n      Dam Volume                             199,000 m³\n      Full Supply Level (FSL)                175 m above sea level\n      Reservoir Length                       2.6 km\n      Reservoir Area at FSL                  30 ha\n      Reservoir Volume – Active Storage      1.42 million m³\n      Reservoir Volume – Dead Storage        3.25 million m³\n      Headrace Tunnel Length                 3.3 km\n      Penstock Length                        116 m\n      Tailrace Length                        16 m\n      Design Discharge                       18 m³/s for 3 units (24 m³/s when 4ᵗʰ unit added)\n      Gross Head                             102 m\n      Installed Capacity                     5 MW x 3 nos. (with extra bay to add 5 MW)\n      Annual Energy                          78.35 GWh per annum\n      Net GHG Emissions Reduction            49,500 tCO₂eq/year or 2.48 million tCO₂eq over the 50-year\n                                             project life (based on Bank’s Guidance Note: Greenhouse Gas\n                                             Accounting for Energy Investment Operations)\n      River Bypass Section Length            5.7 km",
-"notes": "Salient Features of HPF on Page 54"
-}
-{
-"section": "Geology",
-"content": "Geotechnical investigations were undertaken in the Feasibility Study Phase 3 to investigate the geotechnical properties of the dam site and the waterway route, as well as to confirm the water-tightness of the reservoir area and to identify a suitable quarry site. Five boreholes were drilled around the proposed dam site with a total drilling depth of 210 m. In-situ tests and laboratory tests were conducted following the drilling program. Geological mapping was conducted for the areas around the dam site, reservoir area and the headrace tunnel alignment. Feasibility study-level design was prepared based on the above geological conditions identified through geotechnical investigations. The DSAP has recommended additional geotechnical investigation and further analysis to be performed by the EPC contractor during the detailed design.",
-"notes": "Original title: Geology, Page 55"
-},
-{
-"section": "Seismology",
-"content": "The Feasibility Study included a probabilistic seismic hazard assessment which employed an earthquake recurrence model that considers the seismicity and geology of the area in order to estimate seismic activity rates. The model allows for calculations of expected ground motion recurrence at the site, including peak ground acceleration (PGA) and response spectra. The PGA for the Project, for a return period of 475 years (10 percent chance of exceedance in 50 years) and assuming a shear wave velocity (Vs30) value of 1000 m/s, has been calculated as being 0.273g when considering earthquakes of Richter magnitude ML 5 and above. This value was adopted for the operating basis earthquake (OBE) with an annual exceedance probability (AEP) of 1:500 years. The PGA for maximum design earthquake (MDE) is taken between 0.55g (1:5,000 AEP) and 0.65g (1:10,000 AEP). Seismic loading coefficients were determined based on the OBE and MDE for the pseudo-static.",
-"notes": "Original title: Seismology, Page 55"
-}
-[
-{
-"section": "Sedimentation",
-"content": "Sampling of bed load materials and suspended sediments were collected during Feasibility Study Phase 3. Through the sampling and application of sediment load estimation methods, the Feasibility Study projected a sediment inflow of 45,000 m³/year. Given the dead storage below the intake invert elevation at 160 masl of 3.25 million m3, it is estimated that it will take 65 years for the dead storage to fill up to impact operation. Even for a sediment inflow of 100,000 m³/s, it will take 32 years for the dead storage to fill up. Once the dead storage is filled up, mechanical dredging will be required. It may be noted that the scouring outlet will be able to flush out localized sedimentation around the intake.",
-"notes": "Original title: Sedimentation"
-},
-{
-"section": "Hydrology",
-"content": "The Tina River is derived from the joining of three rivers: Mbeambea, Voraha and Njarimbisu. The Tina River catchment area is roughly 150 km². The Tina River joins the Toni River, a much smaller river with a catchment of about 45 km², to form the Ngalimbiu River, which flows through a coastal plain before discharging into Iron Bottom Sound on Guadalcanal's North coast. The catchment area of the Tina River at the dam site is 125 km². Observed discharge data of the Tina River is available from the Tina River gauging station (7 km upstream of the dam site) for 4 years between June 2010 and June 2014. Hydrological analysis in the Feasibility Study Phase 3 Addendum (November 2015) generated a 30-year synthetic daily discharge data series through a run-off model using rainfall data of Chupukarma rainfall station located in the upstream Tina River basin. Since observed rainfall data at Chupukarma station is only available during July 2010 and June 2015 (with data missing during February 2013 - September 2014), long-term observed rainfall data from the Henderson Airport rainfall station located downstream of the Ngalimbiu River available between January 1975 to August 2014 was used to generate the long-term synthetic rainfall data of Chupukarma. The annual average rainfall of Chupukarma station was derived to be 5,184 mm, while the average discharge at the dam site was calculated to be 13.1 m³/s.",
-"notes": "Original title: Hydrology"
-},
-{
-"section": "Climate change vulnerability assessment",
-"content": "The Bank commissioned an independent climate change vulnerability assessment to assess the impact of climate change on the Project, particularly on the hydrology which affects the economics of the Project. The result of the analysis based on multiple ensembles of climate projections concluded that by 2050 the average basin runoff can vary between 80 percent (-20 percent) and 120 percent (+20 percent) of the present runoff due to the combined impacts of a 1.3 0C increase in temperature and potential shifts in precipitation between 85 percent (-15 percent) and 115 percent (+15 percent) of the present regime. However, the analysis shows that only 3 out of 23 combinations of climate change models and emission scenarios project reductions in runoff exceeding 10 percent, and the hydrology of the Project is judged to be moderately sensitive to climate change.",
-"notes": "Original title: Climate change vulnerability assessment"
-},
-{
-"section": "Energy yield",
-"content": "An energy generation simulation was conducted in the Feasibility Study Phase 3 based on the long-term synthetic discharge data. The simulation was updated in Phase 3 Addendum 2 (October 2016) by accurately reflecting design parameters and considering transformer losses. The average annual energy generation was derived to be 78.35 GWh for the 3-unit 15 MW scheme, which represents 68 percent of the annual electricity demand of 120 GWh projected in the Honiara power system in 2022 when the Project is expected to be commissioned. Sensitivity analysis shows that for the 3-unit 15 MW scheme, a 10 percent reduction of river discharge will result in an annual energy generation of 71.43 GWh which represents an 8.8.",
-"notes": "Original title: Energy yield"
-}
-]
-{
-"section": "Cost estimate",
-"content": "The Feasibility Study Phase 3 had estimated the cost of the entire Project (developed for 20 MW but without the cost of the fourth 5 MW unit) including the access road and the transmission line to be US$134.41 million in 2014. During the course of the negotiation with K-water, the access road and transmission line were removed from the EPC package and the initially envisaged micro-hydro facility at the environmental flow outlet has been removed from the design. For this scope, the Feasibility Study Phase 3 cost estimate would be US$124.5 million, while K-water’s price proposal of August 2016 was US$140.00 million (excluding taxes).\n\nIt is important to note that the project cost estimated in the Feasibility Study, at a unit cost of US$8.62 million/MW for the 15 MW scheme, is expensive by international standards. Since the scheme is actually developed to accommodate an additional 5 MW unit for a total installed capacity of 20 MW, the unit cost can be calculated as US$6.58 million/MW including the incremental cost to install the fourth unit. However, this is still expensive compared to an attractive hydropower project in other parts of the world which would be around US$2-3 million/MW.\n\nThe reason for the high development cost can be explained partially by (i) the high cost environment of the Solomon Islands, and (ii) by the high cost of developing a hydropower plant in a challenging natural condition. With regards the former constraint, given the remoteness of the Solomon Islands and the need to import almost every equipment and materials, the unit cost of every item in the bill of quantities is much more expensive than in other parts of the world. A simple calculation using unit costs of a recent project in Indonesia has demonstrated that the Project would be about 30 percent less expensive if it were to use those rates. The second constraint is related to the site in which the Project is being developed including limited availability and high seasonal variation of hydrological resources, unavailability of favorable topography with natural head, complex geological conditions and active seismic activities.\n\nThe final costs of Component 1, subject to finalization and signature of the PPA, are provided below in Table A1-4.",
-"notes": "Original title: Cost estimate, Page 57"
-}
-{
-"section": "Implementation schedule",
-"content": "The PPA, IA, GGA and SHA are expected to be signed by the end of October 2017. Immediately after the signing of these agreements, the PC will procure the EPC contractor. The indicative construction schedule presented by K-water, the main sponsor, is 39 months from mobilization of the EPC contractor. Based on the detailed technical and price proposal from the EPC contractor, the Project is expected to be commissioned at mid-2022.",
-"notes": ""
-},
-{
-"section": "Component 1 Cost Estimate (US$ million)",
-"content": "Cost Category                                   Cost\nA. EPC Cost¹\n1. Design and Documentation                            5.16\n2. General and Site Establishment                      8.11\n3. Diversion                                           5.67\n4. RCC Dam                                            49.64\n5. Intake Civil Works                                 10.59\n6. Headrace Tunnel and Surge Shaft                    35.16\n7. Penstock                                            4.78\n8. Powerhouse                                          6.20\n9. Switchyard                                          0.96\n10. Electro-mechanical Equipment                      13.73\n11. Taxes                                              3.82\nSub-Total (A)                                        143.82\nB. Non-EPC Cost\n1. Development Cost                                   20.72\n2. Commitment fees                                     0.74\n3. Contingency                                        16.40\n4. Interest during Construction                        3.98\nSub-Total (B)                                         41.84\nTotal (A+B)                                             185.66\n1 EPC Cost based on submission in August 2016. EPC Cost is subject to price adjustments based on actual inflation rates since April 1, 2017.\nSource: Bank estimates.",
-"notes": ""
-},
-{
-"section": "Dam safety",
-"content": "The PO will retain the DSAP until 1 year after commissioning of the HPF. The following plans have been prepared by the developer and reviewed by the Bank’s dam expert and the DSAP to ensure dam safety:\n(a)  Construction Supervision and Quality Assurance Plan\n(b)  Instrumentation Plan\n(c)  Operation & Maintenance Plan\n(d) Emergency Preparedness Plan (EPP)",
-"notes": ""
-},
-{
-"section": "Component 2 Access Road",
-"content": "The access road construction will be constructed by the main EPC contractor entirely grant financed. The access road will connect the existing Kukum Highway along the northern coast of Honiara with the HPF, and is divided into two lots:",
-"notes": ""
-}
-{
-"section": "Component 2 Access Road",
-"content": "(a)  Lot 1. Upgrading of 13.2 km of existing gravel Black Post Road from Black Post Junction\nof the Kukum Highway to Managikiki Village.\n(b)  Lot 2. Greenfield development of 5.5 km road from Managikiki Village to the HPF facility\nincluding spurs to the powerhouse, dam, quarry site, etc.\nDesign parameters have been established separately for Lot 1 and Lot 2. In particular, Lot 1, which will\nbe used also by the local communities will be constructed as a 2-lane road of 6.0 m width, while Lot 2, used\nexclusive by construction vehicles during construction period, will be a 1-lane road of 4.0 m width with a\npassing bay at 500 m intervals. The access road will be a gravel road except for steep gradient sections in Lot 2\nwhich will be paved.\nWhile the construction of the access road is included in the EPC contract under Component 1, it is\npresented as a separate component because its cost is ring-fenced and would be fully financed by grants from\nthe Australia-Pacific Islands Partnership Trust Funds (APIP TF) of the GOA and GCF. Such arrangement is\nrequired in order to keep the PPA tariff at a level acceptable to SIEA, and also because a major segment of the\naccess road is a public investment which also brings benefit to the mobility and well-being of the local\ncommunities.",
-"notes": "Original title: Component 2 Access Road, Page 59"
-},
-{
-"section": "Component 3 Transmission Line",
-"content": "The 66kV transmission line will be developed and operated by SIEA. In Figure A1-5, below, SIEA's\npreferred route is U2+S3+R1+Q (approximately 34.0 km) to White River and tee-off to Lungga Power Station\nthrough route T1 (2.7 km). As the transmission line will be significantly longer than the Feasibility Study route\nof approximately 22.5 km, and the line to White River is not essential for the evacuation of power from the\nHPF, the Project will finance only the line to Lungga Power Station (sections U2+S3+T1 = 21.6 km), while SIEA\nwill later self-finance the line to White River (sections R1+Q).",
-"notes": "Original title: Component 3 Transmission Line, Page 59"
-}
-{
-"section": "Component 4 TA",
-"content": "The TA is aimed at supporting the Project Office under the MMERE to implement the Project through financing of (i) the Dam Safety Advisory Panel (DSAP) comprising experts on dam, geology, seismology and hydrology/sedimentology; and (ii) environment and social experts, including for the preparation for a cumulative impact assessment; as well as (iii) an independent social and environmental monitoring agent on the implementation of the environmental monitoring and management plan, and the GAP; and (iv) an NGO to engage with landowning tribes in the upper catchment to support the first stages of establishing a protected area, up to the point of preparing a Protected Area Management Plan and Budget, if community members are interested and committed in doing so. It will also support the day-to-day project management of the MMERE PO.\nThe PO is expected to be also funded by the JSDF (or alternative sources if JSDF does not materialize) to implement the community benefit sharing pilot program which involves the implementation of community development initiatives in the wider Project area and the formulation of a community benefit sharing scheme to be implemented during the 30-year PPA operation period. The planning and implementation of the benefit sharing mechanism and the proposed protected area management shall adopt an inclusive community-based planning approach with due consideration to the gender dimensions of the activities.",
-"notes": "Original title: Component 4 TA, Page 60"
-}
-{
-"section": "ANNEX 2: IMPLEMENTATION ARRANGEMENTS",
-"content": "COUNTRY: Solomon Islands\nTina River Hydropower Development Project\nProject Institutional and Implementation Arrangements\n 1.     Key stakeholders of the Project and their brief responsibilities area as follows:\n         a.  Ministry of Finance and Treasury (MOFT) of the SIG. MOFT represents SIG as the Recipient of\n             concessional financing for the TRHDP. MOFT will pass a portion of the proceeds on to the PC for the\n             implementation of Component 1;      pass on proceeds to     the PC for the implementation of\n             Component 2 – Access Road; pass on a portion of the proceeds to the Solomon Islands Electricity\n             Authority (SIEA) for Component 3 – Transmission Line; pass on proceeds to MMERE for Component\n             4 – TA. On behalf of SIG, MOFT will enter into the Government Guarantee Agreement with the PC,\n             and jointly with MMERE enter into the Implementation Agreement with the PC.\n         b.  Investment Corporation of Solomon Islands (ICSI). ICSI will hold equity shares in the PC on behalf\n             of SIG. Under the ICSI Act, the Minister of Finance and Treasury is the responsible minister for ICSI.\n         c.  Ministry of Mines, Energy and Rural Electrification (MMERE) of SIG. MMERE oversees the mining\n             and energy sector including rural electrification. It supervises SIEA and supports the Project through\n             the Tina River Hydropower Development Project Office. MMERE and MOFT will jointly enter into\n             the Implementation Agreement with the PC.\n         d.  Tina River Hydropower Project Office (PO). The PO is a dedicated office within MMERE to prepare\n             and now support the implementation of TRHDP. The PO will represent SIG in managing the\n             implementation of Components 1 and 2, while it will implement Component 4.\n         e.  Solomon Islands Electricity Authority (SIEA). SIEA, trading as “Solomon Power” is the state-owned\n             vertically-integrated power utility. As the Off-taker, it will purchase electricity from the PC through\n             a Power Purchase Agreement (PPA). It will also enter into a subsidiary financing agreement with\n             MOFT to receive a portion of the International Development Association (IDA) financing proceeds\n             for the implementation of Component 3. SIEA will also enter into a project agreement with IDA.\n         f.  Project Company (PC). The PC will develop Component 1 – HPF on a build-own-operate-transfer\n             (BOOT) basis under a 34-year PPA including a 4-year construction period. The PC will be established\n             by the private sponsors (K-water and HEC) and ICSI under a Shareholders Agreement. The PC will\n             contract an engineering-procurement-construction (EPC) contractor to construct the HPF. The PC\n             will contract an operation and maintenance (O&M) contractor for the operation of the HPF during\n             the 30-year operation period. Upon completion of the PPA, the private sponsors’ shares and full\n             ownership of the HPF asset will be transferred to SIG.\n         g.  Korea Water Resources Corporation (K-water).       K-water is the selected private sponsor (in",
-"notes": "Original title: ANNEX 2: IMPLEMENTATION ARRANGEMENTS, Page 61"
-}
-{
-"section": "Project Financing",
-"content": "i.  World Bank. The Bank has been supporting SIG to prepare the Project and will provide US$33.6 million Credit and Grant from its IDA17 resources to SIG towards (i) SIG’s equity share in, and debt financing for, the PC under Component 1, (ii) the construction of Component 3 Transmission Line, and (iii) activities under Component 4 TA. The Bank will enter into a financing agreement with MOFT and project agreements, respectively, with the PC and SIEA. The Bank will also administer financing from the GoA and the GCF.\n\nj.  Government of Australia (GoA). GoA, through a trust fund administered by the Bank governed by the Trust Fund Agreement between the Bank and GoA, will provide grant funds to SIG for the construction of Component 2 Access Road and Component 4 TA. Financing was approved in April 2017 and it is expected that an initial tranche of financing will be transferred to the APIP Trust Fund for this purpose by June 30, 2017.\n\nk.  Green   Climate  Fund  (GCF).  GCF,  through  arrangements   governed  by  the  Funded   Activity\nAgreement (FAA) between the Bank and GCF, will provide SIG a loan towards the debt financing of the PC and a grant for the construction of Component 2 Access Road. GCF financing was approved in April 2017.\n\nl.  Asian Development Bank (ADB). ADB will provide from its Asian Development Fund (ADF)\nresources a grant and a loan to SIG towards the debt financing of the PC. The proposal for ADB\nfinancing is planned for ADB board consideration in August 2017.\n\nm.  Economic Development Cooperation Fund (EDCF) of the Government of Korea. EDCF will provide\nto SIG a loan towards the debt financing of the PC. EDCF financing is expected to be approved in\nJuly 2017.\n\nn.  International Renewable Energy Agency and Abu Dhabi Fund for Development project facility\n(IRENA/ADFD). IRENA/ADFD will provide to SIG a loan towards the debt financing of the PC.\nIRENA/ADFD financing was confirmed in January 2017.\n\no.  Multilateral Investment Guarantee Agency (MIGA). MIGA is discussing with both K-Water and\nHyundai Engineering to provide “four-point” political risk insurance on their equity, to cover against\nthe risks of transfer restriction, expropriation, war and civil disturbance and breach of contract.",
-"notes": "Content related to project financing and funding sources."
-}
-{
-"section": "Contractual Relationships for Components 1 and 2",
-"content": "FFA\nTF Agreement (GCF) EDCF ADB IRENA/\nGOA GCF\nIDA ADFD\nPA (IDA) FA (EDCF)\n(GCF)* (ADB) (IRENA/\n(TF) FA (IDA) (IRENA/ADFD)\nADFD) (EDCF)\nPA (ADB)\nFA\nFA\nFA\nFA\nSide Letter*\nSIG A\n(MOFT) P\nA\nP\nArrangement\nbetween SIG\nand ICSI (MMERE (EDCF) (IRENA/\n(GCF)\n(ADB)\nPO) GGA (IDA) Debt\nFA FA FA FA FA\nS S S S S\nICSI Equity\ns (subscription\nShareholder\nAgreement\nKW and HEC Equity\n(subscription agreement) Project Company\nOwner’s\nContract Engineer\npoint cover** Intra-group\nO&M Agreement EPC Contract\nFour\nPPA EPC Contractor\nMIGA\nO&M Contract\nSIEA\nCost shared between Project Company and SIEA - Component 1 Hydropower\nFacility financed by ADB, EDCF,\nGCF, IDA and IRENA/ADFD\nComponent 2 Access Road\nfinanced by GCF and GoA\n* Side Letter to backstop certain obligations of SP under the PPA which it may not have control over.\n** Four-point cover includes insurance against transferability, political violence, expropriation and breach of\ncontract\nADB = Asian Development Bank; EDCF = Economic Development Cooperation Fund (South Korea); EPC =\nengineering-procurement-construction; FA = financing agreement; FFA = funded activity agreement for GCF; GCF =\nGreen Climate Fund; GGA = government guarantee agreement; HEC = Hyundai Engineering Co., Ltd.; IA =\nimplementation agreement; ICSI = Investment Corporation of Solomon Islands; IDA = International Development\nAssociation (World Bank Group); IRENA/ADFD = International Renewable Energy Agency; KW = Korea Water\nResources Corporation; MIGA = Multilateral Investment Guarantee Agency; MMERE = Ministry of Mines, Energy\nand Rural Electrification; MOFT = Ministry of Finance and Treasury; O&M = operation and maintenance; PA =",
-"notes": "Original title: Figure A2-1: Contractual Relationships for Components 1 and 2, Page 63"
-}
-{
-"section": "Contractual Relationships for Components 3 and 4",
-"content": "GOA       TF Agreement*         IDA\n                                                       (TF)  (IDA)**\n                                                                                                         PA (IDA)\n                                                       FA\n                                                             FA\n                                                 SIG\n                                               (MOFT)\n                           (MMERE PO)                               (IDA)    (IRENA/ADFD)\n                                                                   SFA    SFA\n                                     Contracts                              SIEA\n                                    Consultants**                            Supply & Installation\n                                                                             Contract\n                                                                      Contractor\n                                 Component 4 Technical\n                                 Assistance financed by\n                                 GoA, IDA and SIG               Component 3 Transmission Line\n                                                                financed by IDA and SIEA\n        * One FA including financing for Component 1.\n        ** Consultants include: Experts of the Dam Safety Advisory Panel (DSAP); Independent Monitoring Agents to\n        monitor implementation of Environmental and Social Management Plan (ESMP) and Land Acquisition and\n        Livelihood Restoration  Plan (LALRP);  Technical experts, including environmental and    social specialists and\n        community liaison officer, of the PO; etc.\n        FA = financing agreement; FFA = funded activity agreement for GCF; GCF = Green Climate Fund; GoA = Government\n        of Australia; IDA = International Development Association (World Bank Group); MMERE = Ministry of Mines,\n        Energy and Rural Electrification; MOFT = Ministry of Finance and Treasury; PA = project agreement; PO = Tina River\n        Hydropower Project Office; SFA = subsidiary financing agreement; SIG = Solomon Islands Government; TF = Trust\n        Fund.",
-"notes": "Content related to contractual relationships and project components; Page 64"
-}
-{
-"section": "Status of Main Project Documents for Components 1 and 2",
-"content": "Document                              Status as of IDA Board Submission\nPower Purchase Agreement                         Schedules under negotiation. Target signature by\n                                                         October 31, 2017.\nImplementation Agreement                         To  be  updated.  Government   decision  on  tax\n                                                         benefits pending. Target signature by October 31,\n                                                         2017.\nGovernment Guarantee Agreement                   Substantially negotiated and agreed. Termination\n                                                         payment methodology to be imported from PPA\n                                                         once agreed. Target signature by October 31,\n                                                         2017\nShareholders Agreement                           Negotiations  in progress. Target  signature by\n                                                         August, 2017, and sponsors’ equity disbursement\n                                                         in September 2017.\nEPC Contract                                     Advanced   discussions on  Price  and  Technical\n                                                         Proposal   to  be  formally  confirmed.  Target\n                                                         signature by October 31, 2017.\nLand Lease                                       Draft still under discussion. Target signature by\n                                                         October 31, 2017 as a schedule to the PPA.\nO&M Contract                                     Draft to be prepared so that the contract can be\n                                                         signed in a timely manner before the testing and\n                                                         commissioning of the plant.",
-"notes": "Original title: Table A2-1: Status of Main Project Documents for Components 1 and 2, Page 65"
-}
-{
-"section": "Financial Management",
-"content": "5. The financial management (FM) arrangements are expected to satisfy the FM requirements as stipulated in OP/BP 10 subject to implementation of the recommended FM mitigating measures and satisfactory FM assessment of the PC once it is established. The assessed FM risk of the project is considered substantial and could be reduced when the proposed mitigating measures are implemented and are shown to be",
-"notes": "Original title: Financial Management, Page 66"
-}
-{
-"section": "Budgeting and Counterpart Funding",
-"content": "The budget cycle of the project would run from January 1 to December 31. A project budget covering the life of the project and an Annual Work Plan and Budget would be prepared by MMERE and SIEA, for their respective activities, submitted to the Bank for review and no-objection at the beginning of the project and by November 30 of each year. The Government would contribute in the form of cash and in-kind such as office space, staff time spent on the project, office supplies, and utilities. While the MMERE has experience in the preparation of the yearly ministry budget it has limited experience in project budgeting and this responsibility will fall to the Project Manager and Project Accountant. Neither of these positions have been filled and until the appointments are finalized after the signing of the project Financing Agreement the FM risk for budgeting will be Substantial.",
-"notes": "Original title: Budgeting and Counterpart Funding, Page 67"
-}
-{
-"section": "Internal Controls",
-"content": "For those funds managed through MMERE the project procedures will be consistent with MMERE controls which are dictated by the Solomon Island Financial Instructions and General Orders and the overarching Public Financial Management Act 2013. MMERE has no Internal Audit Division. Documentation will be prepared by the project but generally authorized by MMERE staff. On the appointment of the Project Accountant and Project Manager a meeting with the appropriate MMERE staff will be held to outline and document the specific authorizing officers and processes. This will include documenting; cheque signatories, who can authorize purchase orders, payment vouchers etc; what are the arrangements when authorizing personnel are unavailable; and ensuring evidence of adequate technical review of the major civil works deliverables prior to payment. Authorized signatories for Withdrawal Applications will be staff designated to that effect by the Minister of Finance and Treasury although the preparation of Withdrawal Applications will be done by project staff. The World Bank staff will provide a training session to the Project Manager and Project Accountant covering the specific World Bank requirements outlined in the Legal Agreements and Disbursement Letter. For Components 1 and 2 the internal control framework of the PC will focus on ensuring that the project equity funding is used for the purposes intended. It is expected that the PC, when established, will have a framework for their processes and procedures and these will be reviewed as part of the subsequent FM assessment of the PC. In addition, an adequate governance structure needs to be in place to ensure that the equity funding is not diluted or misused. For component 3 the payment process will be subject to the same controls as for component 4, and procuring of the contracts, contract management and subsequent payments will be managed by the SIEA and reported in the consolidated IFRs and project audit. SIEA has previous experience working on World Bank projects and have a staff procedures manual outlining their internal controls. There has been strong compliance to the procedures manual.",
-"notes": "Original title: 9. Internal Controls. Page 68"
-}
-{
-"section": "Project Funds Flow",
-"content": "Figure A2-4: Project Funds Flow\n\nADB\nGoA            GCF                EDCF               IRENA             MIGA\n/ADFD\nK-water/HEC\nIDA                                                          (equity shares)\nProject Company                  Insurer\n(Pooled Designated\nAccount)\nICSI\nMMERE                  SIEA                                           (equity shares)\n(Pooled                (Pooled\nDesignated             Designated                                             MOFT\nAccount)               Account)\nTraining,         Transmission                               EPC Contractor,\nConsultants,           Line           Independent             O&M Contractor,\nOperating          Contractor         Engineer              Owner’s Engineer,\netc.\nContribution to Trust Fund\nFund transfer to DA\nDirect Payment\nPayment for eligible expenditures\nNote: Payment to EPC Contractor,                              Invoice / Withdrawal Application\nO&M Contractor, Owner‘s Engineer,                             Equity\netc. contracted by the Project                                Dividend\nCompany can also be Direct Payment                            Insurance premium\nADB = Asian Development Bank; DA = designated account; EDCF = Economic Development Cooperation Fund\n(South Korea); EPC = engineering-procurement-construction; GCF = Green Climate Fund; GoA = Government of\nAustralia; ICSI = Investment Corporation of Solomon Islands; IDA = International Development Association (World\nBank Group); K-water = Korea Water Resources Corporation; MIGA = Multilateral Investment Guarantee Agency;\nMMERE = Ministry of Mines, Energy and Rural Electrification; MOFT = Ministry of Finance and Treasury; O&M =\noperation and maintenance; SIEA = Solomon Islands Electricity Authority.",
-"notes": "Page 69 of 97"
-}
-[
-{
-"section": "Fund flow from other donors",
-"content": "ADB, EDCF and IRENA/ADFD funds would flow directly from the ADB, EDCF and IRENA/ADFD accounts to the SIG/PC with payments based on verified achievement of milestones. GCF funds would be channeled through the Bank²¹, with the Bank disbursing to the PC on GCF’s behalf as well as making payments directly to construction and supervision firms. DFAT funds would be managed by the Bank in a trust account and either channeled directly to the construction and supervision firms through direct payments or to a Designated Account set up by MMERE for project payments. The sequencing of financing from IDA and other financiers, and across grant and loan/credit financing sources, will be finalized as a part of the process of securing financing from all co-financing sources. There will likely be pro-rata disbursements by sources contributing to each component and a preference for disbursing grants ahead of loans and disbursing the most expensive loans last to reduce financing costs. In the case where IDA co-finances with other financiers under a component (or components) of the Project, IDA may finance expenditures under such component(s) up to 100%, inclusive of taxes, if other financier’s funds is not yet available. Pro-rata disbursement arrangements may be employed once other financier’s funds become available. Co-financiers are not expected to place any restrictions on sequencing, so SIG will draw on available sources in the most cost effective and practical manner.",
-"notes": "Original title: Fund flow from other donors, Page 70"
-},
-{
-"section": "Interim Financial Reporting",
-"content": "The project reporting will include income (based on disbursement) expenditure by component and activity/sub on a quarterly, year to date and cumulative basis, commitment reporting and expenditure and commitment to budget reporting. IFRs will be required to be submitted not later than 45 days after the end of each reporting period. Reporting by category will also be required if there is more than one disbursement category. A commitments register will be maintained for all contracts to ensure payments are made in accordance and to assist in monitoring available project funds. The Project Accountant, based in the Project Office, will be responsible for consolidation of the various sources of funding and activities into one IFR report.",
-"notes": "Original title: Interim Financial Reporting, Page 70"
-},
-{
-"section": "Arrangements for External Audit",
-"content": "Annual audited project financial statements for each fiscal year of the project will be required by the Bank. The Audited Financial Statements and management letters will be required to be received by the World Bank within 6 months of the end of the fiscal year for which the reports have been audited. The MMERE, through the Project Accountant, will work with the auditors as their focal point to ensure that all documentation and audit queries are addressed. The Project Accountant will also be responsible for the preparation of the project Financial Statements. If possible the project financial statements will be audited under the supervision of the Solomon Islands Office of the Auditor General (AG), which is an independent auditor acceptable to the Bank however this will be subject to their availability. If the AG is unable to audit project funds a private auditing firm acceptable to the Bank may need to be engaged. The project financial statements shall include all receipts and payments of the project except for those funds flowing directly to the PC, which should be disclosed as a note to the accounts of the financial statements acknowledging the funds disbursed to PC.",
-"notes": "Original title: Arrangements for External Audit, Page 70"
-},
-{
-"section": "PC Financial Statements",
-"content": "Those funds flowing directly to the PC should be included in the PC accounts and project funds should be clearly identified in the reports. The PC will be required to provide a copy of their annual financial statements to the Bank within 6 months of the end of the reporting period.",
-"notes": "Original title: Not explicitly stated, inferred from content, Page 70"
-},
-{
-"section": "Disclosure of Audited Financial Statements",
-"content": "The audited financial statements should be disclosed by MMERE, SIEA and the PC on their accounts.",
-"notes": "Original title: Not explicitly stated, inferred from content, Page 70"
-}
-]
-{
-"section": "FM Supervision Plan",
-"content": "More intense FM supervision may be required in the initial part of the project, however once the FM arrangements are in place FM Implementation Reviews will be conducted twice a year. The FM Specialist will also conduct desk reviews of the Interim Financial Reports (IFRs) the annual audit reports and management letters from the external auditors and follow-up on material accountability issues and provide ongoing FM advice and support throughout the life of the project.",
-"notes": "Original title: FM Supervision Plan, Page 71"
-},
-{
-"section": "Disbursements",
-"content": "All the Bank disbursement methods will be available to be used in the Project: (a) advances into and replenishment of Designated Accounts, (b) direct payment, (c) reimbursement, and (d) special commitment. It is expected that direct payments will only be used for payment on large contracts requiring payment in foreign currency, i.e. major works programs and international technical advisors. Three pooled designated accounts in SBD will be established under the project at a financial institution or commercial bank acceptable to the Bank, and managed by the PC, MMERE and SIEA respectively. These pooled DAs will receive funds from the Bank, as well as from other financiers or counterpart funds. For the MMERE Designated Account, funds will be disbursed to the Central Bank of the Solomon Islands where the designated account is held and then transferred into a commercial operating account in SBD. The DAs will be operated on an advance basis and the initial advance will be made through the completion of a Withdrawal Application. Subsequent replenishments will be made through submission of withdrawal applications providing details on the use of funds previously advanced, based on Statements of Expenditures and bank reconciliation of the DAs. The IDA Financing proceeds would be disbursed against eligible expenditures, inclusive of taxes, as shown in Table A2-2.",
-"notes": "Original title: Disbursements, Page 71"
-},
-{
-"section": "Table A2-2: Allocation of IDA Credit and Grant Proceeds",
-"content": "(1) ICSI Equity contribution in the Project Company for Component 1 of the Project: Amount of Grant Allocated in SDR: 0.000, Amount of Grant Financing (in US$ Equivalent): 0.000, Amount of Credit Allocated in SDR: 5.960, Amount of Credit Financing (in US$ Equivalent): 8.170, Percentage of Expenditures to be Financed: 100%\n(2) Goods, works, non-consulting services, and consulting services for Component 1 of the Project: Amount of Grant Allocated in SDR: 5.360, Amount of Grant Financing (in US$ Equivalent): 7.355, Amount of Credit Allocated in SDR: 9.580, Amount of Credit Financing (in US$ Equivalent): 13.134, Percentage of Expenditures to be Financed: 100%\n(3) Goods, works, non-consulting services, and consulting services for Component 3 of the Project: Amount of Grant Allocated in SDR: 0.000, Amount of Grant Financing (in US$ Equivalent): 0.000, Amount of Credit Allocated in SDR: 1.510, Amount of Credit Financing (in US$ Equivalent): 2.071, Percentage of Expenditures to be Financed: 100%\n(4) Goods, works, non-consulting services, and consulting services for Component 4 of the Project, including Training and Incremental Operating Costs: Amount of Grant Allocated in SDR: 2.120, Amount of Grant Financing (in US$ Equivalent): 2.900, Amount of Credit Allocated in SDR: 0.000, Amount of Credit Financing (in US$ Equivalent): 0.000, Percentage of Expenditures to be Financed: 100%",
-"notes": "Original title: Table A2-2: Allocation of IDA Credit and Grant Proceeds, Page 71"
-}
-{
-"section": "Procurement",
-"content": "21.       The project will follow procurement procedures under World Bank Procurement Regulations for IPF Borrowers (July 2016) and the provisions stipulated in the Financing Agreement to be entered into by the Bank and SIG.\n22.       Procurement plan will list each contract to be financed under the project, the different procurement methods and approaches, estimated costs, review requirements, and timeframe.\n           Civil Works are anticipated under Components 2 Access Road and will be included in the EPC contract for HPF, and under Component 3 Transmission line to be procured by SIEA.\n           Goods are anticipated under Component 4 TA to be procured by MMERE.\n           Consulting Services are anticipated under Component 4 TA to be procured by MMERE.\n           Selection of Private Partner for Component 1 HPF and Component 2 Access Road. SIG has selected the consortium of K-water and HEC as its private partner (main sponsor) and a shareholder of the PC (to be established) to develop and operate the HPF on a BOOT basis.",
-"notes": "Original title: Procurement, Page 72"
-}
-{
-"section": "Procurement Risk Assessment",
-"content": "The procurement risk is assessed as Substantial. Key procurement risks emanate from: (a) lack of procurement and contract management capacity, and (b) limited number of local suppliers/contractors.\nCapacity and Risk Assessment: SIEA and MMERE have the experience from similar implementation arrangements under Government and donor programs. The following risks and mitigation measures have been identified and discussed with the Government counterparts.\n\nTable A2-3: Procurement Risks and Mitigation Measures\nRisk Description                 Description of Mitigation                       Risk Owner\nProject coordination risk is     Recruit an experienced international Project    Project Company,\nhigh with the PO acting as the   Manager and a national Deputy Project           SIEA, PO, Bank and\nmanager of four separate, but    Manager for the PO to coordinate the            co-financiers\nlinked components                execution of the Project components.\nWeak Procurement and             Recruit an experienced international Project    MMERE PO/World\nContract Management              Manager and a national Deputy Project           Bank/GoA\nCapacity of PO                   Manager for the PO to oversee procurement\n                                 contract management.\nSIEA will avail services of\ninternational consulting firms   Recruit an experienced international\nwhich it retains for the         Technical Advisor with procurement\n                                 experience for the PO.\ndetailed design and              Procurement/Contract Management Clinics\nsupervision of Component 3\nTransmission Line                organized by the World Bank and regular\n                                 implementation support, as needed\nTimeliness of procurement        Active management of                            SIEA, PO, Bank and\ndecisions (Component 3 and       procurement/contracting process, specifically   cofinanciers\n4)                               at key decision points, and using the STEP\n                                 system to monitor progress\nFew contractors/suppliers        Importance of Pre-bid Meetings/Site Visits      Shared between PO,\nhave experience in Solomon                                                       SIEA and the\nIslands (Component 3)                                                            suppliers (market)\nProcurement Plan.    A combined Procurement Plan has been prepared and agreed with the\nBank. Procurement plan will be published through the Systematic Tracking of Exchanges in Procurement\n(STEP). Implementing agencies will update the procurement plan in agreement with the Bank annually or as\nrequired to reflect project implementation needs and improvements in institutional capacity and\nprocurement risk. A summary of the procurement plan is as follows:",
-"notes": "Original title: Procurement Risks and Mitigation Measures, Page 73"
-}
-{
-"section": "Procurement Plan",
-"content": "Table A2-4: Procurement Plan (Accepted by the Bank on May 10, 2017)\n\n1               2               3            4             5             6             7\nReference   Description of       Estimated  Selection/     Review by     Expected\nNo.         Contract             Cost US$   Procurement    Bank          Contracting  Comments\n                                      ’000       Method         (Prior/Post)  Date\n1           BOOT Contracts for              PPP            Prior         October\n            HPF and Access       210,660                                 2017\n            Roads\n            Transmission Line    22.820     RFB            Prior\n2           (Tina River HPP –                                            July 2020\n            Lungga PS)\n            Project Manager of   262        INDV           Prior                      Cost\n3           PO (International)                                           August 2017  estimated\n                                                                                           until end-\n                                                                                           2018.\n            Project/Procuremen   75         INDV           Post\n4           t Administrator of                                           August 2017  as above\n            PO (National)\n            Safeguards and       164        INDV           Post\n5           Stakeholder                                                  August 2017  as above\n            Manager of PO\n            (International)\n6           Project Accountant   45         INDV           Post          August 2017  as above\n7           Receptionist /Admin  10         INDV           Post          August 2017  as above\n8           Environmental        36         INDV           Post          August 2017  as above\n            Monitoring Officer\n            Livelihood           24         INDV           Post\n9           Restoration Officer                                          August 2017  as above\n            (Only Yr 1 for road)\n10          Community Liaison    30         INDV           Post          August 2017  as above\n            Officer (male)\n11          Community Liaison    30         INDV           Post          August 2017  as above\n            Officer (female)\n12          Communications       30         INDV           Post          August 2017  as above\n            Officer\n            DSAP Member -        76         INDV           Post          August 2017\n13          Geotechnical                                                              as above\n            (International)\n14          DSAP Member -        76         INDV           Post          August 2017  as above",
-"notes": "Procurement Plan (Table A2-4) on page 74"
-}
-{
-"section": "Procurement Support Plan",
-"content": "Procurement supervision will be part of the overall supervision effort for this Project. In addition to the prior review supervision, the World Bank procurement team will carry out post review when necessary.",
-"notes": "Original title: Procurement Support Plan"
-},
-{
-"section": "Environmental and Social (including safeguards)",
-"content": "Environmental Safeguards. The project is classified Environmental Category A as it has the potential to have significant adverse impacts that are sensitive and diverse. Environmental impacts would occur during the construction, operations and maintenance phases of the project and would occur in locations including the reservoir and possibly the river and its basin further upstream, the dam site, tunnel corridor and power plant location, a section of the Tina River between the dam and powerhouse that will experience significantly reduced flows, the downstream waters, and the corridors of the transmission line and access roads.\nAn Environmental and Social Panel comprising two senior environmental and social specialists experienced in hydro dam development and operation has been providing oversight to project preparation since July 2013. The Panel provided ongoing advice, in particular on the preparation of safeguards documentation, including the design and costing of mitigation measures and review of monitoring reports.",
-"notes": "Original title: Environmental and Social (including safeguards)"
-}
-{
-"section": "Environmental and Social Safeguards",
-"content": "Terms of Reference for consultants advising the government on environment and social safeguard risks will continue to be approved by the Bank to ensure the requirements of the World Bank Performance Standards (PS) and safeguards policies are effectively integrated into the TA work under Component 4.\nPerformance Standards for Private Sector Activities, OP/BP 4.03. Component 1 of the project will satisfy all of the “Scope of Application” requirements in Clauses 3 – 6 of OP 4.03. Limitations identified in Clause 7 of OP 4.03 would not apply. Accordingly, the World Bank PS will apply to Component 1 irrespective of whether IFC is involved in financing the private entity as use of OP4.03 is linked to the private entity, not IFC. For Component 1, the developer will be responsible for addressing seven of the eight World Bank Performance Standards, beginning with PS 1: Assessment and Management of Environmental and Social Risks and Impacts. The Bank’s PS 5: Involuntary Resettlement does not apply to Component 1 as land acquisition activities are being undertaken by the Government, and not the developer.\nThe Government has completed and disclosed a Draft ESIA as part of the Feasibility Study and tendering process to attract a private developer. K-water, as the main project sponsor, will submit its own full ESIA and updated Environmental and Social Management Plan (ESMP) to SIG in order to receive Development Consent from the Director of Environment in the Ministry of Environment, Climate Change, Disaster Management and Meteorology (MECDM). Subsequent Contractors Environmental and Social Management Plans (CESMPs) will be prepared and approved during project delivery. The Bank has reviewed the ESIA and K-water’s ESMS and prepared a draft Environmental and Social Review Summary (ESRS) as required by the World Bank Performance Standards (PS).\nEnvironmental Assessment OP/BP 4.01. For Component 3, OP 4.01 is triggered as the transmission line construction by SIEA is likely to result in environmental and social impacts. The potential impacts and their mitigation are covered in the ESIA for Components 1 and 2, since the access road and transmission line are associated projects of the dam and power plant construction.\nNatural Habitats (OP/BP 4.04). The policy is triggered for Components 2 and 3. Natural habitat is addressed under PS6 for Component 1. In preparation of the ESIA, fauna, flora and fish surveys have been carried out and project affected communities have been extensively consulted through social surveys and mitigation workshops. The main impact during operations would be on aquatic ecology, related to the presence of the dam, an impassable obstacle to all fish due to its height. The ESMP proposes mitigation measures including environmental flow (riparian flow), a “trap and haul” system to allow migratory fish to pass the dam, protective devices for fish mortality in turbines, and fish monitoring, to allow major impacts to be mitigated to moderate significance.\nThe undisturbed montane forests in the upper catchment (located well above the furthest extent of the reservoir) meet the definition of natural habitat. The project is not expected to have direct impacts on those forests. The project’s access road approaches the site from the downstream side of the dam and is located well away (4-10km) from the montane forest areas. The project does not anticipate an increase in the accessibility of the forest. None of the upper catchment is presently in a protected status although it possesses the potential to become a protected area. However, several vulnerable species were observed during inventories of the area. An NGO will also be engaged to work with landowning tribes in the upper catchment to support the first stages of establishing a protected area, up to the point of preparing a.",
-"notes": "Original title: Environmental and Social Safeguards, Page 76"
-}
-{
-"section": "Social Safeguards",
-"content": "Throughout project preparation, the Government has been engaged in extensive consultations with affected indigenous communities, guided by the use of a Stakeholder Engagement Plan. Over 200 separate community consultations and meetings with a range of stakeholder groups on a range of topics have been carried out during project preparation and these have been carefully documented by the Project Office through reports, surveys, photos and videos. Summaries of consultations are appended to the ESIA.",
-"notes": "Original title: Social Safeguards, Page 77"
-}
-{
-"section": "Indigenous Peoples",
-"content": "The World Bank\nTina River Hydropower Development Project (P161319)\n northern part of the access road without the formal approval of the local indigenous customary tribes. For\nthe purposes of the social impact assessment and social safeguards compliance, the vast majority of groups\nresident in the project area can be considered indigenous Solomon Islanders.\n42.       For Component 1, the developer will be responsible for addressing PS 7: Indigenous Peoples.\nUnder Component 3, SIEA will have the corresponding responsibility under OP 4.10. OP 4.10 also applies to\nComponent 1, specifically to the land acquisition and resulting impacts on livelihoods. A separate\nIndigenous Peoples Plan is not being prepared in keeping with the provision of OP 4.10 that IPP\nrequirements can be integrated into the overall project design when the overwhelming majority of direct\nproject beneficiaries are indigenous people. However, a Community Development Plan (CDP) has been\nprepared to clearly specify the social and economic benefits to be received by the communities in the\nproject area, all of which are indigenous. The CDP specifies the benefits which will be provided to the five\ncore landowning tribes as per the provisions of the signed Process Agreement, in particular, a 1.5% royalty\non part of annual PPA payments. Land lease will be used for the benefits of the cooperative societies of the\nfive core landowning tribes. The benefits to be provided to the Bahomea and Malango cultural community\nare also described in the CDP, and separated into a mechanism and financing for benefit sharing during\nconstruction and during the 30-year PPA period of HPF operations.\n43.       Involuntary Resettlement OP/BP 4.12. The project will not cause any physical displacement\nrequiring relocation. Based on the technical design in the final feasibility study, the minimum area required\nfor the hydroelectric plant and auxiliary facilities, some sections of the transmission lines, and during\nconstruction, for Lot 2 and sections of Lot 1 of the access roads, quarries, and disposal sites has been\nidentified and referred to as the “core land area.” The core land area covers 428 ha. This land is\nuninhabited, and it is utilized by customary landowners primarily for hunting, non-timber forest products\nand, potentially, the sale of timber. The tribal registries for the five tribes identified as landowners identify\n781 individual people as affected by the land process agreement of the core land.\n44.       Using   traditional methods   of inquiry  and  storytelling the Bahomea    Land  Identification\nCommittee (BLIC) completed a process of documenting the Land Ownership of core land blocks and tested\nthe outcomes with the tribal leaders of the Bahomea House of Chiefs. SIG subsequently shared the results\nwith the wider group comprising 27 tribes, including those in the Malango House of Chiefs, even though\nthe core land required for the project does not include Malango territory. This resulted in endorsement of\nthe outcomes recorded. The BLIC was self-initiated and conducted by its members, independently of SIG.\nThis process has facilitated land identification by indigenous groups in the core land area. Through the\nsigning of the Process Agreement with the four identified tribes (Kochiabolo, Roha, Buhu Garo and\nVuralingi) in August 2014, and subsequent addition of a fifth signatory tribe (Uluna-Sutahuri) through the\nstatutory process of land acquisition, they confirmed their agreement for the Government to acquire the\nland for the purposes of the project under a comprehensive agreement as to its use and benefits provided\nto the landowning tribes.\n45.       Subsequent to signing the Process Agreement, the government has completed the statutory\nprocedures under Division 2 of the Land and Titles Act, including the appeals period. The Commissioner\nmade offers to all five land-owning tribes. None of the tribes appealed to the offer. According to the Land\nand Titles Act, the absence of appeals confirms the offer to be final (i.e. it is not contested). SIG has placed",
-"notes": "Content related to Indigenous Peoples and Involuntary Resettlement, page 78"
-}
-{
-"section": "Land Acquisition and Involuntary Resettlement",
-"content": "the required amount of funds for compensation in an escrow account and is transferring the funds to each tribe as soon they proceed to establish cooperative societies.\n46.        For Component 1,    PS 5: Land Acquisition and Involuntary     Resettlement   is not triggered because the developer will not have any responsibilities that fall beyond government’s responsibility via its acquisition of land. OP 4.12 will be triggered for Component 1 as the land process agreement is mainly the responsibility of the SIG. OP 4.12 is also triggered for Components 2 and 3 as the final road alignment and transmission line route have not been fixed and could entail the acquisition of additional land. Terms of Reference for consultants advising on topics related to OP 4.12 will be approved by the Bank to ensure the requirements of the World Bank are effectively integrated into the TA work under Component 4. The Land Acquisition and Livelihood Restoration Plan (LALRP) was disclosed on the Bank’s external website on August 15, 2016.\n47.        Since the Performance Standards apply to Component 1, the developer will be responsible for addressing dam safety under PS 4: Community Health, Safety and Security. OP 4.37: Safety of Dams will also be triggered to include SIG’s responsibility with respect to dam safety.    Terms of Reference for consultants advising on topics related to this PS will be approved by the Bank to ensure the requirements of the Performance Standards are effectively integrated into the TA work under Component 4. As part of project preparation, in July 2013, the Project Office contracted three international experts, whose selection process has been approved by the Bank, as members of the Dam Safety Advisory Panel, basing the Panel’s terms of reference on World Bank OP/BP 4.37. The members of the Panel will continue to provide ongoing advice on technical aspects of the project during implementation.\n48.        The project will have the potential to create a number of negative social impacts beyond those addressed by specific operational policies. These include direct physical impacts on nearby communities (e.g., intrusive noise, vibration, explosion shockwaves, dust, air and ground discharges, and visual intrusion) some of which could have potential health consequences and negative impacts on way of life and local amenities; loss of access to abundant clean fresh water; damage to and/or loss of access to livelihoods assets, including fishing areas, food garden areas, hunting areas, plant and related materials, planted and wild fruit and nut trees, and timber woodlots and plantations, with potential negative impacts on household and community wellbeing.\n49.        The ESIA and ESMP assess and set management criteria, including a requirement for the EPC contractor to prepare and implement an Influx Management Plan, associated with construction workers, with a particular aim of protecting the health and well-being of women and children. The project developer and construction contractors will also be expected, in advance of any construction work commencing on the project, to prepare and promulgate a code of conduct for its workers (and related visitors), including locals, other Solomon Islanders, and immigrants/expats. Importantly, the site is located close to Honiara (approximately 30 minutes from the airport and an hour from the center of the city). Furthermore, given the level of skills in the local area as a result of a previously operating gold mine in an adjacent valley, the project developer will be required to source workers as much as possible from the local area. This existing skill level is proposed to be supplemented by skills and vocational training under the community benefit sharing program. This will greatly reduce the social threats arising from inappropriate behavior of outside construction workers, and local people employed on the Project.",
-"notes": "Original title: PS 5: Land Acquisition and Involuntary Resettlement, Page 79"
-}
-{
-"section": "Employment and Training",
-"content": "The Government wishes to use the Project for the purposes of employment and training of Solomon Islanders. The PC will be required to give preference to members of the Bahomea and Malango cultural community over a resident of another area of Solomon Islands; and Solomon Islander over an expatriate. Notwithstanding this, the project developer will be required to ensure that specific measures are developed to ensure workers from outside Tina area are accommodated outside the project area, that no worker camps be located in the project area and that accommodation be planned well in advance to cope with seasonal increase in Honiara population.",
-"notes": "Original title: Employment and Training; Page 80"
-},
-{
-"section": "Joint Government-Landowner Company and Landowner Royalties",
-"content": "Joint Government-Landowner Company and Landowner Royalties. The Process Agreement signed by the five core landowning tribes included benefits above and beyond fair compensation for the land acquired. The main provisions are the establishment of a Tina Core Land Company (TCLC) which will be jointly owned by Government and the five landowning tribes, and the establishment of Tribal Cooperatives which will be the recipients of land compensation funds as well as a 1.5 percent royalty on part of annual PPA payments. The Cooperatives will distribute funds equally to all members of the tribe, regardless of age or gender. The TCLC will be responsible for making decisions on the use of the core land which are consistent with the effective operation of the HPF. The TCLC will receive land lease payments which will largely go to administering the Company, but which will also direct any additional funds to the members of the tribal cooperatives. The Tribal Cooperatives for the three tribes that have accepted land compensation have been established and are operational. The TCLC has yet to be established. SIG aims to register the TCLC by the time the EPC contract is signed so that land lease payments can begin prior to construction. Establishing the administrative arrangements for the TCLC will take some time as it is a new entity.",
-"notes": "Original title: Joint Government-Landowner Company and Landowner Royalties; Page 80"
-},
-{
-"section": "Benefit Sharing Mechanism (BSM)",
-"content": "Benefit Sharing Mechanism (BSM). Beyond the compensation being provided by the Government for land claims, and the benefits provided for in the Process Agreement, communities in the broader project area, including downstream, will receive community development benefits from a benefit sharing scheme which Government is developing in consultation with the project area communities. The scheme will not be fully implemented until the HPF begins to operate as the financing of the scheme will be directly linked to the financial flows of the PC. In the meantime, Government has agreed to seek JSDF financing to (i) establish the implementation arrangement; (ii) build the capacity of the communities to identify, implement and operate the community projects; and (iii) to implement early investment projects (i.e. water supply) in advance of the launch of the scheme. The benefit sharing scheme will be designed to be delivered in a highly consultative, community driven manner, with a focus on improving the well-being of community members, in particularly vulnerable and disadvantaged individuals, including female-headed households and the disabled.",
-"notes": "Original title: Benefit Sharing Mechanism (BSM); Page 80"
-},
-{
-"section": "Gender",
-"content": "Gender. A Gender Action Plan (GAP) has been completed as part of the Project to guide the mainstreaming of gender into the TRHDP with a particular focus on promoting equal opportunities for women and men to participate in project benefits. While the Tina River Project will have national impact through the provision of more reliable and affordable electricity, the GAP is principally concerned with the impact of the project on the lives of communities within its immediate footprint area. The GAP was prepared based primarily on interviews with project-affected women and men, with project office staff, and with government and other key stakeholders conducted during fieldwork in the Solomon Islands between November 14ᵗʰ and 26ᵗʰ 2015. The Plan is organized around four strategic objective areas: (a) reducing the burden of work on women and improving their livelihood opportunities through access to resources and services; (b) ensuring gender equality in opportunities for education, skill building, training.",
-"notes": "Original title: Gender; Page 80"
-}
-{
-"section": "Monitoring and Evaluation",
-"content": "The PO will be primarily responsible for gathering data and reporting on progress towards the achievement of project results indicators via quarterly project reports. Staff identified by SIEA and the PC will contribute data as needed. Most of the results indicators are tied to the completion of major milestones in the project, namely the completion of access road and transmission line construction and the commissioning of the HPF and the benefits which emanate from them (e.g. reduced GHG emissions and renewable energy generation). Drawing upon technical specialists when needed, in particular the Independent Engineer that will be contracted to monitor construction of the HPF and the Dam Safety Advisory Panel, the PO will verify satisfactory completion of each milestone. The PC, as part of its responsibilities within the IA and the PA with IDA, to receive financing, will submit reports on key milestones to MMERE and MOFT. SIEA will also contribute to MMERE reporting with respect to transmission line construction progress and key indicators reflecting the system costs of electricity generation and the percentage of electricity generated by renewable sources.\n\nThe PO will monitor the implementation of social and environmental mitigation actions, impacts and beneficiary feedback through regular community meetings, a baseline, mid-term and end-line household survey, as well as a grievance redress mechanism which will systematically monitor feedback from various stakeholders and ensure that appropriate responses to such feedback are provided. Inputs will be provided by the Independent Environmental and Social Monitoring Agent that will be engaged by MMERE. The PC will have environmental, social, and health and safety specialists continuously on site. The project will also provide support to MECDM to ensure that it has adequate capacity to monitor the environmental performance of the project and enforce compliance with the conditions of the Development Consent.\n\nTable A2-5 summarizes the key responsibilities and applicable policies on safeguards and procurement of the implementing entities.",
-"notes": "Content extracted from the section titled 'Monitoring and Evaluation' on page 81."
-}
-{
-"section": "Roles and Responsibilities of Implementing Entities and Applicable Policies",
-"content": "Entity    Compo-       Financing            Key                       Safeguards Policies                            Procurement\n          nents                       Responsibilities         Policies        Key Documents to be          Policies             Packages\n\nPC         1. HPF     Component 1      Comprising K-        World Bank Construction and                  World Bank Sponsors (K-\n                     Debt: ADB        water, HEC and       OP/BP 4.03 (all     Quality Assurance Plan   Procurement          water/HEC\n                     grant and loan,  ICSI.                PS applicable Instrumentation Plan           Regulations for      consortium) pre-\n                     EDCF loan, GCF                        except PS 5) O&M Plan                        IPF Borrowers        qualified through\n                     loan, IDA grant  Develop, construct Emergency                                                           open process\n                     and credit,      and operate HPF      (World Bank         Preparedness Plan                             overseen by IFC.\n                     IRENA/ADFD       and access road,     OP/BP 4.37 as Stakeholder                                         Negotiation ongoing.\n                     loan             and sell net         reference)          Engagement/                                   Selection process\n                     Equity: KW,      available capacity                       Communications Plan                           found to be\n   K-water               HEC, ICSI (IDA   to offtaker under    ADB SPS Health and Safety Plan                                    substantially\n                     credit)          PPA. Workers Code of                                                                   consistent with the\n                                      Main sponsor,                            Conduct                                       Core Procurement\n                                      O&M contractor Influx Management                                                       Principles of the\n   HEC        2. Access  Component 2      Sponsor, EPC                             Plan                                          Bank’s New\n              Road       APIP TF grant,   contractor Grievance Mechanism                                                         Procurement\n                     GCF grant                                                 Biodiversity                                  Framework.\n   ICSI                                   Shareholder on Management Plan PC permitted to use\n                                      behalf of SIG                            Cultural Heritage                             its own procedures\n                                                                                Management Plan                                for procurement\n                                                                                Construction ESMP                              from eligible sources,\n                                                                                 Spill Prevention and                          including:\n                                                                                 Emergency Response                            - EPC contractor\n                                                                                Plan                                           - O&M contractor\n                                                                                 Reservoir Preparation                         - Owner’s Engineer\n                                                                                Plan                                           - Various advisors\n                                                                                 Operations ESMP                               - Goods required for\n                                                                                                                                  PC management",
-"notes": "Original title: Table A2-5: Roles and Responsibilities of Implementing Entities and Applicable Policies, Page 82"
-}
-{
-"section": "Financing Responsibilities",
-"content": "Entity      Compo-        Financing               Key                         Safeguards Policies                                Procurement\nSIEA         nents                           Responsibilities\n1. HPF       IDA credit, SIEA   Component 1 :         World Bank                                       World Bank\n                                               Offtaker under PPA    OP/BP 4.01,                                      Procurement\n                                                                     4.04, 4.10, 4.11,                                Regulations for\n               3. T-Line                       Component 3:          4.12, 4.36          Component 3                  IPF Borrowers\n                                               Design, construct ESMP                                                                      Component 3\n                                               and operate T-Line Resettlement Action Transmission line\nPO on      4. TA        APIP TF grant,     Coordination          World Bank Cumulative Impact                     World Bank           Component 4\nbehalf                  IDA grant, SIG     across compo-         OP/BP 4.01, 4.12      Management Strategy        Procurement Various consulting\nof SIG                                     nents; implement Decommissioning Plan*                                 Regulations for        services\n                                               LALRP for             (World Bank Retrenchment Plan*                   IPF Borrowers Goods\n                                               Components 1 and      OP/BP 4.37 as\n                                               2; monitor            reference)\n                                               implementation of\n                                               Project’s ESMP,       Monitor OP/BP\n                                               GAP; retain DSAP,     4.03 for\n                                               E&S monitoring        Component 1\n                                               agent; facilitate\n                                               discussion on\n                                               protected area\nBSM          JSDF**             Implementing          World Bank          As per JSDF project (to be   World Bank           As per JSDF project (to\n                                               community benefit     OP/BP 4.01,         approved separately)         Procurement          be approved\n                                               share pilot under     4.04, 4.10, 4.11,                                Regulations for      separately)\n                                               JSDF                  4.12                                             IPF Borrowers\n* To be prepared by plant-owner one year before decommissioning.\n** In the event JSDF funding does not materialize, SIG has agreed to seek alternative resources to implement the benefit-sharing mechanism during the construction period.",
-"notes": "Extracted from the section titled 'Financing Responsibilities' on page 83"
-}
-{
-"section": "Environmental and Social Standards",
-"content": "The World Bank\nTina River Hydropower Development Project (P161319)\n    OP/BP 4.01 Environmental Assessment; OP/BP 4.03 Performance Standards for Private Sector Activities (PS 1: Assessment and Management of Environmental and Social Risks\n    and Impacts, PS 2: Labor and Working Conditions, PS 3: Resource Efficiency and Pollution Prevention, PS 4: Community Health, Safety, and Security, PS 5: Land Acquisition and\n    Involuntary Resettlement, PS 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources, PS 7: Indigenous Peoples, PS 8: Cultural Heritage); OP/BP\n    4.04 Natural Habitats; OP/BP 4.10 Indigenous Peoples; OP/BP 4.11 Physical Cultural Resources; OP/BP 4.12 Involuntary Resettlement; OP/BP 4.36 Forests; OP/BP 4.37 Safety of\n    Dams.",
-"notes": "Original title: OP/BP 4.01 Environmental Assessment; Page 84"
-}
-{
-"section": "ANNEX 3: IMPLEMENTATION SUPPORT PLAN",
-"content": "COUNTRY: Solomon Islands\nTina River Hydropower Development Project\nStrategy and Approach for Implementation Support\n1. The strategy for implementation support has been developed based on the nature of the Project and its risk profile. Risks considered to be notable include: (a) difficult terrain to construct access roads could lead to delays that could put pressure on the project timeline; (b) weak government capacity to participate effectively as a PC shareholder through ICSI; (c) extensive social and environmental safeguard data to be gathered and actions to be taken as part of Management Plans and limited Government capacity to effectively monitor compliance; (d) local and global civil society and public interest in the project with limited Government capacity to respond; (e) high technical complexity of HPF construction and need to carefully monitor and ensure public safety and contract compliance; and (f) influx of local and foreign workers in project area raises the risk of inappropriate or illegal behavior. The proposed mitigation measures to contain these risks are integrated into various Project design features. Specifically, the strategic approach for implementation support includes the following measures: (a) Difficult terrain to construct access roads could lead to delays and/or cost escalation that could put financial pressure the project timeline. The road design and contracting process has revealed the challenging nature of the terrain and the risk that this could lead to the need for greater quantities of material, time and labor to address circumstances that are more difficult than anticipated. While the access road construction is to be delivered as a fixed price contract, there is a risk that if the contractor significantly exceeds budget due to local conditions, and asks the Off-taker to approve time extensions or even cost variations. To assist the Off-taker and Government to manage this risk and to better understand the progress and challenges being faced by the construction firm and solutions that are being employed, a road transport specialist will travel for site visits and review reports and data. (b) Weak government capacity to participate effectively as a PC shareholder through ICSI. ICSI currently has a small number of holdings, none of which require the channeling of equity returns to MOFT for repayment of loans, as would be the case with this project. All returns to ICSI are used to finance its ongoing operations. Therefore, there will be an arrangement between MOFT and ICSI to ensure that the equity returns paid to ICSI by the PC are effectively transferred to MOFT. While funds will not flow from IDA through ICSI to the PC, but rather directly to the PC on behalf of ICSI, a PPP Specialist or other specialist with experience in the management of state-owned investment companies will provide support to ICSI to enhance their capacity. (c) Extensive social and environmental safeguard data to be gathered and actions to be taken as part of Management Plans and limited Government capacity to effectively monitor compliance. As the project is Category A and has a range of adverse impacts that must be",
-"notes": "Content continues on the next page."
-}
-{
-"section": "Implementation Support Plan and Resource Requirements",
-"content": "2.  Project implementation will be supported primarily by region-based staff, including fiduciary compliance and operational support, technical aspects, and safeguards compliance.     Country-based, CMU, administrative and communications staff will provide operational support and liaison with the client. Formal missions will be conducted at least three times during the first year of implementation, and semi-annually thereafter.\n3.  In addition to periodic reviews by the Bank and inputs (monitoring, training) from procurement, financial management, and safeguards specialists, the plan identifies appropriate technical expertise (such as road and hydropower engineering) to contribute to periodic reviews. The Implementation Support Plan will be reviewed regularly to ensure that it continues to meet the implementation support needs of the project.\nTime                    Focus                      Skills Needed        Resource Estimate     Partner Role\nFirst twelve months\n12-48 months",
-"notes": ""
-}
-{
-"section": "Skills Mix Required",
-"content": "Skills Needed              Number of Staff Weeks     Number of Trips       Comments\nTask Team Leader (ADM)     48                        12\nCo-Task Team Leader        40                        12\nProject Assistant          32                        0                     In-country\nHydropower Engineer        30                        8\nTransmission Engineer      12\nProcurement Specialist     12                        8\nFinancial Management       12                        8\nSpecialist\nRoad Transport Specialist  12                        6\nSocial Safeguard           24                        10\nSpecialist\nEnvironmental Safeguard    12                        8\nSpecialist\nCommunications             12                        0                     In-country\nSpecialist\nGender Specialist          8                         4\nDam Safety Advisor         8                         4\nCountry Lawyer             8                         2\nPPP Specialist             6                         2\nPartners\nName                                            Institution/Country                 Role\nMr. Jeong-Hwan Lee                              Korea Water Resources Corporation   Head of Overseas\n                                                                                    Development Team",
-"notes": "Original title: Other"
-}
-{
-"section": "Project Team",
-"content": "Mr. Anthony Maxwell                                 Asian Development Bank                 Principal Energy\n                                                                                           Specialist\nMr. Kwang Hun Yu                                    Korea Export-Import Bank/Economic      Director,\n                                                    Development and Cooperation Fund       Multilateral\n                                                                                           Development Banks\nMs. Alexandra Hutchinson                            Department of Foreign Affairs and      First Secretary,\n                                                    Trade, Australia                       Development\n                                                                                           Cooperation,\n                                                                                           Economic\n                                                                                           Infrastructure\nMr. Juan Carlos Mendoza                             Green Climate Fund                     Director, Adaptation\n                                                                                           and Public Programs",
-"notes": "Original title: Not specified, Page 88"
-}
-{
-"section": "ANNEX 4: NEGOTIATED TERM SHEET",
-"content": "COUNTRY: Solomon Islands\nTina River Hydropower Development Project\nSOLOMON ISLANDS TINA RIVER HYDROPOWER DEVELOPMENT PROJECT\nSUMMARY OF INDICATIVE TERMS AND CONDITIONS OF IDA FINANCING\nPurpose: This term sheet contains a summary of indicative main terms and conditions of a proposed\nfinancing (“IDA Financing”) from the International Development Association (“IDA”) and is provided for\ndiscussion purposes only. It does not reflect the provisions of the IDA General Conditions for Credits and\nGrants which apply indistinctively to all IDA Financing (available on www.worldbank.org, subject to\nchange). The terms and conditions of a proposed IDA financing will be determined once all project\nstakeholders have reached a final agreement on the Project implementation and financing arrangement\nand IDA is better able to assess the residual risks to be mitigated through legal covenants and conditions.\nThis term sheet does not constitute an offer to provide the IDA Financing.  The provision of the IDA\nFinancing is subject, inter alia, to satisfactory appraisal of the Project by IDA, compliance with all policies\napplicable to the IDA Financing, including those related to environmental and social safeguards, review\nand acceptance of the ownership, management, financing structure, and transaction documentation by\nIDA, and the approval of the management and Executive Directors of IDA in their sole discretion. In\naddition, Board approval constitutes an authorization to extend financing on the terms and conditions\napproved by the Board, but only if the financing agreement for such purpose is signed and declared\neffective no later than 18 months after the date of such Board approval.\nBackground: The Solomon Islands (Recipient) wishes to undertake the Tina River Hydropower Project\n(“Project”), comprising the development, financing, construction and operation of a hydropower\ngeneration plant (Component 1), the design and construction of access roads through upgrade of an\nexisting segment (Lot 1) and construction of a new segment (Lot 2) (Component 2), construction of\ntransmission lines to the grid (Component 3) and provision of TA for Project Coordination and\nimplementation of environmental and social safeguard related activities (Component 4).      A Project\nCompany will be established between the Recipient (acting though its holding company),       the EPC\nContractor and the O&M Contractor for the implementation of Component 1 of the Project (on a build,\nown, operate and transfer basis) and Component 2 of the Project. The Project Company will enter into a\nLease Agreement with a land owning company with respect to the land on which Component 1 and\nComponent 2 Lot 2 will be implemented, an EPC Contract with the EPC Contractor for the engineering,\nprocurement and construction of the hydropower generation plant and construction/upgrade of the\naccess road, and an O&M Contract with the O&M Contractor for the operation and maintenance of the\nplant and Lot 2 of Component 2, and a Power Purchase Agreement with the Offtaker pursuant to which\nthe Offtaker will commit to purchase the capacity and the electricity produced by the plant. Component 1\nis expected to be financed through the Project Company’s equity as well as concessional financing to be\nprovided by the Recipient to the Project Company. Component 2 is expected to be financed by a grant\nfrom the Recipient to the Project Company. Component 3 is expected to be implemented by Solomon\nIslands Electricity Authority (SIEA), and financed in part from a concessional financing from the Recipient\nto SIEA. Component 4 is expected to be implemented by the Recipient.",
-"notes": "Original title: ANNEX 4: NEGOTIATED TERM SHEET, Page 89"
-}
-{
-"section": "Project Development Objective",
-"content": "To increase the share of renewable energy through hydropower in Solomon Islands",
-"notes": "Original title: Project Development Objective, Page 90"
-},
-{
-"section": "Recipient",
-"content": "Solomon Islands",
-"notes": "Original title: Recipient, Page 90"
-},
-{
-"section": "Proposed Project Company",
-"content": "[Project Company, to be established between the Shareholders (Components 1 and 2) pursuant to the PC Constitutive Documents (including a Shareholders Agreement) and registered under the laws of the Recipient; and] SIEA (Component 3)",
-"notes": "Original title: Proposed Project Company, Page 90"
-},
-{
-"section": "Proposed Shareholders of the Project Company",
-"content": "[Investment Corporation of Solomon Islands (ICSI) (Recipient’s holding company), of EPC Contractor and O&M Contractor]",
-"notes": "Original title: Proposed Shareholders of the Project Company, Page 90"
-},
-{
-"section": "Proposed Recipient Project Coordination/Monitoring Arrangement",
-"content": "[Project Management Office] [Dam Safety Advisory Panel, to be maintained] [Independent environment and social monitoring agent, to be recruited] [Owner’s engineer and independent engineer as is customary in these kinds of projects, to be recruited]",
-"notes": "Original title: Proposed Recipient Project Coordination/Monitoring Arrangement, Page 90"
-},
-{
-"section": "Proposed Financing Documents",
-"content": "IDA Financing Agreement between IDA and the Recipient IDA PC Project Agreement between IDA and the Project Company IDA SIEA Project Agreement between IDA and SIEA [No Project Agreement is currently proposed between IDA and ICSI because no proceeds of the IDA Financing are expected to flow to the Project Company through ICSI] And all documents referred to in the above agreements, including IDA Disbursement Letter",
-"notes": "Original title: Proposed Financing Documents, Page 90"
-},
-{
-"section": "Proposed Financing",
-"content": "Aggregate amount [equivalent to USD 33.63M] comprising: a Grant: SDR 7,480,000 [equivalent to USD 10.255M] (Grant); and an Credit: USD 23,375,000 (Credit)",
-"notes": "Original title: Proposed Financing, Page 90"
-}
-{
-"section": "Financial Terms",
-"content": "Currency            Grant: SDR\n                       Credit: USD\n   Financial Terms:    Standard IDA terms for small island countries (available on www.worldbank.org,\n                       subject to change)\n   Disbursement        In accordance with disbursement guidelines (available on www.worldbank.org,\n   terms               subject to change) and provisions of the disbursement letter\n                       [4 disbursement methods available, except when the country has lapsed loans,\n                       three designated accounts, one for advance to the Project Company, one for\n                       advance to SIEA and on for advance to the Ministry of Mines, Energy and Rural\n                       Electrification or any successor thereto)]\n   Payment Dates       February 15, August 15\n   Payment             USD\n   Currency\n   Proposed            Co-financing of Components 1, 3 and 4\n   Allocation of IDA\n   Financing\n   Proposed            [Not earlier than 12 months before the expected date of signature of the IDA\n   Retroactive   IDA   Financing Agreement\n   Financing           Maximum amount: 20% of the amount of the IDA Financing]\n   Proposed   Closing  [June 30, 2023]\n   Date\n   Proposed Form of    Sub-financing to ICSI, and ICSI equity investment in the Project Company; and\n   Government’s        Sub-financing in the form of concessional credit and grant to the Project Company\n   Sub-financing       and SIEA.\n   using          the\n   proceeds   of IDA   [precise allocation of funds tbd on the basis of the ultimate cost of the Project\n   Financing           and financing structure]\n   Proposed       Co-  [Asian Development Bank (ADB): the Recipient requested an amount of [US$30\n   financiers and Co-  million] to be provided in the form of a [US$18 million loan] and [US$12 million\n   financing           grant] for the financing of Component 1 of the Project;\n                       Australia Pacific Islands Partnership (APIP) Trust Fund administered by IDA/IBRD,\n                       with an additional contribution to be provided by the Government of the\n                       Commonwealth     of  Australia: the Recipient requested   an  [US$11.7  million\n                       equivalent grant] including an amount [of US$9 million] for the financing of\n                       Component 2 of the Project and an amount [of US$2.7 million] for the financing\n                                                                                                   Page 91 of 97",
-"notes": "Extracted from the financial terms section on page 91"
-}
-{
-"section": "Proposed Financing Documents",
-"content": "[ADB Financing Agreement between ADB and the Recipient; ADB Project Agreement between ADB and the Project Company; APIP TF Grant Agreement between APIP (represented by IBRD/IDA) and the Recipient; APIP Project Agreement between APIP (represented by IBRD/IDA) and the Project Company; EDCF Financing Agreement between EDCF and the Recipient; EDCF Project Agreement between EDCF and the Project Company; GCF Financing Agreement between GCF (represented by IBRD/IDA) and the Recipient; GCF Project Agreement between GCF (represented by IBRD/IDA) and the Project Company; IRENA/ADFD Financing Agreement between IRENA/ADFD and the Recipient; IRENA/ADFD Project Agreement between IRENA/ADFD and the Project Company; ICSI Subsidiary Agreement between the Recipient and ICSI; PC Subsidiary Agreement(s) between the Recipient and the Project Company (re IDA and all Co-financiers for Components 1 and 2 of the Project); and SIEA Subsidiary Agreement between the Recipient and SIEA]. (all co-financing agreements to be on terms and conditions consistent with the Project)",
-"notes": "Original title: Proposed Financing Documents; Page 92"
-}
-{
-"section": "Project Documents",
-"content": "Proposed Project Documents\n[Implementation Agreement between the Recipient and the Project Company;\nLease Agreement between the Land Owning Company and the Project Company;\nPower Purchase Agreement (PPA) between the Project Company and the Offtaker;\nGovernment Guarantee Agreement of the obligations of the Offtaker under the PPA for the benefit of the Project Company;\nEPC Contract between the Project Company and the EPC Contractor; and\nO&M Contract between the Project Company and the O&M Contractor (but only from the date when it becomes a requirement under the PPA).]\n(all Project Documents, and related legal opinions, to be in form and substance acceptable to IDA)",
-"notes": "Original title: Proposed Project Documents; Page 93"
-}
-{
-"section": "Proposed Decisions",
-"content": "[(A) amend the PC Constitutive Documents;\n(B) modify the management structure of the Project Company or the allocation of shareholders rights;\n(C) modify Component 1 or 2 of the Project;\n(D) amend, waive or terminate any provision of the Project Documents, which would affect the Project description, its implementation arrangement, its cost or its financing;\n(E) amend, waive or terminate any provision of the Safeguard Documents;\n(F) transfer the assets of the Project Company (except those which are no longer required for the construction and operation of Components 1 and 2 of the Project);\n(G) amend the level of return or other distributions to the shareholders or interest and other payments to any financier or other lender;\n(H) increase the level of debts by more than [____];\n(I) make investments or expenditures which are not part of or related to the Project (other than short term first grade investment made in the ordinary course of business);\n(I) transfer the shares of the Project Company; and\n(J) enter into a compromise with the Project Company’s creditors, file for bankruptcy or similar procedure, liquidate assets of or wind up the Project Company.] (to be confirmed on the basis of the terms of the Shareholders’ Agreement)",
-"notes": "Original title: Proposed Decisions"
-},
-{
-"section": "Proposed Safeguards Documents",
-"content": "(i) the Environmental and Social Impact Assessment, including the Environmental and Social Management Plan contained in such document;\n(ii) the Land Acquisition and Livelihood Restoration Plan, including the Resettlement and Livelihoods Restoration Framework contained in such document;\n(iii) the Resettlement Action Plans prepared in accordance with the Resettlement and Livelihoods Restoration Framework if any,\n(iv) the Gender Action Plan,\n(v) the Community Development Plan, and\n(vi) the Environmental and Social Action Plan and Sponsor’s Environmental and Social Impact Assessment.\n[any Safeguard Documents required to comply with Safeguard Policies and Performance Standards]\n(all Safeguard Documents to be in form and substance acceptable to IDA, with",
-"notes": "Original title: Proposed Safeguards Documents"
-}
-{
-"section": "Proposed Environmental and Social Safeguards Covenants",
-"content": "Recipient’s and SIEA’s compliance with the Safeguards Policies and Project Company’s compliance with the Performance Standards All terms of reference for any TA or studies carried out under the Project are consistent with, and pay due attention to, IDA Safeguards Policies and Performance Standards (as applicable), as well as the Recipient’s own laws and regulations relating to the environment and social aspects relevant to the Project Implementation of the Project in accordance with the Safeguard Documents. No amendment, suspension or waiver without approval by IDA and compliance with consultation and disclosure requirements of the Safeguards Policies and Performance Standards Quarterly reporting on safeguard compliance, more often if circumstances warrant",
-"notes": "Original title: Proposed Environmental and Social Safeguards Covenants, Page 95"
-},
-{
-"section": "Proposed Conditions precedent to the availability of the IDA Financing",
-"content": "sequencing of the conditions of signature, effectiveness and disbursement tbd, deadline for satisfaction of the conditions tbd Project Company established and authorized to carry out its obligations under the Project Documents, the Safeguard Documents and the Financing Documents, and has received all Project Consents (tbd) required at that time for such purpose + legal opinions Compliance with agreement on the time of disbursement of the Sponsors’ equity Acceptable financial management system established in the Project Company Except for the financing of reasonable development costs to be incurred by the Project Company in order to achieve PPA Financial Close, signature and effectiveness of all Project Documents in form and substance acceptable to IDA (except the O&M Contract if this is not a requirement under the PPA at that time), and PPA Financial Close (as defined in the PPA) + legal opinions Confirmation of availability of financing for the full Project cost as finally agreed and, except for the disbursement of equity, confirmation of satisfaction of all conditions precedent to the effectiveness of, and disbursement under, each of the Financing Documents (including Amendment to the APIP Administration Agreement, AMA and Funded Activity Agreement between IBRD/IDA and GCF, all Subsidiary Agreements, ICSI equity subscription agreement (if separate from the Shareholders Agreement) Project Operations Manual (or dated covenant) Donors coordination or co-financing mechanism Safeguard compliance at the time of first disbursement",
-"notes": "Original title: Proposed Conditions precedent to the availability of the IDA Financing, Page 95"
-}
-{
-"section": "Proposed Additional Remedies",
-"content": "IDA   [Any of the Recipient’s laws and regulations governing the electricity sector and\nSIEA, including the Electricity Act 1969, the Electricity Regulations 1993, the State\nOwned    Enterprises Act  2007,  the State  Owned   Regulations  2010   and  the\nElectricity Tariff (Base Tariff and Tariff Adjustments) Regulations 2016, or any of\nthe Project Consents, has been amended, suspended, or waived so as to affect\nmaterially and adversely the ability of the Recipient or a Project Implementing\nEntity to perform its obligations under an IDA Financing Document\nBreach of a Project Document (remaining uncured after contractual cure period)\nwhich affects materially and adversely the  ability of the Recipient or a Project\nImplementing Entity to perform its obligations under an IDA Financing Document\nUnavailability of Co-financing by the agreed deadline (tbd)]",
-"notes": "Original title: Proposed Additional Remedies"
-},
-{
-"section": "Proposed Project Monitoring Reporting and Evaluation",
-"content": "Standard IDA provisions\nAnnual Work Plans and Budgets\nMid-term Review\nProject audited Financial Statements and unaudited interim financial reports\nProject Implementing Entities audited financial statements\nDisclosure of Tariff Regulation 2016, monthly retail tariff adjustments, revision of\nthe base component of the tariff every five years (with customer service to\nrespond to tariff inquiries) and transmission to IDA of the report of SIEA’s\nconsultant on such revision in 2020.",
-"notes": "Original title: Proposed Project Monitoring Reporting and Evaluation"
-},
-{
-"section": "Corruption",
-"content": "Compliance with the Anticorruption Guidelines (available on www.worldbank.org,\nsubject to change)",
-"notes": "Original title: Corruption"
-},
-{
-"section": "Procurement",
-"content": "Compliance with the Procurement Regulations and rolling procurement plan for\nthe Project approved by IDA.",
-"notes": "Original title: Procurement"
-}
-{
-"section": "Map of the Project Area",
-"content": "The World Bank\nTina River Hydropower Development Project (P161319)\n\nSOLOMON ISLANDS\n\nTINa RIVER HYDROPOWER DEVELOPMEnt PROject\n\nNEW GUINEA\n\nSOUTH PACIFIC\n\nTaro Island\n\nOCEAN\n\nPOWERHOUSE\n\nRESERVOIR\n\nDAM\n\nHEAD RACE TUNNEL\n\nRIVER BASINS\n\nGOLD MINE\n\nACCESS ROAD\n\nMAIN ROADS\n\nHighWAY\n\nArea of Map\n\nGuadalcanal\n\nKirakira\n\nLata\n\nTEMOTU\n\nTigoa\n\nREXNEL AND\n\nDELLONA\n\nSource: BRL Ingenierie , May 2015\n\nKilometers\n\nHONIARA\n\nHoniara International Airport\n\nHead Race\n\nPowerhouse\n\nTunnel\n\nReservoir\n\nDam\n\nRiver\n\nRidge\n\nGold\n\nMine\n\nTONI\n\nVohara\n\nRIVER\n\nBASIN\n\nTINA RIVER\n\nBASIN\n\nBANK GROUP IBRD 42799\n\nWORLD MARCH 2017\n\nThis map was produced by the\nCartography Unit of the World\nBank Group The boundaries;\ncolors , denominations and any\nother information shown on this\nmap do not imply on the part of\nthe World Bank Group: judgment\nthe legal status of\nany territory or any endorsement\nacceptance of boundaries:",
-"notes": "Map of the Project Area – IBRD Map 42799, Page 97"
-}
+# PROJECT APPRAISAL DOCUMENT
+Document of The World Bank
+
+## Report No: PAD2258
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+## Proposed Credit
+IN THE AMOUNT OF US$23.375 MILLION EQUIVALENT
+
+## Proposed Grant
+IN THE AMOUNT OF SDR7.480 MILLION (US$10.255 MILLION EQUIVALENT)
+
+## To
+SOLOMON ISLANDS
+
+## For a
+TINA RIVER HYDROPOWER DEVELOPMENT PROJECT
+
+## Date
+May 24, 2017
+
+Energy & Extractives Global Practice
+East Asia and Pacific Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+# CURRENCY EQUIVALENTS
+(Exchange Rate Effective April 30, 2017)
+Currency Unit =  US Dollars
+SBD7.80 =   US$1
+US$1.37=   SDR 1
+
+# FISCAL YEAR
+January 1 - December 31
+
+# REGIONAL VICE PRESIDENT
+Victoria Kwakwa
+
+# COUNTRY DIRECTOR
+Michel Kerf
+
+# SENIOR GLOBAL PRACTICE DIRECTOR
+Riccardo Puliti
+
+# PRACTICE MANAGER
+Jie Tang
+
+# TASK TEAM LEADER(S)
+Takafumi Kadono, Erik Caldwell Johnson
+# SOLOMON ISLANDS
+## TINA RIVER HYDROPOWER DEVELOPMENT PROJECT
+## TABLE OF CONTENTS
+1. STRATEGIC CONTEXT ...................................................................................................... 8
+A. Country Context ................................................................................................................. 8
+B. Sectoral and Institutional Context ..................................................................................... 9
+C. Higher Level Objectives to which the Project Contributes ............................................. 12
+2. PROJECT DEVELOPMENT OBJECTIVE.............................................................................. 14
+A. PDO ................................................................................................................................... 14
+B. Project Beneficiaries......................................................................................................... 14
+C. PDO-Level Results Indicators ........................................................................................... 14
+3. PROJECT DESCRIPTION.................................................................................................. 15
+A. Project Components ......................................................................................................... 15
+B. Project Cost and Financing ............................................................................................... 17
+4. IMPLEMENTATION ......................................................................................................... 19
+A. Institutional and Implementation Arrangements........................................................... 19
+B. Results Monitoring and Evaluation ................................................................................. 21
+C. Sustainability .................................................................................................................... 21
+D. Role of Partners ................................................................................................................ 22
+5. KEY RISKS ........................................................................................................................ 23
+A. Overall Risk Rating and Explanation of Key Risks ........................................................... 23
+6. APPRAISAL SUMMARY ................................................................................................... 26
+A. Economic and Financial Analysis ..................................................................................... 26
+B. Technical ........................................................................................................................... 35
+C. Financial Management ..................................................................................................... 35
+D. Procurement..................................................................................................................... 36
+E. Social (including Safeguards)............................................................................................ 36
+F. Environment (including Safeguards) ................................................................................ 38
+G. Other Safeguard Policies .................................................................................................. 39
+H. World Bank Grievance Redress ....................................................................................... 40
+# RESULTS FRAMEWORK AND MONITORING
+.................................................................... 41
+
+# ANNEX 1: DETAILED PROJECT DESCRIPTION
+......................................................................... 49
+
+# ANNEX 2: IMPLEMENTATION ARRANGEMENTS
+.................................................................... 61
+
+# ANNEX 3: IMPLEMENTATION SUPPORT PLAN
+...................................................................... 85
+
+# ANNEX 4: TERM SHEET
+........................................................................................................ 89
+
+# MAP OF THE PROJECT AREA – IBRD MAP 42799
+................................................................... 97
+# ABBREVIATIONS AND ACRONYMS
+ADB       Asian Development Bank                 GGA        Government Guarantee Agreement
+ADFD      Abu Dhabi Fund for Development         GHG        Greenhouse Gas
+AEP       Annual Exceedance Probability          GIF        Global Infrastructure Facility
+APIP      Australia-Pacific Islands Partnership  GoA        Government of Australia
+Trust Funds
+BLIC      Bahomea Land Identification            GRM        Grievance Redress Mechanism
+Committee
+BOOT      Build-Own-Operate-Transfer             GRS        Grievance Redress Service
+CAGR      Compound Annual Growth Rate            GWh        Gigawatt-hour
+CDP       Community Development Plan             ha         Hectare
+CPS       Country Partnership Strategy           HCA        Honiara Club Agreement
+CQS       Consultant’s Qualification Based       HDI        Human Development Index
+Selection
+DA        Designated Account                     HEC        Hyundai Engineering Co., Ltd.
+DSCR      Debt Service Coverage Ratio            HPF        Hydropower Facility
+DFAT      Department of Foreign Affairs and      IA         Implementation Agreement
+Trade
+DSAP      Dam Safety Advisory Panel              ICSI       Investment Corporation of the
+Solomon Islands
+EBITDA    Earnings before Interest, Tax          IDA        International Development
+Depreciation and Amortization                     Association
+EDCF      Economic Development Cooperation       IFC        International Finance Corporation
+Fund of the Government of Korea
+EPC       Engineering-Procurement-               IMF        International Monetary Fund
+Construction
+EPP       Emergency Preparedness Plan            INDC       Intended Nationally Determined
+Contribution
+ERR       Economic Rate of Return                IPP        Independent Power Producer
+ESIA      Environmental and Social Impact        IRENA      International Renewable Energy
+Assess                                            Agency
+ESMP      Environmental and Social               JICA       Japan International Cooperation
+Management Plan                                   Agency
+ESRS      Environmental and Social Review        JSDF       Japan Social Development Fund
+Summary
+FIRR      Financial Internal Rate of Return      K-water    Korea Water Resources Corporation
+FM        Financial Management                   km²        Square Kilometers
+FSL       Full Supply Level                      kW         Kilowatt
+GAP       Gender Action Plan                     kWh        Kilowatt-hour
+GCF       Green Climate Fund                     LALRP      Land Acquisition and Livelihood
+Restoration Plan
+GDP       Gross Domestic Product                 m³/s       Cubic Meters per Second
+# ACRONYMS AND ABBREVIATIONS
+MECDM     Ministry of Environment, Climate        PPSD        Project Procurement Strategy for
+Change, Disaster Management and                     Development
+MIGA      Multilateral Investment Guarantee       PS          World Bank Performance Standards
+Agency
+MMERE     Ministry of Mines, Energy and Rural     RCC         Roller-Compacted Concrete
+Electrification
+MOFT      Ministry of Finance and Treasury        SAIDI       System Average Interruption
+Duration Index
+MW        Megawatt                                SAIFI       System Average Interruption
+Frequency Index
+MWh       Megawatt-hour                           SIA         Social Impact Assessment
+NDS       National Development Strategy           SIEA        Solomon Islands Electricity Authority
+NGO       Non-Governmental Organization           SIEAEP      Solomon Islands Electricity Access
+Expansion Project
+NIIP      National Infrastructure Investment      SIG         Solomon Islands Government
+Plan
+NPV       Net Present Value                       SINEP       Solomon Islands National Energy
+Policy (draft)
+O&M       Operation and Maintenance               SISEP       Solomon Islands Sustainable Energy
+Project
+PC        Project Company                         STEP        Systematic Tracking of Exchanges in
+Procurement
+PO        Project Office                          TA          Technical Assistance
+PV        Photovoltaics                           TF          Trust Fund
+PPA       Power Purchase Agreement                TCLC        Tina Core Land Company
+PPP       Public-Private Partnership              tCO2eq      Tons of Carbon Dioxide Equivalent
+TRHDP       Tina River Hydropower
+Development Project
+# BASIC INFORMATION
+Is this a regionally tagged project?  Country(ies)                     Financing Instrument
+No                                                                     Investment Project Financing
+[  ]  Situations of Urgent Need of Assistance or Capacity Constraints
+[  ]  Financial Intermediaries
+[  ] Series of Projects
+Approval Date              Closing Date             Environmental Assessment Category
+20-Jun-2017                30-Jun-2023              A - Full Assessment
+Bank/IFC Collaboration     Joint Level
+Yes                        Historical Project/Activity implemented in sequence with an IFC
+activity(Loan/Credit/Guarantee/AAA)
+
+## Proposed Development Objective(s)
+The project development objective (PDO) is to increase the share of renewable energy through hydropower in
+Solomon Islands.
+
+## Components
+Component Name                                                                            Cost (US$, millions)
+Component 1: Tina River Hydropower Facility (HPF)                                                     185.66
+Component 2: Access Roads                                                                               25.00
+Component 3: Transmission lines                                                                         22.82
+Component 4: Technical Assistance                                                                        7.00
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+## Organizations
+Borrower :                  Solomon Islands Ministry of Finance and Treasury
+Implementing Agency :       Solomon Islands Ministry of Mines, Energy and Rural Electrification
+Solomon Islands Electricity Authority
+Project Company to be established
+
+## PROJECT FINANCING DATA (IN USD MILLION)
+[ ✔ ]             [  ] IBRD   [ ✔ ] IDA Credit          [ ✔ ] IDA Grant           [ ✔ ] Trust      [ ✔ ]
+Counterpart                                                                       Funds            Parallel
+Funding                       [  ] Crisis Response      [  ] Crisis Response                       Financing
+Window                    Window
+[  ] Regional Projects    [  ] Regional Projects
+Window                    Window
+
+Total Project Cost:                      Total Financing:              Financing Gap:
+240.48                                 240.48                         0.00
+Of Which Bank Financing (IBRD/IDA):
+33.63
+
+## Financing (in US$, millions)
+Financing Source                                                                        Amount
+ABU DHABI: Abu Dhabi Fund for Arab Economic Development                                   15.00
+Asian Development Bank                                                                    30.00
+Borrower                                                                                  22.15
+KOREA, Rep of: Economic Development Cooperation Fund                                      31.60
+Green Climate Fund                                                                        86.00
+International Development Association (IDA)                                               23.38
+IDA Grant                                                                                 10.26
+Australia-Pacific Islands Partnership Trust Fund                                          11.70
+Foreign Private Commercial Sources (identified)                                           10.40
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+Total                                                                                     240.49
+
+## Expected Disbursements (in US$, millions)
+Fiscal Year                                   2017      2018      2019      2020      2021      2022      2023
+Annual                                         0.00      1.32      2.16      4.40      7.23      8.72      9.77
+Cumulative                                     0.00      1.32      3.48      7.88     15.11     23.83     33.63
+
+# INSTITUTIONAL DATA
+## Practice Area (Lead)
+Energy & Extractives
+
+## Contributing Practice Areas
+Social, Urban, Rural and Resilience Global Practice
+Climate Change and Disaster Screening
+This operation has been screened for short and long-term climate change and disaster risks
+
+## Gender Tag
+Does the project plan to undertake any of the following?
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of country gaps identified through SCD and CPF
+Yes
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or men's empowerment
+Yes
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b)
+Yes
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+# SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+Risk Category                                                                    Rating
+1. Political and Governance                                                      ● Moderate
+2. Macroeconomic                                                                 ● Low
+3. Sector Strategies and Policies                                                ● Moderate
+4. Technical Design of Project or Program                                        ● High
+5. Institutional Capacity for Implementation and Sustainability                  ● Substantial
+6. Fiduciary                                                                     ● Substantial
+7. Environment and Social                                                        ● High
+8. Stakeholders                                                                  ● Substantial
+9. Other
+10. Overall                                                                      ● High
+
+# COMPLIANCE
+## Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes  [✔] No
+Does the project require any waivers of Bank policies?
+[ ] Yes  [✔] No
+
+## Safeguard Policies Triggered by the Project
+Environmental Assessment OP/BP 4.01                                                           ✔
+Natural Habitats OP/BP 4.04                                                                   ✔
+Forests OP/BP 4.36                                                                            ✔
+Pest Management OP 4.09                                                                                 ✔
+Physical Cultural Resources OP/BP 4.11                                                        ✔
+Indigenous Peoples OP/BP 4.10                                                                 ✔
+Involuntary Resettlement OP/BP 4.12                                                           ✔
+Safety of Dams OP/BP 4.37                                                                     ✔
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+### Projects on International Waterways OP/BP 7.50
+✔
+### Projects in Disputed Areas OP/BP 7.60
+✔
+
+## Legal Covenants
+Sections and Description
+Sequencing of legal covenants will be designed when the negotiations of the Project Documents among their respective parties are more advanced.
+
+## Conditions
+Type                           Description
+Effectiveness                  Sequencing of conditions (of effectiveness or first disbursement under a disbursement category) will be designed when the negotiations of the Project Documents among their respective parties are more advanced.
+
+# PROJECT TEAM
+## Bank Staff
+Name                        Role                           Specialization                 Unit
+Takafumi Kadono             Team Leader(ADM                                               GEE02
+Responsible)
+Erik Caldwell Johnson       Team Leader                                                   GSU02
+Zhentu Liu                  Procurement Specialist(ADM                                    GGO08
+Responsible)
+Manuela Da Cruz             Procurement Specialist                                        GGO08
+Stephen Paul Hartung        Financial Management                                          GGO20
+Specialist
+Alison Ofotalau             Team Member                                                   EAPEC
+Ani Balabanyan              Peer Reviewer                                                 GEE01
+Artur Kochnakyan            Peer Reviewer                                                 GEE03
+Arturo S. Rivera            Peer Reviewer                                                 GEE03
+Barry Trembath              Team Member                    Hydropower                     GEE06
+Bipulendu Narayan Singh     Team Member                    Economic and Financial         GEE06
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+### Analysis
+Dejan R. Ostojic         Peer Reviewer                                               GEE03
+Federica Cimato          Team Member                   Benefit sharing               GEE09
+Fowzia Hassan            Team Member                                                 GEE02
+Helene Bertaud           Counsel                                                     LEGES
+Janet Funa               Team Member                                                 EACSB
+Jennifer Appo            Team Member                                                 EACSB
+Jennifer Sarah Scott     Team Member                   Gender                        GEE08
+Masood Ahmad             Peer Reviewer                                               GEE06
+Oliver George Whalley    Team Member                   Transport                     GTI02
+Ross James Butler        Safeguards Specialist                                       GSU02
+Satoru Ueda              Team Member                   Dam safety                    GWASO
+Thomas E. Walton         Environmental Specialist                                    GEN01
+Thomas Michael Perry     Team Member                                                 EAPEC
+Towfiqua S. Hoque        Team Member                   Corporate Financial Analysis  GCPGF
+(GIF)
+Vivien Foster            Peer Reviewer                                               GEEDR
+Wansup Kim               Team Member                                                 EAPKR
+William Rex              Peer Reviewer                                               GWADR
+
+### Extended Team
+Name                     Title                         Organization                  Location
+Frederick Brusberg       Safeguard Specialist          WB
+Grant Reed               Managing Director             EGR Consulting                New Zealand
+Ramu Naidoo              Director                      Scientia Consulting
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Note 1
+Under the Compliance section of the Data Sheet above, the “No” box is checked for “Does the project require any waivers of Bank Policies”. Note, however, that Management exceptionally waived the application of Paragraph 28 of BP 10.00, in order to allow the submission of the Approval package to the Executive Directors on the basis of a negotiated term sheet instead of a negotiated Financing Agreement and Project Agreements, following a procedure similar to the one described under Paragraph 29 of BP 10.00 for Bank Guarantees. The term sheet is attached as Annex 4 of the PAD. The Financing Agreement and the two Project Agreements will be negotiated after Board approval, signed at a time determined by LEGAL and declared effective so that funds become available when Project implementation begins.
+
+## Note 2
+In the Data Sheet, “Total Financing” is correctly indicated as US$240.48 million, but the Total of the “Financing Source” is incorrectly indicated as US$240.49 million. This is a rounding error caused by IDA Credit being rounded up to US$23.38 million (correct figure is US$23.375 million) and IDA Grant also being rounded up to US$10.26 million (correct figure is US$10.255 million equivalent). “Bank Financing” is indicated correctly as US$33.63 million which is the sum of IDA Credit of US$23.375 million and IDA Grant of US$10.255 million equivalent.
+# STRATEGIC CONTEXT
+
+## Country Context
+1. Solomon Islands is a remote archipelago with one of the lowest population densities (20 persons/km²) and urbanization rates (17 percent) in the world. The country consists of 997 islands encompassing a total land area of 29,900 km² spread over 1.34 million km² of ocean. The population of approximately 616,000 is dispersed across an estimated 90 islands.¹ The island geography, coupled with weak infrastructure links, presents formidable challenges to service delivery and economic integration. Major obstacles to development are the high cost environment resulting from the country’s remoteness as well as its small market, lack of competition, high transportation and energy costs, and customary land issues. It is also vulnerable to natural disasters such as cyclones, tsunamis, flooding, drought and earthquakes.
+2. Solomon Islands has one of the lowest levels of gross domestic product (GDP) per capita among the Pacific Island states, at US$2,013/capita. The country is still recovering from many years of intermittent political turmoil and civil strife. Locally referred to as the “tension”, the conflict during 1998-2003 disrupted the functioning of state and social institutions which resulted in a 40 percent decline of GDP. To support the stabilization of Solomon Islands, neighboring countries led by Australia deployed the Regional Assistance Mission to the Solomon Islands to restore law and order and other basic state functions. Ever since, peace has generally been maintained, barring major riots in 2006 (which did not trigger further conflict), and political protests in 2011 following a change in prime minister.
+3. The economy has since rebounded, but remains vulnerable to external shocks. Solomon Islands Government (SIG) managed its economy pursuant to the agreed principles of the Honiara Club Agreement (HCA) set up to support the recovery of the Solomon Islands, and the economy grew mainly on export of commodities such as logging and substantial amounts of Official Development Assistance. However, the global financial crisis of 2009 hit the Solomon Islands hard, resulting in GDP contracting by 4.7 percent, a budget crunch and a depletion of foreign currency reserves. Furthermore, the oil price spike of 2008, and subsequently during 2011 to 2013, demonstrated Solomon Islands’ vulnerability to global oil price volatility as the country’s balance of payments came under severe pressure since fossil fuels account for about a quarter of all imports.
+4. Going forward, real GDP is projected to grow on average by 3.1 percent over the medium-term (in the next 5 years). This projection is based on the assumption of resumed gold-mining activity, the exploitation of large nickel deposits, and increased investments in key transport infrastructure, energy, and telecommunications projects. There are considerable down-side risks to this outlook, notably the expected decline in log production over the medium-term.
+1 Population data based on Solomon Islands 2012/13 Household Income and Expenditure Survey – National Analytical Report [Volume 1], October 2015.
+# SECTORAL AND INSTITUTIONAL CONTEXT
+
+5. Low access to electricity services. About 9 percent of the population in Solomon Islands has access to grid-connected electricity supplied by the national power utility, Solomon Islands Electricity Authority (SIEA), and about 2 percent are supplied by diesel generators owned by households or communities.² Access to grid electricity is uneven across the country. About 50 percent of the urban households are supplied by SIEA of which the majority are being supplied through the Honiara Electricity System (HES) in the capital city, with a population of nearly 70,000, on the main island of Guadalcanal. Only about 3 percent of the rural households are supplied by SIEA or through diesel generators owned by households or communities. Nationally, one-third of the households have installed small solar home systems, with photovoltaic (PV) panels typically of 20 watts, which are only sufficient for a few light bulbs and to charge cell phones. At an average annual consumption of 125 kilowatt-hours (kWh) per capita, the country has the lowest energy consumption rate in the Pacific.
+
+6. Demand and supply. Currently the demand growth on the HES is constrained by interruptions in supply caused by frequent maintenance of diesel generators, limited distribution network coverage, small number of overall customers and high retail tariffs (see section below). The total installed capacity of the HES is 33.6 megawatts (MW), out of which 32.6 MW³ are diesel generators and 1 MW is a solar farm. Peak demand of the HES has increased from 9.3 MW in 2003 to 15.5 MW in 2016 representing a compound annual growth rate (CAGR) 4.0 percent. Over the same period, annual electricity generation in HES grew at 4.9 percent CAGR from 45.1 gigawatt-hours (GWh) to 83.9 GWh, with a notable 6.7 percent growth in 2016 alone mainly due to the increased generation capacity realized through the commissioning of four 2.5 MW diesel generators. Total electricity generated in the provincial grids was 6.7 GWh in 2016.
+
+7. Heavy reliance on imported diesel, high cost of generation and high retail tariff. SIEA’s system is almost 100 percent reliant on diesel generation. The cost of generation has reduced over the recent years, from US$ 35.6 cents/kWh in 2014 to US$ 23.8 cents/kWh in 2016, along with the drop in oil prices. Retail tariffs for grid-supplied electricity, adjusted down from US$ 93 cents/kWh in 2014 to US$ cent 65/kWh as of January 2017. The 2017 reduction was partly due to low oil prices, and partly due to enforcement of a new tariff calculation methodology. The Tariff Regulation mechanism adopted since 2005 linked retail tariffs to fuel cost. However, while the retail tariff increased along with rising oil prices up to mid-2014, the drop in fuel cost which began in late-2014 was largely not translated into lower retail tariffs. In 2014, SIEA, with the support of the World Bank, conducted a cost-of-service and tariff review in order to develop recommendations on SIEA’s future revenue requirements and its electricity tariff. The cost-of-service and tariff review was completed in 2016 which resulted in the development and gazetting of the Tariff Regulation 2016, which came into effect in January 2017. Through the new tariff methodology, tariff levels are set by determining the Maximum Allowable Revenue for SIEA based on Non Fuel Revenue Requirements and a pass-through of Fuel Charges of all fuel costs, including power purchased under power purchase agreements, adjusted for heat rate and losses. However, the retail tariff is still significantly higher than the Pacific regional average of residential retail tariffs.
+
+2 Electrification rate based on Solomon Islands 2012/13 Household Income and Expenditure Survey – National Analytical Report [Volume 1], October 2015.
+3 Name plate capacity is 32.6 MW, and de-rated capacity is 30.7MW. Since commissioning four 2.5 MW units, SIEA has been able to meet the “G-2” criterion whereby there are enough reserves to supply the peak load even in the event of losing two largest units. However, 7 MW of old units are expected to be decommissioned by 2024.
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+Although no affordability survey has been conducted, it is understood that the expensive tariff is one of the major factors for the extremely low annual consumption per capita.
+
+To expand access and to improve reliability, affordability and sustainability of electricity services, SIEA plans to implement its least-cost expansion plan (see section below), expand its network coverage, improve system efficiency and significantly expand the use of less expensive, indigenous renewable energy sources.
+
+With commissioning of the 15 MW Tina River Hydropower Development Project (TRHDP; the Project) by 2022 according to the least-cost plan, financial projections suggest that the retail tariff could be further lowered to US$ 33 cents/kWh by 2023 and US$ 26 cents/kWh by 2052 (one year after the end of the TRHDP Power Purchase Agreement [PPA] period), compared to US$ 51 cents/kWh by 2023 and US$ 65 cents/kWh by 2052 without TRHDP and with projected increases in oil prices. The retail tariff in the “without TRHDP” scenario is much higher since diesel generation still represents a higher share in the energy mix while diesel generation cost is expected to increase in line with World Bank’s oil price forecast.
+
+With commission of TRHDP in 2022 and the expected incremental development of solar power, the share of energy from renewable energy sources would increase from 1 percent in 2016 to 85 percent in 2022 (68 percent from TRHDP and 17 percent from solar). By 2046, as the demand grows, share of TRHDP would reduce to 43 percent, and the share of solar would increase to 40 percent as they are incrementally developed, making the total renewable share of 83 percent. Without TRHDP, 58 percent would be supplied by solar while diesel would be 42 percent in 2046.
+
+## Least economic cost generation expansion plan
+
+The annual demand is projected to grow to over 140 to 250 GWh by 2040 under different scenarios of CAGR growth rate. Under the Base Case scenario assuming (a) a 2.1 percent CAGR for demand growth; (b) international crude oil price growing from US$ 64/barrel in 2017 to US$ 72/barrel in 2025, and growing up to US$ 87/barrel by 2046 in real terms; (c) solar farm installation price going down from US$ 2.8 to 1.6 million/MW from 2017 to 2030 and remaining constant afterwards; and (d) an economic discount rate of 3 percent pursuant to the Bank’s Discounting Costs and Benefits in Economic Analysis of World Bank Projects (May 2016), the least-cost expansion plan requires installation of over 54 MW new capacity in a combination of hydropower, solar and storage, and diesel capacity to meet the demand growth at the least economic cost, and commissioning of TRHDP in 2022.
+
+## SIEA financial performance
+
+SIEA was in financial crisis and close to insolvency with severe cash-flow problems until 2010 due to civil unrest, large outstanding receivables, non-revenue losses, rising oil prices, large debt levels, and a depreciating Solomon Islands Dollar (SBD). Together with support provided through the World Bank-financed Solomon Islands Sustainable Energy Project (SISEP), SIEA’s financial performance improved dramatically from making losses until 2010 to a net profit of SBD68 million in 2012, and SBD107 million in 2015. Electricity sales revenues increased from SBD351.5 million in 2011 to SBD433.5 million in 2016, while the cost of generation kept going down, largely due to lower oil prices, from US$ 35.6 cents/kWh in 2014 to...
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+US$ 23.8 cents/kWh in 2016. If the least-cost expansion plan is implemented, and according to price estimates from the ongoing PPA negotiations between SIEA and the private sector developers, commissioning of the TRHDP will result in a lower cost of generation, making room for retail tariffs to be adjusted downward. System loss has been high at around 19-21 percent during 2011-2016, and SIEA targets aggressively to reduce it to 11 percent by 2021. SIEA’s average earnings before interest, tax depreciation and amortization (EBITDA) margin is forecasted to grow from 24 percent to 53 percent, and Net Margin from 14 percent to 43 percent, over the projection period of 2017-2052. Accounts receivable have also improved from 70 days of sales in 2011 to 40 days in 2015.
+
+## Indigenous energy resources and government strategy
+Beyond the aims of lower cost of electricity, the Solomon Islands National Energy Policy (SINEP) aims to enhance energy security at a national level, by increasing the share of renewable energy to 50 percent of total installed capacity by 2020. SINEP estimates the country’s hydropower potential to be 300 MW, but past attempts to develop hydropower in Guadalcanal to supply Honiara were abandoned due to customary land issues and challenging geological conditions. While SIEA is preparing to develop the 500 kilowatt (kW) Fiu River Hydropower Project in Malaita with assistance from the Asian Development Bank (ADB), TRHDP will be the first large hydropower project in the country according to the SIEA’s least-cost expansion plan. SINEP estimates the solar irradiation to be in the range of 5.5 to 6.5 kWh/m²/day, and with the timing of its peak output coinciding with the daily peak load at mid-day, solar energy is regarded as a promising source of energy. In addition to SIEA’s 1 MW grid-connected solar farm commissioned in 2016, SIEA plans to incrementally develop similar size installations. However, a significant constraint to developing solar farms in the Solomon Islands is the difficulty of acquiring land in a country where approximately 90 percent of the land is customary. Other alternatives such as geothermal, wind and biomass have been examined, but do not currently offer cost-effective alternatives to hydropower and solar energy.
+
+## Sector Institutions
+The Ministry of Mines, Energy and Rural Electrification (MMERE) is the supervising ministry for the energy sector, and its Energy Division bears responsibility for legal and regulatory development, institutional strengthening and supervision of the state-owned utility, SIEA. Operating under the Electricity Act, SIEA is a vertically-integrated power utility that is responsible for electric power generation, transmission and distribution to all urban and provincial centers. Retail tariff is nationally uniform and is regulated by MMERE, and there is a cross-subsidy between the HES customers with relatively lower cost of supply and the customers of the outer islands with higher generation costs mainly due to the high cost of transporting fuel. Since an independent regulatory authority does not exist in the Solomon Islands, SIEA also advises SIG on regulatory instruments, and is given the authority to issue licenses to entities who wish to generate and distribute electricity in areas not supplied by SIEA. There are also small privately owned.
+
+The cost of Fiu River Hydropower Project including a 3.5 km access road and a 10 km transmission line is estimated at SBD66.14 million. This is equivalent to a specific cost of about US$17.0 million/MW for the initial 500 kW installation, and US$11.3 million/MW if considering 750 kW capacity once the additional unit is added when demand increases. The specific cost of TRHDP, including the access road, transmission line and development costs, is also about US$15.3 million/MW for the initial 15 MW installation, and US$11.6 million/MW once the additional unit is added when demand increases, demonstrating the high cost environment of the Solomon Islands. A geothermal power project on Savo Island off the coast of Honiara had been considered, but was dropped due to uncertainty over resource availability and the high cost of the submarine cable needed to transmit power to Honiara. Measured wind speed data is not available in Honiara, but global wind models suggest fairly low wind speeds in the general area.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+generators, which are for self-consumption and some of which sell excess power to SIEA under loosely negotiated PPAs.
+
+## Support of development partners
+In addition to the previously mentioned SISEP, the World Bank is also supporting SIEA to implement an Electricity Access Expansion Project, which aims to increase access to electricity by providing a targeted subsidy to low-income households to pay for new service connections and in-house wiring which are unaffordable for households with limited income. Other than the Fiu River Hydropower project, the ADB is also implementing the Solar Power Development Project, which aims to hybridize existing diesel-based outstations with solar and battery units. The Energy Programme of the Secretariat of the Pacific Community’s Economic Development Division provides technical assistance (TA) to MMERE, including on development of the SINEP in 2014. The Japan International Cooperation Agency (JICA) grant-funded a 50 kW parking lot rooftop solar facility for SIEA, and the governments of New Zealand and United Arab Emirates co-financed the 1 MW solar farm mentioned earlier. The Government of Australia (GoA) has provided ongoing support to TRHDP project preparation and is committed to co-finance the Project.
+
+## Higher Level Objectives to which the Project Contributes
+Solomon Islands’ 2016-35 National Development Strategy (NDS) places emphasis on private sector-led investment and growth, and the promotion of renewable energy. To mitigate the impact of high cost diesel fuel, SIG adopted a policy to develop domestic sources of energy, particularly hydropower and other renewables. At the same time, since the Honiara Club Agreement (HCA) placed a moratorium on new loans, public financing of larger infrastructure projects was made very difficult. While this moratorium has since been lifted, it gave an initial impetus to the drive for private sector participation in infrastructure development, financing and operation - a policy that was later embedded in NDS 2011-2020, and inherited in the new NDS 2016-2035 promulgated in April 2016.
+
+TRHDP is a national priority under the Solomon Islands National Infrastructure Investment Plan (NIIP). NIIP presents an integrated plan for development priorities of key infrastructure sectors, including electricity, and supports SIG’s development strategy by helping to:
+- (i) ease constraints to growth through the provision of lower cost and reliable electricity;
+- (ii) facilitate private sector development; and
+- (iii) promote clean energy development and enhance energy security by substituting diesel power generation by hydropower.
+
+Through a multi-criteria analysis, NIIP selected TRHDP as one of the strategic priority investments for the Solomon Islands.
+
+TRHDP is critical for greenhouse gas (GHG) emissions reduction and for SIG to achieve its Intended Nationally Determined Contribution (INDC) commitment. SIG’s INDC is to reduce GHG by 18,800 tons of carbon dioxide equivalent (tCO₂eq) per year by 2025 and by 31,125 tCO₂eq per year by 2030. With an installed capacity of 15 MW, TRHDP is expected to annually generate, on average, 78.35 GWh of clean renewable energy to displace equivalent amount of energy to be generated by current and future diesel generators. This would be roughly 68 percent of the annual demand forecast for 2022. Applying the default grid emission factor of 650 tCO₂eq/GWh for a 100 percent diesel-based system, the net GHG emission reduction potential of the Project is 49,500 tCO₂eq per year after deducting potential emissions during construction, land clearing, and the reservoir. This is more than twice the INDC target for 2025.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+17. TRHDP is aligned with the World Bank’s Country Partnership Strategy (CPS) FY2013-2017 and other Bank operations. The World Bank Group’s CPS is structured around two engagement areas: strengthening economic resilience and improving public service provision. The Project supports the Bank’s engagement on economic resilience by easing constraints to growth, leveraging private capital and promoting climate friendly growth. In particular, the Project will support CPS outcome # 5 of lower cost and reliable electricity from cleaner energy sources. The Project, through provision of lower cost electricity, will also strengthen SIEA’s performance and contribute to the objectives of SISEP.
+
+18. TRHDP supports the World Bank corporate twin goals of reducing poverty and increasing shared prosperity for the poorest 40 percent of the population. The impact of TRHDP on the retail electricity tariff is expected to be significant. From an average retail tariff of US$ 65 cents/kWh in 2017, in its first year of operations in 2022 TRHDP is expected to help reduce electricity retail tariff to about US$ 33 cents/kWh. By 2052, retail tariff levels are expected to reach US$ 26 cents/kWh. By reducing the cost of power supply, the TRHDP would make electricity more affordable to lower income households, lowering the barrier for new households to connect to the grid. This would enable these households to lower their expenditures on electricity and enhance their income earning capacity through use of power for productive and social purposes. Lower costs of power would also reduce the costs of doing business for small and medium enterprises, thus increasing profits and stimulating investment and job creation leading to increased prosperity for lower income households. It should be noted that the reduced cost of supply in Honiara (and its suburbs as the grid is extended) will also benefit customers in the outer islands through a lower national uniform electricity tariff.
+
+19. The Project is consistent with the World Bank Group’s “cascade” approach to infrastructure finance. Given the limited public resources and large scale investment needed by TRHDP, the SIG decided to solicit private investments and commercial financing for the TRHDP. Through a competitive process supported with IFC advisory services, a pre-qualified international developer was invited for negotiations on the needed PPA tariff to make the project financially viable and attractive to private investment. It was initially envisaged that the sponsor would arrange commercial loans whereas the Bank would support the Project with a guarantee of SIG’s obligation in favor of commercial lenders financing the Project Company (PC). However, due to the high investment cost given the inherent high cost environment of the Solomon Islands, it was determined that the PPA tariff will be too high for SIEA and its customers under this structure. To make TRHDP financially attractive to reputable international developers to bring private equity and the capacity to construct and operate the Project, while also reducing the PPA tariff to ultimately lowering the retail tariff for the consumers, SIG decided to request concessional public financing to support the Project. The Bank was instrumental in supporting SIG in preparing a robust project and in arranging concessional financing. In addition, the sponsors have requested for insurance provided by the Multilateral Investment Guarantee Agency (MIGA). The “four-point cover” provided by MIGA, including insurance against non-transferability, political violence, expropriation and breach of contract, provides the sponsors with the confidence required to invest and to enter into a long-term PPA in a country with no such precedents.
+# THE WORLD BANK
+## TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+# PROJECT DEVELOPMENT OBJECTIVE
+## A. PDO
+The project development objective (PDO) is to increase the share of renewable energy through hydropower in Solomon Islands.
+
+## B. Project Beneficiaries
+20. The direct beneficiaries of the Project are SIEA and its residential, commercial and industrial customers who will benefit from a lower national uniform electricity tariff resulting from the proposed TRHDP. Individual households, public and private enterprises, will have the opportunity to apply the savings to other uses such as education and business expansion. Household disposable income is expected to increase, particularly in the project area, due to jobs during construction, improved road access, royalties and benefit sharing investments. During the extensive community consultations conducted during project preparations, community members expressed interest in a range of benefits from the project including job acquisition and skills development, improved access to schools and markets for goods as a result of the road, opportunities for connections to the electricity grid as a result of the transmission lines, service delivery improvement, eco-tourism and business development activities. Business activity at a national level is expected to grow with investment enabled by significant electricity cost savings. Furthermore, a reduction in the cost of electricity supply will improve the financial performance of SIEA and thereby provide the utility with more resources to finance system expansion and maintain existing assets, therefore, indirectly improving the population’s access to electricity and the reliability of its supply. Furthermore, the Project-financed access road will improve mobility of people and goods in the surrounding communities.
+
+21. The proposed Project is expected to have wider transformational benefits beyond the power sector. As the first major build-own-operate-transfer (BOOT) scheme invested by a foreign investor, and as an example of successful introduction of innovative approaches to acquiring community-owned customary land and obtaining social acceptance. The Project will also set an example for risk sharing arrangements and help improve the investment environment for international private finance.
+
+22. In addition, the benefit-sharing mechanism expected to be introduced in conjunction with the Project, with separate financing but coordinated implementation arrangements, will demonstrate how host communities can also benefit equitably from large-scale natural resources development projects and enhance prospects for sustainability.
+
+## C. PDO-Level Results Indicators
+23. Progress will be measured against the following PDO level results indicators, as applicable:
+- a. Generation capacity of hydropower constructed under the Project (MW);
+- b. Share of hydropower in the generation mix (%); and
+- c. Electricity generated by the Project (GWh).
+# PROJECT DESCRIPTION
+
+## Project Components
+24. The Project has the following unique, transformational characteristics: increase of renewable energy generation in HES from 1 percent in 2016 to 85 percent in 2022 (with 68 percent from the Project and the remainder from expected solar); GHG reduction of more than twice the entire INDC commitment; the first utility-scale hydropower project; perhaps the largest investment project in the country; the first BOOT project to be invested by international private sponsors; understanding and sharing risks between public and private sectors; introduction of a benefit-sharing mechanism to benefit the wider community; and an unique land acquisition process which distributes compensation and royalties equally to all members of newly established tribal cooperatives and establishes a joint government-landowner land management company. All of these factors will help build private sector confidence to invest in large-scale investment projects, in particular, infrastructure, in the Solomon Islands.
+
+25. The World Bank Group has mobilized a range of resources and instruments to enable the Government to attract an experienced international hydropower developer to construct and operate the hydropower facility (HPF), and to enhance the quality and viability of the Project. The IFC Advisory Service has played a leading role in supporting SIG to attract a private developer through an international competitive process and negotiation with a pre-qualified bidder. IDA has provided extensive technical support to SIG to undertake feasibility, safeguard, and other preparation studies, and to engage world-class experts to help SIG design an attractive investment project. IDA also assisted SIG to mobilize concessional financing to cover majority of the project cost once it had become clear that even with an IDA Guarantee the cost of private financing would endanger the financial viability of the Project.¹⁰ To address the risks inherent in investing in a relatively untested investment environment with a recent history of political unrest, a MIGA insurance has also been requested by the private sponsors of the PC: Korea Water Resources Corporation (K-water) and Hyundai Engineering Co. Ltd. (HEC).¹¹ While the volume of private equity mobilized is limited, the private sponsors bring vast experience on hydropower development and operation to the Solomon Islands, and add certainty over the cost and sustainability of the Project. By having the sponsors being responsible for the construction and operation of the HPF, the risk of poor quality construction and operation is significantly reduced compared to an arrangement where an inexperienced public entity would be the implementing entity.
+
+26. The TRHDP will consist of four components: (i) HPF; (ii) access road; (iii) transmission lines; and (iv) TA. In terms of timing, the TA component is expected to begin first in order to maintain continuity of the TRHDP Project Office (PO) with the preparation phase and to support the other project components. Implementation of the access road would proceed ahead of construction of the HPF to facilitate access to the dam and powerhouse sites. Construction of the transmission lines will come last. Construction of the HPF would begin in 10 Assuming commercial loan of 7.5% interest with maturity of 16 years including 4-year grace period, the levelized cost of the Project with commercial loan will be nearly double that of the level attainable with concessional financing being arranged for the Project. 11 The “private sponsors” will be K-water and HEC, both of which will hold shares in the Project Company. K-water and HEC qualify as Private Entities for the sake of the World Bank Performance Standards even though K-water is publicly owned.
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+year 2 and end in year 5. Monitoring and support during the first year of operations will continue for one year after the commissioning of the hydropower facility, bringing the project period to a close in year 7.
+
+## Component 1: Tina River Hydropower Facility
+(Estimated cost: US$185.66 million). Under a 34-year PPA (including 4-year construction period), the PC will develop, finance, construct and operate the HPF with an installed capacity of 15 MW located on the Tina River, 20 km southeast of Honiara, and will comprise:
+- A roller-compacted-concrete (RCC) dam 72 m high (from foundation) located in a narrow gorge on the Tina River;
+- A waterway including a 3.3 km headrace tunnel in 3.3 m diameter, surge shaft and a surface-type steel penstock in 3.0 m diameter to convey water from the dam to the powerhouse;
+- A powerhouse 5.7 km downstream of the dam site that will house three 5 MW Francis turbines and an extra bay for future installation of a possible fourth 5 MW turbine.
+
+## Component 2: Access Road
+(Estimated cost: US$25 million). The access road to facilitate HPF construction and operations includes two lots:
+- Lot 1 involving the upgrade of the existing 13.2 km road from Black Post Junction to Managikiki Village;
+- Lot 2 involving a 5.5 km “greenfield” road through steep heavily forested terrain from Managikiki Village to the dam and power station. Upon commissioning of the HPF, Lot 1 will become the responsibility of SIG and Lot 2 will remain the responsibility of the PC for the duration of the PPA, after which it will be handed over to SIG together with the HPF.
+
+## Component 3: Transmission Lines
+(Estimated cost: US$22.82 million). Power to be generated from the HPF will be evacuated to HES through two parallel single-circuit 66 kilovolt (kV) transmission lines of 23 km to the existing Lungga Diesel Power Station. The cost of this component includes the upgrading the switchyard of Lungga Power Station, the highest system voltage at present being 33 kV. Since the transmission lines are only required by the time of testing and commissioning of the HPF in 2022, the exact route has not been decided by the implementing agency, SIEA. Financing from IDA will be on-lent by SIG to SIEA. Cost in excess of this allocation will be arranged between SIEA and SIG.
+
+## Component 4: Technical Assistance
+(Estimated cost: US$7.0 million). This TA supports the operation of the TRHDP PO under MMERE to finance consultants to monitor overall project implementation, prepare and periodically update a Project Operations Manual in cooperation with the other implementing entities, provide awareness building and training for various stakeholders, monitor and support environmental and social safeguard arrangements and the Gender Action Plan (GAP), implement the LALRP for Components 1 and 2, maintain a Dam Safety Advisory Panel (DSAP) and an independent environmental and social monitoring agent, conduct a cumulative impact assessment, liaise with various government counterparts and other stakeholders, support implementation arrangements agreed under the land acquisition process, support communities in utilizing their share of project benefits for community development, and to report to the Bank and other financiers on project performance and achievement of objectives. A non-governmental organization (NGO) will also be engaged to work with landowning tribes in the upper catchment to support the first stages of establishing a protected area, up to the point of preparing a Protected Area Management Plan and Budget, if community members are interested and committed to doing so. The planning and implementation of the benefit sharing mechanism and the proposed protected area management shall adopt an inclusive community-based planning approach with due consideration to the gender dimensions of the activities.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+# PROJECT COST AND FINANCING
+31. The total project cost is estimated at US$240.48 million. This is expensive for a 15 MW hydropower plant even if considering that the civil works are designed for 20 MW to accommodate the fourth 5 MW unit when demand increases.
+
+32. Component 1 HPF: The total cost for Component 1 is estimated at US$185.66 million. The largest cost item is the proposed Engineering-Procurement-Construction (EPC) price of US$140.0 million excluding taxes (under negotiation with K-water and HEC). For the same scope, excluding access road and transmission lines, the Feasibility Study estimated the cost to be approximately US$124.5 million in 2014, which was verified by an independent cost estimator recommended by the DSAP. The proposed EPC price is 12.5 percent higher than the Feasibility Study estimate. The proposed EPC price has also been reviewed by SIEA’s own international consulting firm in March 2017 who, through an independent cost estimate, concluded that the offered price is adequate assuming a reasonable levels of profit and overhead cost, and factoring in that HEC will be taking majority of the construction-related geological risks.
+
+33. Other notable costs include development costs of US$20.7 million and contingencies of US$16.7 million. The development costs include PC operation cost and cost of advisors during the 4-year construction period, including the estimated cost of the Owner’s Engineer currently at US$3.5 million. While these costs will continue to be negotiated, it is also important to ensure sufficient costs are allocated to ensure quality construction and full compliance with environmental and social management requirements.
+
+34. Component 2 Access Road: The estimated cost of US$ 25.0 million is based on the detailed design being executed by SIG’s international consulting firm and ongoing negotiations with the sponsors.
+
+35. Component 3 Transmission Line: The cost of US$22.82 million is based on estimates made by an international consulting firm contracted by SIEA to prepare a detailed concept design, which included assessment of different routes and requirements to upgrade the connection point (i.e. Lungga Power Station) to accommodate the 66 kV voltage connection. This study was completed in November 2016.
+
+36. Due to the inherent high cost environment of the Solomon Islands, further exacerbated by the complex technical conditions to develop a major hydropower plant, financing costs associated with commercial loans would have made the Project financially unviable. SIG, therefore, requested IDA and other financiers to provide concessional financing for it to on-lend to the PC and SIEA with a nominal spread. SIG, through its main public investment vehicle, the Investment Corporation of Solomon Islands (ICSI), will also be a shareholder of the PC whereby ICSI will only require a marginal return on its equity in an effort to reduce the PPA tariff.
+
+37. The total proposed financing by component is summarized in Table 1.
+
+Table 1: Project Financing by Component (US$ million)
+- Project Components
+- Project Cost
+- IDA Credit
+- IDA Grant
+- GCF Loan
+- GCF Grant
+- ADB
+- EDCF
+- IRENA/ADFD
+- GOA
+- K-water
+- Borrower
+
+- Component 1: 185.659, 21.304, 7.355, 70.00, 0.00, 30.00, 31.60, 15.00, 0.00, 10.40, 0.00
+- Component 2: 25.000, 0.000, 0.000, 0.00, 16.00, 0.00, 0.00, 0.00, 9.00, 0.00, 0.00
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+Component 3     22.821    2.071    0.000    0.00    0.00    0.00    0.00      0.00    0.00       0.00       20.75
+Component 4      7.000    0.000    2.900    0.00    0.00    0.00    0.00      0.00    2.70       0.00         1.40
+Total Costs     240.480  23.375   10.255   70.00   16.00   30.00   31.60     15.00   11.70      10.40       22.15
+Total Project  240.480  23.375   10.255   70.00    16.00  30.00   31.60     15.00   11.70      10.40       22.15
+Costs
+Front End    0.000    0.000    0.000     0.00    0.00    0.00    0.00      0.00    0.00       0.00        0.00
+Fees
+Total   240.480  23.375   10.255   70.00    16.00  30.00   31.60     15.00   11.70      10.40       22.15
+Financing
+Required
+
+a Project Cost, IDA Credit and IDA Grant amounts expressed to three decimal places in order to avoid rounding errors.
+b ADB financing includes loan of US$18.0 million and grant of US$12.0 million.
+c EDCF and IRENA/ADFD financings are loans.
+d GOA APIP is a grant.
+
+38. The financing plan for Component 1 assumes the PC’s debt/equity ratio to be 90:10. A lower leveraging
+of 80:20 had been initially expected, but due to the increase in the financing cost of the Green Climate Fund
+(GCF) loan, leveraging was increased as a measure to lower the PPA tariff to levels acceptable to the off-taker
+(i.e. SIEA). Increasing leverage from 80:20 to 90:10 has the effect of reducing the overall equity, which in turns
+reduces K-water and HEC’s equity shares which are most expensive, but further leveraging is not recommended
+as the sponsors will need to maintain sufficient stakes in the Project.
+
+## Lessons Learned and Reflected in Project Design
+39. Implementation through BOOT modality can usefully fill gaps in country capacity to build and operate
+hydropower facilities. For the development and sustainable operation of a relatively large infrastructure
+facility, experience shows that the private sector brings not only financing but valuable experience. In the
+case of TRHDP, K-water and HEC will take responsibility under the BOOT arrangement to develop and operate the
+Project since neither SIG nor SIEA has the experience or the capacity to do so. This arrangement is critical to
+ensure quality design and construction, and responsible operation, as well as to ensure dam safety and sound
+implementation of environmental and social impact mitigation measures. The PPA requires that the operator
+develop the capacity of SIG and SIEA to operate the plant responsibly by the termination of the 30-year PPA
+operation period.
+
+40. PPA payment for net available capacity can be used to attract private sector investment interest in the
+absence of substantial hydrological data. Hydropower projects are often contracted to a private investor
+under an energy (i.e. per kWh) payment PPA, where the investor takes the hydrological risk. However, since the
+investor must ensure a revenue stream to service its debt, perform necessary maintenance and secure its
+return on equity, the PPA energy tariff is based on the energy that is assessed to be produced at all times with a
+high degree of confidence (‘primary energy’). While the excess energy (‘secondary energy’) is priced lower, the
+off-taker is paying additionally on top of the revenue the investor has secured to meet its obligations through
+sales of ‘primary energy’. Therefore, the investor is not fully taking on the hydrological risk. For TRHDP,
+particularly due to the very limited availability of hydrological data, a net available capacity payment modality.
+# IMPLEMENTATION
+## Institutional and Implementation Arrangements
+42. General. The PO under MMERE will be the main implementing agency of the Project, as it has been during project preparation. The PO will provide overall project oversight, coordinate between the project components, project monitoring and reporting. As a majority of the project financing will be provided through SIG, the Ministry of Finance and Treasury (MOFT) will play an instrumental role in coordinating the provision of financing from various sources. A donor coordination mechanism, led by the Bank, is expected to be established for reporting and information sharing between SIG and donors, and among donors.
+
+43. Component 1 will be implemented by the PC. K-water and HEC will enter into a shareholders’ agreement with ICSI to establish the PC which is still under negotiation.
+
+44. Under the PPA, the PC will contract an EPC contractor (expected to be HEC) for the construction of the HPF and the access road (Component 2), and an O&M contractor (expected to be K-water) for the operation of the HPF and Lot 2 of the access road. After HPF commissioning, Lot 1 of the access road will be maintained by SIG. The EPC contract, in particular, will be a fixed-price contract whereby the EPC contractor will assume majority of the construction-related geological risks. The PC will contract an Owner’s Engineer to supervise the EPC contract.
+
+45. The PC will enter into an Implementation Agreement (IA) with SIG which will specify the roles and responsibilities of each party, for example, SIG’s responsibility to provide land for the Project and guarantee foreign exchange convertibility. The PC will also enter into a Government Guarantee Agreement (GGA) also with SIG in which SIG guarantees the payment obligations of SIEA under the PPA. The PC will enter into a Lease Agreement with the Tina Core Land Company (TCLC; to be established) with respect to the land it owns, which is necessary for the implementation of Component 1 and part of Component 2 of the Project.
+
+46. The PC and SIEA will jointly recruit and finance an Independent Engineer to ensure that the HPF is designed and constructed in adherence with the provisions of the PPA. In addition, PO will retain the DSAP under Component 4 to ensure that design, construction and operation of the HPF meet required safety standards. At the end of the PPA period in 2052, K-water/HEC’s share will be transferred to SIG, thereby facilitating full ownership of the HPF by the SIG.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+47. Component 2 will be implemented as a part of the overall EPC contract under Component 1. Supervision would be conducted by the PC’s Owner’s Engineer to review project design and ensure quality and timely construction of the access road.
+
+48. Component 3 will be implemented by SIEA who will contract a supply and installation contractor. SIEA will supervise the installation using its own resources using international consulting firms it retains through framework agreements. The lease of the Core Land would address SIEA’s rights to construct and maintain sections of the transmission line.
+
+49. Component 4 will be implemented by MMERE, through the PO, who will recruit (i) key PO staff including environmental and social experts and a gender focal point; (ii) DSAP members; (iii) an Independent Environmental and Social Monitoring Agent, (iv) external auditors; and (v) specialized technical experts when required.
+
+50. Financing Arrangements. IDA will sign a financing agreement with SIG, for the financing of SIG/ICSI’s equity shares in the PC and other debt financing for the construction of the HPF (Component 1), construction of the transmission lines (Component 3) and TA (Component 4). IDA, acting as the administrator for Australia-Pacific Islands Partnership Trust Funds (APIP TF) will also sign a grant agreement with SIG to extend the APIP TF financing of the access road (Component 2) and TA (Component 4); and the International Bank for Reconstruction and Development (IBRD) and IDA, acting jointly as an Accredited Entity for the GCF (further to the completion of an on-going accreditation process) will enter into a GCF financing agreement with SIG for the financing of the HPF (Component 1) and the access road (Component 2). The Bank will sign project agreements, respectively, with the PC for Components 1 and 2, and with SIEA for Component 3. ADB, Economic Development Cooperation Fund of the Government of Korea (EDCF) and IRENA/ADFD will sign legal agreements directly with SIG.
+
+51. IRENA/ADFD financing was confirmed in January 2017, and GCF financing was approved by its board in April 2017. APIP TF was also confirmed in April 2017. EDCF and ADB are expected to obtain approval from their respective board in June and August 2017.
+
+52. Further details, including a diagram illustrating the various contractual relationships within the Project and the fund flow are included in Annex 2.
+
+53. The benefit-sharing mechanism is not a component under the Project. However, it will be supported under an associated project for which SIG requested financing from the Japan Social Development Fund (JSDF) administered by the Bank. The PO will be the implementing entity to ensure consistency and seamless coordination with the Project. A benefit-sharing mechanism is an arrangement to share the Project’s benefit with the wider community, and is expected to be implemented throughout the PPA operation period. The JSDF program is intended to bring the sharing of the benefits forward by implementing community development investments during the Project construction period. In the event JSDF funding does not materialize, SIG has agreed to seek alternative resources to implement the benefit-sharing mechanism during the construction period. The detailed mechanism to be implemented during Project operation will also be devised during Project construction. Implementation of this benefit sharing mechanism is expected to provide an example for the development of similar arrangements in the Solomon Islands and elsewhere.
+# RESULTS MONITORING AND EVALUATION
+The PO will be primarily responsible for gathering data and reporting on progress towards the achievement of PDO measured with project results indicators via quarterly project reports. Most of the results indicators are tied to the completion of major milestones in the project, namely the completion of access road and transmission line construction and the commissioning of the HPF and the benefits which emanate from them (e.g. reduced GHG emissions and renewable energy generation). Drawing upon technical specialists when needed, in particular the Independent Engineer and the DSAP, the PO will verify satisfactory completion of each milestone. The PC and SIEA will collect data on result indicators and submit reports on key milestones to MMERE and MOFT.
+
+In addition to the indicators stated in the Results Framework, the PO will monitor the implementation of the GAP, social and environmental mitigation actions, impacts and beneficiary feedback through regular community meetings as well as a grievance redress mechanism (GRM) which will systematically monitor feedback from various stakeholders and ensure that appropriate responses to such feedback are provided. Inputs will be provided by the environment and social safeguard specialists contracted by the PO as well as from the Independent Environmental and Social Monitoring Agent.
+
+# SUSTAINABILITY
+## Technical Sustainability
+The Project has been prepared through a series of pre-feasibility, feasibility and least-cost system planning studies to ensure a design that is the least cost solution for long-term power system development, and which meets international best practice. For Component 1, DSAP has provided comments on the feasibility study prepared by SIG and on the bidding design submitted by K-water/HEC consortium. DSAP will continue to provide guidance on the detailed design, construction of the HPF, reservoir filling and operation and the Bank’s dam expert will monitor how such guidance is taken into account.
+
+The private sector project sponsors, K-water and HEC, have also been selected through a rigorous pre-qualification process to ensure it has sufficient experience in developing and operating a hydropower plant. The provisions of the PPA, particularly the minimum functional specifications, has been prepared with inputs from IFC’s technical advisors, and the commercial sections have been developed with inputs from IFC’s legal advisors to ensure technical and commercial sustainability. The Independent Engineer will also ensure that the design and construction of the HPF adheres to the provisions of the PPA.
+
+The PPA also includes provisions for O&M of the HPF, including major overhauls, over the PPA period as well as provisions for the transfer of the facility in a specified condition at the time of PPA termination. The PPA also contains provision for the PC, through its O&M Contractor, to provide O&M training to SIEA staff so that SIG can continue to operate the facility after handover. In terms of sedimentation, the feasibility study has estimated that it would take 65 years for the dead storage volume of the reservoir to fill up. The dam is equipped with a sediment scouring gate, and since the reservoir is relatively small, dredging of sediments is also an option, if required.
+
+## Component 2
+For Component 2, the specifications of the access road will ensure appropriate design to withstand loading by heavy equipment. Upon commissioning of the HPF, the O&M of Lot 2 will remain with the PC to be
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319) implemented under the O&M Contract during the PPA duration, while Lot 1 (public road section) will be maintained by the Ministry of Infrastructure Development, which will be expected to allocate sufficient budget for O&M as part of its regular road maintenance program.
+
+## Component 3
+Component 3 will be implemented by SIEA. SIEA has several reputable consulting firms retained under framework agreements which it will call on for the detailed design and construction of the transmission line. While the highest voltage operated by SIEA is 33 kV, it is judged that SIEA has adequate experience to operate the 66 kV transmission line to be developed under the Project. SIEA has demonstrated strong financial performance in recent years, and will be in a position to adequately maintain its network as part of its network maintenance program.
+
+## Financial Sustainability
+Financial sustainability of the Project is ensured through the PPA terms which are being negotiated to ensure a reasonable return on equity to the shareholders, an adequate debt service coverage ratio (DSCR) for debt services, and at a PPA tariff (LCOE) level that is financially viable to SIEA. K-water/HEC consortium has satisfied the financial eligibility criteria during pre-qualification, and the corporate financial analysis on SIEA has concluded that SIEA has the ability to pay for the electricity as per the provisions of the PPA while reducing retail tariff for its customers. In addition, the GGA backstops the payment obligations of SIEA.
+
+## Environmental and Social Sustainability
+As described in detail under the Appraisal Summary section below, the Project has been appraised to have incorporated best international practice in ensuring environmental sustainability and adopted an innovative approach to acquiring land through a customary process with due respect to the local customs and traditions. The tribal groups with customary ownership of the Core Land--the land acquired by SIG for the Project--will benefit through royalties and lease payments, while also retaining part ownership of the land through the proposed TCLC, jointly owned by SIG and the land-owning tribes. Upon de-commissioning of the HPF, the land would be returned to the tribal landowners and the TCLC would cease to exist. An informal screening based on the Hydropower Sustainability Assessment Protocol devised by the International Hydropower Association was performed in March 2017 whereby the draft report concluded that significant gaps against the basic good practice criteria of the Protocol is unlikely.
+
+# ROLE OF PARTNERS
+The Bank will take the lead in coordinating among the donors during implementation, pursuant to a donor coordination mechanism (which may be formalized through a Memorandum of Understanding) involving the Bank, GOA, ADB, GCF, EDCF, and IRENA/ADFD for reporting and information sharing between SIG and donors and among donors, as well regular implementation support and joint supervision missions. EDCF is also considering contracting more formally the Bank services under the Co-financing Framework Agreement signed between the Bank and Export-Import Bank of Korea which is entrusted with the administrative operation of EDCF. The roles and responsibilities of the partners are provided in detail in Annex 2.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+# KEY RISKS
+## Overall Risk Rating and Explanation of Key Risks
+64. The overall implementation risk is High as this is a complex project being implemented in a fragile, low capacity environment with no previous experience constructing or operating a large-scale HPF. These main risks are being shared between the shareholders in the PC (with K-water maintaining management control) and SIG, with construction risks also being built in through the fixed-price EPC contract. The following are the key risks roughly in sequential order, from the pre-construction through construction and operation after commissioning.
+
+65. Need for concurrent negotiations of Project design, implementation, financing and equity arrangement. The implementation of Components 1 and 2 and their financing by the Government, K-water and HEC are designed as a project finance structure¹², where a special purpose Project Company is set up to carry out these activities, and where the overall cost incurred for the establishment of the PC and the implementation of its activities is paid by the income generated by Components 1 and 2 of the Project. This means that each aspect of the cost of the Project (including the cost of construction and operation, as well as the terms and conditions of its financing, tax regime and other inputs) and its income (the tariff) has an impact on the whole Project: none of them can be dealt with independently from the others. This is the reason why the negotiations of the legal agreements for Project financing (i.e. the IDA Financing Agreement and Project Agreements) must take place at the same time as the negotiations of the Project Documents (i.e. Power Purchase Agreement, Implementation Agreement, etc.), instead of finalizing the Project design and implementation first and then the financing documents, as is common practice in most Bank-supported IPF projects. The various Project financiers, including IDA, need to confirm the availability of their financing and their financial terms, through Board approval, before the other elements of the Project costs and income can be finalized. Once those elements are all finally agreed, the financiers can confirm their assessment of the economic and legal aspects of the Project (which are estimates only, until the finalization of costs and income) and enter into their respective financing agreements. This is not due to a lack of readiness of the Project, but rather a reflection of the process of project financing preparation.
+
+66. In order to mitigate this sequencing issue, World Bank Management has waived the requirement specified in Paragraph 28 of BP 10.00 of the Operational Manual, allowing Board approval on the basis of the negotiated term sheet attached as Annex 4 of the PAD, instead of negotiated legal agreements. The provisions of the Financing Agreement to be entered into between IDA and the Solomon Islands, the Project Agreement to be entered into between IDA and the PC once it will have been established and the Project Agreement to be entered into between IDA and SIEA, will be finalized after Board approval. If the finalization of the legal agreements after Board approval results in substantial changes to the term sheet previously approved by the Board, Management will resubmit the proposal to the Executive Directors for approval of the changes.
+
+67. This different sequencing between finalization of the legal agreements and Board approval does not carry additional risk. It allows the Government and its partners to structure the Project, give other financiers the confidence to also seek approval of their respective financing and confirm their financial terms, finalize the 12 As opposed to a corporate finance structure, where the repayment of the Project is made from the overall owners’ assets.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+Project Documents, allow IDA to manage the risk of uncertainties and delays in financial close of the Power Purchase Agreement (which could materialize if the legal agreements were finalized in advance) and support achieving financial close, so that the Project implementation can begin. Such change does not affect the application of all applicable policies and other procedures of the Bank (such as safeguards, procurement, use of funds for their intended purpose and with economy and efficiency, etc.).
+
+68. The Board approval does not constitute a commitment to the Recipient to extend the Financing. Whether the Board approval is given on the basis of a negotiated legal agreement or a negotiated Term Sheet, if the conditions to the IDA financing are not met “in a manner satisfactory to IDA” within the time limits specified in the signed legal agreement (within the overall framework of what is permitted by the Bank procedures), IDA will not provide its financing. The conditions included in the term sheet are adequate to protect IDA against the risk of having to disburse funds for a Project whose implementation may not be possible or financing may ultimately be incomplete. They do not cover the risk of delay in implementation or implementation on a different basis or increased costs of the Project; and ultimately they do not cover the Bank against the risk of having to restructure the proposed financing.
+
+69. Co-financing risk. In addition to IDA, there are five other concessional financiers (ADB, GCF, EDCF, IRENA/AFDF, and APIP TF) each of which has its own processes and timetable for approval and effectiveness. At the time of the IDA Board, only IRENA/ADFD, APIP TF and GCF funds have been approved in principle. With respect to GCF, the negotiations of the Accreditation Master Agreement, pursuant to which the Bank would become an accredited entity of the GCF may not be completed, the Funding Activity Agreement pursuant to which Funds could be made available and disbursed in tranches with a thirty-day notice to the Bank may not be signed, and its conditions of effectiveness and disbursement will not be completed at the time of the IDA Board. Such disbursement to the Bank will be required before the Bank may extend the GCF Co-financing to SIG. With respect to APIP, the TF already exists but a new contribution from GOA is currently being processed and is required before the APIP Co-financing can be extended to SIG. The Bank and SIG are coordinating across donors to align processing schedules since delayed approval of funding sources could cause significant implementation start-up delays. The Bank is also assisting SIG to align the financiers’ requirements, conditions and covenants to avoid mismatches which may adversely impact project implementation. In addition, in order to mitigate IDA’s risk of starting to finance a Project with an incomplete financing plan, it is expected that the signature of the Funding Activity Agreement between the GCF and the Bank and of the Amendment to the APIP Administration Arrangement between the GOA and the Bank will take place on or before effectiveness of the IDA Financing Agreement.
+
+70. Project and Financial Documentation Risk for Component 1. At the time of the IDA Board, the negotiations between K-water/HEC, SIG and SIEA will still be on-going. The PC and the proposed TCLC will not be established; the Lease Agreement, the IA, the GGA, the PPA, and the EPC Contract with the PC (the Project Documents) will not be finally agreed. This means that the implementation arrangements for the Project may be delayed or concluded on a basis which ultimately differs from what is expected at the time of the IDA Board. It is not unusual for this type of Project to negotiate the Project Documents after the availability of the financing is confirmed in principle (but before the financing agreements are finalized and signed). This is especially important when, as is the case, the confirmation of the cost of financing is an important element of the discussion between the Government and the sponsors. Standard sequencing of the type of project’s documentation, similar to what is structured for Component 1, would involve first the signature of the PPA, then the signature of the financial documentation and the EPC Contract, and then the Financial Closing will.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+happen when the obligations to build the HPF and the effectiveness of most of the financing agreements would kick in concomitantly. The negotiations between SIG, ICSI, SIEA, K-water and HEC are on-going. The Recipient, ICSI, K-water and HEC are currently focusing their efforts on the shareholders’ arrangement. The objective is to be able to sign the Shareholders’ Agreement in August 2017 so that K-water and HEC could disburse their equity, in September, 2017, in order to fund development costs, if needed. The sequencing of equity disbursement needs to be further discussed. Once an agreement will have been reached on the Shareholders’ Agreement, the Recipient, SIEA, K-water and HEC will resume their work on the Power Purchase Agreement (PPA), with respect to which the schedules need to be agreed upon (especially the tariff – once the cost of financing will be confirmed). The other agreements (Implementation Agreement, Lease Agreement, EPC Contract, O&M Contract and Government Guarantee Agreement) are conditions of closing under the PPA. The target date for the signature of the PPA is end of October 2017 and the parties hope to be able to achieve closing under the PPA within three months of its signature. The objective is for all financing agreements to be signed and ready to become effective and proceed with a first disbursement as the obligations to implement the Project under the Project Documents begin, upon “financial close” under the Power Purchase Agreement. However, part of the IDA financing allocated to the financing of the ICSI’s equity investment is likely to become available earlier, to finance part of the development costs incurred to achieve PPA financial close.
+
+## Construction risk
+Construction of the HPF could require extension of time due, in particular, to adverse geological conditions of the dam foundation and tunnel excavation. PC will contract an Owner’s Engineer responsible for ensuring timely and quality construction as well as safety, while the PC and SIEA will jointly finance an Independent Engineer to validate that the EPC contract is effectively implemented in accordance with the PPA. DSAP will also monitor design and construction and provide expert advice to ensure dam safety.
+
+## Social risk
+There are still two of the five core land tribes that have not established their cooperative societies to receive compensation payments, despite the fact that the appeals period has ceased, the title to the land is now held by the Commissioner of Lands of SIG, and compensation payments are available in a trust account. SIG has taken a range of steps to ensure ongoing alignment of tribal interests in the Project including the provision of royalties, establishment of the proposed TCLC, and establishment of the proposed benefit sharing mechanism. The TCLC has yet to be registered and become operational and the benefit sharing scheme and royalties will not begin to disburse until the HPF is operating. A grant from the JSDF has been requested to provide visible community benefits during the construction period. This is intended to build confidence in the communities and to engage them in the process of designing the community benefit sharing scheme which will source the funds from the Project and will be implemented during the PPA operation duration. In the event JSDF funding does not materialize, SIG has agreed to seek alternative resources to implement the benefit-sharing mechanism during the construction period. MMERE will also maintain a community liaison function, engaging regularly and promoting the use of a Grievance Redress Mechanism (GRM). Another key concern is the influx of workers, some of which will be foreign, and their interaction with local communities, in particular, women and children. To mitigate this risk, the ESIA clearly stipulates that overnight workers camp cannot be established within the project area. MMERE PO will also monitor this issue carefully through its regular community consultations.
+
+## Environmental risk
+The most significant environmental risks during project construction and operation will be the quantity and quality of water in the Tina River for drinking and washing and maintenance of aquatic habitat, and obstruction of fish migration up and downstream. The potential introduction of invasive species from earth-moving equipment and increased human presence in areas with little previous presence is a
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+concern. Water-related risks will be mitigated by the PC through the provision of clean water to downstream communities and to maintain environmental flow in the bypassed section of the river. Impacts on terrestrial and aquatic wildlife, in particular, the presence of migratory fish, above and below the dam, will be monitored through regular PC reports, the safeguards experts contracted by MMERE and supported by the Ministry of Environment, Climate Change, Disaster Management and Meteorology (MECDM). A trap-and-haul system to move fish past the dam will be built during construction and implemented as soon as water begins to be diverted into the powerhouse. Oversight will be provided by MMERE PO and the Independent Environmental and Social Monitoring Agent.
+
+PPA payment risk. The risks related to SIEA financial performance have reduced significantly over time as financial and technical losses have been brought under control and overall management has improved. Nevertheless, SIEA’s future ability to make payments under the PPA could be affected by a range of factors including worsening financial management performance and reduced revenues due to increased technical and/or commercial losses and/or reduced retail tariff. SIG has agreed to provide a Government Guarantee that would fully cover the obligations of SIEA in the event of their inability to pay and in the event of PPA termination. The Bank’s Corporate Financial Analysis on SIEA has also projected that SIEA’s financial position will improve with the Project while being able to reduce the retail tariff for its customers.
+
+Hydrological risk. Since SIEA will be paying for net available capacity regardless of energy generated by the HPF, drought conditions whereby the HPF produces significantly lower energy will force SIEA to incur diesel generation costs on top of the PPA capacity payment. This would not affect SIEA’s financial position since such costs can be passed through to the retail tariff. However, as it will affect its customers, SIEA should introduce a mechanism (e.g. cash reserve) to accumulate savings during wet years to reduce the additional costs passed on to its customers in dry years. This is further discussed in the Corporate Financial Analysis section below.
+
+# APPRAISAL SUMMARY
+## Economic and Financial Analysis
+Economic Analysis. The economic analysis of the Project using the Bank recommended discount rate of 3.0 percent finds that the Project is economically viable. Under the Base Case scenario assuming (a) a 2.1 percent CAGR for demand growth; (b) international crude oil price increasing from US$ 64/barrel in 2017 to US$ 72/Barrel in 2025, and up to 87 by 2046 in real terms; (c) solar farm installation price going down from US$ 2.8 to 1.6 million/MW from 2017 to 2030 and remaining constant afterwards; and (d) an economic discount rate of 3 percent pursuant to the Bank’s Discounting Costs and Benefits in Economic Analysis of World Bank Projects (May 2016) the economic rate of return (ERR) of the Project is 4.9 percent with global environmental benefits and 3.8% without global environmental benefits (See Table 2). Under the Plausible.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+Worst Case scenario (see Table 4 for detailed assumptions), the ERR would fall to -0.7% while under the plausible best case scenario, the ERR would increase to 10.9%.
+
+Three fourth of the benefits of the project comes from displacement of diesel generation. Global environmental benefits valued using the Bank-recommended social value of carbon constitute 1.1 percentage points of the ERR. Since the population density of the Solomon Islands is very low, local environmental benefits from avoided particulate matters, nitrogen oxides and sulfur oxides are not a major consideration and comprise less than 1 percent of the benefits.
+
+TRHDP is cost effective in achieving GHG emission reductions. The Project helps reduce GHG emission by 1.3 million tCO₂eq over the life of the project.¹⁵ The marginal abatement cost of the Project is -$20.2 per ton, which makes it a highly cost effective option for reducing GHG emission in Solomon Islands.
+
+Table 2: Summary of Economic Analysis Results
+A lower value for GHG emission reduction is used for the economic analysis, because the analysis optimizes TRHDP dispatch based on economic costs without considering the contractual arrangement whereby SIEA has the incentive to dispatch as much electricity as possible from TRHDP since the PPA payment is based on net available capacity. In addition, the planning horizon of the economic analysis is 40 years, while the GHG accounting uses 50 years as the life of the Project.
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+## Base Case
+- Load demand CAGR: 2.10%
+- Discount rate: 3.0%
+- Economic rate of return
+- ERR: 3.8%
+- ERR+local externalities: 3.8%
+- ERR+local+GHG@BankGuidanceValues: 4.9%
+- Levelized cost of elec. 'from TINA River: US$/kWh 0.17
+- Levelized cost of diesel generation: US$/kWh 0.19
+
+## High Case
+- Load demand CAGR: 4.30%
+- Discount rate: 3.0%
+- Economic rate of return
+- ERR: 5.0%
+- ERR+local externalities: 5.0%
+- ERR+local+GHG@BankGuidanceValues: 6.2%
+- Levelized cost of elec. 'from TINA River: US$/kWh 0.16
+- Levelized cost of diesel generation: US$/kWh 0.21
+
+## Composition of NPV
+- TINA River Hydro Costs
+- Capital costs: [$USm] 158
+- Access road: [$USm] 23
+- T&D costs: [$USm] 20
+- Generation O&M: [$USm] 36
+- T&D O&M: [$USm] 5
+- total costs: [$USm] 243
+- Benefits [avoided capex and fuel]
+- Avoided diesel fuel: [$USm] 209
+- Avoided diesel capex: [$USm] -12
+- Avoided diesel O&M: [$USm] 30
+- Avoided solar capex: [$USm] 22
+- Avoided solar battery: [$USm] 21
+- Avoided solar O&M: [$USm] 0.8
+- total benefits: [$USm] 270
+- NPV (before environmental benefits): [$USm] 27
+- local env. benefits: avoided grid gen.: [$USm] 0.3
+- NPV (incl. local environmental benefits): [$USm] 27
+- value of avoided GHG emissions: [$USm] 43
+- NPV (including environment): [$USm] 70
+- Lifetime GHG emissions, undiscounted: mtons CO2 1.3
+- Marginal abatement cost: $/ton -20.2
+
+Source: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP” and “without TRHDP” scenarios.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Table 3: Summary of Switching Value Analysis
+Variable      Base Case                       Switching value  Comments
+Oil Price     1                               0.66             January 2017 World Bank commodity forecast
+used in base case. Switching value occurs when oil
+prices are 34% lower than those in the base case.
+Capital Cost  US$ 217 million                 US$ 300 million
+Hydrology     100%                            49%              Switching value occurs when river flow is 51%
+lower than in the base case.
+COD Delay     0                               6 years
+Social Value  US$ 30 per ton in 2015,         -US$ 40 per ton
+of Carbon     increasing to US$80 per ton in
+2050
+Cost of       US$ 2.8/W in 2016 falling to    Not applicable   ERR falls to 4.0% if solar costs are quarter of those
+Solar         US$ 1.6/W in 2030                                assumed in the base case
+Source: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP”
+and “without TRHDP” scenarios.
+
+### Scenario Analysis
+Scenario analysis was carried out by defining plausible best and worst cases across
+the range of variables identified in the risk assessment. Plausible worst case denotes a set of unfavorable
+outcomes as have been experienced at many hydro projects. Similarly, the plausible best case reflects events –
+such as higher than expected oil prices that fall into the range of plausible scenarios. These scenarios are
+summarized in Table 4.
+
+### Table 4: Summary of Scenario Analysis
+Variable      Plausible best case        Base Case                                 Plausible worst case
+Oil Price     50% higher                 January 2017 World Bank commodity          50% lower
+forecast
+Capital Cost  20% lower                  US$ 217 million                           20% higher
+Hydrology     100%                       100%                                      20% lower
+COD Delay     0                          0                                         5-year delay
+Social Value  US$ 50 in 2015 increasing  US$ 30 per ton in 2015, increasing to     US$ 15 per ton in 2015
+of Carbon     to US$ 150 in 2050         US$80 per ton in 2050                     increasing to US$50 in 2050
+Cost of       50% higher                 US$2.8/Watt in 2016 falling to $1.6/Watt  50% lower
+Solar                                    in 2030
+Load          4.3%                       2.1%                                      2.1%
+demand
+ERR           10.9%                      4.9%                                      -0.7%
+Source: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP”
+and “without TRHDP” scenarios.
+
+### Financial Analysis
+The Project is financially viable under the proposed financing structure. The PPA
+between the PC and SIEA is expected to be structured on a net available capacity, and will ensure a return on
+equity required by K-water and HEC, and a nominal return for SIG to service its IDA Credit. The financial internal
+rate of return (FIRR) of the PC is estimated to be 3.4 percent, which is above its 2.6 percent Weighted Average
+Cost of Capital (WACC). A minimum DSCR of 1.12 is projected to be maintained during the debt repayment
+period.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+82. Distributional Analysis. The distributional analysis of the project shows broad based gains from the Project to different stakeholders. Since electricity from the Project is expected to be cheaper than electricity generated using the counterfactual, SIEA is one of the major beneficiaries of the Project. A significant share of these financial benefits can be expected to be passed onto SIEA’s customers in the form of retail tariff reductions. According to the Bank’s Corporate Financial Analysis of SIEA, the Project is expected to help reduce electricity retail tariffs, in 2016 prices, to about US$ 33 cents/kWh immediately after Project commissioning and to US$26 cents/kWh by 2052 after handing over of the HPF to SIG. Local communities benefit through the benefit sharing mechanism while K-water and HEC receive their required return on equity. Development partners collectively help bear the costs of the Project by providing financing for the project at a rate that is significantly below than the market rate. SIG would help to improve financial viability if it provides tax exemptions to the Project.
+
+Figure 1: Distribution of Costs and Benefits among Stakeholders
+150                                                                                     71
+100
+50      19         135                    13                     28          43
+0
+NPV, $USm
+-50                                                  -35
+-100                              -105
+-150
+Project   Sol. Power/ Dev. Partners Community Gov. of  econ impact    GHG      total econ
+Company   SP Consumers                        Solomon   (including               impact
+Islands     local env)
+Source: Economic analysis conducted by World Bank based on its optimized generation expansion plan for the “with TRHDP” and “without TRHDP” scenarios.
+
+## Corporate Financial Analysis
+
+83. A corporate financial analysis was performed to assess SIEA’s historical performance and to determine its capacity to honor its obligations under the THRDP PPA as well as the utility’s overall obligations of service provision, expansion and maintenance of the electricity grid, as well as the impact of TRHDP on the retail tariff.
+
+84. SIEA’s Historical Performance. Between 2005 and 2007, SIEA accumulated significant losses due to a combination of large outstanding receivables, non-revenue losses, rising oil prices, large debt levels, and a depreciating SBD. In 2008, SIG started a financial restructuring of SIEA, with the support of the SISEP whose key objectives are to improve the operational efficiency, system reliability and financial sustainability of the SIEA. The restructuring of SIEA included:
+- write-off by the SIG of net dues by SIEA;
+- provisioning by SIEA of SBD 57 million against outstanding receivables from public entities, mainly Solomon Islands Water Authority (SIWA), the single largest customer of SIEA;
+- accompanying restructuring of SIWA allowing adjustment of water prices in line with electricity.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+prices, with the financial support of Australia and Japan, and conversion of SBD 7.4 million in outstanding SIWA dues to SIEA into an 8-year, non-interest bearing loan; capital investments to strengthen the Honiara grid and improve the efficiency and reliability of power supplies, including metering deficiencies and fraud at large commercial/industrial customers; and Strengthening of project management capability and transaction advisory services.
+
+In 2016, SIEA marked its sixth year of positive financials, with a net profit of SBD 205 million (US$24.7 million).
+
+## Summary of SIEA’s Historical Financial Statements
+### Solomon Power - Audited Financial Statements 2011-2016
+**Table 5: Summary of SIEA’s Historical Financial Statements**
+**Solomon Islands Dollars (SBD)**
+
+**PROFIT & LOSS SUMMARY**
+Electricity Generated (GWh)
+- 2011: 84.86
+- 2012: 84.03
+- 2013: 81.2
+- 2014: 85.47
+- 2015: 86.823
+- 2016: 92.03
+
+Operating Income
+- Electricity Sales:
+- 2011: 351,476,721
+- 2012: 397,574,602
+- 2013: 404,299,236
+- 2014: 446,557,219
+- 2015: 439,887,311
+- 2016: 437,528,391
+- Grant, CSO and Others:
+- 2011: 25,778,452
+- 2012: 26,148,872
+- 2013: 17,971,597
+- 2014: 30,474,340
+- 2015: 7,245,090
+- 2016: 12,874,784
+- Total Operating Income:
+- 2011: 377,255,173
+- 2012: 423,723,474
+- 2013: 422,270,834
+- 2014: 477,031,559
+- 2015: 447,132,401
+- 2016: 450,403,175
+
+Cost of Goods Sold - Generation and Distribution Costs
+- Electricity Purchased:
+- 2011: -
+- 2012: -
+- 2013: 11,265,063
+- 2014: 3,228,334
+- 2015: 6,160,216
+- 2016: 5,557,395
+- Fuel:
+- 2011: 227,900,876
+- 2012: 212,879,191
+- 2013: 200,596,481
+- 2014: 207,156,539
+- 2015: 149,930,357
+- 2016: 129,691,478
+- Lubricants:
+- 2011: 18,522,673
+- 2012: 12,588,421
+- 2013: 3,206,656
+- 2014: 2,234,023
+- 2015: 4,876,902
+- 2016: 3,748,438
+- Generation R&M:
+- 2011: 15,660,661
+- 2012: 40,436,838
+- 2013: 47,419,501
+- 2014: 41,612,909
+- 2015: 44,945,873
+- 2016: 48,351,573
+- Total COGS:
+- 2011: 262,084,210
+- 2012: 265,904,450
+- 2013: 262,487,701
+- 2014: 254,231,805
+- 2015: 205,913,348
+- 2016: 187,348,884
+
+Gross Profit
+- 2011: 115,170,963
+- 2012: 157,819,024
+- 2013: 159,783,133
+- 2014: 222,799,754
+- 2015: 241,219,053
+- 2016: 263,054,291
+
+Operating Expenses
+- Other Operating Expenses:
+- 2011: 34,104,002
+- 2012: 38,638,345
+- 2013: 52,140,516
+- 2014: 52,136,862
+- 2015: 65,350,109
+- 2016: 61,343,934
+- Overheads:
+- 2011: 9,831,559
+- 2012: 22,222,816
+- 2013: 25,773,013
+- 2014: 24,009,296
+- 2015: 31,836,151
+- 2016: 30,807,434
+- Allowance for Uncollectability:
+- 2011: (27,886,761)
+- 2012: 4,178,999
+- 2013: 4,919,238
+- 2014: 4,604,834
+- 2015: (3,997,994)
+- 2016: (861,604)
+- Revaluation decrement - property, plant and equipment:
+- 2011: 2,387,857
+- 2012: -
+- 2013: 5,958,900
+- 2014: -
+- 2015: -
+- 2016: -
+- Inventory & Asset Write-Off:
+- 2011: 4,579,138
+- 2012: 106,936
+- 2013: 165,471
+- 2014: 13,066,174
+- 2015: 1,850,967
+- 2016: 1,134,219
+- Bad debts written off:
+- 2011: 29,999,287
+- 2012: -
+- 2013: -
+- 2014: -
+- 2015: -
+- 2016: 158,334
+- Total Operating Expenses:
+- 2011: 53,015,082
+- 2012: 65,147,096
+- 2013: 88,957,138
+- 2014: 93,817,166
+- 2015: 95,039,233
+- 2016: 92,582,317
+
+EBITDA
+- 2011: 62,155,881
+- 2012: 92,671,928
+- 2013: 70,825,995
+- 2014: 128,982,588
+- 2015: 146,179,820
+- 2016: 170,471,974
+
+- Interest expense:
+- 2011: -
+- 2012: -
+- 2013: -
+- 2014: 1,096,621
+- 2015: -
+- 2016: -
+- Depreciation and Amortization:
+- 2011: 11,584,061
+- 2012: 27,645,159
+- 2013: 28,370,196
+- 2014: 35,856,247
+- 2015: 40,549,658
+- 2016: 46,006,826
+- FX (gain/loss):
+- 2011: (14,417)
+- 2012: (902,806)
+- 2013: 3,880,554
+- 2014: (614,452)
+- 2015: 1,057,134
+- 2016: (4,416,280)
+- Other Income (revaluation and adjustments):
+- 2011: 173,343,210
+- 2012: 4,985,383
+- 2013: 64,071,171
+- 2014: -
+- 2015: -
+- 2016: 85,414,971
+
+Total Comprehensive Income for the Year
+- 2011: 223,900,613
+- 2012: 69,109,346
+- 2013: 110,407,524
+- 2014: 91,415,268
+- 2015: 106,687,296
+- 2016: 205,463,839
+
+Margins and Ratios
+- Gross Margin:
+- 2011: 31%
+- 2012: 37%
+- 2013: 38%
+- 2014: 47%
+- 2015: 54%
+- 2016: 58%
+- Fuel/COGS:
+- 2011: 87%
+- 2012: 80%
+- 2013: 76%
+- 2014: 81%
+- 2015: 73%
+- 2016: 69%
+- EBITDA Margin:
+- 2011: 16%
+- 2012: 22%
+- 2013: 17%
+- 2014: 27%
+- 2015: 33%
+- 2016: 38%
+- Net Margin:
+- 2011: 59%
+- 2012: 16%
+- 2013: 26%
+- 2014: 19%
+- 2015: 24%
+- 2016: 46%
+
+Source: Prepared by World Bank based on SIEA’s audited annual financial reports.
+
+## Financial Projections and Retail Tariff
+A set of financial projections were made by the Bank with inputs from SIEA for the period 2017 to 2052. The 2017-2022 projections are based on SIEA’s budget plan.
+
+**Table 6 summarizes the key assumptions used in building SIEA’s financial projections.**
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Table 6: Key Assumptions for SIEA’s Financial Projections for Honiara
+- **Electricity Demand Growth**:
+- 2017: 5%
+- 2020: 3%
+- 2021: 3%
+- 2022: 3%
+- 2025: 2%
+- 2030: 2%
+- 2035: 2%
+- 2040: 2%
+- 2045: 2%
+- 2050: -
+- 2051: -
+- 2052: -
+
+- **GWh Generated**:
+- 2017: 83.38
+- 2020: 92.92
+- 2021: 95.82
+- 2022: 98.28
+- 2025: 104.30
+- 2030: 115.15
+- 2035: 127.13
+- 2040: 140.35
+- 2045: 154.94
+- 2050: 161.20
+- 2051: 161.20
+- 2052: 161.20
+
+- **Diesel**:
+- 2017: 78.48
+- 2020: 88.03
+- 2021: 90.93
+- 2022: 15.04
+- 2025: 9.65
+- 2030: 44.03
+- 2035: 8.79
+- 2040: 9.62
+- 2045: 13.63
+- 2050: 17.68
+- 2051: 17.68
+- 2052: 17.68
+
+- **Solar**:
+- 2017: 4.89
+- 2020: 4.89
+- 2021: 4.89
+- 2022: 4.89
+- 2025: 16.30
+- 2030: 31.94
+- 2035: 39.99
+- 2040: 51.94
+- 2045: 58.93
+- 2050: 60.77
+- 2051: 60.77
+- 2052: 60.77
+
+- **Solar with battery**:
+- 2017: -
+- 2020: -
+- 2021: -
+- 2022: -
+- 2025: -
+- 2030: -
+- 2035: -
+- 2040: 0.44
+- 2045: 4.03
+- 2050: 4.40
+- 2051: 4.40
+- 2052: 4.40
+
+- **Hydro (Tina River)**:
+- 2017: -
+- 2020: -
+- 2021: -
+- 2022: 78.35
+- 2025: 78.35
+- 2030: 39.18
+- 2035: 78.35
+- 2040: 78.35
+- 2045: 78.35
+- 2050: 78.35
+- 2051: 78.35
+- 2052: 78.35
+
+- **GWh Sold**:
+- 2017: 61.56
+- 2020: 68.61
+- 2021: 70.75
+- 2022: 90.59
+- 2025: 95.03
+- 2030: 94.03
+- 2035: 111.89
+- 2040: 121.76
+- 2045: 133.36
+- 2050: 138.06
+- 2051: 138.06
+- 2052: 138.06
+
+- **SBD Real Avg Tariff (2016)**:
+- 2017: 4.51
+- 2020: 4.48
+- 2021: 4.46
+- 2022: 2.72
+- 2025: 2.66
+- 2030: 5.14
+- 2035: 2.70
+- 2040: 2.62
+- 2045: 2.60
+- 2050: 2.58
+- 2051: 2.59
+- 2052: 2.23
+
+- **US$ Real Avg Tariff (2016)**:
+- 2017: 0.53
+- 2020: 0.53
+- 2021: 0.52
+- 2022: 0.32
+- 2025: 0.31
+- 2030: 0.60
+- 2035: 0.32
+- 2040: 0.31
+- 2045: 0.31
+- 2050: 0.30
+- 2051: 0.30
+- 2052: 0.26
+
+- **Oil Price (US$/bbl)**:
+- 2017: 56.06
+- 2020: 63.38
+- 2021: 65.38
+- 2022: 67.27
+- 2025: 73.59
+- 2030: 83.89
+- 2035: 94.23
+- 2040: 104.56
+- 2045: 114.89
+- 2050: 125.22
+- 2051: 127.29
+- 2052: 131.42
+
+- **Tina PPA Payments (SBD Mil)**:
+- 2017: -
+- 2020: -
+- 2021: -
+- 2022: 112.73
+- 2025: 137.34
+- 2030: 194.11
+- 2035: 248.41
+- 2040: 280.99
+- 2045: 333.74
+- 2050: 383.11
+- 2051: 417.31
+- 2052: -
+
+- **Fuel Cost (SBD Mil)**:
+- 2017: 128.78
+- 2020: 163.23
+- 2021: 174.85
+- 2022: 28.92
+- 2025: 20.69
+- 2030: 199.83
+- 2035: 72.69
+- 2040: 116.84
+- 2045: 203.33
+- 2050: 310.24
+- 2051: 319.90
+- 2052: 329.69
+
+- **CAPEX (SBD Mil)**:
+- 2017: 205.32
+- 2020: 229.95
+- 2021: 255.25
+- 2022: 252.98
+- 2025: 65.75
+- 2030: 90.00
+- 2035: 190.95
+- 2040: 90.00
+- 2045: 219.39
+- 2050: 90.00
+- 2051: 90.00
+- 2052: 90.00
+
+- **Debt : Equity Ratio**:
+- 2017: 9%
+- 2020: 31%
+- 2021: 47%
+- 2022: 45%
+- 2025: 36%
+- 2030: 18%
+- 2035: 6%
+- 2040: 2%
+- 2045: 1%
+- 2050: 1%
+- 2051: 1%
+- 2052: -
+
+Source: Prepared by World Bank based on assumptions and data provided by SIEA.
+
+88. Demand forecast used in the financial projections is based on the Base Case forecast at 2.1 percent CAGR. Based on this, SIEA is projected to generate in Honiara 83.38 GWh in 2017, 98.28 GWh in 2022, when the TRHDP is expected to be commissioned, and reach 161.20 GWh by 2052 which is the year after the PPA is terminated.¹⁶ For the purposes of SIEA’s financial analysis, the “TRHDP and Solar Maximization Mix” was assumed with TRHDP annually producing 78.35 GWh which is the average expected energy generation from TRHDP since the PPA is based on net available capacity and SIEA is expected to prioritize the dispatch of energy from TRHDP. In addition, this scenario assumes maximal growth of solar power (with and without battery) to reach 65.7 GWh in 2052. The remaining demand is projected to be met by diesel generation.
+
+89. An investment plan for SIEA was built to correspond to its growth targets and overall network upgrading and expansion plans. Financial projections were built to forecast SIEA’s operations and profitability over the period and test its capacity to pass through to consumers the benefits of displacing diesel generation with less expensive renewable energy sourced from TRHDP and greater solar penetration.
+
+90. Average retail tariff levels were calculated based on the main components of the 2016 Tariff Regulation and further adjusted to maximize tariff reduction for consumers while allowing SIEA to be profitable with an average net profit margin of at least 20 percent which is deemed reasonable by the Bank. Net resulting average retail tariffs are presented in Figure 2 for the “with TRHDP” and “without TRHDP” scenarios. In real terms, in the “with TRHDP” analysis, retail tariff levels are expected to reduce from an estimated SBD4.51/kWh (US$ 53 cents/kWh) in 2017, to SBD2.77 (US$ 33 cents/kWh) in 2022 with TRHDP coming into production, and stay at an average of SBD2.62/kWh (US$ 31 cents/kWh) until 2051, the end of the TRHDP PPA. In 2052, the average tariff is projected to be SBD2.23/kWh (US$ 26 cents/kWh) once the HPF is handed over to SIG. These tariffs are significantly lower than the current prevailing tariffs in Solomon Islands SBD6.22/kWh in 2016 and SBD5.13 in 2017). The “without TRHDP” projections depict retail tariffs increasing to SBD5.32/kWh (US$ 63 cents/kWh) in 2052 largely due to the higher reliance on diesel and projected increases in oil prices over the period.
+
+16 Since the least-cost planning model makes projections only up to 2046, annual energy was extrapolated to 2052 by maintaining annual growth rate of 2%.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+“without TRHDP” projections, tariff reductions were significantly less generous than in the “with TRHDP” scenario (i.e., tariff reduction of 10 percent per year for the period 2017-2021, and 5 percent for 2022-2052) and led to a deterioration of SIEA’s profitability with an average net margin of around 10 percent.
+
+With the benefit of additional assumptions on operational efficiency, losses, input costs, overheads, depreciation, and financing costs, SIEA’s Projected Income Statement, Cash Flow Statement, and Balance Sheet were built and are presented in Tables 7 and 8.
+
+### Figure 2: Projected Average Retail Tariff SBD/kWh (Real) With and Without TRHDP
+7.00
+6.00                2016 Tariff
+Regulation
+5.00
+1  4.00                                                                                  TRHDP
+TRHDP                                               PPA
+3.00                             production
+2.00
+1.00
+2014  Jan-17  2019   2022   2025   2028   2031   2034   2037   2040   2043   2046   2049   2052
+SBD/kWh (Real) w/ THRDP (2022)  SBD/kWh (Real) wo THRDP
+Source: Prepared by World Bank based on assumptions and data provided by SIEA.
+
+SIEA’s average EBITDA margin is expected to grow from 24 percent to 53 percent, and Net Margin from 14 percent to 43 percent, over the projection period. SIEA’s liquidity ratio is strong, with a minimum of 3.70 in 2020, largely driven by the strong cash position. Over the projection period, SIEA’s average annual cash from operations is of SBD 442 million and allows financing of capex investments with internal cash generation. SIEA’s debt gearing is very low at an average of 11:89. At its highest level of debts, in 2021, SIEA’s gearing is still heavily inclined towards use of equity at a debt/equity ratio of 36:64. As a result, SIEA maintains strong DSCR throughout, with lowest DSCR, in 2024 at 1.43. This is still a healthy DSCR which provides SIEA an average Return on Equity of 6 percent, over the period.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Table 7: Summary of SIEA’s Projected Financial Statements
+| Year                     | 2017   | 2018   | 2019   | 2020   | 2025   | 2030   | 2035   | 2040   | 2045   | 2050   | 2051   | 2052   |
+|--------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| Income Statement         |        |        |        |        |        |        |        |        |        |        |        |        |
+| Revenues                 | 291.70 | 320.27 | 346.92 | 373.71 | 393.56 | 517.26 | 742.45 | 1,023.73 | 1,430.56 | 1,898.90 | 1,988.09 | 1,784.43 |
+| Cost of Goods Sold       | 143.17 | 157.64 | 169.63 | 181.21 | 162.73 | 182.28 | 296.59 | 402.24 | 565.88 | 765.02 | 793.56 | 366.07 |
+| Gross Profit             | 148.53 | 162.63 | 177.29 | 192.50 | 230.83 | 334.97 | 445.86 | 621.48 | 864.69 | 1,133.87 | 1,194.53 | 1,418.36 |
+| OPEX and Overheads       | 77.82  | 85.44  | 92.55  | 99.70  | 104.99 | 137.99 | 198.07 | 273.10 | 381.64 | 506.57 | 530.37 | 476.04 |
+| EBITDA                   | 70.71  | 77.19  | 84.74  | 92.81  | 125.84 | 196.98 | 247.80 | 348.38 | 483.05 | 627.30 | 664.16 | 942.32 |
+| Depreciation             | 29.17  | 32.03  | 34.69  | 37.37  | 39.36  | 51.73  | 74.25  | 102.37 | 143.06 | 189.89 | 198.81 | 178.44 |
+| Interest                 | 1.09   | 2.20   | 3.09   | 4.24   | 15.68  | 6.12   | 0.40   | 0.00   | -      | -      | -      | -      |
+| Net Profit               | 40.45  | 42.96  | 46.96  | 51.20  | 70.80  | 139.13 | 173.15 | 246.01 | 339.99 | 437.41 | 465.35 | 763.88 |
+
+| Year                     | 2017   | 2018   | 2019   | 2020   | 2025   | 2030   | 2035   | 2040   | 2045   | 2050   | 2051   | 2052   |
+|--------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| Balance Sheet            |        |        |        |        |        |        |        |        |        |        |        |        |
+| Fixed Assets             | 933.45 | 1,085.06 | 1,241.39 | 1,433.97 | 1,946.21 | 2,093.87 | 2,331.09 | 2,862.07 | 2,844.34 | 2,436.20 | 2,327.39 | 2,238.95 |
+| Cash                     | 54.37  | 236.50 | 125.65 | 16.83  | 14.20  | 16.40  | 62.26  | 342.55 | 1,499.82 | 3,448.70 | 3,925.19 | 4,588.43 |
+| Reserve Cash             | 6.49   | 33.25  | 47.73  | 50.17  | 89.75  | 89.75  | 89.75  | 89.75  | 89.75  | 89.75  | 89.75  | 89.75  |
+| Other Current Assets      | 47.00  | 51.66  | 55.86  | 60.07  | 34.66  | 45.13  | 68.16  | 95.34  | 136.53 | 184.54 | 192.80 | 176.55 |
+| Total Assets             | 1,041.31 | 1,406.47 | 1,470.63 | 1,561.04 | 2,084.82 | 2,245.14 | 2,551.26 | 3,389.72 | 4,570.43 | 6,159.19 | 6,535.12 | 7,093.67 |
+| Current Liabilities      | 27.14  | 29.86  | 32.12  | 34.30  | 23.34  | 24.26  | 39.05  | 53.76  | 74.85  | 100.11 | 103.78 | 51.22  |
+| LT Debt                  | 86.21  | 409.97 | 429.61 | 471.76 | 736.36 | 415.86 | 153.80 | 59.20  | 59.20  | 59.20  | 59.20  | -      |
+| Equity                   | 927.97 | 966.63 | 1,008.90 | 1,054.98 | 1,298.13 | 1,774.74 | 2,358.41 | 3,276.76 | 4,436.38 | 5,999.88 | 6,372.15 | 6,983.26 |
+| Cash Flow from Operations | 46.74  | 73.06  | 79.71  | 86.54  | 107.15 | 188.94 | 245.60 | 345.22 | 478.45 | 622.93 | 659.55 | 906.01 |
+
+Source: Prepared by World Bank based on assumptions and data provided by SIEA.
+
+### Table 8: SIEA’s Forecasted Growth and Performance Ratios
+| Year                     | 2017   | 2018   | 2019   | 2020   | 2025   | 2030   | 2035   | 2040   | 2045   | 2050   | 2051   | 2052   |
+|--------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| YoY Growth Rates         |        |        |        |        |        |        |        |        |        |        |        |        |
+| Revenues                 | 10%    | 8%     | 8%     | 6%     | 7%     | 4%     | 8%     | 8%     | 5%     | 5%     | -10%   | |
+| Gross Profit             | 9%     | 9%     | 9%     | 7%     | 6%     | 11%    | 5%     | 5%     | 5%     | 5%     | 19%    | |
+| Net Profit               | 6%     | 9%     | 9%     | 14%    | 6%     | 24%    | 1%     | 1%     | 6%     | 6%     | 64%    | |
+| Assets                   | 35%    | 5%     | 6%     | 2%     | 2%     | 4%     | 6%     | 7%     | 6%     | 6%     | 9%     | |
+| Cash and Reserve Cash    | 343%   | -36%   | -61%   | 4%     | 1%     | -11%   | 91%    | 14%    | 14%    | 13%    | 17%    | |
+| LT Debt                  | 376%   | 5%     | 10%    | -8%    | -13%   | -20%   | 0%     | 0%     | 0%     | 0%     | -100%  | |
+| Equity                   | 4%     | 4%     | 5%     | 6%     | 7%     | 6%     | 6%     | 7%     | 6%     | 6%     | 10%    | |
+
+| Key Ratios               |        |        |        |        |        |        |        |        |        |        |        |        |
+|--------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| EBITDA Margin             | 24%    | 24%    | 24%    | 25%    | 32%    | 38%    | 33%    | 34%    | 34%    | 33%    | 33%    | 53%    |
+| Net Margin                | 14%    | 13%    | 14%    | 14%    | 18%    | 27%    | 23%    | 24%    | 24%    | 23%    | 23%    | 43%    |
+| Return on Equity         | 4%     | 4%     | 5%     | 5%     | 5%     | 8%     | 7%     | 8%     | 8%     | 7%     | 7%     | 11%    |
+| Return on Assets         | 4%     | 3%     | 3%     | 3%     | 3%     | 6%     | 7%     | 7%     | 7%     | 7%     | 7%     | 11%    |
+| LT Debt/ (LT Debt + Equity) | 9%   | 30%    | 30%    | 31%    | 36%    | 19%    | 6%     | 2%     | 1%     | 1%     | 1%     | 0%     |
+| Current Ratio            | 3.97   | 10.76  | 7.14   | 3.70   | 5.94   | 6.23   | 5.64   | 9.82   | 23.06  | 37.19  | 40.55  | 94.79  |
+| DSCR                     | 17.01  | 10.93  | 9.09   | 7.09   | 1.58   | 2.81   | 6.29   | N/A    | N/A    | N/A    | N/A    | N/A    |
+| US$ 1 = SBD             | 8.50   | 8.71   | 8.92   | 9.14   | 10.31  | 11.63  | 13.12  | 14.80  | 16.70  | 18.83  | 19.29  | 19.76  |
+
+Source: Prepared by World Bank based on assumptions and data provided by SIEA.
+
+93. Based on the projections, SIEA is expected to be profitable and would be able to meet its obligations on the Tina River PPA, conduct its operations and make necessary investments in its system, while reducing retail tariff for its customers.
+
+94. Management of Hydrological Risks. The PPA payment is based on net available capacity, and SIEA is likely to pay a flat amount each year (unless it chooses a schedule of payments approach which take into consideration the benefits of the grace periods of concessional financing, leading to lower payments in the early years) regardless of the actual energy generated. This imposes hydrological risk on the off-taker since it will have to generate more through its diesel generators in dry periods while having to pay the TRHDP capacity payment. Such additional costs will not impact SIEA since fuel cost is a pass-through cost item under 2016 Tariff Regulation, and will ultimately pass on the risk to SIEA’s customer in the form of a higher retail tariff. In order to shield the customers from such shocks, it is proposed that a cash reserve be established by SIEA by setting aside, for example, 10 percent of Net Cash generated until such reserve reaches SBD 85 million (average of 6-months of cost of goods sold [COGS] which includes fuel costs and PPA payments for the period 2020-2025). Further study is recommended to devise the appropriate mechanism to ensure that the benefit of increased HPF energy.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+production in wet years are adequately passed on to the customers and/or accumulated in a cash reserve to cushion the shock on retail tariff in the event of dry years.
+
+## Technical
+95. The hydropower potential of the Tina River to supply the growing electricity demand was first identified through the Bank’s Guadalcanal Renewable Development Concept Study in 2006, and was followed by SIG’s pre-feasibility study. Subsequently, a feasibility study was prepared for the Project in three phases between 2010 and 2015 targeting different sites along the Tina River. Based on geotechnical investigations and recommendations of DSAP, it was decided to select Site 7C for the full feasibility study under Phase 3 which was completed in November 2014 and later updated with additional hydrological data by November 2015.
+96. Two alternative analyses conducted independently by SIEA and the Bank found TRHDP to be part of the least-cost generation plan to satisfy the growing demand. Against the backdrop of lower global oil prices, dramatically reduced PV costs and improvements in battery storage technologies since the time the Project was conceived, alternative analyses were conducted independently by SIEA and the Bank in 2016-2017 to confirm the viability of the Project. Both studies concluded that the Project is the least-cost alternative for HES. While the cost of solar has been reducing drastically, high penetration of variable renewable energy sources such as solar requires enabling technologies to compensate for their intermittency and to supply electricity during the night and during consecutive cloudy days. TRHDP can store energy in its reservoir and provide frequency regulation and spinning reserve functions to complement solar. Diesel generation can also provide such functions, but is expensive and emits GHG; and while battery storage is a promising technology, it is still expensive. The “without TRHDP” and “with TRHDP” comparison conducted under the Bank’s analysis found that the solar penetration is higher in the “without TRHDP” scenario (58 percent of total demand in 2046) compared to the “with TRHDP” scenario (40 percent of total demand in 2046). However, since TRHDP generates 43 percent of the demand in 2046 under the “with TRHDP” scenario, the total share of renewable energy will become 83 percent “with TRHDP”.
+
+## Financial Management
+97. A financial management (FM) assessment was carried out in accordance with the “Principles Based Financial Management Practice Manual” issued by the Board on March 1, 2010. Under the Bank’s OP/BP 10 with respect to projects financed by the Bank, the borrower and implementing agency are required to maintain financial management systems – including accounting, financial reporting, and auditing systems – adequate to ensure they can provide the Bank with accurate and timely information regarding the project resources and expenditures. An assessment of PC capacity could not be conducted as the entity has not yet been established. The assessment of MMERE and SIEA concluded that the proposed FM arrangements of these implementing entities satisfy the requirements of OP/BP 10 subject to the effective implementation of recommended risk mitigating measures. The main FM risks are: that the equity funding under Component I will not be used for the intended purpose, consistent with the PDO; payments for major civil works under Components 1, 2 & 3 do not meet acceptable technical standards or are misused; and the lack of capacity within MMERE. The recommended mitigation measures are detailed in Annex 2.
+# PROCUREMENT
+The project will follow procurement procedures under World Bank Procurement Regulations for Investment Project Financing (IPF) Borrowers (July 2016) and the provisions stipulated in the Financing Agreement to be entered into by the Bank and SIG. SIEA will procure items under Component 3 and MMERE under Component 4. A Project Procurement Strategy for Development (PPSD) was prepared as the basis for procurement arrangements and planning of Components 3 and 4. Key procurement risks are:
+- (a) lack of procurement and contract management capacity, and
+- (b) limited number of local suppliers/contractors.
+
+Risk mitigation measures have been discussed and agreed with government and detailed in Annex 2.
+
+For Components 1 and 2, the sponsor selection process followed by SIG was reviewed by the World Bank and found to be substantially consistent with the Core Procurement Principles of the Bank’s New Procurement Framework, including the provisions set forth in Paragraphs 3.14 to 3.17 (Conflict of Interest) and Paragraphs 3.21 to 3.23 (Eligibility) of the Procurement Regulation. Provisions on Anti-Corruption specified in Paragraph 3.32 of the Procurement Regulations will be included into all the agreements and contracts between the project sponsors and SIG. The final draft agreements and contracts between the project sponsor and SIG will be subject to prior review by the World Bank before signing. As such, the PC is permitted to use its own procedures for the procurement of goods, works, non-consulting services and/or consulting services from eligible sources.
+
+MMERE will submit a Contract Management Plan for Components 1 and 2 in accordance with Annex XI of the Procurement Regulations for IPF Borrowers.
+
+The Project’s Procurement Plan, submitted by the Borrower on May 10, 2017, is acceptable to the Bank.
+
+# SOCIAL (INCLUDING SAFEGUARDS)
+Notwithstanding the potential benefits of lower cost and more stable power supply to all consumers and potential beneficiaries of the project, the main social impacts to be considered in the implementation of the project are those related to land acquisition and the construction and operation of the dam and associated infrastructure such as the access road and transmission line. A detailed Social Impact Assessment (SIA) was conducted during project preparation as a part of the overall Environmental and Social Impact Assessment (ESIA). This ESIA includes an Environmental and Social Management Plan (ESMP) which provides a comprehensive identification of the Project’s social and environmental impacts and recommended mitigation measures.
+
+Policies triggered. The ESIA and ESMP have been prepared to meet the requirements of the relevant World Bank safeguards Operation Policies (OPs) and Performance Standards (PSs). Because Component 1 will be delivered by a private sector entity, the provisions of OP/BP 4.03 – Performance Standards for Private Sector Activities applies to this component. As a result, for Component 1, the developer will be responsible for addressing seven of the eight World Bank Performance Standards. PS 5: Land Acquisition and Involuntary Resettlement is not triggered for Component 1 because the developer will not have any responsibilities that fall beyond government’s responsibility via its acquisition of land. OP 4.12 – Involuntary Resettlement will be...
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+triggered for Component 1 as land acquisition is the responsibility of the SIG. OP 4.12 is also triggered for Component 3 as the transmission line route has not been fixed and could entail the acquisition of additional land. Terms of Reference for consultants advising on topics related to OP 4.12 will be approved by the Bank to ensure the requirements of the World Bank are effectively integrated into the TA work under Component 4.
+
+## Cultural Heritage
+For Components 1 and 2, the developer will be responsible for addressing PS 8: Cultural Heritage. For Component 3, MMERE and SIEA will address the requirements of OP 4.11, Physical Cultural Heritage, by applying the same procedures presented in the ESIA and ESMP.
+
+## Indigenous Peoples
+In relation to Indigenous Peoples, for Component 1, the developer will be responsible for addressing PS 7: Indigenous Peoples. Under Component 3, SIEA will have the corresponding responsibility under OP 4.10. OP 4.10 also applies to Component 1, specifically to the land acquisition and resulting impacts on livelihoods. A separate Indigenous Peoples Plan (IPP) has not been prepared as the overwhelming majority of direct project beneficiaries in the project area are indigenous peoples. Accordingly, IPP requirements have been integrated into the overall project design.
+
+## Community Development Plan
+As per OP 4.10, to ensure that the communities living in the project area, all of which are indigenous, receive social and economic benefits that are culturally appropriate, a Community Development Plan (CDP) has been prepared and disclosed on May 5, 2017. The CDP specifies development activities that would benefit the project communities both during construction and during the 30-year operational period of the PPA, as well as the estimated costs and financing mechanisms during these periods. The CDP also summarizes the findings of the social assessment, describes an ongoing consultation process, a monitoring and evaluation system, and grievance redress mechanism.
+
+## Broad Community Support
+Broad community support, achieved through free, prior and informed consultation, as per OP 4.10, has been documented in the ESIA as well as in the Land Acquisition and Livelihood Restoration Plan (LALRP). The Social Impact Assessment (SIA) part of the ESIA, which was prepared based largely on extensive consultations in all areas affected by the project, found support for the project. Sustained support has been found throughout the ongoing consultations held regularly by the PO. The process leading up to the acquisition of the land, and concluding with the signature of a Process Agreement confirming consent to acquire the land under agreed conditions on the part of all five landowning tribes, further reinforces the conclusion of broad community support.
+
+## Disclosure
+Disclosure. The Government prepared the LALRP to ensure that affected individuals will have their livelihoods restored, as necessary. The draft LALRP was disclosed on the Bank’s external website on August 15, 2016 and in-country at the PO on the same date, and then subsequently re-disclosed on the Bank’s external website and in-country on January 27, 2017, and in affected communities, in a revised version. See section below on preparation and disclosure of documents on social impact assessment and mitigation plans.
+
+## Citizen Engagement
+Additionally, throughout project preparation, the PO has been engaged in an intensive process of citizen engagement, including more than 200 meetings with a range of stakeholder groups since 2010, including affected indigenous communities, on a range of topics and these have been thoroughly documented by the PO through reports, surveys, photos and videos. The project will also include a GRM to facilitate the submission of any questions or concerns relating to the project by members of the communities and other project.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Gender Action Plan (GAP)
+A Gender Action Plan (GAP) has been completed as part of project preparation to guide the mainstreaming of gender into the TRHDP to help promote equal opportunities for women and men to participate in project benefits, with a particular focus on addressing impacts on communities directly affected by the TRHDP construction. The Plan includes actions, monitoring and reporting arrangements. The GAP is summarized in Annex 2.
+
+# ENVIRONMENT (INCLUDING SAFEGUARDS)
+The project is categorized as environmental Category A and has triggered for component 1 the World Bank Performance Standards – the dam, reservoir, and power station in accordance with OP 4.03 Performance Standards for Private Sector Activities, since these activities will be executed by a private sector entity. Bank Operational Policies for safeguards apply to Components 3 and 4, because agencies of SIG will execute them. In addition to the social safeguard policies indicated above, the Bank’s safeguard policies on Environmental Assessment, Natural Habitats, and Forests will be triggered. MMERE has commissioned a single ESIA for all four components, which covers the HPF, the access road and transmission line. MMERE engaged an Environmental and Social Panel of experts to advise on ESIA preparation and other environmental and social matters. The ESIA was initially disclosed both in country and on the Bank’s external website on August 15, 2016. MMERE held consultations for communities and NGOs in October and November 2016, and a revised ESIA draft was disclosed January 27, 2017. The ESIA and the ESMP, which are included in the same document, provide a comprehensive identification of the project’s social and environmental impacts and recommended mitigation measures for them. The following are the potential environmental impacts identified in the ESIA as being of most concern.
+
+## Alterations in downstream hydrology and water quality
+In the absence of planned mitigations, the 5.7 km reach of the river that will be bypassed by the tunnel between dam and powerhouse would be dry (except for minor inflow from small tributaries) other than during flood events large enough to cause releases via the dam spillway. The operator will be required to maintain an environmental flow of 1 m³/s below the dam, which the ESIA predicts is the minimum to mitigate loss of aquatic habitat and to allow fish movement in the dam-to-powerhouse reach. The operator will also maintain a minimum flow through the powerhouse at all times of day, and throughout the year of 2.43 m³/s (equivalent to the minimum generating discharge through one turbine) to maintain habitat in the wider channel downstream and reduce the range of flow fluctuations between periods of peak generation and reservoir refilling. Mitigation measures will be supplemented or modified on the basis of monitoring of water quality, fish populations, and aquatic invertebrates. Daily transitions from generation to non-generation would cause fluctuations in water flow downstream of the tailrace. Impacts could include loss of habitat for fish and other aquatic organisms, changes in fish spawning and migration behavior, abrupt changes in river level, and reduced availability of water for drinking and other human uses. Dam safety is being incorporated in the design and the operating plans in accordance with PS 4, under the guidance of a DSAP for which the terms of reference are based on OP 4.37 Safety of Dams.
+
+## Obstruction of fish migration
+Most of the fish species found during ESIA baseline surveys in the river near the dam and reservoir sites and in the upper reach of the river are migratory. The main mitigation measure in the ESMP, a “trap and haul” system, was selected as a practical, relatively low-cost option that has...
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+proven effective in New Zealand for climbing and crawling species similar to those found in the Tina River. Species that are true swimmers can be collected and hauled to upstream locations if they tend to migrate in congregations, but for those that do not, populations upstream of the dam will decline. Fortunately, none of the species identified in Tina River exhibits homing behavior – i.e., they do not have to return to the stream in which they originate and thus could spawn or mature in the adjacent Toni River, where available information indicates similar species composition and population density, or in other streams on Guadalcanal. Fish monitoring at the dam and upstream will be used to assess the effectiveness of the mitigation measures.
+
+Conversion or degradation of natural habitat. Installation of the dam will change about 2.6 km of the 36-km Tina/Ngalimbiu River system from flowing-water to lacustrine habitat. Operation of the project will affect aquatic natural habitat downstream by changing flow amounts and patterns and at least temporarily affecting water quality. Construction of the dam, powerhouse, access road, and transmission line will cause permanent conversion of 115 ha of land, 50 ha of which is forested, but only 9.5 ha of which can be considered primary forest and natural habitat. Changes in fish species composition and population density upstream of the dam could cause other changes in aquatic ecology of the upper reaches of Tina River, where the stream drains primary montane forest habitat and is of near-pristine quality. The environmental flow and fish trap and haul system are mitigation measures for the potential loss of aquatic biodiversity, and, along with the plant and animal communities that will develop in the reservoir, should achieve no net loss in biodiversity in the middle and downstream reaches of the river. Changes in biodiversity in the upper reaches are difficult to predict: the project will not have direct or indirect impacts on the primary forest, some of which may prove to be critical habitat, but loggers are moving into the area and may cause degradation of the forest and, as a result, of the river. The Project’s monitoring program will be important for tracking changes and formulating remedial measures. There have been proposals to accord protected status to the upper catchment, and the Bank would support a request from interested and committed tribes for the preparation of a protected area management plan and budget.
+
+SIG law specifies that the applicant for a development consent must submit the ESIA for the project. Consequently, the PC will have to prepare the ESIA for Component 1, using the SIG-prepared ESIA (disclosed on Bank’s external website on August 15, 2016 and in-country at the PO on the same date) as a model. The SIEA will do the same for Component 3, extracting the relevant material for its own ESIA. IDA will review and clear these ESIAs. As part of its due diligence, IDA has reviewed the Environmental and Social Management System (ESMS) of the developer (K-water) and prepared an Environmental and Social Review Summary (ESRS). The developer has agreed on the measures in an Environmental and Social Action Plan (ESAP) prepared by the Bank. Component 4 includes a TA to SIG for monitoring, oversight, and enforcement of ESIA and ESMS implementation; the TA is described in detail in Annex 1 and the implementation arrangements are presented in Annex 2.
+
+## Other Safeguard Policies
+For Component 1, the developer will be responsible for addressing dam safety under PS 4: Community Health, Safety and Security. Terms of Reference for consultants advising on topics related to this PS were approved by the Bank to ensure the requirements of the Performance Standards are effectively integrated into the TA work under Component 4.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+As part of project preparation, in July 2013, the PO contracted three international experts, on the basis of a selection process approved by the Bank, as members of the DSAP, in line with the Panel’s terms of reference on World Bank OP/BP 4.37. The members of the Panel provide ongoing advice on technical aspects of the Project. They have been particularly active in advising on the completion of the Feasibility Study, which is being used to negotiate Component 1 design with the developer. The Panel members also played an instrumental role in the selection of the final preferred location for the dam and other facilities, recommending a site which was further upstream than the site which the Feasibility Study consultants had previously identified, but which turned out to have superior geological conditions as well as more favorable financial and economic returns.
+
+As part of Component 4, DSAP will continue to advise the PO, and government more broadly, through contracting, construction and initial operations. Components 2 and 3 do not trigger OP/BP 4.37.
+
+## World Bank Grievance Redress
+Communities and individuals who believe that they are adversely affected by a World Bank (WB) supported project may submit complaints to existing project-level grievance redress mechanisms or the WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address project-related concerns. Project affected communities and individuals may submit their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be submitted at any time after concerns have been brought directly to the World Bank's attention, and Bank Management has been given an opportunity to respond. For information on how to submit complaints to the World Bank’s corporate GRS, please visit www.worldbank.org/grs. For information on how to submit complaints to the World Bank Inspection Panel, please visit www.inspectionpanel.org.
+# RESULTS FRAMEWORK AND MONITORING
+
+## Results Framework
+**COUNTRY:** Solomon Islands
+**Tina River Hydropower Development Project**
+
+### Project Development Objectives
+The project development objective (PDO) is to increase the share of renewable energy through hydropower in Solomon Islands.
+
+### Project Development Objective Indicators
+| Indicator Name                          | Core | Unit of Measure | Baseline | End Target | Frequency  | Data Source/Methodology      | Responsibility for Data Collection |
+|-----------------------------------------|------|------------------|----------|------------|------------|------------------------------|------------------------------------|
+| Name: Generation capacity of energy constructed or rehabilitated | ✔    | Megawatt         | 0.00     | 15.00      | Quarterly  | Project progress report       | Project Company                     |
+| Hydropower generation capacity constructed under the project | ✔    | Megawatt         | 0.00     | 15.00      | Quarterly  | Project progress reports      | Project Company                     |
+| Name: Share of hydropower              |      | Percentage       | 0.00     | 68.00      | Annual     | SIEA                         | SIEA                               |
+
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Indicator Name
+- Core
+- Unit of Measure
+- Baseline
+- End Target
+- Frequency
+- Data Source/Methodology
+- Responsibility for Data Collection
+
+### Description
+The percentage of total GWh generated on the Honiara grid comprised of hydropower and solar energy generation sources.
+
+### Name: Electricity generated by the Project
+- Gigawatt-hour (GWh)
+- 0.00
+- 78.35
+- Annual
+- SIEA
+- SIEA
+
+### Description
+Total GWh generated by the hydropower facility.
+
+# Intermediate Results Indicators
+### Indicator Name
+- Core
+- Unit of Measure
+- Baseline
+- End Target
+- Frequency
+- Data Source/Methodology
+- Responsibility for Data Collection
+
+### Name: Transmission lines constructed or rehabilitated under the project
+- Kilometers
+- 0.00
+- 23.00
+- Annual
+- Annual Report
+- SIEA
+
+### Name: Transmission lines constructed under the project
+- Kilometers
+- 0.00
+- 23.00
+- Annual
+- Annual Report
+- SIEA
+
+### Description
+This indicator measures the length of the transmission lines constructed or rehabilitated/upgraded under the project.
+
+### Name: Roads constructed
+- Kilometers
+- 0.00
+- 18.70
+- Quarterly
+- Project Progress Report
+- MMERE
+# THE WORLD BANK
+## TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+Indicator Name                  Core     Unit of       Baseline       End Target     Frequency                  Data Source/Methodology        Responsibility for
+Measure                                                                                               Data Collection
+
+### Rural
+Description: Kilometers of rural roads constructed under the project. Rural roads are roads functionally classified in various countries below Trunk or Primary, Secondary or Link roads, or sometimes Tertiary roads. Such roads are often described as rural access, feeder, market, agricultural, irrigation, forestry or community roads. Typically, rural roads connect small urban centers/towns/settlements of less than 2,000 to 5,000 inhabitants to each other or to higher classes of road, market towns and urban centers.
+
+### Name: Net greenhouse gas
+(GHG) reduction (tCO2-eq per year)
+Unit: Tones/year
+Baseline: 0.00
+End Target: 49500.00
+Frequency: Annual
+Data Source/Methodology: Dispatch records
+Responsibility for Data Collection: SIEA and Project Company
+
+### Name: Quarterly meetings
+of the Gender Action Plan Steering Committee taking place in a year
+Unit: Number
+Baseline: 0.00
+End Target: 26.00
+Frequency: Quarterly
+Data Source/Methodology: Quarterly reports
+Responsibility for Data Collection: Project Office
+Description: Measurement of the frequency in which the GAP is reviewed by key stakeholders, and therefore, the extent to which active attention is being paid to GAP implementation and monitoring.
+
+### Name: Women who are
+satisfied with the way in which their individual Tribal Cooperative account funds, and those of their children, are spent
+Unit: Percentage
+Baseline: 0.00
+End Target: 75.00
+Frequency: Annual
+Data Source/Methodology: Annual household survey of women in the project area
+Responsibility for Data Collection: Project Office
+# THE WORLD BANK
+## TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+Indicator Name                  Core    Unit of       Baseline       End Target     Frequency                  Data Source/Methodology        Responsibility for
+Measure                                                                                               Data Collection
+
+Description: Measurement of the extent to which new, innovative tribal accounts are reducing the effects of elite capture and allowing women more control in the
+management of project-related resources.
+Name: Increase in project-              Percentage    0.00           20.00          Three times during        Household survey                Project Office
+affected community                                                                  project life              conducted at baseline, mid-
+household consumption                                                                                         term and at project
+before and after                                                                                              completion
+hydropower facility
+commissioning
+
+Description: Measurement of the economic benefits gained by people living in the project area, disaggregated by gender
+Name: Fuel savings (million             Liters        0.00           18.00          Annual                    SIEA                            SIEA
+liters per year)                        (Million)
+Description: Total liters of diesel fuel that would have to be purchased to generate the equivalent amount of electricity generated by the project per year.
+
+Name: Private Capital                   Amount(US     0.00           10400000.                                Amount of equity
+Mobilized                               D)                           00                                       contributed to Project
+Company from project
+developers
+Description: The core indicator track the amount of direct financing (in the form of equity and/or debt) mobilized by private entities, using private funding, to finance
+investments within an IBRD/IDA operation or investments (PE, GE, RE, SF, and GU) directly linked to that operation.
+# THE WORLD BANK
+## TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+### Indicator Name
+- **Core Measure**: Number
+- **Unit of Measure**:
+- Baseline: 0.00
+- End Target: 12.00
+- Frequency: Semi-annual
+- Data Source/Methodology: Independent social and environmental monitoring reports
+- Responsibility for Data Collection: Independent social and environmental monitoring agent
+
+**Name**: Completion of semi-annual, independent social and environmental monitoring reports
+**Description**: Submission of a semi-annual reports required by the organization contracted as the independent social and environmental monitoring agent.
+
+### Indicator Name
+- **Core Measure**: Number
+- **Unit of Measure**:
+- Baseline: 0.00
+- End Target: 6.00
+- Frequency: Annual
+- Data Source/Methodology: Dam Safety Advisory Panel annual reviews
+- Responsibility for Data Collection: Dam Safety Advisory Panel
+
+**Name**: Completion of Dam Safety Advisory Panel annual reviews
+**Description**: Submission of required annual reports by the Panel members.
+
+### Indicator Name
+- **Core Measure**: Yes/No
+- **Unit of Measure**:
+- Baseline: N
+- End Target: Y
+- Frequency: Semi-annual
+- Data Source/Methodology: MMERE progress reports
+- Responsibility for Data Collection: MMERE
+
+**Name**: Preparation of Protected Area Management Plan and Budget by upper catchment communities
+**Description**: Completion of a Protected Area Management Plan and Budget by the upper catchment communities with the support provided by an NGO contracted with project funds. This is the last step before submitting an application for a protected area which the communities would need to do on their own.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Target Values
+#### Project Development Objective Indicators FY
+| Indicator Name                                   | Baseline | YR1  | YR2  | YR3  | YR4  | YR5  | YR6  | YR7  | End Target |
+|--------------------------------------------------|----------|------|------|------|------|------|------|------|------------|
+| Generation capacity of energy constructed or rehabilitated | 0.00     | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 15.00 | 15.00 | 15.00      |
+| Hydropower generation capacity constructed under the project | 0.00     | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 15.00 | 15.00 | 15.00      |
+| Share of hydropower in the generation mix        | 0.00     | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 30.00 | 68.00 | 68.00      |
+| Electricity generated by the Project              | 0.00     | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 30.00 | 78.35 | 78.35      |
+
+#### Intermediate Results Indicators FY
+| Indicator Name                                   | Baseline | YR1  | YR2  | YR3  | YR4  | YR5  | YR6  | YR7  | End Target |
+|--------------------------------------------------|----------|------|------|------|------|------|------|------|------------|
+| Transmission lines constructed or rehabilitated under the project | 0.00     | 0.00 | 0.00 | 0.00 | 23.00 | 23.00 | 23.00 | 23.00 | 23.00      |
+| Transmission lines constructed under the project  | 0.00     | 0.00 | 0.00 | 0.00 | 23.00 | 23.00 | 23.00 | 23.00 | 23.00      |
+| Roads constructed, Rural                          | 0.00     | 0.00 | 18.70 | 18.70 | 18.70 | 18.70 | 18.70 | 18.70 | 18.70      |
+
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+Indicator Name                    Baseline     YR1          YR2           YR3           YR4          YR5           YR6           YR7           End
+Target
+Net greenhouse gas (GHG)           0.00         0.00         0.00          0.00          0.00         0.00          19000.00      49500.00      49500.00
+reduction (tCO2-eq per year)
+Quarterly meetings of the Gender
+Action Plan Steering Committee     0.00         4.00         4.00          4.00          4.00         4.00          4.00          2.00          26.00
+taking place in a year
+Women who are satisfied with the
+way in which their individual
+Tribal Cooperative account funds,  0.00         75.00        75.00         75.00         75.00        75.00         75.00         75.00         75.00
+and those of their children, are
+spent
+Increase in project-affected
+community household
+consumption before and after       0.00         0.00         0.00          10.00         10.00        20.00         20.00         20.00         20.00
+hydropower facility
+commissioning
+Fuel savings (million liters per   0.00         0.00         0.00          0.00          0.00         0.00          6.80          18.00         18.00
+year)
+Private Capital Mobilized          0.00         2.00         4.00          6.00          10.40        10.40         10.40         0.00          10400000.0
+0
+Completion of semi-annual,
+independent social and             0.00         1.00         3.00          5.00          7.00         9.00          11.00         12.00         12.00
+environmental monitoring reports
+Completion of Dam Safety           0.00         0.00         1.00          2.00          3.00         4.00          5.00          6.00          6.00
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+Indicator Name                 Baseline     YR1          YR2         YR3          YR4          YR5          YR6          YR7          End Target
+Advisory Panel annual reviews
+Preparation of Protected Area Management Plan and Budget by upper catchment communities  N            N            N           N            Y                                                   Y
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT
+## Country: Solomon Islands
+### Project Description
+1. The power sector of the Solomon Islands can be characterized by its low electrification rate, heavy reliance on diesel generation and high retail tariff. Within the Pacific region, Solomon Islands has the lowest grid-connected electrification rate of 11 percent, lowest consumption at 125 kilowatt-hour (kWh) per capita, second highest percentage of total fuel imports at 20 percent of GDP, and the highest retail tariff at over US$ cent 65/kWh as of January 2017. About 50 percent of the urban households are supplied by SIEA of which the majority are being supplied through the Honiara Electricity System (HES) in the capital city, with a population of nearly 70,000, on the main island of Guadalcanal. Only about 3 percent of the rural households is supplied by SIEA or through diesel generators owned by households or communities. Nationally, one-third of the households have installed small solar home systems, with photovoltaic (PV) panels typically of 20 watts, which are only sufficient for a few light bulbs and to charge cell phones.
+2. The total installed capacity of the HES is 33.6 megawatts (MW), out of which 32.6 MW are diesel generators and a 1 MW solar farm. Peak demand of the HES has increased from 9.3 MW in 2003 to 15.5 MW in 2016 representing a compound annual growth rate (CAGR) of 4.0 percent. Over the same period, annual electricity generation in HES grew at 4.9 percent CAGR from 45.1 gigawatt-hours (GWh) to 83.9 GWh, with a notable 6.7 percent growth in 2016 alone mainly due to increased supply with the commissioning of four 2.5 MW diesel generators. Generated electricity includes purchase of 1.1 GWh from Solomon Tropical Products company which sells excess electricity to SIEA under a loosely negotiated power purchase agreement (PPA). Total electricity generated in the provincial grids in 2016 was 6.7 GWh.
+3. The high retail tariff has been due to the expensive diesel generation cost and the application of the 2005 Tariff Regulation. SIEA’s system was 100 percent reliant on diesel generation until 1 MW grid-connected solar farm was commissioned in June 2016. As seen in Table A1-1, retail tariffs increased during years of high global oil prices between 2011 and 2014. However, it should be noted that the retail tariff was still increasing in 2014 when oil prices had already started to reduce. Also, while oil prices more than halved in 2015 compared to 2014, the retail tariff reduced only marginally.
+
+### Table A1-1: SIEA Average Retail Tariff (2011-2016)
+- Customers
+- Domestic: 5.2477, 5.9553, 6.0816, 6.4341, 6.2365, 5.8667
+- Commercial: 5.6569, 6.3977, 6.3695, 6.7374, 6.5539, 6.1870
+- Industrial: 5.5039, 6.2323, 6.5413, 6.9186, 6.7434, 6.3783
+- Weighted Average: 5.4467, 6.1705, 6.4031, 6.7729, 6.5910, 6.2244
+- Avg Tariff in US$/KwHr: 0.72, 0.87, 0.90, 0.93, 0.84, 0.80
+- Source: Bank analysis based on SIEA data, 2017
+4. The modest reduction in retail tariff relative to the reduction in global oil prices was because the Electricity Tariff Regulation of 2005 adopts a simplified tariff formula. The fuel cost increase of the previous term was included as the base tariff in the following term. Since the base tariff increased during the years of
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+high oil prices, the benefit of the lower fuel cost in later years was not fully translated into lower retail tariff levels.
+
+5. SIEA conducted a cost-of-service and tariff review and introduced the new tariff methodology, Tariff Regulation of 2016, in January 2017 to appropriately reflect the fuel price in the tariff. With its introduction, the base tariff was reset resulting in a reduction in the average retail tariff from US$ 80 cents/kWh in 2016 to US$ 65 cents/KWh for the first two months of 2017. Despite the reduction, the retail tariff is still significantly higher than the Pacific regional average of residential retail tariff of approximately US$ 40 cents/kWh. To further lower its retail tariff to levels at par with the other Pacific countries, SIEA plans to expand its customer base, enhance efficiency and significantly expand the use of less expensive, indigenous renewable energy sources.
+
+6. SIEA has had a strong financial position since 2011. SIEA was in financial crisis and close to insolvency with severe cash-flow problems until 2010 as a result of the “tension” and poor utility management. However, owing to the strong intervention of the Solomon Islands Government (SIG), a tariff calculation methodology that adjusted the tariff up along with the increase of fuel, but did not adequately pass through reductions in fuel price to the retail tariff (i.e. SIEA’s customers), and support provided through the World Bank-financed SISEP project, SIEA’s financial performance improved dramatically from making losses until 2010 to a net profit of SBD68 million in 2012, and increasing since to SBD107 million in 2015. Electricity sales revenues increased from SBD351.5 million in 2011 to SBD433.5 million in 2016. Accounts receivable also improved from 70 days of sales in 2011 to 40 days in 2015. The system average interruption duration index (SAIDI) improved from 51,840 minutes/customer/year in 2007 to 2,604 minutes/customer/year in 2015, and the system average interruption frequency index (SAIFI) also improved from 816 times/customer/year to 38 times/customer/year during the same period.
+
+7. In addition to investments in lower cost, renewable generation capacity, there are other steps that can be taken to continue to drive down the retail electricity tariff. SIEA is targeting further improvements in efficiency such as setting an aggressive target to reduce losses from 21 percent in 2016 to 11 percent in 2021. Table A1-2 summarizes SIEA’s average system loss from 2011 to 2016. SIEA also aims to reduce input costs, overheads, depreciation, and financing costs. Appropriate re-basing of the non-fuel tariff component of the 2016 Tariff Regulation due in October 2020 will likely allow the retail tariff to be further reduced.
+
+### Table A1-2: SIEA System Loss in Honiara (2011-2016)
+- Energy Generation in Honiara GWh: 74.7, 75.3, 73.0, 77.4, 78.7, 83.9
+- Own Use in Honiara GWh: 2.9, 2.7, 3.2, 2.7, 2.6, 3.1
+- Loss in Honiara GWh: 15.8, 16.1, 14.0, 15.3, 16.0, 17.5
+- Energy Sold in Honiara GWh: 56.0, 56.5, 56.0, 59.4, 60.1, 63.3
+- Loss %: 21.1%, 21.4%, 18.9%, 19.7%, 20.4%, 20.9%
+
+8. Spurred by increased demand, an increased customer base, and expectations for new commercial developments to be supplied by HES, SIEA projects the annual demand to grow at 4.3 percent CAGR to over 250 GWh by 2040. Based on this demand forecast SIEA formulated a least-cost generation expansion plan, incorporating a range of generation sources, which found that TRHDP should be commissioned in 2022 under the optimized Base Case (Figure A1-1).
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+Figure A1-1: Least-Cost Generation Expansion Plan by SIEA (Base Case)
+
+300
+250
+200
+150
+100
+50
+2016                  2022
+2023          2026                            2036       2039
+2017                                                                               2040
+2018
+2019
+2020
+2021       2024
+2025   2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035   2037
+2038
+
+41                 Hz                                   "Lz                LJ
+LId                  FL6                                eLa
+Biomas          #Nex Dictel           Geahemal
+No Sdnr            Nc Sdar Soroge
+
+Source: SIEA, Least Cost Modelling of Future Generation Expansion Options for the Honiara Electricity System, December 2016 (prepared by Marsden Jacobs Associates)
+
+The Bank performed an independent optimization study by using parameters that are more conservative and consistent with the requirements of the Bank’s economic analysis. The study used the Base Case growth rate at CAGR of 2.1 percent as the Base Case, which results in an annual demand of approximately 140 GWh in 2040. The Bank also collected development cost of solar farms in the Pacific region to improve the accuracy of the estimated cost to be used in the model since SIEA’s model assumed cost of solar to be at a level close to SIEA’s 1 MW facility which, as the first solar farm in the country, was relatively expensive.¹⁷ The study also adopted an economic discount rate of 3 percent pursuant to the Bank’s Discounting Costs and Benefits in Economic Analysis of World Bank Projects (May 2016) which recommends the use of a discount rate that is twice the rate of increase in the projected GDP per capita in real terms¹⁸. Since the per capita real GDP of Solomon Islands is projected to grow at 1.2 percent during the project period¹⁹, a discount rate of 3 percent has been applied.
+
+17 The cost of solar in the model does not include the cost of associated facilities such as transmission lines and access roads, while such costs for TRHDP are fully costed in the model.
+18 This guidance is anchored in welfare economics and implies that the net benefits of a project at different points in time should be valued according to their marginal impact on welfare at the time they occur. Higher (lower) growth prospects would normally imply a higher (lower) discount rate for a particular country.
+19 Real GDP per capita projections are from Debt Sustainability Analysis of Solomon Islands carried out by World Bank and International Monetary Fund.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+been used consistently in this analysis and in the economic analysis by rounding up the discount rate implied by the guidance.
+
+10. Using such different parameters, the study also found that TRHDP constitutes a key component of the least-cost generation expansion plan in the Base Case (Figure A1-2). Sensitivity analysis using 10 percent reduction in hydrology caused the optimum commissioning year of TRHDP to be pushed back to 2024.
+
+Figure A1-2: Least-Cost Generation Expansion Plan by the World Bank (Base Case)
+sclar     nvoro     therma     battery_discharge  unserved    demand      cemanc    battery_cnarge
+180
+160
+140
+120
+8¹⁰⁰
+Source: Independent study conducted by World Bank (contracted through Concept Consulting Group and executed by Dr. Grant Reed and Dr. Ramu Naidoo)
+
+11. Further sensitivity analysis using 4 percent discount rate resulted in optimal commissioning of TRHDP being in 2027; and reduction in hydrology by 10 percent using the same discount rate would push back TRHDP to 2028.
+
+12. The counterfactual “without TRHDP” scenario (Figure A1-3) formulated by the Bank’s analysis showed that the share of renewable energy is higher in the “with TRHDP” scenario. Solar generation (partly supported by the use of battery storage) would be expected to meet 58 percent of the total demand by 2046 under the “without TRHDP” scenario which is higher than 40 percent under the “with TRHDP” scenario. However, the total renewable energy percentage “with TRHDP” in 2046 is 83 percent since TRHDP will generate additional 43 percent on top of the solar share. As such, the percentage of renewable energy in the system would be 25 percentage points higher with TRHDP than without. Therefore, in terms of climate change mitigation impact, diesel generation in 2046 remains high at 42 percent under the “without TRHDP” scenario, while diesel only generates 16 percent under the “with TRHDP” scenario. This analysis show that TRHDP provides an opportunity for the grid to simultaneously increase the share of renewable energy in HES and at least-cost.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+Figure A1-3: Least-Cost Generation Expansion Plan (“Without TRHDP” Scenario)
+{oiar    hydro    thermal    battery_discharge  unsered  demand     demand_incl_battery_charge
+180
+160
+140
+120
+8 100
+2046
+Source: Independent study conducted by World Bank (contracted through Concept Consulting Group and executed by
+Dr. Grant Reed and Dr. Ramu Naidoo)
+
+# PROJECT DESCRIPTION
+The TRHDP is located on the Tina River which is one of the two tributaries of the Ngalimbiu River which discharges to the east of Honiara into the Iron Bottom Sound. The Project’s dam site is located in Malango Ward 20, Central Guadalcanal District approximately 20 km (direct distance) from Honiara. The water from the reservoir is conveyed through a headrace tunnel and a penstock to a powerhouse on the left bank. A short tailrace will discharge the water back into the Tina River, whereas the bypass section length is 5.7 km. An access road of 18.7 km will connect Kukum Highway to the HPF, and a transmission line to Lungga Power Station will evacuate the power from the HPF to the Honiara power system.
+
+TRHDP will consist of four components:
+a. Component 1 - Hydropower Facility (HPF) with an installed capacity of 15 MW (with an extra bay to expand capacity to 20 MW when demand increases) to be developed and operated by the PC under a 34-year concession on a build-own-operate-transfer (BOOT) basis. The power off-taker will be the Solomon Islands Electricity Authority (SIEA);
+b. Component 2 - Access Road of 18.7 km to be developed between Kukum Highway and the HPF site;
+c. Component 3 - Transmission Line to be developed by SIEA to evacuate electricity from the HPF to HES; and
+d. Component 4 - Technical Assistance (TA) to the SIG to monitor and support project implementation and ensure social and environmental safeguard risk mitigation including the sound execution of the Environmental and Social Management Plan (ESMP) as well as the
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+### Land Acquisition and Livelihood Restoration Plan (LALRP)
+
+## Component 1 HPF
+15. The HPF will be implemented on a BOOT basis by the PC to be established jointly by three shareholders, Korea Water Resources Corporation (K-water), Hyundai Engineering Co., Ltd. (HEC), and SIG through its main public investment vehicle, ICSI. The PC will enter into a 34-year PPA (including 4-year construction period) with SIEA for the sale of net available generation capacity.
+16. Component 1 costs include the PC’s cost of construction, development costs, interest during construction, and non-EPC contingencies. ADB, Economic Development Cooperation Fund (EDCF), IDA, International Renewable Energy Agency/Abu Dhabi Fund for Development (IRENA/ADFD) and GCF will provide concessional financing to SIG which will on-lend the proceeds to the PC. SIG’s equity share will be financed by IDA.
+17. The salient features of HPF is provided below.
+**Table A1-3: Salient Features of HPF**
+- **Item**: Description
+- **River Basin**: Ngalimbiu River
+- **River**: Tina River
+- **Catchment Area at Dam Site**: 125 km²
+- **Average River Discharge at Dam Site**: 13.1 m³/s
+- **Dam Type**: Roller-compacted concrete (RCC)
+- **Dam Height**: 72 m from foundation
+- **Dam Crest Length**: 207 m
+- **Dam Volume**: 199,000 m³
+- **Full Supply Level (FSL)**: 175 m above sea level
+- **Reservoir Length**: 2.6 km
+- **Reservoir Area at FSL**: 30 ha
+- **Reservoir Volume – Active Storage**: 1.42 million m³
+- **Reservoir Volume – Dead Storage**: 3.25 million m³
+- **Headrace Tunnel Length**: 3.3 km
+- **Penstock Length**: 116 m
+- **Tailrace Length**: 16 m
+- **Design Discharge**: 18 m³/s for 3 units (24 m³/s when 4ᵗʰ unit added)
+- **Gross Head**: 102 m
+- **Installed Capacity**: 5 MW x 3 nos. (with extra bay to add 5 MW)
+- **Annual Energy**: 78.35 GWh per annum
+- **Net GHG Emissions Reduction**: 49,500 tCO₂eq/year or 2.48 million tCO₂eq over the 50-year project life (based on Bank’s Guidance Note: Greenhouse Gas Accounting for Energy Investment Operations)
+- **River Bypass Section Length**: 5.7 km
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Item
+- Environmental Flow: 1.0 m³/s
+Source: Feasibility Study prepared by SIG (executed by Entura).
+
+### Figure A1-4: Layout of the Scheme
+Source: Feasibility study prepared by SIG (executed by Entura).
+
+### Geology
+Geotechnical investigations were undertaken in the Feasibility Study Phase 3 to investigate the geotechnical properties of the dam site and the waterway route, as well as to confirm the water-tightness of the reservoir area and to identify a suitable quarry site. Five boreholes were drilled around the proposed dam site with a total drilling depth of 210 m. In-situ tests and laboratory tests were conducted following the drilling program. Geological mapping was conducted for the areas around the dam site, reservoir area and the headrace tunnel alignment. Feasibility study-level design was prepared based on the above geological conditions identified through geotechnical investigations. The DSAP has recommended additional geotechnical investigation and further analysis to be performed by the EPC contractor during the detailed design.
+
+### Seismology
+The Feasibility Study included a probabilistic seismic hazard assessment which employed an earthquake recurrence model that considers the seismicity and geology of the area in order to estimate seismic activity rates. The model allows for calculations of expected ground motion recurrence at the site, including peak ground acceleration (PGA) and response spectra. The PGA for the Project, for a return period of 475 years (10 percent chance of exceedance in 50 years) and assuming a shear wave velocity (Vs30) value of 1000 m/s, has been calculated as being 0.273g when considering earthquakes of Richter magnitude ML 5 and above. This value was adopted for the operating basis earthquake (OBE) with an annual exceedance probability (AEP) of 1:500 years. The PGA for maximum design earthquake (MDE) is taken between 0.55g (1:5,000 AEP) and 0.65g (1:10,000 AEP). Seismic loading coefficients were determined based on the OBE and MDE for the pseudo-static.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+and pseudo-dynamic stability analyses. As per the DSAP recommendations, dynamic analysis will be conducted during the detailed design by the EPC contractor
+
+## Sedimentation
+Sampling of bed load materials and suspended sediments were collected during Feasibility Study Phase 3. Through the sampling and application of sediment load estimation methods, the Feasibility Study projected a sediment inflow of 45,000 m³/year. Given the dead storage below the intake invert elevation at 160 masl of 3.25 million m3, it is estimated that it will take 65 years for the dead storage to fill up to impact operation. Even for a sediment inflow of 100,000 m³/s, it will take 32 years for the dead storage to fill up. Once the dead storage is filled up, mechanical dredging will be required. It may be noted that the scouring outlet will be able to flush out localized sedimentation around the intake.
+
+## Hydrology
+The Tina River is derived from the joining of three rivers: Mbeambea, Voraha and Njarimbisu. The Tina River catchment area is roughly 150 km². The Tina River joins the Toni River, a much smaller river with a catchment of about 45 km², to form the Ngalimbiu River, which flows through a coastal plain before discharging into Iron Bottom Sound on Guadalcanal's North coast. The catchment area of the Tina River at the dam site is 125 km².
+
+Observed discharge data of the Tina River is available from the Tina River gauging station (7 km upstream of the dam site) for 4 years between June 2010 and June 2014. Hydrological analysis in the Feasibility Study Phase 3 Addendum (November 2015) generated a 30-year synthetic daily discharge data series through a run-off model using rainfall data of Chupukarma rainfall station located in the upstream Tina River basin. Since observed rainfall data at Chupukarma station is only available during July 2010 and June 2015 (with data missing during February 2013 - September 2014), long-term observed rainfall data from the Henderson Airport rainfall station located downstream of the Ngalimbiu River available between January 1975 to August 2014 was used to generate the long-term synthetic rainfall data of Chupukarma. The annual average rainfall of Chupukarma station was derived to be 5,184 mm, while the average discharge at the dam site was calculated to be 13.1 m³/s.
+
+## Climate change vulnerability assessment
+The Bank commissioned an independent climate change vulnerability assessment to assess the impact of climate change on the Project, particularly on the hydrology which affects the economics of the Project. The result of the analysis based on multiple ensembles of climate projections concluded that by 2050 the average basin runoff can vary between 80 percent (-20 percent) and 120 percent (+20 percent) of the present runoff due to the combined impacts of a 1.3 0C increase in temperature and potential shifts in precipitation between 85 percent (-15 percent) and 115 percent (+15 percent) of the present regime. However, the analysis shows that only 3 out of 23 combinations of climate change models and emission scenarios project reductions in runoff exceeding 10 percent, and the hydrology of the Project is judged to be moderately sensitive to climate change.
+
+## Energy yield
+An energy generation simulation was conducted in the Feasibility Study Phase 3 based on the long-term synthetic discharge data. The simulation was updated in Phase 3 Addendum 2 (October 2016) by accurately reflecting design parameters and considering transformer losses. The average annual energy generation was derived to be 78.35 GWh for the 3-unit 15 MW scheme, which represents 68 percent of the annual electricity demand of 120 GWh projected in the Honiara power system in 2022 when the Project is expected to be commissioned. Sensitivity analysis shows that for the 3-unit 15 MW scheme, a 10 percent reduction of river discharge will result in an annual energy generation of 71.43 GWh which represents an 8.8.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+percent reduction from the base case, and a 20 percent reduction of river discharge will yield 63.85 GWh representing 18.5 percent reduction from the base case.
+Once the fourth unit is installed, annual energy generation may increase to 81.65 GWh. Similar to the 3-unit scheme, a 10 percent reduction of river discharge will result in 8.9 percent reduction in energy yield (73.72 GWh) and a 20 percent reduction of river discharge will result in 19.2 percent reduction in energy yield (65.36 GWh).
+Net GHG reduction. Given that the Honiara power system is currently nearly 100 percent supplied by diesel generated power, the Project's generation of 78.35 GWh will result in net greenhouse gas (GHG) emission reduction potential of 49,500 tCO2eq/year or 2.48 million tCO2eq over the 50-year project life. This net emission reduction potential has been calculated based on the World Bank's Guidance Note: Greenhouse Gas Accounting for Energy Investment Operations by applying emission factor of 650 tCO2eq/GWh for diesel generation, and deducting potential emissions from land clearance and construction as well as from the reservoir during operations. Emissions from the reservoir have been calculated for 100 years using a default emission factor of 4.5 tCO2eq/GWh for a reservoir with power density of 50 MW/ha, plant factor of 60 percent in a tropical wet area.
+Cost estimate. The Feasibility Study Phase 3 had estimated the cost of the entire Project (developed for 20 MW but without the cost of the fourth 5 MW unit) including the access road and the transmission line to be US$134.41 million in 2014. During the course of the negotiation with K-water, the access road and transmission line were removed from the EPC package and the initially envisaged micro-hydro facility at the environmental flow outlet has been removed from the design. For this scope, the Feasibility Study Phase 3 cost estimate would be US$124.5 million, while K-water’s price proposal of August 2016 was US$140.00 million (excluding taxes).
+It is important to note that the project cost estimated in the Feasibility Study, at a unit cost of US$8.62 million/MW for the 15 MW scheme, is expensive by international standards. Since the scheme is actually developed to accommodate an additional 5 MW unit for a total installed capacity of 20 MW, the unit cost can be calculated as US$6.58 million/MW including the incremental cost to install the fourth unit. However, this is still expensive compared to an attractive hydropower project in other parts of the world which would be around US$2-3 million/MW.
+The reason for the high development cost can be explained partially by (i) the high cost environment of the Solomon Islands, and (ii) by the high cost of developing a hydropower plant in a challenging natural condition. With regards the former constraint, given the remoteness of the Solomon Islands and the need to import almost every equipment and materials, the unit cost of every item in the bill of quantities is much more expensive than in other parts of the world. A simple calculation using unit costs of a recent project in Indonesia has demonstrated that the Project would be about 30 percent less expensive if it were to use those rates. The second constraint is related to the site in which the Project is being developed including limited availability and high seasonal variation of hydrological resources, unavailability of favorable topography with natural head, complex geological conditions and active seismic activities.
+The final costs of Component 1, subject to finalization and signature of the PPA, are provided below in Table A1-4.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+31. Implementation schedule. The PPA, IA, GGA and SHA are expected to be signed by the end of October 2017. Immediately after the signing of these agreements, the PC will procure the EPC contractor. The indicative construction schedule presented by K-water, the main sponsor, is 39 months from mobilization of the EPC contractor. Based on the detailed technical and price proposal from the EPC contractor, the Project is expected to be commissioned at mid-2022.
+
+### Table A1-4: Component 1 Cost Estimate (US$ million)
+- Cost Category                                   Cost
+- A. EPC Cost¹
+- 1. Design and Documentation                            5.16
+- 2. General and Site Establishment                      8.11
+- 3. Diversion                                           5.67
+- 4. RCC Dam                                            49.64
+- 5. Intake Civil Works                                 10.59
+- 6. Headrace Tunnel and Surge Shaft                    35.16
+- 7. Penstock                                            4.78
+- 8. Powerhouse                                          6.20
+- 9. Switchyard                                          0.96
+- 10. Electro-mechanical Equipment                      13.73
+- 11. Taxes                                              3.82
+- Sub-Total (A)                                        143.82
+- B. Non-EPC Cost
+- 1. Development Cost                                   20.72
+- 2. Commitment fees                                     0.74
+- 3. Contingency                                        16.40
+- 4. Interest during Construction                        3.98
+- Sub-Total (B)                                         41.84
+- Total (A+B)                                             185.66
+- 1 EPC Cost based on submission in August 2016. EPC Cost is subject to price adjustments based on actual inflation rates since April 1, 2017.
+- Source: Bank estimates.
+
+32. Dam safety. The PO will retain the DSAP until 1 year after commissioning of the HPF. The following plans have been prepared by the developer and reviewed by the Bank’s dam expert and the DSAP to ensure dam safety:
+- (a) Construction Supervision and Quality Assurance Plan
+- (b) Instrumentation Plan
+- (c) Operation & Maintenance Plan
+- (d) Emergency Preparedness Plan (EPP)
+
+## Component 2 Access Road
+33. The access road construction will be constructed by the main EPC contractor entirely grant financed. The access road will connect the existing Kukum Highway along the northern coast of Honiara with the HPF, and is divided into two lots:
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+(a)  Lot 1. Upgrading of 13.2 km of existing gravel Black Post Road from Black Post Junction of the Kukum Highway to Managikiki Village.
+(b)  Lot 2. Greenfield development of 5.5 km road from Managikiki Village to the HPF facility including spurs to the powerhouse, dam, quarry site, etc.
+
+Design parameters have been established separately for Lot 1 and Lot 2. In particular, Lot 1, which will be used also by the local communities will be constructed as a 2-lane road of 6.0 m width, while Lot 2, used exclusive by construction vehicles during construction period, will be a 1-lane road of 4.0 m width with a passing bay at 500 m intervals. The access road will be a gravel road except for steep gradient sections in Lot 2 which will be paved.
+
+While the construction of the access road is included in the EPC contract under Component 1, it is presented as a separate component because its cost is ring-fenced and would be fully financed by grants from the Australia-Pacific Islands Partnership Trust Funds (APIP TF) of the GOA and GCF. Such arrangement is required in order to keep the PPA tariff at a level acceptable to SIEA, and also because a major segment of the access road is a public investment which also brings benefit to the mobility and well-being of the local communities.
+
+## Component 3 Transmission Line
+The 66kV transmission line will be developed and operated by SIEA. In Figure A1-5, below, SIEA's preferred route is U2+S3+R1+Q (approximately 34.0 km) to White River and tee-off to Lungga Power Station through route T1 (2.7 km). As the transmission line will be significantly longer than the Feasibility Study route of approximately 22.5 km, and the line to White River is not essential for the evacuation of power from the HPF, the Project will finance only the line to Lungga Power Station (sections U2+S3+T1 = 21.6 km), while SIEA will later self-finance the line to White River (sections R1+Q).
+
+Figure A1-5: Transmission Line Route Options
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Component 4 TA
+The TA is aimed at supporting the Project Office under the MMERE to implement the Project through financing of (i) the Dam Safety Advisory Panel (DSAP) comprising experts on dam, geology, seismology and hydrology/sedimentology; and (ii) environment and social experts, including for the preparation for a cumulative impact assessment; as well as (iii) an independent social and environmental monitoring agent on the implementation of the environmental monitoring and management plan, and the GAP; and (iv) an NGO to engage with landowning tribes in the upper catchment to support the first stages of establishing a protected area, up to the point of preparing a Protected Area Management Plan and Budget, if community members are interested and committed in doing so. It will also support the day-to-day project management of the MMERE PO.
+
+The PO is expected to be also funded by the JSDF (or alternative sources if JSDF does not materialize) to implement the community benefit sharing pilot program which involves the implementation of community development initiatives in the wider Project area and the formulation of a community benefit sharing scheme to be implemented during the 30-year PPA operation period. The planning and implementation of the benefit sharing mechanism and the proposed protected area management shall adopt an inclusive community-based planning approach with due consideration to the gender dimensions of the activities.
+# ANNEX 2: IMPLEMENTATION ARRANGEMENTS
+COUNTRY: Solomon Islands
+Tina River Hydropower Development Project
+
+## Project Institutional and Implementation Arrangements
+1. Key stakeholders of the Project and their brief responsibilities area as follows:
+a. Ministry of Finance and Treasury (MOFT) of the SIG. MOFT represents SIG as the Recipient of concessional financing for the TRHDP. MOFT will pass a portion of the proceeds on to the PC for the implementation of Component 1; pass on proceeds to the PC for the implementation of Component 2 – Access Road; pass on a portion of the proceeds to the Solomon Islands Electricity Authority (SIEA) for Component 3 – Transmission Line; pass on proceeds to MMERE for Component 4 – TA. On behalf of SIG, MOFT will enter into the Government Guarantee Agreement with the PC, and jointly with MMERE enter into the Implementation Agreement with the PC.
+b. Investment Corporation of Solomon Islands (ICSI). ICSI will hold equity shares in the PC on behalf of SIG. Under the ICSI Act, the Minister of Finance and Treasury is the responsible minister for ICSI.
+c. Ministry of Mines, Energy and Rural Electrification (MMERE) of SIG. MMERE oversees the mining and energy sector including rural electrification. It supervises SIEA and supports the Project through the Tina River Hydropower Development Project Office. MMERE and MOFT will jointly enter into the Implementation Agreement with the PC.
+d. Tina River Hydropower Project Office (PO). The PO is a dedicated office within MMERE to prepare and now support the implementation of TRHDP. The PO will represent SIG in managing the implementation of Components 1 and 2, while it will implement Component 4.
+e. Solomon Islands Electricity Authority (SIEA). SIEA, trading as “Solomon Power” is the state-owned vertically-integrated power utility. As the Off-taker, it will purchase electricity from the PC through a Power Purchase Agreement (PPA). It will also enter into a subsidiary financing agreement with MOFT to receive a portion of the International Development Association (IDA) financing proceeds for the implementation of Component 3. SIEA will also enter into a project agreement with IDA.
+f. Project Company (PC). The PC will develop Component 1 – HPF on a build-own-operate-transfer (BOOT) basis under a 34-year PPA including a 4-year construction period. The PC will be established by the private sponsors (K-water and HEC) and ICSI under a Shareholders Agreement. The PC will contract an engineering-procurement-construction (EPC) contractor to construct the HPF. The PC will contract an operation and maintenance (O&M) contractor for the operation of the HPF during the 30-year operation period. Upon completion of the PPA, the private sponsors’ shares and full ownership of the HPF asset will be transferred to SIG.
+g. Korea Water Resources Corporation (K-water). K-water is the selected private sponsor.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+- consortium with HEC) of Components 1 and 2. As the main project sponsor, and shareholder in the PC with management control, K-water will lead the PC and ensure that it is managed effectively and all of its contractual obligations are fully met. K-water will, therefore, be responsible for building and operating the HPF, and ensuring that the EPC contractor effectively executes its contract. K-water is the preferred O&M contractor.
+- Hyundai Engineering Co., Ltd. (HEC). HEC is the selected private sponsor (in consortium with K-water) of Components 1 and 2. HEC is the preferred EPC contractor.
+- World Bank. The Bank has been supporting SIG to prepare the Project and will provide US$33.6 million Credit and Grant from its IDA17 resources to SIG towards (i) SIG’s equity share in, and debt financing for, the PC under Component 1, (ii) the construction of Component 3 Transmission Line, and (iii) activities under Component 4 TA. The Bank will enter into a financing agreement with MOFT and project agreements, respectively, with the PC and SIEA. The Bank will also administer financing from the GoA and the GCF.
+- Government of Australia (GoA). GoA, through a trust fund administered by the Bank governed by the Trust Fund Agreement between the Bank and GoA, will provide grant funds to SIG for the construction of Component 2 Access Road and Component 4 TA. Financing was approved in April 2017 and it is expected that an initial tranche of financing will be transferred to the APIP Trust Fund for this purpose by June 30, 2017.
+- Green Climate Fund (GCF). GCF, through arrangements governed by the Funded Activity Agreement (FAA) between the Bank and GCF, will provide SIG a loan towards the debt financing of the PC and a grant for the construction of Component 2 Access Road. GCF financing was approved in April 2017.
+- Asian Development Bank (ADB). ADB will provide from its Asian Development Fund (ADF) resources a grant and a loan to SIG towards the debt financing of the PC. The proposal for ADB financing is planned for ADB board consideration in August 2017.
+- Economic Development Cooperation Fund (EDCF) of the Government of Korea. EDCF will provide to SIG a loan towards the debt financing of the PC. EDCF financing is expected to be approved in July 2017.
+- International Renewable Energy Agency and Abu Dhabi Fund for Development project facility (IRENA/ADFD). IRENA/ADFD will provide to SIG a loan towards the debt financing of the PC. IRENA/ADFD financing was confirmed in January 2017.
+- Multilateral Investment Guarantee Agency (MIGA). MIGA is discussing with both K-Water and Hyundai Engineering to provide “four-point” political risk insurance on their equity, to cover against the risks of transfer restriction, expropriation, war and civil disturbance and breach of contract.
+
+## Contractual relationship
+- Contractual relationship between the parties for Component 1 and 2 is shown in Figure A2-1, while the relationship for Components 3 and 4 are shown in Figure A2-2, below.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Figure A2-1: Contractual Relationships for Components 1 and 2
+FFA
+TF Agreement (GCF) EDCF ADB IRENA/
+GOA GCF
+IDA
+PA (IDA) FA (EDCF)
+(GCF)* (ADB) (IRENA/
+(IDA) (IRENA/ADFD)
+ADFD) (EDCF)
+PA (ADB)
+FA
+FA
+FA
+FA
+Side Letter*
+SIG
+(MOFT)
+Arrangement
+between SIG
+and ICSI (MMERE (EDCF) (IRENA/
+(GCF)
+(ADB)
+PO) GGA (IDA) Debt
+FA FA FA FA FA
+S S S S S
+ICSI Equity
+s Shareholder
+Agreement KW and HEC Equity
+(subscription agreement) Project Company
+Owner’s Contract Engineer
+Intra-group O&M Agreement EPC Contract
+Four
+PPA EPC Contractor
+MIGA O&M Contract
+Cost shared between Project Company and SIEA - Component 1 Hydropower
+Facility financed by ADB, EDCF,
+Independent Engineer PA (IDA/GCF/GOA) GCF, IDA and IRENA/ADFD
+Component 2 Access Road
+financed by GCF and GoA
+
+* Side Letter to backstop certain obligations of SP under the PPA which it may not have control over.
+** Four-point cover includes insurance against transferability, political violence, expropriation and breach of contract
+ADB = Asian Development Bank; EDCF = Economic Development Cooperation Fund (South Korea); EPC = engineering-procurement-construction; FA = financing agreement; FFA = funded activity agreement for GCF; GCF = Green Climate Fund; GGA = government guarantee agreement; HEC = Hyundai Engineering Co., Ltd.; IA = implementation agreement; ICSI = Investment Corporation of Solomon Islands; IDA = International Development Association (World Bank Group); IRENA/ADFD = International Renewable Energy Agency; KW = Korea Water Resources Corporation; MIGA = Multilateral Investment Guarantee Agency; MMERE = Ministry of Mines, Energy and Rural Electrification; MOFT = Ministry of Finance and Treasury; O&M = operation and maintenance; PA =
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+project agreement; PO = Tina River Hydropower Project Office; PPA = power purchase agreement; SFA = subsidiary financing agreement; SIEA = Solomon Islands Electricity Authority; SIG = Solomon Islands Government.
+
+## Figure A2-2: Contractual Relationships for Components 3 and 4
+GOA       TF Agreement*         IDA
+(TF)  (IDA)**
+PA (IDA)
+FA
+FA
+SIG
+(MOFT)
+(MMERE PO)                               (IDA)    (IRENA/ADFD)
+SFA    SFA
+Contracts                              SIEA
+Consultants**                            Supply & Installation
+Contract
+Contractor
+Component 4 Technical
+Assistance financed by
+GoA, IDA and SIG               Component 3 Transmission Line
+financed by IDA and SIEA
+
+* One FA including financing for Component 1.
+** Consultants include: Experts of the Dam Safety Advisory Panel (DSAP); Independent Monitoring Agents to monitor implementation of Environmental and Social Management Plan (ESMP) and Land Acquisition and Livelihood Restoration Plan (LALRP); Technical experts, including environmental and social specialists and community liaison officer, of the PO; etc.
+FA = financing agreement; FFA = funded activity agreement for GCF; GCF = Green Climate Fund; GoA = Government of Australia; IDA = International Development Association (World Bank Group); MMERE = Ministry of Mines, Energy and Rural Electrification; MOFT = Ministry of Finance and Treasury; PA = project agreement; PO = Tina River Hydropower Project Office; SFA = subsidiary financing agreement; SIG = Solomon Islands Government; TF = Trust Fund.
+
+## The status of the main project documents pertaining to Components 1 and 2 are provided in Table A2-1.
+Page 64 of 97
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Table A2-1: Status of Main Project Documents for Components 1 and 2
+- **Document**: Power Purchase Agreement
+**Status as of IDA Board Submission**: Schedules under negotiation. Target signature by October 31, 2017.
+
+- **Document**: Implementation Agreement
+**Status as of IDA Board Submission**: To be updated. Government decision on tax benefits pending. Target signature by October 31, 2017.
+
+- **Document**: Government Guarantee Agreement
+**Status as of IDA Board Submission**: Substantially negotiated and agreed. Termination payment methodology to be imported from PPA once agreed. Target signature by October 31, 2017.
+
+- **Document**: Shareholders Agreement
+**Status as of IDA Board Submission**: Negotiations in progress. Target signature by August, 2017, and sponsors’ equity disbursement in September 2017.
+
+- **Document**: EPC Contract
+**Status as of IDA Board Submission**: Advanced discussions on Price and Technical Proposal to be formally confirmed. Target signature by October 31, 2017.
+
+- **Document**: Land Lease
+**Status as of IDA Board Submission**: Draft still under discussion. Target signature by October 31, 2017 as a schedule to the PPA.
+
+- **Document**: O&M Contract
+**Status as of IDA Board Submission**: Draft to be prepared so that the contract can be signed in a timely manner before the testing and commissioning of the plant.
+
+The overall coordination, reporting and monitoring arrangements for the various parties would be organized as shown in Figure A2-3.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Figure A2-3: Coordination, Monitoring and Reporting Arrangements
+- Reporting
+- SIG Steering Committee
+- Donor Coordination
+- MMERE
+- MOFT
+- Coordination
+- GoA
+- IDA
+- GCF
+- ADB
+- MID
+- MECDM
+- IRENA/ADFD
+- EDCF
+- FD
+- Implementation
+- Support Missions
+- PO
+- PO
+- Reporting to PO
+- Coordination by PO
+- Project Company
+- DSAP
+- Project Company
+- Advising
+- ICSI
+- KW and HEC
+- Components 1 and 2
+- E&S Experts
+- Advising
+- SIEA
+- Components 3
+- Monitoring
+- Independent Monitoring Agent
+
+## Financial Management
+The financial management (FM) arrangements are expected to satisfy the FM requirements as stipulated in OP/BP 10 subject to implementation of the recommended FM mitigating measures and satisfactory FM assessment of the PC once it is established. The assessed FM risk of the project is considered substantial and could be reduced when the proposed mitigating measures are implemented and are shown to be.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Financial Management Risks
+The main FM risks are: that the equity funding under Component I will not be used for the intended purpose, consistent with the PDO; payments for major civil works under Components 1, 2 & 3 do not meet acceptable technical standards or are misused; and the lack of capacity within MMERE.
+
+## Proposed FM Mitigating Measures
+(1) Employment of a dedicated project accountant
+(2) Agreement in writing between the project staff and MMERE on the internal control authorizations
+(3) Training on the Bank requirements
+(4) Direct payment to the PC and/or to its contractors without funds flowing through ICSI
+(5) Adequate technical review of the major civil works deliverables prior to payment
+(6) Adequate governance arrangements and operational controls over the use of the equity funding.
+
+## Implementing Agencies
+The implementing agencies, the MMERE and SIEA, have experience in implementing previous and ongoing Bank financed projects. The PC which will be constructing the HPF, will receive equity funding disbursed under Component 1 in accordance with a subscription agreement with the Solomon Island Government's Investment Corporation of the Solomon Islands (ICSI). As the PC is yet to be established, an FM assessment cannot be done on the company at this time. The FM assessment for the PC can be conducted when the finance team for the PC has been appointed and are on board, an adequate financial management system has been implemented (i.e. an appropriate accounting software package) and the internal controls and regulations are in place. This FM assessment will need to be conducted to confirm the adequacy of the relevant FM arrangements prior to disbursement under Components 1 and 2, including confirmation the governance arrangements and controls provide reasonable assurance that the equity funding will be used for the purposes intended. As K-water will have management control of the PC, and is a well-established corporate entity, the PC is expected to hire competent financial management staff and ensure that financial management systems meet K-water's quality standards.
+
+## Budgeting and Counterpart Funding
+The budget cycle of the project would run from January 1 to December 31. A project budget covering the life of the project and an Annual Work Plan and Budget would be prepared by MMERE and SIEA, for their respective activities, submitted to the Bank for review and no-objection at the beginning of the project and by November 30 of each year. The Government would contribute in the form of cash and in-kind such as office space, staff time spent on the project, office supplies, and utilities. While the MMERE has experience in the preparation of the yearly ministry budget it has limited experience in project budgeting and this responsibility will fall to the Project Manager and Project Accountant. Neither of these positions have been filled and until the appointments are finalized after the signing of the project Financing Agreement the FM risk for budgeting will be Substantial.
+
+## Accounting Arrangements
+The government of the Solomon Islands has centralized its accounting system and financial management functions. MMERE transactions are reviewed and entered into by the Ministry of Finance and Treasury. MMERE does not have the capacity to use the government accounting system to record the project financial transactions and the finance section does not have the resources or experience to maintain the project accounts. To overcome the lack of resources within the ministry, the incumbent Project Office will continue to manage the project during implementation and will employ a Project Accountant, funded by the project. The Project Accountant will maintain the project accounts, which will include liaising with SIEA for Component 3 to obtain information to enable entering of transactions and preparation of consolidated reports. It is also recommended the project accounting records are maintained using an "off the shelf" accounting package. The Project Accountant will advise the Project Manager and Ministry on the most appropriate accounting package. The Project Accountant will also develop the project chart of accounts to enable reporting by component and by activity/sub projects.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Financial Management
+and maintain the day to day accounts. Records will be maintained on a cash basis consistent with the SIG accounts. Project accounts will be separate from the Ministry accounts and a project bank account will be maintained. A key FM risk is the unknown skills and competence of the yet to be appointed Project Accountant. The Bank will assist the project in the development of suitable terms of reference for the position and also carry out a technical review of the qualifications of the successful candidate.
+
+## Internal Controls
+For those funds managed through MMERE the project procedures will be consistent with MMERE controls which are dictated by the Solomon Island Financial Instructions and General Orders and the overarching Public Financial Management Act 2013. MMERE has no Internal Audit Division. Documentation will be prepared by the project but generally authorized by MMERE staff. On the appointment of the Project Accountant and Project Manager a meeting with the appropriate MMERE staff will be held to outline and document the specific authorizing officers and processes. This will include documenting; cheque signatories, who can authorize purchase orders, payment vouchers etc; what are the arrangements when authorizing personnel are unavailable; and ensuring evidence of adequate technical review of the major civil works deliverables prior to payment. Authorized signatories for Withdrawal Applications will be staff designated to that effect by the Minister of Finance and Treasury although the preparation of Withdrawal Applications will be done by project staff. The World Bank staff will provide a training session to the Project Manager and Project Accountant covering the specific World Bank requirements outlined in the Legal Agreements and Disbursement Letter. For Components 1 and 2 the internal control framework of the PC will focus on ensuring that the project equity funding is used for the purposes intended. It is expected that the PC, when established, will have a framework for their processes and procedures and these will be reviewed as part of the subsequent FM assessment of the PC. In addition, an adequate governance structure needs to be in place to ensure that the equity funding is not diluted or misused. For component 3 the payment process will be subject to the same controls as for component 4, and procuring of the contracts, contract management and subsequent payments will be managed by the SIEA and reported in the consolidated IFRs and project audit. SIEA has previous experience working on World Bank projects and have a staff procedures manual outlining their internal controls. There has been strong compliance to the procedures manual.
+
+## Funds Flow
+To directly access funds from the World Bank, Designated Accounts (DAs) would be established for MMERE, SIEA and the PC at commercial banks acceptable to the World Bank. Below is the overall fund flow diagram for the project is shown in Figure A2-4.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Figure A2-4: Project Funds Flow
+- ADB
+- GoA
+- GCF
+- EDCF
+- IRENA
+- MIGA
+- /ADFD
+- K-water/HEC
+- IDA
+- Project Company (Pooled Designated Account)
+- ICSI
+- MMERE (Pooled Designated Account)
+- SIEA (Pooled Designated Account)
+- MOFT
+- Training, Consultants, Operating Costs
+- Transmission Line Contractor
+- Independent Engineer
+- EPC Contractor, O&M Contractor, Owner’s Engineer, etc.
+- Contribution to Trust Fund
+- Fund transfer to DA
+- Direct Payment
+- Payment for eligible expenditures
+- Note: Payment to EPC Contractor, O&M Contractor, Owner‘s Engineer, etc. contracted by the Project Company can also be Direct Payment
+- Invoice / Withdrawal Application
+- Equity
+- Dividend
+- Insurance premium
+
+ADB = Asian Development Bank; DA = designated account; EDCF = Economic Development Cooperation Fund (South Korea); EPC = engineering-procurement-construction; GCF = Green Climate Fund; GoA = Government of Australia; ICSI = Investment Corporation of Solomon Islands; IDA = International Development Association (World Bank Group); K-water = Korea Water Resources Corporation; MIGA = Multilateral Investment Guarantee Agency; MMERE = Ministry of Mines, Energy and Rural Electrification; MOFT = Ministry of Finance and Treasury; O&M = operation and maintenance; SIEA = Solomon Islands Electricity Authority.
+# FUND FLOW FROM OTHER DONORS
+ADB, EDCF and IRENA/ADFD funds would flow directly from the ADB, EDCF and IRENA/ADFD accounts to the SIG/PC with payments based on verified achievement of milestones. GCF funds would be channeled through the Bank²¹, with the Bank disbursing to the PC on GCF’s behalf as well as making payments directly to construction and supervision firms. DFAT funds would be managed by the Bank in a trust account and either channeled directly to the construction and supervision firms through direct payments or to a Designated Account set up by MMERE for project payments. The sequencing of financing from IDA and other financiers, and across grant and loan/credit financing sources, will be finalized as a part of the process of securing financing from all co-financing sources. There will likely be pro-rata disbursements by sources contributing to each component and a preference for disbursing grants ahead of loans and disbursing the most expensive loans last to reduce financing costs. In the case where IDA co-finances with other financiers under a component (or components) of the Project, IDA may finance expenditures under such component(s) up to 100%, inclusive of taxes, if other financier’s funds is not yet available. Pro-rata disbursement arrangements may be employed once other financier’s funds become available. Co-financiers are not expected to place any restrictions on sequencing, so SIG will draw on available sources in the most cost effective and practical manner.
+
+# INTERIM FINANCIAL REPORTING
+The project reporting will include income (based on disbursement) expenditure by component and activity/sub on a quarterly, year to date and cumulative basis, commitment reporting and expenditure and commitment to budget reporting. IFRs will be required to be submitted not later than 45 days after the end of each reporting period. Reporting by category will also be required if there is more than one disbursement category. A commitments register will be maintained for all contracts to ensure payments are made in accordance and to assist in monitoring available project funds. The Project Accountant, based in the Project Office, will be responsible for consolidation of the various sources of funding and activities into one IFR report.
+
+# ARRANGEMENTS FOR EXTERNAL AUDIT
+Annual audited project financial statements for each fiscal year of the project will be required by the Bank. The Audited Financial Statements and management letters will be required to be received by the World Bank within 6 months of the end of the fiscal year for which the reports have been audited. The MMERE, through the Project Accountant, will work with the auditors as their focal point to ensure that all documentation and audit queries are addressed. The Project Accountant will also be responsible for the preparation of the project Financial Statements. If possible the project financial statements will be audited under the supervision of the Solomon Islands Office of the Auditor General (AG), which is an independent auditor acceptable to the Bank however this will be subject to their availability. If the AG is unable to audit project funds a private auditing firm acceptable to the Bank may need to be engaged. The project financial statements shall include all receipts and payments of the project except for those funds flowing directly to the PC, which should be disclosed as a note to the accounts of the financial statements acknowledging the funds disbursed to PC.
+
+# ADDITIONAL REQUIREMENTS
+Those funds flowing directly to the PC should be included in the PC accounts and project funds should be clearly identified in the reports. The PC will be required to provide a copy of their annual financial statements to the Bank within 6 months of the end of the reporting period. The audited financial statements should be disclosed by MMERE, SIEA and the PC on their accounts.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## FM Supervision Plan
+More intense FM supervision may be required in the initial part of the project, however once the FM arrangements are in place FM Implementation Reviews will be conducted twice a year. The FM Specialist will also conduct desk reviews of the Interim Financial Reports (IFRs) the annual audit reports and management letters from the external auditors and follow-up on material accountability issues and provide ongoing FM advice and support throughout the life of the project.
+
+## Disbursements
+All the Bank disbursement methods will be available to be used in the Project: (a) advances into and replenishment of Designated Accounts, (b) direct payment, (c) reimbursement, and (d) special commitment. It is expected that direct payments will only be used for payment on large contracts requiring payment in foreign currency, i.e. major works programs and international technical advisors. Three pooled designated accounts in SBD will be established under the project at a financial institution or commercial bank acceptable to the Bank, and managed by the PC, MMERE and SIEA respectively. These pooled DAs will receive funds from the Bank, as well as from other financiers or counterpart funds. For the MMERE Designated Account, funds will be disbursed to the Central Bank of the Solomon Islands where the designated account is held and then transferred into a commercial operating account in SBD. The DAs will be operated on an advance basis and the initial advance will be made through the completion of a Withdrawal Application. Subsequent replenishments will be made through submission of withdrawal applications providing details on the use of funds previously advanced, based on Statements of Expenditures and bank reconciliation of the DAs. The IDA Financing proceeds would be disbursed against eligible expenditures, inclusive of taxes, as shown in Table A2-2.
+
+### Table A2-2: Allocation of IDA Credit and Grant Proceeds
+- Category: ICSI Equity contribution in the Project Company for Component 1 of the Project
+- Amount of Grant Allocated in SDR: 0.000
+- Amount of Grant Financing (in US$ Equivalent): 0.000
+- Amount of Credit Allocated in SDR: 5.960
+- Amount of Credit Financing (in US$ Equivalent): 8.170
+- Percentage of Expenditures to be Financed (inclusive of Taxes): 100%
+
+- Category: Goods, works, non-consulting services, and consulting services for Component 1 of the Project
+- Amount of Grant Allocated in SDR: 5.360
+- Amount of Grant Financing (in US$ Equivalent): 7.355
+- Amount of Credit Allocated in SDR: 9.580
+- Amount of Credit Financing (in US$ Equivalent): 13.134
+- Percentage of Expenditures to be Financed (inclusive of Taxes): 100%
+
+- Category: Goods, works, non-consulting services, and consulting services for Component 3 of the Project
+- Amount of Grant Allocated in SDR: 0.000
+- Amount of Grant Financing (in US$ Equivalent): 0.000
+- Amount of Credit Allocated in SDR: 1.510
+- Amount of Credit Financing (in US$ Equivalent): 2.071
+- Percentage of Expenditures to be Financed (inclusive of Taxes): 100%
+
+- Category: Goods, works, non-consulting services, and consulting services for Component 4 of the Project, including Training and Incremental Operating Costs
+- Amount of Grant Allocated in SDR: 2.120
+- Amount of Grant Financing (in US$ Equivalent): 2.900
+- Amount of Credit Allocated in SDR: 0.000
+- Amount of Credit Financing (in US$ Equivalent): 0.000
+- Percentage of Expenditures to be Financed (inclusive of Taxes): 100%
+
+IDA Credit financing for the Project is denominated in USD for an amount of US$23.375 million, which is equivalent to SDR 17.05 million based on exchange rate on April 30, 2017 at SDR 1 = US$1.37102. The column ‘Amount of Credit Allocated in SDR’ is only for information purpose.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Financial Summary
+- **Category**: TOTAL
+- **Amount of Grant Allocated in SDR**: 7.480
+- **Amount of Grant Financing (in US$ Equivalent)**: 10.255
+- **Amount of Credit Allocated in SDR**: 17.050
+- **Amount of Credit Financing (in US$ Equivalent)**: 23.375
+- **Percentage of Expenditures (inclusive of Taxes)**:
+
+## Funds Management
+18. Funds flowing to the PC will be pooled in one single designated account, subject to review (FM assessment) of the financial management system to ensure it has the capacity to segregate funds (through a designated field in the financial management system) so that individual sources of funds can be monitored.
+
+19. IDA credit of approximately US$8 million, subject to some variation depending upon the final financing structure, allocated to disbursement Category (1) in Table A2-2 above is meant for equity share contributions to the PC. These contributions will be made by the Bank as per agreement between the Bank and the PC.
+
+20. For the purpose of financing dam safety and environment and social (E&S) safeguard activities under Component 4, a provision for retroactive financing will be made in the Financing Agreement for IDA, with withdrawals up to an aggregate amount not to exceed USD equivalent US$200,000 allowed for payments made prior to the date of the Financing Agreement, on or after April 1, 2017, for Eligible Expenditures. For the purpose of financing early road works to facilitate access to the dam site under Component 2, that are needed prior to effectiveness, a provision for retroactive financing will be made in the APIP Grant Agreement, with withdrawals up to an aggregate amount not to exceed USD equivalent US$1,700,000 allowed for payments made prior to the date of the APIP Grant Agreement, on or after April 1, 2017, for Eligible Expenditures.
+
+## Procurement
+21. The project will follow procurement procedures under World Bank Procurement Regulations for IPF Borrowers (July 2016) and the provisions stipulated in the Financing Agreement to be entered into by the Bank and SIG.
+
+22. Procurement plan will list each contract to be financed under the project, the different procurement methods and approaches, estimated costs, review requirements, and timeframe.
+- Civil Works are anticipated under Components 2 Access Road and will be included in the EPC contract for HPF, and under Component 3 Transmission line to be procured by SIEA.
+- Goods are anticipated under Component 4 TA to be procured by MMERE.
+- Consulting Services are anticipated under Component 4 TA to be procured by MMERE.
+- Selection of Private Partner for Component 1 HPF and Component 2 Access Road. SIG has selected the consortium of K-water and HEC as its private partner (main sponsor) and a shareholder of the PC (to be established) to develop and operate the HPF on a BOOT basis.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Procurement Risk Assessment
+The procurement risk is assessed as Substantial. Key procurement risks emanate from:
+- (a) lack of procurement and contract management capacity, and
+- (b) limited number of local suppliers/contractors.
+
+Risk mitigation measures have been discussed and agreed with Government and detailed below.
+
+## Capacity and Risk Assessment
+SIEA and MMERE have the experience from similar implementation arrangements under Government and donor programs. The following risks and mitigation measures have been identified and discussed with the Government counterparts.
+
+### Table A2-3: Procurement Risks and Mitigation Measures
+- **Risk Description**: Project coordination risk is high with the PO acting as the manager of four separate, but linked components
+**Description of Mitigation**: Recruit an experienced international Project Manager and a national Deputy Project Manager for the PO to coordinate the execution of the Project components.
+**Risk Owner**: Project Company, SIEA, PO, Bank and co-financiers
+
+- **Risk Description**: Weak Procurement and Contract Management Capacity of PO
+**Description of Mitigation**: Recruit an experienced international Project Manager and a national Deputy Project Manager for the PO to oversee procurement contract management.
+**Risk Owner**: MMERE PO/World Bank/GoA
+
+- **Risk Description**: SIEA will avail services of international consulting firms which it retains for the detailed design and supervision of Component 3
+**Description of Mitigation**: Recruit an experienced international Technical Advisor with procurement experience for the PO.
+
+- **Risk Description**: Timeliness of procurement decisions (Component 3 and 4)
+**Description of Mitigation**: Active management of procurement/contracting process, specifically at key decision points, and using the STEP system to monitor progress.
+**Risk Owner**: SIEA, PO, Bank and cofinanciers
+
+- **Risk Description**: Few contractors/suppliers have experience in Solomon Islands (Component 3)
+**Description of Mitigation**: Importance of Pre-bid Meetings/Site Visits
+**Risk Owner**: Shared between PO, SIEA and the suppliers (market)
+
+## Procurement Plan
+A combined Procurement Plan has been prepared and agreed with the Bank. Procurement plan will be published through the Systematic Tracking of Exchanges in Procurement (STEP). Implementing agencies will update the procurement plan in agreement with the Bank annually or as required to reflect project implementation needs and improvements in institutional capacity and procurement risk. A summary of the procurement plan is as follows:
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Table A2-4: Procurement Plan (Accepted by the Bank on May 10, 2017)
+
+| Reference No. | Description of Contract                     | Estimated Cost US$ ’000 | Selection/Procurement Method | Review by Bank (Prior/Post) | Expected Contracting Date | Comments                          |
+|---------------|--------------------------------------------|--------------------------|------------------------------|------------------------------|---------------------------|-----------------------------------|
+| 1             | BOOT Contracts for HPF and Access Roads    | 210,660                  | PPP                          | Prior                        | October 2017              |                                   |
+| 2             | Transmission Line (Tina River HPP – Lungga PS) | 22.820                   | RFB                          | Prior                        | July 2020                 |                                   |
+| 3             | Project Manager of PO (International)      | 262                      | INDV                         | Prior                        | August 2017               | Cost estimated until end-2018.   |
+| 4             | Project/Procurement Administrator of PO (National) | 75                       | INDV                         | Post                         | August 2017               | as above                          |
+| 5             | Safeguards and Stakeholder Manager of PO (International) | 164                     | INDV                         | Post                         | August 2017               | as above                          |
+| 6             | Project Accountant                          | 45                       | INDV                         | Post                         | August 2017               | as above                          |
+| 7             | Receptionist /Admin                        | 10                       | INDV                         | Post                         | August 2017               | as above                          |
+| 8             | Environmental Monitoring Officer           | 36                       | INDV                         | Post                         | August 2017               | as above                          |
+| 9             | Livelihood Restoration Officer (Only Yr 1 for road) | 24                       | INDV                         | Post                         | August 2017               | as above                          |
+| 10            | Community Liaison Officer (male)          | 30                       | INDV                         | Post                         | August 2017               | as above                          |
+| 11            | Community Liaison Officer (female)        | 30                       | INDV                         | Post                         | August 2017               | as above                          |
+| 12            | Communications Officer                     | 30                       | INDV                         | Post                         | August 2017               | as above                          |
+| 13            | DSAP Member - Geotechnical (International) | 76                       | INDV                         | Post                         | August 2017               | as above                          |
+| 14            | DSAP Member - Dam (International)         | 76                       | INDV                         | Post                         | August 2017               | as above                          |
+
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Reference No.
+1. Description of Contract
+2. Estimated Cost US$ ’000
+3. Selection/ Procurement Method
+4. Review by Bank (Prior/Post)
+5. Expected Contracting Date
+6. Comments
+
+- DSAP Member - Hydrology/Sedimentology (International)
+- 15
+- 76
+- INDV
+- Post
+- August 2017
+- as above
+
+- DSAP Member - Seismology (International)
+- 16
+- 76
+- INDV
+- Post
+- August 2017
+- as above
+
+- DSAP Member - Electro-Mechanical (International)
+- 17
+- 8
+- INDV
+- Post
+- August 2017
+- as above
+
+- Teak Valuation
+- 18
+- 7
+- INDV
+- Post
+- August 2017
+
+- Independent Environmental and Social Monitoring Agent
+- 19
+- 60
+- NPO
+- Post
+- August 2017
+- Cost estimated until end-2018.
+
+- Protected Area Agent
+- 20
+- 25
+- NPO
+- Post
+- August 2017
+- as above
+
+- Household Survey
+- 21
+- 50
+- CQS
+- Post
+- August 2017
+- as above
+
+- External Audit
+- 22
+- 15
+- CQS
+- Post
+- December 2018
+- Annually from 2018
+
+CQS= Consultant’s Qualification Based Selection; INDV = Individual Consultant Selection; NPO = Non-Profit Organizations; PPP = Public Private Partnerships; RFB = Request for Bids;
+
+### Procurement Support Plan
+Procurement supervision will be part of the overall supervision effort for this Project. In addition to the prior review supervision, the World Bank procurement team will carry out post review when necessary.
+
+## Environmental and Social (including safeguards)
+
+### Environmental Safeguards
+The project is classified Environmental Category A as it has the potential to have significant adverse impacts that are sensitive and diverse. Environmental impacts would occur during the construction, operations and maintenance phases of the project and would occur in locations including the reservoir and possibly the river and its basin further upstream, the dam site, tunnel corridor and power plant location, a section of the Tina River between the dam and powerhouse that will experience significantly reduced flows, the downstream waters, and the corridors of the transmission line and access roads.
+
+### Environmental and Social Panel
+An Environmental and Social Panel comprising two senior environmental and social specialists experienced in hydro dam development and operation has been providing oversight to project preparation since July 2013. The Panel provided ongoing advice, in particular on the preparation of safeguards documentation, including the design and costing of mitigation measures and review of monitoring reports.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Terms of Reference for consultants
+Terms of Reference for consultants advising the government on environment and social safeguard risks will continue to be approved by the Bank to ensure the requirements of the World Bank Performance Standards (PS) and safeguards policies are effectively integrated into the TA work under Component 4.
+
+## Performance Standards for Private Sector Activities, OP/BP 4.03
+Component 1 of the project will satisfy all of the “Scope of Application” requirements in Clauses 3 – 6 of OP 4.03. Limitations identified in Clause 7 of OP 4.03 would not apply. Accordingly, the World Bank PS will apply to Component 1 irrespective of whether IFC is involved in financing the private entity as use of OP4.03 is linked to the private entity, not IFC. For Component 1, the developer will be responsible for addressing seven of the eight World Bank Performance Standards, beginning with PS 1: Assessment and Management of Environmental and Social Risks and Impacts. The Bank’s PS 5: Involuntary Resettlement does not apply to Component 1 as land acquisition activities are being undertaken by the Government, and not the developer.
+
+## Draft ESIA
+The Government has completed and disclosed a Draft ESIA as part of the Feasibility Study and tendering process to attract a private developer. K-water, as the main project sponsor, will submit its own full ESIA and updated Environmental and Social Management Plan (ESMP) to SIG in order to receive Development Consent from the Director of Environment in the Ministry of Environment, Climate Change, Disaster Management and Meteorology (MECDM). Subsequent Contractors Environmental and Social Management Plans (CESMPs) will be prepared and approved during project delivery. The Bank has reviewed the ESIA and K-water’s ESMS and prepared a draft Environmental and Social Review Summary (ESRS) as required by the World Bank Performance Standards (PS).
+
+## Environmental Assessment OP/BP 4.01
+For Component 3, OP 4.01 is triggered as the transmission line construction by SIEA is likely to result in environmental and social impacts. The potential impacts and their mitigation are covered in the ESIA for Components 1 and 2, since the access road and transmission line are associated projects of the dam and power plant construction.
+
+## Natural Habitats (OP/BP 4.04)
+The policy is triggered for Components 2 and 3. Natural habitat is addressed under PS6 for Component 1. In preparation of the ESIA, fauna, flora and fish surveys have been carried out and project affected communities have been extensively consulted through social surveys and mitigation workshops. The main impact during operations would be on aquatic ecology, related to the presence of the dam, an impassable obstacle to all fish due to its height. The ESMP proposes mitigation measures including environmental flow (riparian flow), a “trap and haul” system to allow migratory fish to pass the dam, protective devices for fish mortality in turbines, and fish monitoring, to allow major impacts to be mitigated to moderate significance.
+
+## Undisturbed montane forests
+The undisturbed montane forests in the upper catchment (located well above the furthest extent of the reservoir) meet the definition of natural habitat. The project is not expected to have direct impacts on those forests. The project’s access road approaches the site from the downstream side of the dam and is located well away (4-10km) from the montane forest areas. The project does not anticipate an increase in the accessibility of the forest. None of the upper catchment is presently in a protected status although it possesses the potential to become a protected area. However, several vulnerable species were observed during inventories of the area. An NGO will also be engaged to work with landowning tribes in the upper catchment to support the first stages of establishing a protected area, up to the point of preparing a.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Protected Area Management Plan and Budget
+if community members are interested and committed to doing so.
+
+## Biodiversity Conservation and Sustainable Management of Living Natural Resources
+The approximately 400 ha acquired for the dam, powerhouse, access road and transmission line contains a mixture of heavily modified habitat as well as natural habitats. The project will achieve no net loss of biodiversity by restoring and protecting modified habitat at least equal in area to natural habitat that is converted. This area will also be subject to detailed monitoring by both SIG and the PC.
+
+For Component 1, the PC will be responsible for addressing PS 6, Biodiversity Conservation and Sustainable Management of Living Natural Resources. Terms of Reference for consultants advising government on topics related to this PS will be approved by the Bank to ensure the requirements of the PS are effectively integrated into the TA work under Component 4.
+
+For Components 2 and 3, potential impacts on biodiversity and natural habitats are addressed in the ESIA for Component 1 since the access road and transmission line are associated projects.
+
+## Forests OP/BP 4.36
+Many areas on the left bank of Tina River have been logged, and some of the project area, in particular the banks of the reservoir, is too steep to be accessible for logging. Nonetheless, erosion due to logging is an important concern for the local population, as the slope is steep, erosion quickly affects water quality of the river. For Component 1, the PC will be responsible for addressing PS 6, Biodiversity Conservation and Sustainable Management of Living Natural Resources.
+
+OP 4.36 is triggered for Components 2 and 3, as access road construction will involve forest clearing. The potential impacts and their mitigation are covered in the ESIA for Component 1.
+
+## Physical Cultural Resources OP/BP 4.11
+There are numerous traditional tambu sites in the project area, many of which have been identified during the preparation of the Social Impact Assessment part of the draft ESIA. These are sites that have local spiritual, historical, or other cultural importance and are considered sacred or restricted as to use or access. For Component 1, the developer will be responsible for addressing PS 8: Cultural Heritage. For Components 2 and 3, MMERE and SIEA will address the requirements of OP 4.11 by applying the same procedures presented in the ESIA and ESMP.
+
+## Social Safeguards
+Throughout project preparation, the Government has been engaged in extensive consultations with affected indigenous communities, guided by the use of a Stakeholder Engagement Plan. Over 200 separate community consultations and meetings with a range of stakeholder groups on a range of topics have been carried out during project preparation and these have been carefully documented by the Project Office through reports, surveys, photos and videos. Summaries of consultations are appended to the ESIA.
+
+## Indigenous Peoples OP/BP 4.10
+As detailed in the ESIA, several groups or communities could be affected by the project or are present in the project area, including: the indigenous Malango people of the Bahomea district who owned the ’core land area’ for the project; the indigenous Malango people of Malango district, some of whom use the core land for livelihood purposes; the ‘settler’ Guadalcanal people in the Bahomea district; the indigenous coastal Ghaobata people of the Guadalcanal Plains, and; ‘squatter’ peoples of various origins, who are living on ‘unoccupied’ government/alienated land in the vicinity of the project area.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Indigenous Peoples
+The northern part of the access road without the formal approval of the local indigenous customary tribes. For the purposes of the social impact assessment and social safeguards compliance, the vast majority of groups resident in the project area can be considered indigenous Solomon Islanders.
+
+For Component 1, the developer will be responsible for addressing PS 7: Indigenous Peoples. Under Component 3, SIEA will have the corresponding responsibility under OP 4.10. OP 4.10 also applies to Component 1, specifically to the land acquisition and resulting impacts on livelihoods. A separate Indigenous Peoples Plan is not being prepared in keeping with the provision of OP 4.10 that IPP requirements can be integrated into the overall project design when the overwhelming majority of direct project beneficiaries are indigenous people. However, a Community Development Plan (CDP) has been prepared to clearly specify the social and economic benefits to be received by the communities in the project area, all of which are indigenous. The CDP specifies the benefits which will be provided to the five core landowning tribes as per the provisions of the signed Process Agreement, in particular, a 1.5% royalty on part of annual PPA payments. Land lease will be used for the benefits of the cooperative societies of the five core landowning tribes. The benefits to be provided to the Bahomea and Malango cultural community are also described in the CDP, and separated into a mechanism and financing for benefit sharing during construction and during the 30-year PPA period of HPF operations.
+
+## Involuntary Resettlement
+OP/BP 4.12. The project will not cause any physical displacement requiring relocation. Based on the technical design in the final feasibility study, the minimum area required for the hydroelectric plant and auxiliary facilities, some sections of the transmission lines, and during construction, for Lot 2 and sections of Lot 1 of the access roads, quarries, and disposal sites has been identified and referred to as the “core land area.” The core land area covers 428 ha. This land is uninhabited, and it is utilized by customary landowners primarily for hunting, non-timber forest products and, potentially, the sale of timber. The tribal registries for the five tribes identified as landowners identify 781 individual people as affected by the land process agreement of the core land.
+
+Using traditional methods of inquiry and storytelling the Bahomea Land Identification Committee (BLIC) completed a process of documenting the Land Ownership of core land blocks and tested the outcomes with the tribal leaders of the Bahomea House of Chiefs. SIG subsequently shared the results with the wider group comprising 27 tribes, including those in the Malango House of Chiefs, even though the core land required for the project does not include Malango territory. This resulted in endorsement of the outcomes recorded. The BLIC was self-initiated and conducted by its members, independently of SIG. This process has facilitated land identification by indigenous groups in the core land area. Through the signing of the Process Agreement with the four identified tribes (Kochiabolo, Roha, Buhu Garo and Vuralingi) in August 2014, and subsequent addition of a fifth signatory tribe (Uluna-Sutahuri) through the statutory process of land acquisition, they confirmed their agreement for the Government to acquire the land for the purposes of the project under a comprehensive agreement as to its use and benefits provided to the landowning tribes.
+
+Subsequent to signing the Process Agreement, the government has completed the statutory procedures under Division 2 of the Land and Titles Act, including the appeals period. The Commissioner made offers to all five land-owning tribes. None of the tribes appealed to the offer. According to the Land and Titles Act, the absence of appeals confirms the offer to be final (i.e. it is not contested). SIG has placed.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Compensation and Land Acquisition
+The required amount of funds for compensation in an escrow account and is transferring the funds to each tribe as soon they proceed to establish cooperative societies.
+
+## Performance Standards and Operational Policies
+46. For Component 1, PS 5: Land Acquisition and Involuntary Resettlement is not triggered because the developer will not have any responsibilities that fall beyond government’s responsibility via its acquisition of land. OP 4.12 will be triggered for Component 1 as the land process agreement is mainly the responsibility of the SIG. OP 4.12 is also triggered for Components 2 and 3 as the final road alignment and transmission line route have not been fixed and could entail the acquisition of additional land. Terms of Reference for consultants advising on topics related to OP 4.12 will be approved by the Bank to ensure the requirements of the World Bank are effectively integrated into the TA work under Component 4. The Land Acquisition and Livelihood Restoration Plan (LALRP) was disclosed on the Bank’s external website on August 15, 2016.
+
+47. Since the Performance Standards apply to Component 1, the developer will be responsible for addressing dam safety under PS 4: Community Health, Safety and Security. OP 4.37: Safety of Dams will also be triggered to include SIG’s responsibility with respect to dam safety. Terms of Reference for consultants advising on topics related to this PS will be approved by the Bank to ensure the requirements of the Performance Standards are effectively integrated into the TA work under Component 4. As part of project preparation, in July 2013, the Project Office contracted three international experts, whose selection process has been approved by the Bank, as members of the Dam Safety Advisory Panel, basing the Panel’s terms of reference on World Bank OP/BP 4.37. The members of the Panel will continue to provide ongoing advice on technical aspects of the project during implementation.
+
+## Social Impacts
+48. The project will have the potential to create a number of negative social impacts beyond those addressed by specific operational policies. These include direct physical impacts on nearby communities (e.g., intrusive noise, vibration, explosion shockwaves, dust, air and ground discharges, and visual intrusion) some of which could have potential health consequences and negative impacts on way of life and local amenities; loss of access to abundant clean fresh water; damage to and/or loss of access to livelihoods assets, including fishing areas, food garden areas, hunting areas, plant and related materials, planted and wild fruit and nut trees, and timber woodlots and plantations, with potential negative impacts on household and community wellbeing.
+
+## Management Plans
+49. The ESIA and ESMP assess and set management criteria, including a requirement for the EPC contractor to prepare and implement an Influx Management Plan, associated with construction workers, with a particular aim of protecting the health and well-being of women and children. The project developer and construction contractors will also be expected, in advance of any construction work commencing on the project, to prepare and promulgate a code of conduct for its workers (and related visitors), including locals, other Solomon Islanders, and immigrants/expats. Importantly, the site is located close to Honiara (approximately 30 minutes from the airport and an hour from the center of the city). Furthermore, given the level of skills in the local area as a result of a previously operating gold mine in an adjacent valley, the project developer will be required to source workers as much as possible from the local area. This existing skill level is proposed to be supplemented by skills and vocational training under the community benefit sharing program. This will greatly reduce the social threats arising from inappropriate behavior of outside construction workers, and local people employed on the Project.
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+## Employment and Training
+The Government wishes to use the Project for the purposes of employment and training of Solomon Islanders. The PC will be required to give preference to members of the Bahomea and Malango cultural community over a resident of another area of Solomon Islands; and Solomon Islander over an expatriate. Notwithstanding this, the project developer will be required to ensure that specific measures are developed to ensure workers from outside Tina area are accommodated outside the project area, that no worker camps be located in the project area and that accommodation be planned well in advance to cope with seasonal increase in Honiara population.
+
+## Joint Government-Landowner Company and Landowner Royalties
+The Process Agreement signed by the five core landowning tribes included benefits above and beyond fair compensation for the land acquired. The main provisions are the establishment of a Tina Core Land Company (TCLC) which will be jointly owned by Government and the five landowning tribes, and the establishment of Tribal Cooperatives which will be the recipients of land compensation funds as well as a 1.5 percent royalty on part of annual PPA payments. The Cooperatives will distribute funds equally to all members of the tribe, regardless of age or gender. The TCLC will be responsible for making decisions on the use of the core land which are consistent with the effective operation of the HPF. The TCLC will receive land lease payments which will largely go to administering the Company, but which will also direct any additional funds to the members of the tribal cooperatives. The Tribal Cooperatives for the three tribes that have accepted land compensation have been established and are operational. The TCLC has yet to be established. SIG aims to register the TCLC by the time the EPC contract is signed so that land lease payments can begin prior to construction. Establishing the administrative arrangements for the TCLC will take some time as it is a new entity.
+
+## Benefit Sharing Mechanism (BSM)
+Beyond the compensation being provided by the Government for land claims, and the benefits provided for in the Process Agreement, communities in the broader project area, including downstream, will receive community development benefits from a benefit sharing scheme which Government is developing in consultation with the project area communities. The scheme will not be fully implemented until the HPF begins to operate as the financing of the scheme will be directly linked to the financial flows of the PC. In the meantime, Government has agreed to seek JSDF financing to (i) establish the implementation arrangement; (ii) build the capacity of the communities to identify, implement and operate the community projects; and (iii) to implement early investment projects (i.e. water supply) in advance of the launch of the scheme. The benefit sharing scheme will be designed to be delivered in a highly consultative, community driven manner, with a focus on improving the well-being of community members, in particularly vulnerable and disadvantaged individuals, including female-headed households and the disabled.
+
+## Gender
+A Gender Action Plan (GAP) has been completed as part of the Project to guide the mainstreaming of gender into the TRHDP with a particular focus on promoting equal opportunities for women and men to participate in project benefits. While the Tina River Project will have national impact through the provision of more reliable and affordable electricity, the GAP is principally concerned with the impact of the project on the lives of communities within its immediate footprint area. The GAP was prepared based primarily on interviews with project-affected women and men, with project office staff, and with government and other key stakeholders conducted during fieldwork in the Solomon Islands between November 14ᵗʰ and 26ᵗʰ 2015. The Plan is organized around four strategic objective areas: (a) reducing the burden of work on women and improving their livelihood opportunities through access to resources and services; (b) ensuring gender equality in opportunities for education, skill building, training.
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+## Gender Action Plan (GAP)
+- promoting the voice, participation and empowerment of women, and reducing opportunities for elite capture of funds;
+- increasing organizational capacity for gender mainstreaming.
+
+The Project Office as the main implementing entity, together with a GAP Steering Committee comprised of representatives of the community, government agencies and civil society organizations, will be responsible for ensuring that the GAP recommendations are mainstreamed into daily operations and into the relevant structures as they are set up at community level. This will include hiring required expertise and engaging Development Partners such as the World Bank, to design and implement the recommended gender trainings, and to advise on gender in monitoring and evaluation, as detailed in the Action Plan and Results Framework included in the Plan.
+
+## Public Disclosure
+The final safeguards instruments were initially disclosed locally, in hard copy, at the MMERE Project Office and in the Department of Environment of the MECDM, and the web at http://www.tina-hydro.com, and on the World Bank’s external website on August 15, 2016. The ESIA/ESMP and LALRP, including an Executive Summary of the ESIA, were subsequently updated based on stakeholder feedback, and re-disclosed on January 25, 2017 at the same locations. The CDP and GAP were both disclosed on May 5, 2017 in the same locations as the ESIA/ESMP and LALRP.
+
+## Monitoring and Evaluation
+The PO will be primarily responsible for gathering data and reporting on progress towards the achievement of project results indicators via quarterly project reports. Staff identified by SIEA and the PC will contribute data as needed. Most of the results indicators are tied to the completion of major milestones in the project, namely the completion of access road and transmission line construction and the commissioning of the HPF and the benefits which emanate from them (e.g. reduced GHG emissions and renewable energy generation). Drawing upon technical specialists when needed, in particular the Independent Engineer that will be contracted to monitor construction of the HPF and the Dam Safety Advisory Panel, the PO will verify satisfactory completion of each milestone. The PC, as part of its responsibilities within the IA and the PA with IDA, to receive financing, will submit reports on key milestones to MMERE and MOFT. SIEA will also contribute to MMERE reporting with respect to transmission line construction progress and key indicators reflecting the system costs of electricity generation and the percentage of electricity generated by renewable sources.
+
+The PO will monitor the implementation of social and environmental mitigation actions, impacts and beneficiary feedback through regular community meetings, a baseline, mid-term and end-line household survey, as well as a grievance redress mechanism which will systematically monitor feedback from various stakeholders and ensure that appropriate responses to such feedback are provided. Inputs will be provided by the Independent Environmental and Social Monitoring Agent that will be engaged by MMERE. The PC will have environmental, social, and health and safety specialists continuously on site. The project will also provide support to MECDM to ensure that it has adequate capacity to monitor the environmental performance of the project and enforce compliance with the conditions of the Development Consent.
+
+## Table A2-5
+summarizes the key responsibilities and applicable policies on safeguards and procurement of the implementing entities.
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+
+### Table A2-5: Roles and Responsibilities of Implementing Entities and Applicable Policies
+- **Entity**: PC
+- **Components**: 1. HPF
+- **Financing**: Debt: ADB grant and loan, EDCF loan, GCF loan, IDA grant and credit, IRENA/ADFD loan
+- **Key Responsibilities**: Develop, construct and operate HPF and access road, and sell net available capacity to offtaker under PPA. Main sponsor, O&M contractor
+- **Safeguards Policies**: World Bank OP/BP 4.03 (all PS applicable except PS 5)
+- **Key Documents to be Prepared**: Construction and Quality Assurance Plan, O&M Plan, Emergency Preparedness Plan, Stakeholder Engagement/Communications Plan
+- **Procurement Policies**: World Bank Procurement Regulations for IPF Borrowers
+- **Packages**: K-water/HEC consortium pre-qualified through open process overseen by IFC. Negotiation ongoing. Selection process found to be substantially consistent with the Core Procurement Principles of the Bank’s New Procurement Framework.
+
+- **Entity**: HEC
+- **Components**: 2. Access Road
+- **Financing**: APIP TF grant, GCF grant
+- **Key Responsibilities**: Sponsor, EPC contractor
+- **Safeguards Policies**: Grievance Mechanism
+- **Key Documents to be Prepared**: Biodiversity Management Plan
+- **Procurement Policies**: PC permitted to use its own procedures for procurement from eligible sources, including:
+- EPC contractor
+- O&M contractor
+- Owner’s Engineer
+- Various advisors
+- Goods required for PC management
+
+- **Entity**: ICSI
+- **Key Responsibilities**: Shareholder on behalf of SIG
+- **Key Documents to be Prepared**: Cultural Heritage Management Plan, Construction ESMP, Spill Prevention and Emergency Response Plan, Reservoir Preparation Plan, Operations ESMP
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Entity
+- SIEA
+
+## Components
+1. HPF
+- Financing: IDA credit, SIEA
+- Key Responsibilities:
+- Component 1: Offtaker under PPA
+- Safeguards Policies:
+- OP/BP 4.01, 4.04, 4.10, 4.11, 4.12, 4.36
+- Procurement:
+- Component 3
+- Procurement Regulations for IPF Borrowers
+
+3. T-Line
+- Financing:
+- Component 3: Design, construct and operate T-Line
+- Key Responsibilities:
+- ESMP
+- Procurement:
+- Component 3 Transmission line construction
+
+4. TA
+- Financing: APIP TF grant, IDA grant, SIG
+- Key Responsibilities:
+- Coordination across components; implement LALRP for Components 1 and 2; monitor implementation of Project’s ESMP, GAP; retain DSAP, E&S monitoring agent; facilitate discussion on protected area
+- Safeguards Policies:
+- World Bank Cumulative Impact Management Strategy
+- OP/BP 4.01, 4.12
+- Decommissioning Plan* (World Bank Retrenchment Plan* OP/BP 4.37 as reference)
+- Procurement:
+- Various consulting services
+- Procurement Regulations for IPF Borrowers
+
+BSM
+- Financing: JSDF**
+- Key Responsibilities:
+- Implementing community benefit share pilot under JSDF
+- Safeguards Policies:
+- OP/BP 4.01, 4.04, 4.10, 4.11, 4.12
+- Procurement:
+- As per JSDF project (to be approved separately)
+- Procurement Regulations for IPF Borrowers
+
+* To be prepared by plant-owner one year before decommissioning.
+** In the event JSDF funding does not materialize, SIG has agreed to seek alternative resources to implement the benefit-sharing mechanism during the construction period.
+
+ADB Asian Development Bank; APIP TF = Australia-Pacific Islands Partnership Trust Fund; BSM = benefit sharing mechanism; EDCF = Economic Development Cooperation Fund of Korea; EPC = engineering-procurement-construction; ESIA = environmental and social impact assessment; ESMP = environmental and social management plan; E&S = environmental and social; GAP = gender action plan; HEC = Hyundai Engineering Co., Ltd; HPF = hydropower facility; ICSI = Investment Corporation of Solomon Islands; IDA = International Development Association; IRENA/ADFD = International Renewable Energy Agency/Abu Dhabi Fund for Development; JSDF = Japan Social Development Fund; GCF = Green Climate Fund; K-water = Korea Water Resources Corporation; LALRP = land acquisition and livelihood restoration plan; O&M = operation and maintenance; PC = Project Company; PO = Project Office; PPA = power purchase agreement; SIEA = Solomon Islands Electricity Authority; SIG = Solomon Islands Government; SPS = ADB Safeguards Policy Statement; TA = technical assistance; T-Line = transmission line.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## OP/BP 4.01 Environmental Assessment
+## OP/BP 4.03 Performance Standards for Private Sector Activities
+- PS 1: Assessment and Management of Environmental and Social Risks and Impacts
+- PS 2: Labor and Working Conditions
+- PS 3: Resource Efficiency and Pollution Prevention
+- PS 4: Community Health, Safety, and Security
+- PS 5: Land Acquisition and Involuntary Resettlement
+- PS 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources
+- PS 7: Indigenous Peoples
+- PS 8: Cultural Heritage
+
+## OP/BP 4.04 Natural Habitats
+## OP/BP 4.10 Indigenous Peoples
+## OP/BP 4.11 Physical Cultural Resources
+## OP/BP 4.12 Involuntary Resettlement
+## OP/BP 4.36 Forests
+## OP/BP 4.37 Safety of Dams
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+## ANNEX 3: IMPLEMENTATION SUPPORT PLAN
+### COUNTRY: Solomon Islands
+#### Tina River Hydropower Development Project
+### Strategy and Approach for Implementation Support
+1. The strategy for implementation support has been developed based on the nature of the Project and its risk profile. Risks considered to be notable include:
+(a) difficult terrain to construct access roads could lead to delays that could put pressure on the project timeline;
+(b) weak government capacity to participate effectively as a PC shareholder through ICSI;
+(c) extensive social and environmental safeguard data to be gathered and actions to be taken as part of Management Plans and limited Government capacity to effectively monitor compliance;
+(d) local and global civil society and public interest in the project with limited Government capacity to respond;
+(e) high technical complexity of HPF construction and need to carefully monitor and ensure public safety and contract compliance; and
+(f) influx of local and foreign workers in project area raises the risk of inappropriate or illegal behavior.
+
+The proposed mitigation measures to contain these risks are integrated into various Project design features. Specifically, the strategic approach for implementation support includes the following measures:
+(a) Difficult terrain to construct access roads could lead to delays and/or cost escalation that could put financial pressure the project timeline. The road design and contracting process has revealed the challenging nature of the terrain and the risk that this could lead to the need for greater quantities of material, time and labor to address circumstances that are more difficult than anticipated. While the access road construction is to be delivered as a fixed price contract, there is a risk that if the contractor significantly exceeds budget due to local conditions, and asks the Off-taker to approve time extensions or even cost variations. To assist the Off-taker and Government to manage this risk and to better understand the progress and challenges being faced by the construction firm and solutions that are being employed, a road transport specialist will travel for site visits and review reports and data.
+(b) Weak government capacity to participate effectively as a PC shareholder through ICSI. ICSI currently has a small number of holdings, none of which require the channeling of equity returns to MOFT for repayment of loans, as would be the case with this project. All returns to ICSI are used to finance its ongoing operations. Therefore, there will be an arrangement between MOFT and ICSI to ensure that the equity returns paid to ICSI by the PC are effectively transferred to MOFT. While funds will not flow from IDA through ICSI to the PC, but rather directly to the PC on behalf of ICSI, a PPP Specialist or other specialist with experience in the management of state-owned investment companies will provide support to ICSI to enhance their capacity.
+(c) Extensive social and environmental safeguard data to be gathered and actions to be taken as part of Management Plans and limited Government capacity to effectively monitor compliance. As the project is Category A and has a range of adverse impacts that must be
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Implementation Support Plan and Resource Requirements
+1. Project implementation will be supported primarily by region-based staff, including fiduciary compliance and operational support, technical aspects, and safeguards compliance. Country-based, CMU, administrative and communications staff will provide operational support and liaison with the client. Formal missions will be conducted at least three times during the first year of implementation, and semi-annually thereafter.
+2. In addition to periodic reviews by the Bank and inputs (monitoring, training) from procurement, financial management, and safeguards specialists, the plan identifies appropriate technical expertise (such as road and hydropower engineering) to contribute to periodic reviews. The Implementation Support Plan will be reviewed regularly to ensure that it continues to meet the implementation support needs of the project.
+
+Time                    Focus                      Skills Needed        Resource Estimate     Partner Role
+First twelve months
+12-48 months
+# THE WORLD BANK
+## TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+## Skills Mix Required
+### Skills Needed
+- Task Team Leader (ADM): 48 Staff Weeks, 12 Trips
+- Co-Task Team Leader: 40 Staff Weeks, 12 Trips
+- Project Assistant: 32 Staff Weeks, 0 Trips (In-country)
+- Hydropower Engineer: 30 Staff Weeks, 8 Trips
+- Transmission Engineer: 12 Staff Weeks
+- Procurement Specialist: 12 Staff Weeks, 8 Trips
+- Financial Management Specialist: 12 Staff Weeks, 8 Trips
+- Road Transport Specialist: 12 Staff Weeks, 6 Trips
+- Social Safeguard Specialist: 24 Staff Weeks, 10 Trips
+- Environmental Safeguard Specialist: 12 Staff Weeks, 8 Trips
+- Communications Specialist: 12 Staff Weeks, 0 Trips (In-country)
+- Gender Specialist: 8 Staff Weeks, 4 Trips
+- Dam Safety Advisor: 8 Staff Weeks, 4 Trips
+- Country Lawyer: 8 Staff Weeks, 2 Trips
+- PPP Specialist: 6 Staff Weeks, 2 Trips
+
+## Partners
+### Name
+- Mr. Jeong-Hwan Lee
+
+### Institution/Country
+- Korea Water Resources Corporation
+
+### Role
+- Head of Overseas Development Team
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+Mr. Anthony Maxwell                                 Asian Development Bank                 Principal Energy
+Specialist
+Mr. Kwang Hun Yu                                    Korea Export-Import Bank/Economic      Director,
+Development and Cooperation Fund       Multilateral
+Development Banks
+Ms. Alexandra Hutchinson                            Department of Foreign Affairs and      First Secretary,
+Trade, Australia                       Development
+Cooperation,
+Economic
+Infrastructure
+Mr. Juan Carlos Mendoza                             Green Climate Fund                     Director, Adaptation
+and Public Programs
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+## ANNEX 4: NEGOTIATED TERM SHEET
+### COUNTRY: Solomon Islands
+### Tina River Hydropower Development Project
+### SOLOMON ISLANDS TINA RIVER HYDROPOWER DEVELOPMENT PROJECT
+### SUMMARY OF INDICATIVE TERMS AND CONDITIONS OF IDA FINANCING
+Purpose: This term sheet contains a summary of indicative main terms and conditions of a proposed financing (“IDA Financing”) from the International Development Association (“IDA”) and is provided for discussion purposes only. It does not reflect the provisions of the IDA General Conditions for Credits and Grants which apply indistinctively to all IDA Financing (available on www.worldbank.org, subject to change). The terms and conditions of a proposed IDA financing will be determined once all project stakeholders have reached a final agreement on the Project implementation and financing arrangement and IDA is better able to assess the residual risks to be mitigated through legal covenants and conditions. This term sheet does not constitute an offer to provide the IDA Financing. The provision of the IDA Financing is subject, inter alia, to satisfactory appraisal of the Project by IDA, compliance with all policies applicable to the IDA Financing, including those related to environmental and social safeguards, review and acceptance of the ownership, management, financing structure, and transaction documentation by IDA, and the approval of the management and Executive Directors of IDA in their sole discretion. In addition, Board approval constitutes an authorization to extend financing on the terms and conditions approved by the Board, but only if the financing agreement for such purpose is signed and declared effective no later than 18 months after the date of such Board approval.
+
+### Background
+The Solomon Islands (Recipient) wishes to undertake the Tina River Hydropower Project (“Project”), comprising the development, financing, construction and operation of a hydropower generation plant (Component 1), the design and construction of access roads through upgrade of an existing segment (Lot 1) and construction of a new segment (Lot 2) (Component 2), construction of transmission lines to the grid (Component 3) and provision of TA for Project Coordination and implementation of environmental and social safeguard related activities (Component 4). A Project Company will be established between the Recipient (acting though its holding company), the EPC Contractor and the O&M Contractor for the implementation of Component 1 of the Project (on a build, own, operate and transfer basis) and Component 2 of the Project. The Project Company will enter into a Lease Agreement with a land owning company with respect to the land on which Component 1 and Component 2 Lot 2 will be implemented, an EPC Contract with the EPC Contractor for the engineering, procurement and construction of the hydropower generation plant and construction/upgrade of the access road, and an O&M Contract with the O&M Contractor for the operation and maintenance of the plant and Lot 2 of Component 2, and a Power Purchase Agreement with the Offtaker pursuant to which the Offtaker will commit to purchase the capacity and the electricity produced by the plant. Component 1 is expected to be financed through the Project Company’s equity as well as concessional financing to be provided by the Recipient to the Project Company. Component 2 is expected to be financed by a grant from the Recipient to the Project Company. Component 3 is expected to be implemented by Solomon Islands Electricity Authority (SIEA), and financed in part from a concessional financing from the Recipient to SIEA. Component 4 is expected to be implemented by the Recipient.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+Estimated Cost of [240,480,000 USD] (as of May 11, 2017)
+
+## Project Development Objective
+To increase the share of renewable energy through hydropower in Solomon Islands
+
+## Recipient
+Solomon Islands
+
+## Proposed Implementing Entities
+[Project Company, to be established between the Shareholders (Components 1 and 2) pursuant to the PC Constitutive Documents (including a Shareholders Agreement) and registered under the laws of the Recipient; and]
+SIEA (Component 3)
+
+## Proposed Shareholders of the Project Company
+[Investment Corporation of Solomon Islands (ICSI) (Recipient’s holding company), of EPC Contractor and O&M Contractor]
+
+## Proposed Recipient Project Coordination/Monitoring Arrangement
+[Project Steering Committee, to be established]
+[Dam Safety Advisory Panel, to be maintained]
+[Independent environment and social monitoring agent, to be recruited]
+[Owner’s engineer and independent engineer as is customary in these kinds of projects, to be recruited]
+
+## Proposed Financing Documents
+IDA Financing Agreement between IDA and the Recipient
+IDA PC Project Agreement between IDA and the Project Company
+IDA SIEA Project Agreement between IDA and SIEA
+[No Project Agreement is currently proposed between IDA and ICSI because no proceeds of the IDA Financing are expected to flow to the Project Company through ICSI]
+And all documents referred to in the above agreements, including IDA Disbursement Letter
+
+## Proposed IDA Financing
+Aggregate amount [equivalent to USD 33.63M] comprising:
+a Grant: SDR 7,480,000 [equivalent to USD 10.255M] (Grant); and
+an Credit: USD 23,375,000 (Credit)
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Currency
+- Grant: SDR
+- Credit: USD
+
+## Financial Terms
+Standard IDA terms for small island countries (available on www.worldbank.org, subject to change)
+
+## Disbursement terms
+In accordance with disbursement guidelines (available on www.worldbank.org, subject to change) and provisions of the disbursement letter
+[4 disbursement methods available, except when the country has lapsed loans, three designated accounts, one for advance to the Project Company, one for advance to SIEA and one for advance to the Ministry of Mines, Energy and Rural Electrification or any successor thereto]
+
+## Payment Dates
+February 15, August 15
+
+## Payment Currency
+USD
+
+## Proposed Allocation of IDA Financing
+Co-financing of Components 1, 3 and 4
+
+## Proposed Retroactive IDA Financing
+[Not earlier than 12 months before the expected date of signature of the IDA Financing Agreement
+Maximum amount: 20% of the amount of the IDA Financing]
+
+## Proposed Closing Date
+[June 30, 2023]
+
+## Proposed Form of Government’s Sub-financing
+Sub-financing to ICSI, and ICSI equity investment in the Project Company; and
+Sub-financing in the form of concessional credit and grant to the Project Company and SIEA.
+
+## using the proceeds of IDA Financing
+[precise allocation of funds tbd on the basis of the ultimate cost of the Project and financing structure]
+
+## Proposed financiers and Co-financing
+- Asian Development Bank (ADB): the Recipient requested an amount of [US$30 million] to be provided in the form of a [US$18 million loan] and [US$12 million grant] for the financing of Component 1 of the Project;
+- Australia Pacific Islands Partnership (APIP) Trust Fund administered by IDA/IBRD, with an additional contribution to be provided by the Government of the Commonwealth of Australia: the Recipient requested an [US$11.7 million equivalent grant] including an amount [of US$9 million] for the financing of Component 2 of the Project and an amount [of US$2.7 million] for the financing.
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Financing Arrangements
+- Economic Development Cooperation Fund (EDCF): the Recipient requested a [US$31.6 million loan] for the financing of Component 1 of the Project;
+- GCF, through IDA/IBRD as accredited entity (to be formalized through the signature of the Accreditation Master Agreement between the GCF and IBRD/IDA): the Recipient requested an amount of [US$86 million] to be provided in the form of a [US$70 million loan] for the financing of Component 1 and [$16 million grant] for the financing of Component 2 of the Project; and
+- International Renewable Energy Agency/Abu Dhabi Fund for Development (IRENA/AFDF): the Recipient requested a US$15 million loan for the financing of Component 1 of the Project.
+- (or other financing arrangement acceptable to IDA to be confirmed)
+
+## Proposed Financing Documents
+- IDA Financing Documents;
+- [ADB Financing Agreement between ADB and the Recipient;
+- ADB Project Agreement between ADB and the Project Company;
+- APIP TF Grant Agreement between APIP (represented by IBRD/IDA) and the Recipient;
+- APIP Project Agreement between APIP (represented by IBRD/IDA) and the Project Company;
+- EDCF Financing Agreement between EDCF and the Recipient;
+- EDCF Project Agreement between EDCF and the Project Company;
+- GCF Financing Agreement between GCF (represented by IBRD/IDA) and the Recipient;
+- GCF Project Agreement between GCF (represented by IBRD/IDA) and the Project Company;
+- IRENA/ADFD Financing Agreement between IRENA/ADFD and the Recipient;
+- IRENA/ADFD Project Agreement between IRENA/ADFD and the Project Company;
+- ICSI Subsidiary Agreement between the Recipient and ICSI;
+- PC Subsidiary Agreement(s) between the Recipient and the Project Company (re IDA and all Co-financiers for Components 1 and 2 of the Project); and
+- SIEA Subsidiary Agreement between the Recipient and SIEA].
+- (all co-financing agreements to be on terms and conditions consistent with the Project)
+# THE WORLD BANK
+## Tina River Hydropower Development Project (P161319)
+- Sequencing of [between IDA Credit and Grant, among shareholders, between equity and debt, disbursements among lenders: tbd]
+- Offtaker Solomon Islands Electricity Authority (SIEA)
+- Proposed EPC [Hyundai Engineering Company Limited (HEC), or any other legal entity and substituted to it and with respect to which IDA has sent a prior written confirmation to the Recipient that it is acceptable to IDA]
+- Proposed O&M [Korea Water Resources Corporation (K-Water), or any other legal entity and substituted to it and with respect to which IDA has sent a prior written confirmation to the Recipient that it is acceptable to IDA]
+- Land Owning Company To be established between the Recipient and the former customary owners of the land on which Components 1 and 2 will be implemented
+- Proposed Project Documents
+- Implementation Agreement between the Recipient and the Project Company;
+- Lease Agreement between the Land Owning Company and the Project Company;
+- Power Purchase Agreement (PPA) between the Project Company and the Offtaker;
+- Government Guarantee Agreement of the obligations of the Offtaker under the PPA for the benefit of the Project Company;
+- EPC Contract between the Project Company and the EPC Contractor; and
+- O&M Contract between the Project Company and the O&M Contractor (but only from the date when it becomes a requirement under the PPA).
+(all Project Documents, and related legal opinions, to be in form and substance acceptable to IDA)
+- Shareholders Agreement
+- (A) no Restricted Decision can be made without the prior approval of ICSI, the Recipient and IDA;
+- (B) equity paid to the Project Company in accordance with a schedule of payments acceptable to IDA; and
+- (C) if it so requests IDA, acting together with the Co-financiers, shall have the right to send a representative to participate (but as an observer only) to the meetings of the Project Company’s board of directors (or equivalent body).
+- To the extent permitted by the Recipient’s law, the shareholders will have the option to make a direct payment of the equity subscribed (or cause a payment of the equity subscribed to be made on their behalf directly) to the EPC Contractor.
+(Shareholders Agreement and related legal opinion to be in form and substance acceptable to IDA)
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Proposed Restricted Decisions
+- (A) amend the PC Constitutive Documents;
+- (B) modify the management structure of the Project Company or the allocation of shareholders rights;
+- (C) modify Component 1 or 2 of the Project;
+- (D) amend, waive or terminate any provision of the Project Documents, which would affect the Project description, its implementation arrangement, its cost or its financing;
+- (E) amend, waive or terminate any provision of the Safeguard Documents;
+- (F) transfer the assets of the Project Company (except those which are no longer required for the construction and operation of Components 1 and 2 of the Project);
+- (G) amend the level of return or other distributions to the shareholders or interest and other payments to any financier or other lender;
+- (H) increase the level of debts by more than [____];
+- (I) make investments or expenditures which are not part of or related to the Project (other than short term first grade investment made in the ordinary course of business);
+- (I) transfer the shares of the Project Company; and
+- (J) enter into a compromise with the Project Company’s creditors, file for bankruptcy or similar procedure, liquidate assets of or wind up the Project Company. (to be confirmed on the basis of the terms of the Shareholders’ Agreement)
+
+## Proposed Safeguards Documents
+- (i) the Environmental and Social Impact Assessment, including the Environmental and Social Management Plan contained in such document;
+- (ii) the Land Acquisition and Livelihood Restoration Plan, including the Resettlement and Livelihoods Restoration Framework contained in such document;
+- (iii) the Resettlement Action Plans prepared in accordance with the Resettlement and Livelihoods Restoration Framework if any,
+- (iv) the Gender Action Plan,
+- (v) the Community Development Plan, and
+- (vi) the Environmental and Social Action Plan and Sponsor’s Environmental and Social Impact Assessment.
+- [any Safeguard Documents required to comply with Safeguard Policies and Performance Standards]
+- (all Safeguard Documents to be in form and substance acceptable to IDA, with)
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+
+## Proposed Environmental and Social Safeguards Covenants
+- Recipient’s and SIEA’s compliance with the Safeguards Policies and Project Company’s compliance with the Performance Standards
+- All terms of reference for any TA or studies carried out under the Project are consistent with, and pay due attention to, IDA Safeguards Policies and Performance Standards (as applicable), as well as the Recipient’s own laws and regulations relating to the environment and social aspects relevant to the Project
+- Implementation of the Project in accordance with the Safeguard Documents. No amendment, suspension or waiver without approval by IDA and compliance with consultation and disclosure requirements of the Safeguards Policies and Performance Standards
+- Quarterly reporting on safeguard compliance, more often if circumstances warrant
+
+## Proposed Conditions precedent to the availability of the IDA Financing
+- Sequencing of the conditions of signature, effectiveness and disbursement tbd, deadline for satisfaction of the conditions tbd
+- Project Company established and authorized to carry out its obligations under the Project Documents, the Safeguard Documents and the Financing Documents, and has received all Project Consents (tbd) required at that time for such purpose + legal opinions
+- Compliance with agreement on the time of disbursement of the Sponsors’ equity
+- Acceptable financial management system established in the Project Company
+- Except for the financing of reasonable development costs to be incurred by the Project Company in order to achieve PPA Financial Close, signature and effectiveness of all Project Documents in form and substance acceptable to IDA (except the O&M Contract if this is not a requirement under the PPA at that time), and PPA Financial Close (as defined in the PPA) + legal opinions
+- Confirmation of availability of financing for the full Project cost as finally agreed and, except for the disbursement of equity, confirmation of satisfaction of all conditions precedent to the effectiveness of, and disbursement under, each of the Financing Documents (including Amendment to the APIP Administration Agreement, AMA and Funded Activity Agreement between IBRD/IDA and GCF, all Subsidiary Agreements, ICSI equity subscription agreement (if separate from the Shareholders Agreement)
+- Project Operations Manual (or dated covenant)
+- Donors coordination or co-financing mechanism
+- Safeguard compliance at the time of first disbursement
+# THE WORLD BANK
+Tina River Hydropower Development Project (P161319)
+Pilot Project for the design and financing of community development activities for the benefit of the cultural communities of Bahomea and Malango impacted by the Project prepared and US$2 million minimum financing available
+Dam Safety Advisory Panel in place
+
+## Proposed Additional Remedies
+IDA
+[Any of the Recipient’s laws and regulations governing the electricity sector and SIEA, including the Electricity Act 1969, the Electricity Regulations 1993, the State Owned Enterprises Act 2007, the State Owned Regulations 2010 and the Electricity Tariff (Base Tariff and Tariff Adjustments) Regulations 2016, or any of the Project Consents, has been amended, suspended, or waived so as to affect materially and adversely the ability of the Recipient or a Project Implementing Entity to perform its obligations under an IDA Financing Document]
+Breach of a Project Document (remaining uncured after contractual cure period) which affects materially and adversely the ability of the Recipient or a Project Implementing Entity to perform its obligations under an IDA Financing Document
+Unavailability of Co-financing by the agreed deadline (tbd)
+
+## Proposed Project Monitoring
+- Annual Work Plans and Budgets
+- Mid-term Review
+- Project audited Financial Statements and unaudited interim financial reports
+- Project Implementing Entities audited financial statements
+- Disclosure of Tariff Regulation 2016, monthly retail tariff adjustments, revision of the base component of the tariff every five years (with customer service to respond to tariff inquiries) and transmission to IDA of the report of SIEA’s consultant on such revision in 2020.
+
+## Corruption
+Compliance with the Anticorruption Guidelines (available on www.worldbank.org, subject to change)
+
+## Procurement
+Compliance with the Procurement Regulations and rolling procurement plan for the Project approved by IDA.
+Tbd = to be determined
+[-] = still under consideration
+# TINA RIVER HYDROPOWER DEVELOPMENT PROJECT (P161319)
+
+## Map of the Project Area – IBRD Map 42799
+SOLOMON ISLANDS                                             PAPUA NEW GUINEA                         SOUTH PACIFIC
+TINa RIVER HYDROPOWER DEVELOPMEnt PROject
+Taro Island
+(HOU IS48E1
+POWERHOUSE                                 RIVER BASINS                  Gizo          Buala Auki
+RESERVOIR                                  GOLD MINE                    WESTERN      Tulagi
+DAM                                        ACCESS ROAD                          CENTRAL  RHONIARA   Naxira
+HEAD RACE TUNNEL                           MAIN ROADS                        Area of MapGuadalCaNAL  Kirakira  Lata  TEMOTU
+Highway                                   Tigoa  REXNEL AND
+5 0 [ 0 M 0 n     DELLONA
+Source: BRL Ingenierie , May 2015  5 @ @
+150055'E                                1o0"O0'E                                160PO5'E                                 1oO"IO'E
+Kilometers
+0*25'5                                                                                                                                         9"25'S-
+HONIARA                                             Honiara International
+Airport
+1
+J
+9*30'5                              ZsSL                                                                                                      0*30'S-
+G UADALCA N ML
+Head Race            Powerhouse
+Tunnel
+Reservoir         Dam
+River                          Ridge
+Toni                           Gold
+9o35'5                                                                                                           Mine                         035
+TONI
+Vohara                              RIVER
+BASIN
+TINA RIVER
+BASIN
+9*40 'S                                                                                                                       BANK crOUPIBRD 42799
+WORLD       MARCH 2017
+This map was produced by the
+Cartography Unit of the World
+Bank Group The boundaries;
+colors , denominations and any
+other information shown on this
+map do not imply on the part of
+Mount                                                the World BankGroup:ₐₙₜ
+judgment  the legal status of
+Popomanaseu                                                any territory or any endorsement
+acceptance of  boundaries:
+150055'E                                160P00'E                                 160P05'E                                          such
+Page 97 of 97
