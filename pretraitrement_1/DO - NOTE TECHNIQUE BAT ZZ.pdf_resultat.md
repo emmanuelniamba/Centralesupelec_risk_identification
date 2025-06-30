@@ -16,25 +16,25 @@
 7.  STRATEGIE DE MISE A DISPOSITION DE L’INSTALLATION D’ENTREPOSAGE ZZ                                          8
 8.  FONCTIONS PRINCIPALES ET FONCTIONS CONTRAINTES                                                              8
 9.  REFLEXIONS SUR DES OPTIONS DE SURETE ASSOCIEES AUX CONCEPTIONS                                              8
-9.1.   Risque d’irradiation                                                                                  8
-9.2.   Risque de dissémination                                                                               9
+9.1.   Danger d’irradiation                                                                                  8
+9.2.   Danger de dissémination                                                                               9
 9.2.1    Fonctionnement normal                                                                             9
 9.2.2    Fonctionnement incidentel                                                                         9
 9.3.   Agressions internes et externes                                                                       9
-9.3.1    Risque d’incendie interne                                                                         9
-9.3.2    Risque d’explosion interne                                                                       10
-9.3.3    Risque d’inondation interne                                                                      10
-9.3.4    Risque liés à la manutention                                                                     10
-9.3.5    Risques liés aux interférences électromagnétiques                                                11
-9.3.6    Risques liés à la perte ou défaillance des utilités                                              11
-9.3.7    Risques liés aux Facteurs Organisationnels et Humains                                            11
-9.3.8    Risques liés aux conditions climatiques extrêmes                                                 11
-9.3.9    Risques liés à la chute d’avion                                                                  11
-9.3.10   Risques liés à un incendie externe                                                               12
-9.3.11   Risques d’inondation externe                                                                     12
-9.3.12   Risque foudre                                                                                    13
-9.3.13   Risques liés au séisme                                                                           13
-9.3.14   Risques liés à l’environnement industriel et aux voies de communication                          13
+9.3.1    Danger d’incendie interne                                                                         9
+9.3.2    Danger d’explosion interne                                                                       10
+9.3.3    Danger d’inondation interne                                                                      10
+9.3.4    Danger liés à la manutention                                                                     10
+9.3.5    Dangers liés aux interférences électromagnétiques                                                11
+9.3.6    Dangers liés à la perte ou défaillance des utilités                                              11
+9.3.7    Dangers liés aux Facteurs Organisationnels et Humains                                            11
+9.3.8    Dangers liés aux conditions climatiques extrêmes                                                 11
+9.3.9    Dangers liés à la chute d’avion                                                                  11
+9.3.10   Dangers liés à un incendie externe                                                               12
+9.3.11   Dangers d’inondation externe                                                                     12
+9.3.12   Danger foudre                                                                                    13
+9.3.13   Dangers liés au séisme                                                                           13
+9.3.14   Dangers liés à l’environnement industriel et aux voies de communication                          13
 10. ARCHITECTURES ENVISAGEES DU BATIMENT ET ESTIMATION FINANCIERE                                              14
 10.1.  Itération 1                                                                                          14
 10.1.1   Architecture du bâtiment                                                                         14
@@ -44,7 +44,7 @@
 10.3.  Itération 3                                                                                          19
 11. PLANNING DE REFERENCE                                                                                      21
 12. IMPLANTATION ET TRAVAUX PREPARATOIRES                                                                      21
-13. ANALYSE DE RISQUES                                                                                         21
+13. ANALYSE DE DangerS                                                                                         21
 14. SYNTHESE DES ESTIMATIONS FINANCIERES                                                                       21
 Réf. trame : EDT 20051 RDC NOT 25000027 A   Ce document est la propriété du CEA et ne peut être utilisé, reproduit ou communiqué sans son autorisation.
 # REFERENCES
@@ -233,21 +233,21 @@ L’ensemble des fonctions principales et de contraintes sont décrites dans le 
 # REFLEXIONS SUR DES OPTIONS DE SURETE ASSOCIEES AUX CONCEPTIONS
 Afin de proposer plusieurs choix de conception du futur bâtiment ZZ, une pré analyse de sûreté a été menée.
 
-## Risque d’irradiation
+## Danger d’irradiation
 Comme évoqué précédemment, le bâtiment ZZ a vocation à entreposer les déchets irradiants et mixtes.
-Vis-à-vis des déchets mixtes entreposés en fûts de de type D, le risque d’irradiation du travailleur est faible de par le terme source présent au sein des fûts. Concernant les déchets irradiés entreposés en colis type C, le terme source présent nécessite de disposer d’une barrière de protection biologique.
+Vis-à-vis des déchets mixtes entreposés en fûts de de type D, le Danger d’irradiation du travailleur est faible de par le terme source présent au sein des fûts. Concernant les déchets irradiés entreposés en colis type C, le terme source présent nécessite de disposer d’une barrière de protection biologique.
 Options de sûreté (OPT 1) :
 Disposer d’une barrière de protection biologique pour les colis de type C.
-# RISQUE DE DISSÉMINATION
+# Danger DE DISSÉMINATION
 ## Fonctionnement normal
 Les fûts de type D et les colis de type C dégazent naturellement. Au regard du taux de dégazage, une ventilation forcée est suffisante avec une centrale de traitement d’air sans filtre Très Haute Efficacité (THE).
 Les colis de type A et B doivent être entreposés en boites à gants reliées à une unité de traitement du gaz contaminé.
 
 ## Fonctionnement incidentel
-Le fonctionnement incidentel correspond à une chute de colis (Fûts et colis type C). Effectivement, ces derniers sont dimensionnés (étanchéité) pour une hauteur de chute inférieure à 1,2 m. Dans le cas d’une chute supérieure à 1,2 m, l’intégrité dudit colis n’est pas garantie et un risque de remise en suspension des matières radioactives est possible.
+Le fonctionnement incidentel correspond à une chute de colis (Fûts et colis type C). Effectivement, ces derniers sont dimensionnés (étanchéité) pour une hauteur de chute inférieure à 1,2 m. Dans le cas d’une chute supérieure à 1,2 m, l’intégrité dudit colis n’est pas garantie et un Danger de remise en suspension des matières radioactives est possible.
 En conséquence pour un entreposage des colis à une hauteur de chute :
-- inférieure à 1,2 m, le risque de dissémination est exclu de par le dimensionnement du colis. Dans cette situation, aucune ventilation nucléaire n’est nécessaire. Il est à noter qu’une ventilation avec un taux de renouvellement de l’atmosphère est nécessaire et suffisant pour permettre les interventions humaines,
-- supérieure à 1,2 m, le risque de dissémination n’est pas exclu. Dans cette situation, une ventilation nucléaire à minima II A est requise correspondant à une classe de confinement C2.
+- inférieure à 1,2 m, le Danger de dissémination est exclu de par le dimensionnement du colis. Dans cette situation, aucune ventilation nucléaire n’est nécessaire. Il est à noter qu’une ventilation avec un taux de renouvellement de l’atmosphère est nécessaire et suffisant pour permettre les interventions humaines,
+- supérieure à 1,2 m, le Danger de dissémination n’est pas exclu. Dans cette situation, une ventilation nucléaire à minima II A est requise correspondant à une classe de confinement C2.
 Option de sûreté (OPT 2) :
 - Cas 1 : entreposage à une hauteur inférieure à 1,2 m : ventilation non nucléaire compatible d’interventions humaines en présence de gaz contaminé,
 - Cas 2 : entreposage à une hauteur supérieure à 1,2 m : ventilation nucléaire à minima classe II A.
@@ -255,27 +255,27 @@ Option de sûreté (OPT 2) :
 # AGRESSIONS INTERNES ET EXTERNES
 Les spécifications retenues dans les paragraphes suivants sont celles issues du REX d’une installation existante équivalente (438). Le DOS permettra de valider les hypothèses de dimensionnement notamment vis-à-vis du niveau de séisme, du niveau de tornade et de la fiabilité des ponts.
 
-## Risque d’incendie interne
-Le risque d’incendie interne dans le bâtiment ZZ serait essentiellement lié :
+## Danger d’incendie interne
+Le Danger d’incendie interne dans le bâtiment ZZ serait essentiellement lié :
 - à la présence d’équipements électriques dans lesquels un court-circuit ou un arc-électrique pourrait conduire à un départ de feu ;
 - à la présence de carburant du véhicule acheminant les colis dans le bâtiment.
-Les dispositions de sûreté envisagées vis-à-vis des risques d’incendie interne et des conséquences seraient les suivantes :
+Les dispositions de sûreté envisagées vis-à-vis des Dangers d’incendie interne et des conséquences seraient les suivantes :
 - la limitation des sources d’ignition ;
 - le dimensionnement des éléments de structures du bâtiment ;
 - la mise en œuvre de moyens de détection ;
 - les colis restent dans leur configuration transport dans l’attente du refroidissement du moteur du camion ;
-# RISQUES
+# DangerS
 
-## Risque d’explosion interne
-Le risque d’explosion interne dans le bâtiment ZZ serait lié à la présence des batteries des moyens de manutention mobiles et des onduleurs assurant l’alimentation des équipements sensibles et de sûreté-sécurité de l’installation qui lors de leur chargement peuvent produire une atmosphère explosive (production d’hydrogène).
+## Danger d’explosion interne
+Le Danger d’explosion interne dans le bâtiment ZZ serait lié à la présence des batteries des moyens de manutention mobiles et des onduleurs assurant l’alimentation des équipements sensibles et de sûreté-sécurité de l’installation qui lors de leur chargement peuvent produire une atmosphère explosive (production d’hydrogène).
 La ventilation des locaux abritant les batteries doit permettre un taux de renouvellement de l’air de manière à limiter toute création d’atmosphère explosive. Ce taux sera à définir dans les phases ultérieures du projet en fonction de la puissance des onduleurs installés.
 La mise en œuvre de produits chimiques au sein du bâtiment ZZ sera limitée aux opérations de maintenance, de mesure de l’activité du gaz contaminé avec des solvants ou de nettoyage des locaux et équipements. Les quantités de produits chimiques réceptionnées au sein de l’installation seront limitées au strict nécessaire à l’opération prévue.
 
-## Risque d’inondation interne
-Le risque d’inondation d’origine interne dans le bâtiment ZZ est lié à l’utilisation de réseaux de fluides liquides dans l’installation, aux transferts d’effluents ainsi qu’à la mise en œuvre d’eau d’extinction incendie pour lutter contre un départ de feu au sein du bâtiment.
-Les dispositions de sûreté (rehaussement des équipements électriques, rétention des eaux d’extinction, …) à mettre en œuvre vis-à-vis du risque d’inondation interne pour éviter la défaillance potentielle d’équipements participant au maintien d’une Fonction Importante pour la Sûreté (FIS) seront définies dans les phases ultérieures du projet (APS/APD).
+## Danger d’inondation interne
+Le Danger d’inondation d’origine interne dans le bâtiment ZZ est lié à l’utilisation de réseaux de fluides liquides dans l’installation, aux transferts d’effluents ainsi qu’à la mise en œuvre d’eau d’extinction incendie pour lutter contre un départ de feu au sein du bâtiment.
+Les dispositions de sûreté (rehaussement des équipements électriques, rétention des eaux d’extinction, …) à mettre en œuvre vis-à-vis du Danger d’inondation interne pour éviter la défaillance potentielle d’équipements participant au maintien d’une Fonction Importante pour la Sûreté (FIS) seront définies dans les phases ultérieures du projet (APS/APD).
 
-## Risque liés à la manutention
+## Danger liés à la manutention
 Les activités en conditions normales prévues d’être réalisées dans le bâtiment ZZ sont subdivisées en différentes phases :
 - la phase de réception des colis ;
 - la phase de contrôle des colis ;
@@ -287,10 +287,10 @@ Les dispositions de sûreté envisagées vis-à-vis des opérations de manutenti
 - les ponts roulants, avec une fiabilité de 10⁻⁷ par an, sont munis de freins, de capteurs de fins de courses et de dispositifs de limiteurs de charge ;
 - une zone de garage de chaque pont roulant est aménagée hors de la zone d’entreposage ;
 - les postes de travail sont conçus de manière à prendre en compte le Facteur Organisationnel et Humain (FOH) ;
-# RISQUES LIÉS AUX INTERFÉRENCES ÉLECTROMAGNÉTIQUES
-Une étude d’analyse des risques liés aux interférences électromagnétiques devra être réalisée dans les phases ultérieures du projet pour identifier la protection adaptée aux équipements sensibles aux interférences électromagnétiques.
+# DangerS LIÉS AUX INTERFÉRENCES ÉLECTROMAGNÉTIQUES
+Une étude d’analyse des Dangers liés aux interférences électromagnétiques devra être réalisée dans les phases ultérieures du projet pour identifier la protection adaptée aux équipements sensibles aux interférences électromagnétiques.
 
-# RISQUES LIÉS À LA PERTE OU DÉFAILLANCE DES UTILITÉS
+# DangerS LIÉS À LA PERTE OU DÉFAILLANCE DES UTILITÉS
 Les utilités mises en œuvre dans le bâtiment ZZ sont :
 - l’alimentation électrique ;
 - l’alimentation en air respirable ;
@@ -306,44 +306,44 @@ Pour prévenir les conséquences d’une perte du réseau électrique haute tens
 
 L’air respirable permet l’utilisation d’équipements de protection individuel (EPI) pour les éventuelles interventions des opérateurs en masque à adduction d’air ou en scaphandre en cas de contamination atmosphérique. Pour limiter les conséquences d’une perte du réseau, un ballon tampon d’air respirable sera disponible pour laisser une autonomie nécessaire aux opérateurs pour mettre en sécurité les opérations en cours. Pour les interventions d’urgence, des ARI seront disponibles.
 
-# RISQUES LIÉS AUX FACTEURS ORGANISATIONNELS ET HUMAINS
-Une étude des risques liés aux FOH sera réalisée dans le cadre du rapport préliminaire pour identifier les opérations « sensibles » et définir les dispositions particulières à prendre pour maîtriser la sûreté du point de vue FOH.
+# DangerS LIÉS AUX FACTEURS ORGANISATIONNELS ET HUMAINS
+Une étude des Dangers liés aux FOH sera réalisée dans le cadre du rapport préliminaire pour identifier les opérations « sensibles » et définir les dispositions particulières à prendre pour maîtriser la sûreté du point de vue FOH.
 
-# RISQUES LIÉS AUX CONDITIONS CLIMATIQUES EXTRÊMES
+# DangerS LIÉS AUX CONDITIONS CLIMATIQUES EXTRÊMES
 Le bâtiment ZZ est prévu d’être implanté dans la zone à proximité des bâtiments 438 du site d’accueil du CEA. Le dimensionnement sera réalisé conformément aux recommandations du CEA et à l’EUROCODE. Le dimensionnement des colis, prend en compte la résistance à l’agression d’une tornade d’intensité EF2 et des projectiles induits.
 
-# RISQUES LIÉS À LA CHUTE D’AVION
-# RISQUES LIÉS À UN INCENDIE EXTERNE
-Compte tenu du contexte environnemental de Valduc, des mesures sont mises en place pour prévenir le risque d’incendie des zones boisées conformément à la PGSE :
+# DangerS LIÉS À LA CHUTE D’AVION
+# DangerS LIÉS À UN INCENDIE EXTERNE
+Compte tenu du contexte environnemental de Valduc, des mesures sont mises en place pour prévenir le Danger d’incendie des zones boisées conformément à la PGSE :
 - les abords du bâtiment ZZ seront déboisés à une distance minimale de dix mètres du bâtiment pour éviter toute propagation d’incendie ;
 - les zones boisées du Centre sont entretenues régulièrement (élagage, débroussaillage, ramassage des rémanents et feuilles mortes) ;
 - les voies d’accès et les chemins de circulation dans les différentes zones sont également entretenus régulièrement de façon à garantir la circulation des véhicules d’intervention et l’accès aux éléments du réseau d’eau.
 
-Les dispositions de sûreté envisagées vis-à-vis des risques liés à un incendie visent à empêcher qu’un feu se déclarant en extérieur n’agresse pas le bâtiment ZZ. Pour ce faire, les dispositions de sûreté consistent à :
+Les dispositions de sûreté envisagées vis-à-vis des Dangers liés à un incendie visent à empêcher qu’un feu se déclarant en extérieur n’agresse pas le bâtiment ZZ. Pour ce faire, les dispositions de sûreté consistent à :
 - disposer d’une distance de sécurité autour du bâtiment garantissant une non propagation de l’incendie en provenance des zones boisées ;
 - disposer de poteaux incendie à proximité de l’installation ;
 - disposer des aires de circulation et de manœuvre nécessaire à l’accès de la FLS sur le pourtour de l’installation.
 
 Par ailleurs, une organisation du bâtiment ZZ prévoira de ne pas entreposer les colis à proximité des voiles extérieurs : les colis sont entreposés dans le hall d’entreposage qui est séparé de part et d’autre par des couloirs de surveillance.
 
-# RISQUES D’INONDATION EXTERNE
-Le risque d’inondation externe du bâtiment ZZ peut avoir pour origine :
+# DangerS D’INONDATION EXTERNE
+Le Danger d’inondation externe du bâtiment ZZ peut avoir pour origine :
 - des remontées de niveau de la nappe phréatique ;
 - une accumulation d’eaux de pluies au cours de précipitations importantes.
 
-Des dispositions seront mises en œuvre pour prévenir tout risque d’entrée d’eau (fortes pluies, montée de nappes phréatiques). Vis-à-vis des fortes pluies, un système de collecte et d’évacuation de l’eau de...
-# RISQUES
+Des dispositions seront mises en œuvre pour prévenir tout Danger d’entrée d’eau (fortes pluies, montée de nappes phréatiques). Vis-à-vis des fortes pluies, un système de collecte et d’évacuation de l’eau de...
+# DangerS
 
-## Risque foudre
-Les dispositions de sûreté envisagées vis-à-vis du risque foudre consistent à mettre en place la protection foudre des éléments de structure du bâtiment et des équipements sensibles (équipements électriques par exemple) conformément aux recommandations de l’arrêté du 1ᵉʳ octobre 2007. Une Analyse du Risque Foudre (ARF) doit être réalisée en phase APS afin de définir :
+## Danger foudre
+Les dispositions de sûreté envisagées vis-à-vis du Danger foudre consistent à mettre en place la protection foudre des éléments de structure du bâtiment et des équipements sensibles (équipements électriques par exemple) conformément aux recommandations de l’arrêté du 1ᵉʳ octobre 2007. Une Analyse du Danger Foudre (ARF) doit être réalisée en phase APS afin de définir :
 - d’une part les Installation Extérieure de Protection Foudre (IEPF) ;
 - d’autre part l’installation Intérieure de Protection contre la Foudre (IIPF).
 
-## Risques liés au séisme
+## Dangers liés au séisme
 Les caractéristiques du séisme pris en compte dans l’analyse de sûreté pour évaluer les conséquences sur l’environnement et la population sont celles d’un séisme, dont le spectre de réponse du sol est enveloppe du SMS définis selon la RFS 2001-01, pour le site d’accueil du CEA. Le bâtiment ZZ est prévu d’être implanté sur un sol rocheux, il n’y a donc pas d’effets de site à considérer en situation sismique. Les dispositions de sûreté envisagées visent à limiter autant que possible l’impact du séisme. Ces dernières seront présentées au sein du DOS.
 
-## Risques liés à l’environnement industriel et aux voies de communication
-L’analyse des risques est basée sur la RFS I.1.b. Un transport d’hydrocarbure à proximité du bâtiment 438 est nécessaire afin d’approvisionner la cuve de fioul de son GEF ; celle-ci est présente dans le bâtiment 444, à 10 m du bâtiment 438 et est enterrée. La citerne étant présente uniquement pour le remplissage de la cuve, le temps de présence de celle-ci n’est pas suffisant pour considérer le risque d’explosion d’une citerne vide mal dégazée tel que défini par la RFS I.2.d. Le risque d’explosion associé à un transport d’hydrocarbure à proximité du bâtiment ZZ est donc écarté. Seule l’agression par une onde de surpression incidente de forme triangulaire à front raide présentant une surpression maximale de 50 mbar est à considérer pour le bâtiment ZZ. Les dispositions de sûreté envisagées vis-à-vis des risques d’explosion consistent à vérifier le comportement des colis de manière à ce qu’ils restent stables lorsqu’ils sont soumis à l’agression de l’onde de surpression définie ci-avant.
+## Dangers liés à l’environnement industriel et aux voies de communication
+L’analyse des Dangers est basée sur la RFS I.1.b. Un transport d’hydrocarbure à proximité du bâtiment 438 est nécessaire afin d’approvisionner la cuve de fioul de son GEF ; celle-ci est présente dans le bâtiment 444, à 10 m du bâtiment 438 et est enterrée. La citerne étant présente uniquement pour le remplissage de la cuve, le temps de présence de celle-ci n’est pas suffisant pour considérer le Danger d’explosion d’une citerne vide mal dégazée tel que défini par la RFS I.2.d. Le Danger d’explosion associé à un transport d’hydrocarbure à proximité du bâtiment ZZ est donc écarté. Seule l’agression par une onde de surpression incidente de forme triangulaire à front raide présentant une surpression maximale de 50 mbar est à considérer pour le bâtiment ZZ. Les dispositions de sûreté envisagées vis-à-vis des Dangers d’explosion consistent à vérifier le comportement des colis de manière à ce qu’ils restent stables lorsqu’ils sont soumis à l’agression de l’onde de surpression définie ci-avant.
 # ARCHITECTURES ENVISAGEES DU BATIMENT ET ESTIMATION FINANCIERE
 
 ## Itération 1
@@ -396,7 +396,7 @@ A partir de la surface plancher définie au stade des pré-esquisses, une estima
 - des provisions pour indéterminations techniques (15 %),
 - une incertitude de chiffrage de +/- 50 % en phase d’opportunité.
 
-Il est à noter que les provisions pour risques et les coûts propres d’assistance à Maîtrise d’ouvrage ne sont pas prises en compte dans les chiffrages présentés ci-après.
+Il est à noter que les provisions pour Dangers et les coûts propres d’assistance à Maîtrise d’ouvrage ne sont pas prises en compte dans les chiffrages présentés ci-après.
 
 ## Coût sec
 Le coût sec est de 227 M€₂₀₂₄ HT avec +/- 50% d’incertitude. La cellule de chiffrage préconise de prendre la borne haute soit 341 M€ HT aux conditions économiques de 2024.
@@ -524,10 +524,10 @@ A la suite de l’itération 2 et au regard :
 - Vis-à-vis des colis type A, ils sont utilisés afin de balayer le volume interne des emballages type E. Lors du remplissage des OC irradiés, de l’eau résiduelle est présente dans l’emballage type E. La matière nucléaire contaminée contenue dans les OC peut, par diffusion ou en cas de rupture d’OC se recombiner à l’eau résiduelle et la contaminer.
 - Aussi, avant même d’extraire les OC de l’emballage type E, un colis type A contenant de la zéolithe est connecté à l’emballage type E afin d’extraire l’eau contaminée. Ce colis type A doit être décomprimé périodiquement afin d’évacuer les gaz de radiolyse produits par la présence de radioéléments.
 
-## Réduction des risques de rejets de gaz contaminé
-- Afin de réduire les risques de rejets de gaz contaminé, deux voies peuvent être envisagées :
+## Réduction des Dangers de rejets de gaz contaminé
+- Afin de réduire les Dangers de rejets de gaz contaminé, deux voies peuvent être envisagées :
 - Décompression dans une BàG dont l’atmosphère passe par une unité de traitement de l’air spécifique ; principe correspondant à la solution initialement proposée.
-- Transfert de la zéolithe dans un conteneur emballage de type J spécifique. Dans ce cas, la décompression n’est pas nécessaire. Effectivement, ce conteneur est équipé d’un recombineur contenant un catalyseur au palladium déposé sur substrat d’oxyde d’aluminium. Celui-ci permet donc la recombinaison des gaz issus de la radiolyse de l’eau et écarte le risque potentiel d’explosion.
+- Transfert de la zéolithe dans un conteneur emballage de type J spécifique. Dans ce cas, la décompression n’est pas nécessaire. Effectivement, ce conteneur est équipé d’un recombineur contenant un catalyseur au palladium déposé sur substrat d’oxyde d’aluminium. Celui-ci permet donc la recombinaison des gaz issus de la radiolyse de l’eau et écarte le Danger potentiel d’explosion.
 
 ## Compatibilité et entreposage
 - Cette dernière solution sera compatible de l’inventaire d’eau contaminée vis-à-vis des spécifications actuelles pour ce type de conteneur. Ces emballages type J seront introduits dans un fût type D puis, seront entreposés pour décroissance dans le bâtiment ZZ en complément du flux des emballages type J généré par les unités de traitement de l’air spécifiques de l’installation n°1. En transitoire, il est également prévu la possibilité de les entreposer dans le bâtiment 438 dans l’attente de la mise en exploitation du bâtiment ZZ.
