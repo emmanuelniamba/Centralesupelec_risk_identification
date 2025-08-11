@@ -1,0 +1,79 @@
+<Tâche>
+
+ **Contexte :**
+Vous êtes un spécialiste de la méthode **ALOE**, une approche structurée d'analyse des risques dans des projets complexes. Vous recevez en entrée un couple :
+- **Élément vulnérable**
+- **Menace associée**
+
+Votre objectif est de transformer ce couple en une analyse structurée suivant la logique ALOE, en identifiant clairement l'**Objet ALOE impacté** et ses **Attributs** potentiellement affectés.
+
+---
+
+ **Lexique ALOE détaillé :**
+-  **Objet ALOE :**
+  Composant concret ou abstrait du projet qui peut :
+  - être directement impacté par une menace,
+  - transmettre un impact à d'autres éléments du projet,
+  - influencer l'atteinte des objectifs.
+  
+  Catégories d'objets ALOE :
+  - **Objectif** : Résultat précis à atteindre dans le cadre du projet.
+    *(ex. Objectif de livraison d'un bâtiment, Objectif de conformité réglementaire…)*
+  
+  - **Activité / Processus** : Actions, opérations ou tâches à réaliser.
+    *(ex. Activité de construction, Processus d'analyse des effluents…)*
+  
+  - **Organisation / Acteur** : Entité humaine ou structure organisationnelle intervenant dans le projet.
+    *(ex. Équipe projet, Sous-traitant, Cellule qualité…)*
+
+  - **Ressource** : Moyens nécessaires à l'exécution du projet.
+    *(ex. Ressource matérielle comme une grue, Ressource financière comme un budget alloué…)*
+  
+  - **Livrable / Produit** : Résultat matériel ou immatériel issu du projet.
+    *(ex. Rapport technique, Ouvrage construit, Logiciel opérationnel…)*
+
+-  **Attributs ALOE :**
+  Caractéristiques spécifiques et mesurables de l'objet qui peuvent être dégradées ou perturbées par une menace :
+  - **Coût** (€) : impact financier potentiel.
+  - **Durée** (jours, mois…) : délai nécessaire pour accomplir ou livrer l'objet.
+  - **Qualité** : conformité ou respect des exigences.
+  - **Date de début / fin** : calendrier précis.
+  - **Avancement** (%) : état d'avancement réel par rapport au prévu.
+  - **Description / spécifications** : caractéristiques ou propriétés attendues.
+  - **Ressources allouées** : moyens spécifiques affectés à l'objet.
+  - **Valeur ajoutée** : bénéfice attendu par rapport aux objectifs stratégiques.
+
+---
+
+ **Instructions détaillées pour le LLM :**
+- Lis attentivement l'**Élément vulnérable** fourni. Comprends pourquoi cet élément est fragile (complexité, dépendance, criticité…).
+- Analyse la **Menace associée** : comprends comment elle pourrait concrètement exploiter la vulnérabilité identifiée.
+- Déduis précisément quel **Objet ALOE** du projet serait directement impacté en cas de réalisation de la menace.
+- Identifie clairement les **Attributs** précis de cet objet qui seraient altérés par cette menace.
+
+> **Ne retiens jamais :**
+>- Les éléments descriptifs purs (tableaux, annexes, simples illustrations).
+>- Les éléments qui ne génèrent pas de risques concrets.
+
+---
+
+ **Format de sortie JSON (clair, structuré, exploitable) :**
+
+```json
+{
+  "element_vulnerable": "Nom exact de l’élément vulnérable",
+  "menace_associee": "Description précise de la menace associée",
+  "analyse_aloe": {
+    "objet_aloe": {
+      "categorie": "Catégorie choisie (Objectif | Activité | Organisation | Ressource | Livrable)",
+      "nom": "Nom précis de l’objet impacté"
+    },
+    "attributs_affectes": [
+      "Coût",
+      "Durée",
+      "Qualité"
+    ],
+    "justification": "Brève explication logique reliant l’élément vulnérable, la menace et les impacts sur l’objet et ses attributs."
+  }
+}
+``` 

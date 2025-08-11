@@ -29,10 +29,14 @@ Preserve the original section titles and the hierarchical structure (headings, s
 - For each subsection, use a level 2 markdown heading (`##`) and write the title in Capitalized or lowercase as appropriate.
 - Place the content directly below its title.
 - Preserve the original hierarchy and order of sections and subsections as in the document.
-- If you encounter a table or figure, convert its content into plain text. For tables, write out the data as text (row by row or as a list). For figures, describe the content and any labels or legends in text.
+- If you encounter a table, figure, or graph, do not simply extract it as-is. Instead, describe the information contained in the table, figure, or graph using full sentences and paragraphs, in the language of the document. Translate all visual elements into textual explanations, ensuring that the meaning, relationships, and data are fully conveyed. Avoid losing any detail, and integrate the content into the narrative as if you were explaining it to someone who cannot see the visual elements.
+- For each page in the document, wrap its entire content (including all headings, text, and formatting) inside a tag of the form <pageN> ... </pageN>, where N is the page number (e.g., <page1> ... </page1>, <page2> ... </page2>, etc.).
+- Place all extracted markdown content for each page inside its corresponding tag, and increment the page number for each new page.
+- Do not merge content from different pages into the same tag.
 
 **Example:**
 
+<page1>
 # PROJECT OBJECTIVES
 The project aims to improve digital infrastructure...
 
@@ -46,9 +50,13 @@ The project is managed by...
 ## Steering committee
 The steering committee includes...
 
-(Continue in this format for all sections and subsections.)
+## Figure 1: Internet Penetration Growth
+The graph shows a steady increase in internet penetration from 2015 to 2020, with a peak growth rate of 25% in 2018. The x-axis represents years, and the y-axis represents the percentage of internet penetration.
 
-Ignore any section or content related to risks, including but not limited to: "Risk Analysis", "Project Risks", "Risks", "Risk Management", "Gestion des risques", "Analyse des risques", "Risques", "Plan de gestion des risques", "Risk log", "Risk register", or any similar title in any language. Also, do not extract or output any proposed solutions, recommendations, Solution, Implementation, Results, or mitigation actions related to risks, even if they are present in the document. This instruction takes precedence over all others.
+(Continue in this format for all sections and subsections.)
+</page1>
+
+Ignore any section or content related to risks, including but not limited to: "Risk Analysis", "Project Risks", "Risks", "Risk Management", "Gestion des risques", "Analyse des risques", "Risques", "Plan de gestion des risques", "Risk log", "Risk register", or any similar title in any language. Also, do not extract or output any proposed solutions, recommendations, Solution, Implementation, Results, or mitigation actions related to risks, even if they are present in the document. This instruction takes precedence over all others. ALSO DELETE TABLE OF CONTENTS AND OTHER INFORMATION.
 """
                                
                                

@@ -1,0 +1,273 @@
+
+---
+
+# Page 1
+
+**Section Title:** OBJET
+
+**Page Summary:** Le document présente le bâtiment ZZ destiné à l’entreposage de déchets contaminés provenant de trois installations, avec un historique d’inclusion initiale d’une quatrième (installation n°4) retirée pour raisons financières. Il détaille le périmètre des déchets concernés et les objectifs du Groupe de Travail (GT) chargé de l’évaluation, incluant le dimensionnement, les contraintes de performance, l’aménagement des bâtiments, le chiffrage et l’implantation sur le site. Le GT a travaillé de septembre 2023 à novembre 2024 et a rendu des comptes-rendus en présence du Directeur du programme. Les discussions ont abouti à des ajustements dans le périmètre des déchets, notamment l’exclusion des déchets historiques de l’installation n°4 et des colis conditionnés type A/B de l’installation n°1. La note propose également un planning pour deux tranches de bâtiments, la première couvrant les quinze premières années d’exploitation de l’installation n°1, la seconde étant ultérieure. Le projet vise à minimiser l’impact sur la production de l’installation n°1 tout en intégrant les contraintes actuelles. Les évolutions du périmètre des déchets sont expliquées dans la section « Estimation financière » du document.
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour entreposer des déchets contaminés issus de trois installations, avec un historique d’inclusion d’une quatrième installation ayant été retirée pour des raisons financières. Le document synthétise les conclusions du GT sur la gestion des déchets après une étude d’opportunité, couvrant le dimensionnement, les contraintes de sûreté, l’architecture des bâtiments, le chiffrage, et l’implantation sur site. Les déchets historiques de l’installation n°4 et les colis type A/B de l’installation n°1 ont été exclus du périmètre initial. Deux tranches de réalisations sont prévues, la première pour les quinze premières années d’exploitation de l’installation n°1, suivi d’une seconde. Le projet vise à limiter les impacts sur la production de l’installation n°1 tout en respectant les exigences techniques.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 2
+
+**Section Title:** Déchets Mixtes
+
+**Page Summary:** La page traite de l'identification des déchets mixtes produites par l'installation n°1 durant son exploitation, avec une distinction entre déchets très irradiants (emballages type F), déchets irradiants (colis type C), et déchets peu irradiants (fûts type D, A ou B). Elle précise que les déchets très irradiants ne nécessitent pas de colis pour 15 ans d'exploitation, mais 161 colis en 50 ans, contrairement aux déchets irradiants (601 colis en 50 ans). Les déchets de la deuxième barrière (type D) atteignent 4845 colis en 50 ans, tandis que les effluents actifs s'élèvent à 360 m³. Le tableau 1 synthétise ces volumes par année, basé sur des traitements thermiques validés, et l'annexe 4 détaille les contenus et caractéristiques des colis.
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour entreposer des déchets contaminés de trois installations, excluant ceux de l'installation n°4 et certains colis de l'installation n°1. Le projet intègre deux tranches de réalisations, minimisant l'impact sur la production de l'installation n°1 tout en respectant les contraintes techniques. Les déchets mixtes, très irradiants (emballages type F), irradiants (type C) et peu irradiants (fûts type D, A, B) sont identifiés, accompagnés de volumes précis pour 15 et 50 ans d'exploitation, fondés sur des traitements thermiques confirmés. Les effluents actifs sont mesurés en m³, et l'annexe 4 propose des détails sur les colis.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 3
+
+**Section Title:** Identification et Volumétries
+
+**Page Summary:** La page détaille l'inventaire des déchets nucléaires de l'installation n°4, incluant des culots de fusion anciens et récents, des filtres, des résines, et des eaux contaminées, avec des volumes précis pour les colis (type H, D, G) et des cuves (120 m³). Elle mentionne également les autres déchets à entreposer dans le bâtiment ZZ, provenant de l’installation n°2 (fûts type D), l’installation n°3 (caissons de 5 m³) et l’exploitation du ZZ (fûts D et cuve de 30m³). Un exutoire est nécessaire pour les effluents actifs et douteux en raison de la capacité limitée des cuves tampons.
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour entreposer des déchets contaminés de trois installations, excluant l’installation n°4 et certains colis de l’installation n°1. Deux tranches de réalisations minimisent l’impact sur la production de l’installation n°1 tout en respectant les contraintes. Les déchets mixtes (types F, C, D, A, B) et les effluents actifs sont identifiés, avec des volumes précis pour 15 et 50 ans d’exploitation. Les déchets de l’installation n°4 (culots, filtres, résines, eaux) sont désormais inclus, avec des colis (type H : 510, D : 150, G : 140) et un volume d’eau de 120 m³. Les autres déchets proviennent de l’installation n°2, n°3, et du ZZ lui-même, avec des quantités spécifiques. Un exutoire est nécessaire pour les effluents en raison de la capacité limitée des cuves tampons. L’annexe 4 detalxe les contenus des colis.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 4
+
+**Section Title:** Effluents
+
+**Page Summary:** La page explique la distinction entre les effluents actifs et douteux, leurs critères d'analyse et les procédures de traitement selon les résultats. Elle mentionne également le choix stratégique de deux bâtiments (460 et ZZ) pour l'entreposage des déchets irradiants et non irradiants respectivement. Enfin, une évaluation des périodes de saturation de l'Installation n°1 est présentée, indiquant une capacité limitée (88 colis type C) et une saturation prévue en 2037 avec un flux annuel de 11 colis.
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour entreposer des déchets contaminés de trois installations, excluant l’installation n°4 et certains colis de l’installation n°1. Deux tranches de réalisations minimisent l’impact sur la production de l’installation n°1 tout en respectant les contraintes. Les déchets mixtes, les effluents actifs et douteux sont identifiés avec des volumes précis pour 15 et 50 ans d’exploitation. Les déchets de l’installation n°4 (culots, filtres, résines, eaux) sont inclus, avec des colis (types H, D, G) et un volume d’eau de 120 m³. D'autres déchets proviennent de l'installation n°2 (fûts D), n°3 (caissons de 5 m³) et du ZZ (fûts D, cuve de 30m³). Un exutoire est nécessaire pour gérer les effluents intégrant une classification entre actifs et douteux, des analyses préalables, et des traitements adaptés. Le bâtiment 460 est destiné aux déchets très irradiants en emballage F, tandis que le ZZ gère les autres catégories. L'installation n°1 atteindra sa saturation en 2037 avec un flux de 11 colis type C par an, et un plan de gestion des effluents inclut des conventions avec le CEA civil.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 5
+
+**Section Title:** Déchets mixtes
+
+**Page Summary:** La page traite des déchets mixtes (DCHM), spécifiant un volume de 4780 fûts type D à 50 ans d’exploitation. L’installation n°1, avec une capacité de 468 fûts, atteindra sa saturation en 2033. L’opportunité d’entreposer ces déchets dans le bâtiment 438 est explorée, offrant une capacité tampon de 400 colis à saturer en 2037. La stratégie de mise en exploitation du bâtiment ZZ est décrite en deux tranches : T1 d’ici 2036 et T2 en 2050. Une pré-analyse de sûreté souligne le besoin d’une barrière de protection biologique pour les colis type C, tout en précisant que les fûts type D présentent un risque d’irradiation faible.
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour entreposer des déchets contaminés de trois installations (n°1, 2, 3), excluant l’installation n°4 et certains colis de l’installation n°1. Deux tranches de réalisations (T1 et T2) pourraient réduire l’impact sur la production de l’installation n°1 tout en respectant les contraintes. Les déchets mixtes (4780 fûts type D à 50 ans) et les effluents actifs/douteux sont identifiés avec des volumes précis. L'installation n°1, avec un flux annuel de 85 fûts, atteint sa saturation en 2033, tandis que le bâtiment 438 (capacité de 400 colis) sature en 2037. Le ZZ gère les tranches en fonction du retour d’expérience, avec une pré-analyse de sûreté proposant une barrière biologique pour les colis type C. Un exutoire est requis pour les effluents, et des conventions avec le CEA civil figurent dans le plan de gestion.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 6
+
+**Section Title:** RISQUE DE DISSÉMINATION
+
+**Page Summary:** La page présente le risque de dissémination des déchets, distinguant le fonctionnement normal (ventilation forcée suffisante pour les fûts type D et colis type C) et incidentel (risque de remise en suspension des matières radioactives si la hauteur de chute dépasse 1,2 m, nécessitant une ventilation nucléaire C2). Une option de sûreté (OPT 2) est proposée pour les deux cas de hauteur de chute. Elle aborde également les agressions internes et externes, notamment le risque d'incendie lié aux équipements électriques et au carburant, avec des mesures de prévention comme la limitation des sources d'ignition, une structure renforcée, le détection, et un stockage en configuration transport des colis jusqu'au refroidissement des moteurs.
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour stocker des déchets contaminés des installations 1, 2, 3, excluant l'installation 4 et certains colis de l'installation 1. Les tranches T1 (avant 2036) et T2 (2050) optimisent la gestion. Les déchets mixtes (4780 fûts D à 50 ans) satureront l'installation 1 en 2033 et le bâtiment 438 (400 colis) en 2037. Le risque de dissémination est analysé, avec des normes de ventilation selon la hauteur de chute (exclusion de risque <1,2 m, confinement C2 >1,2 m). Les agressions internes/externes incluent le risque d'incendie, dû à l'équipement électrique et aux carburants, avec des solutions comme la détection, la structure renforcée, et le stockage temporaire des colis.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 7
+
+**Section Title:** RISQUES
+
+**Page Summary:** La page traite de plusieurs risques spécifiques liés au bâtiment ZZ. Elle identifie d'abord le risque d'explosion interne, causé par les batteries des équipements mobiles et les onduleurs produisant de l'hydrogène, avec des mesures de ventilation à définir. Puis, elle mentionne le risque d'inondation interne, lié aux réseaux de fluides et à l'eau d'extinction, nécessitant des dispositions de sûreté comme le rehaussement des équipements électriques. Enfin, elle aborde les risques liés à la manutention, divisés en trois phases (réception, contrôle, transfert), avec des pratiques sécurisées comme l'utilisation de ponts roulants fiables, des zones de stockage dédiées, et une attention portée au Facteur Organisationnel et Humain (FOH).
+
+**Updated Global Summary:** Le bâtiment ZZ est conçu pour stocker des déchets contaminés des installations 1, 2, 3, excluant l'installation 4 et certains colis de l'installation 1. Les tranches T1 (avant 2036) et T2 (2050) optimisent la gestion. Les déchets mixtes satureront l'installation 1 en 2033 et le bâtiment 438 en 2037. Le risque de dissémination est analysé, avec des normes de ventilation selon la hauteur de chute (C2 >1,2 m). Les agressions internes/externes incluent le risque d'incendie (équipements électriques, carburants), des mesures comme la détection, structure renforcée, stockage temporaire. Nouveaux points ajoutés : risques d'explosion interne (batteries, onduleurs, ventilation), d'inondation interne (réseaux de fluides, eau d'extinction), et liés à la manutention (chutes, vitesse, fiabilité des équipements, zones de garage, FOH).
+
+**Is Continuation:** False
+
+
+---
+
+# Page 8
+
+**Section Title:** Risques de perte de services
+
+**Page Summary:** La section présente les risques liés à la perte ou à la défaillance des utilités du bâtiment ZZ, notamment l'électricité, l'air respirable, l'eau et la ventilation. L'alimentation électrique est critique pour les équipements de manutention et de sûreté, avec des onduleurs et un GEF prévus pour assurer la continuité. L'air respirable est essentiel pour les EPI lors des interventions, avec un ballon tampon et des ARI prévus en cas de réseau défaillant. Les risques FOH, climatiques extrêmes (tornades EF2, projectiles) et la chute d'avion sont également mentionnés comme éléments supplémentaires d'analyse.
+
+**Updated Global Summary:** Le bâtiment ZZ gère des déchets contaminés des installations 1, 2, 3, excluant l'installation 4. Les tranches T1 et T2 optimisent la gestion, tandis que les déchets mixtes satureront l'installation 1 en 2033 et le bâtiment 438 en 2037. Les risques d'explosion, d'inondation, de manutention et de perte d'utilités (électricité, air, eau, ventilation) sont analysés, avec des mesures comme l'UPS, le GEF, le ballon tampon d'air, la résistance aux tornades EF2, et l'étude FOH. Les normes de ventilation dépendent de la hauteur de chute (>1,2 m).
+
+**Is Continuation:** False
+
+
+---
+
+# Page 9
+
+**Section Title:** Risques aériens, incendie et inondation
+
+**Page Summary:** La page aborde trois thèmes principaux : les risques liés à l'aviation, aux incendies externes et aux inondations. Les probabilités de chute d'avion sont calculées à 4,08.10⁻⁰⁸ (total) mais exclues pour le bâtiment ZZ en raison de sa taille. Concernant les incendies, les mesures incluent la déboisage autour du bâtiment et l'entretien des zones forestières. Pour les inondations, les risques proviennent de la nappe phréatique et des pluies intenses, avec des systèmes de collecte et d'évacuation de l'eau prévus. Toute partie non terminée (collecte d'eau) est mentionnée comme point à suivre.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets contaminés des installations 1, 2, 3, excluant l'installation 4. Les tranches T1/T2 optimisent la gestion, tandis que les déchets mixtes satureront l'installation 1 en 2033 et le bâtiment 438 en 2037. Les risques d'explosion, d'inondation, de manutention, de perte d'utilités (UPS, GEF, ballon tampon d'air, résistance EF2, étude FOH) et de feu sont analysés. Les normes de ventilation dépendent de la hauteur de chute (>1,2 m). Les risques aériens (probabilités inférieures à 10⁻⁷) sont exclus, les incendies externes sont prévus avec déboisage et hydrants, et les inondations font l'objet de systèmes de drainage.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 10
+
+**Section Title:** Risques industriels et transport
+
+**Page Summary:** La page traite des risques liés à l'environnement industriel et aux voies de communication. Elle aborde spécifiquement les dispositions contre la foudre (IEPF et IIPF) et les risques sismiques, avec un sol rocheux évitant les effets de site. Un transport d'hydrocarbure près du bâtiment 438 est nécessaire pour alimenter sa cuve de fioul, mais le risque d'explosion est écarté en raison de la courte durée de présence de la citerne. L'analyse inclut aussi une onde de surpression de 50 mbar et des vérifications de stabilité des colis. Les sections précédentes étaient consacrées aux risques aériens, incendies et inondations, thèmes distincts.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1, 2, 3, excluant l'installation 4. Les tranches T1/T2 optimisent la gestion, tandis que les déchets mixtes satureront l'installation 1 en 2033 et le bâtiment 438 en 2037. Les risques analysés incluent l'exploitation, les inondations, la manutention, les pertes d'utilités et les incendies externes. Les normes de ventilation dépendent de la hauteur de chute. Les risques aériens sont exclus en raison de probabilités inférieures à 10⁻⁷. Des mesures contre les incendies et inondations sont planifiées. Depuis la page précédente, les risques foudre, sismiques et de l'environnement industriel/transport sont désormais couverts, avec l'absence de risque d'explosion lié aux hydrocarbures.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 11
+
+**Section Title:** Architectures et Estimation
+
+**Page Summary:** La page présente les architectures envisagées du bâtiment ZZ et l'estimation financière associée. L'itération 1 détaille les arrangements d'entreposage des déchets nucléaires contaminés provenant des installations 1 et 4. Les fûts sont stockés sur six niveaux, les colis type C/H sur deux niveaux, et les colis type A/B en boîte à gant avec unité de traitement de l'air. La ventilation minimale IIA (classe C2) est requise, avec possibilité de passer à IIB (C3) selon le scénario de chute des fûts. Le bâtiment comporte trois niveaux (0, R-1, R+1) avec des locaux techniques, un sas camion, un garage de manutention et des postes de dépôtage. La structure en béton armé est imposée par les normes nucléaires. Des précisions sur la gestion incidentelle des déchets et la caractérisation du terme source sont évoquées.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets de l'installation 1 (hors très irradiés) et de l'installation 4. Les tranches T1/T2 optimisent la gestion, tandis que les déchets mixtes satureront l'installation 1 en 2033 et le bâtiment 438 en 2037. Les risques analysés incluent l'exploitation, les inondations, la manutention, les pertes d'utilités, les incendies externes, la foudre, les sismes et l'environnement industriel/transport, avec exclusion des risques aériens (>10⁻⁷). Les normes de ventilation dépendent de la hauteur de chute, et le bâtiment ZZ est conçu en béton armé pour répondre à ces exigences. Des mesures prévues pour les incendies et inondations, ainsi que les architectures et estimation financière du bâtimentMZ sont maintenant intégrées.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 12
+
+**Section Title:** Extension
+
+**Page Summary:** La page traite de l'extension pour l'entreposage des déchets de l'installation n°1 au-delà de 15 ans, à intégrer au bâtiment ZZ. Le coût sec estimé est de 227 M€ HT (2024), avec une incertitude de ±50 % et une borne haute recommandée de 341 M€ HT. La répartition financière montre que le CEA/DAM couvre 37 % de l'investissement global. Des provisions pour indéterminations techniques (15 %) et des majorations d'accès (15 % pour le marché A, 10 % pour B et C) sont incluses. La MOE englobe les coûts réglementaires. La page indique que seul le bâtiment ZZ sera évalué pour les déchets CEA/DAM dans les itérations suivantes.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4, avec une extension prévue pour les déchets de l'installation 1 après 15 ans. Le coût estimé est de 227 M€ HT (2024), pouvant atteindre 341 M€ HT avec incertitude. Le CEA/DAM financera 37 % de l'investissement. Les risques analysés comprennent l'exploitation, les inondations, les incendies et les sismes, avec une structure en béton armé. L'estimation inclut des provisions techniques et des majorations d'accès. La gestion des déchets mixtes saturera l'installation 1 en 2033 et le bâtiment 438 en 2037.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 13
+
+**Section Title:** Itération 2
+
+**Page Summary:** La section 'Itération 2' présente l'évaluation de la gestion des déchets de l'installation n°1 par un bâtiment unique (hors installation n°4). Deux pré-esquisses sont étudiées : 2-1 (bâtiment 438 en béton avec ventilation nucléaire) et 2-2 (charpente métallique type 455 avec soufflage mécanique). L'inventaire des déchets se base sur 15 ans d'exploitation, les colis A/B nécessitent une BàG spécifique, et les configurations incluent des locaux techniques, une unité de traitement de l'air et des sas pour le transport. L'analyse a commencé en 2024 avec MOA A&D et doit être finalisée en 2025.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4, avec une extension prévue pour les déchets de l'installation 1 après 15 ans. Le coût estimé est de 227 M€ HT (2024), pouvant atteindre 341 M€ HT avec incertitude. Le CEA/DAM financera 37 % de l'investissement. Dans l'Itération 2, un bâtiment unique est évalué pour la DAM (hors installation 4) avec deux pré-esquisses : un bâtiment en béton de type 438 et un en charpente métallique de type 455, chacun adapté à des configurations d'entreposage spécifiques. Les risques analysés comprennent l'exploitation, les inondations, les incendies et les sismes, avec une structure en béton armé. La gestion des déchets mixtes saturera l'installation 1 en 2033 et le bâtiment 438 en 2037.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 14
+
+**Section Title:** Capacités d'entreposage
+
+**Page Summary:** La section 'Capacités d'entreposage' détaille le tableau 5 présentant la capacité d'entreposage pour la solution itération 2 – pré-esquisse 2. Les différents types de colis et leurs capacités sont répertoriés : 2400 fûts type D, 176 colis type C, 6 caissons de 5m³ (pour l'installation n°3), 130 colis type A, 18 colis type B. De plus, des espaces de 70 m² et 50 m² sont alloués respectivement aux effluents actifs et douteux. Les données reflètent la configuration spécifique de la pré-esquisse 2, intégrant les besoins d'entreposage pour les déchets mixtes générés par l'installation n°1 et la DAM. Cela complète l'analyse de l'itération 2, qui compare deux pré-esquisses architecturales pour la gestion des déchets.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension prévue après 15 ans. Le coût estimé est de 227 M€ HT (2024), pouvant atteindre 341 M€ HT. Le CEA/DAM couvre 37 % de l'investissement. Dans l'itération 2, un bâtiment unique est évalué pour la DAM (hors installation 4) avec deux pré-esquisses : 438 (béton) et 455 (charpente métallique). Les capacités d'entreposage, détaillées dans le tableau 5, comprennent 2400 fûts D, 176 colis C, 6 caissons 5m³, 130 colis A, 18 colis B, ainsi que des locaux de 70 m² et 50 m² pour effluents. L'analyse de l'itération 2, initiée en 2024 par MOA A&D, se conclut en 2025.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 15
+
+**Section Title:** Pré-esquisse 2-2
+
+**Page Summary:** La pré-esquisse 2-2 décrit un bâtiment en charpente métallique (type 455) de 3790 m², comprenant des sas, des locaux de maintenance, des espaces d'entreposage des fûts type D, des colis type C avec pont 10T, des zones radioprotection, ventilation et électriques. L'extension du bâtiment 438 (400 m²) en béton armé inclut un local BàG pour colis A/B, traitement de l'air, pulvérisation et confinement C2. Une liaison entre bâtiments 438 et ZZ est nécessaire pour les fûts non caractérisés. Les détails de l'infrastructure et de la connectivité sont précisés.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension prévue après 15 ans. Le coût estimé est de 227 M€ HT (2024), pouvant atteindre 341 M€ HT. Le CEA/DAM couvre 37 % de l'investissement. Dans l'itération 2, la pré-esquisse 2-2 (bâtiment 455) est analysée, incluant un bâtiment métallique de 3790 m², un extension du 438 en béton armé (400 m²), et des liaisons entre bâtiments pour transferts de fûts. L'analyse compare les pré-esquisses architecturales pour la DAM (hors installation 4) et se conclut en 2025.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 16
+
+**Section Title:** Capacités d'entreposage
+
+**Page Summary:** La page présente les capacités d’entreposage détaillées dans le Tableau 6, incluant des fûts type D, colis type C, caissons 5 m³ (installation n°3), ainsi que des locaux pour effluents actifs et douteux. Le bâtiment type 455 en charpente métallique gère les fûts type D, colis type C et effluents actifs, tandis que l’extension 438 dessert les colis type A/B. Une estimation financière des pré-esquisses 2-1 et 2-2 est fournie, avec des coûts secs de 85 M€ HT (borne haute 128 M€) pour la 2-1 et 74 M€ HT (borne haute 112 M€) pour la 2-2. L'itération 3 est introduite, motivée par des incertitudes techniques, d’exploitation et financières liées à l’extension du bâtiment 438.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension prévue après 15 ans. Le coût estimé est de 227 M€ HT (2024), pouvant atteindre 341 M€ HT, avec le CEA/DAM couvrant 37 % de l'investissement. La pré-esquisse 2-2 (bâtiment 455) inclut un bâtiment métallique de 3790 m² et des liaisons pour les transferts de fûts. Les capacités d’entreposage (Tableau 6) détaillent les volumes par type de colis et leur localisation. Les estimations financières des pré-esquisses 2-1 et 2-2 sont de 128 M€ HT et 112 M€ HT (bornes hautes). L'itération 3 est lancée pour aborder les incertitudes relatives à l'extension du bâtiment 438.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 17
+
+**Section Title:** Colis A/B Storage
+
+**Page Summary:** La page traite de l'entreposage des colis A et B dans le bâtiment ZZ. Les colis A sont utilisés pour extraire l'eau contaminée des emballages E et nécessitent une décompression soit dans une BàG avec traitement de l'air, soit via des conteneurs J équipés d'un recombineur à palladium. Les colis A seront stockés dans des fûts D au bâtiment ZZ, avec une possibilité temporaire d'encaissement dans le bâtiment 438. Les colis B sont prévus pour un stockage de 15 ans dans l'installation n°1 avant transfert dans une BàG de l'extension parasismique, planifiée pour 2043. Le Tableau 7 synthétise les capacités d'entreposage, incluant 2448 fûts D, 182 colis C, 6 caissons de 5m³ (installation n°3), et des locaux dédiés aux effluents.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension prévue après 15 ans, comprenant une solution d'entreposage spécifique pour les colis A et B, où les colis A utilisent des conteneurs J avec recombineur à palladium pour éviter les rejets de gaz contaminés, tandis que les colis B sont stockés 15 ans dans l'installation n°1 avant transfert dans une BàG parasismique (2043). Le coût estimé est de 227 M€ HT (2024), pouvant atteindre 341 M€ HT, avec le CEA/DAM couvrant 37 % de l'investissement. La pré-esquisse 2-2 (bâtiment 455) inclut un bâtiment métallique de 3790 m² et des liaisons pour fûts. Les capacités d’entreposage (Tableau 7) détaillent les volumes par type de colis et leur localisation, avec 2448 fûts D, 182 colis C, etc. Les estimations financières des pré-esquisses 2-1 et 2-2 sont de 85 M€ HT et 74 M€ HT (bornes hautes). L'itération 3 est lancée pour aborder les incertitudes liées à l'extension du bâtiment 438.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 18
+
+**Section Title:** Planning de référence
+
+**Page Summary:** La page présente le planning de référence pour l'installation ZZ, incluant une durée estimée de dix ans pour la phase de conception, contractualisation, réalisation et essais inactifs, avec une mise en exploitation prévue à fin 2036. Un schéma industriel MOE interne est mentionné, ainsi qu'une note sur les délais prolongés en cas de conception-réalisation. Le planning indique une échéance de fin 2035 (avec une marge de 1 an) et évoque une étude de faisabilité en cours pour évaluer les coûts des travaux préparatoires, notamment le terrassement (6,6 M€ HT) et les raccordements de réseaux (4,1 M€ HT), avec une provision de 15 % pour les incertitudes techniques. Une étude d'esquisse est lancée pour affiner ces chiffrages et explorer les gains d'un chantier externalisé, avec un retour attendu fin 2025.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension après 15 ans, utilisant des conteneurs J pour les colis A et une BàG parasismique pour les colis B en 2043. Le coût estimé est de 227 M€ HT (2024), avec un couverture de 37 % par le CEA/DAM. Les pré-esquisses 2-1 et 2-2 ont des coûts de 85 M€ HT et 74 M€ HT. Le planning de référence pour l'installation ZZ prévoit une mise en service à fin 2036, avec une phase de construction d'environ dix ans et des coûts de travaux préparatoires de 12,3 M€ HT (2024), comprenant terrassement, raccordements de réseaux et une provision de 15 % pour les incertitudes. Une étude de faisabilité est en cours pour optimiser ces coûts via un chantier externalisé.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 19
+
+**Section Title:** Synthèse des estimations financières
+
+**Page Summary:** La page présente une synthèse des estimations financières pour le Bâtiment 461 sur trois itérations, montrant une réduction significative des coûts de 341 M€ à 85 M€. Figure 2 illustre les coûts sans incertitudes (rectangles bleus) et avec incertitudes (+50 %, traits rouges). Les pré-esquisses 2-1 et 2-2 affichent respectivement 227 M€ et 128 M€, tandis que l'itération 3 ramène le coût à 85 M€. L'analyse souligne l'évolution des chiffrages et la nécessité d'une étude d'esquisse pour affiner les coûts. Aucune continuité avec la section précédente sur le planning de référence.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension après 15 ans, utilisant des conteneurs J et une BàG parasismique pour les colis A et B en 2043. Le coût estimé est de 227 M€ HT (2024), couvert à 37 % par le CEA/DAM. Le planning de référence pour ZZ prévoit une mise en service à fin 2036, avec une phase de construction de 10 ans et des coûts préparatoires à 12,3 M€ HT (terrassement, raccordements et provision de 15 %). Une étude de faisabilité évalue l'externalisation des chantiers. Le bâtiment 461, quant à lui, a vu ses coûts chuter de 341 M€ à 85 M€ en trois itérations, avec une synthèse détaillée des estimations financières (Figure 2) et des marges d'incertitude de +50 %.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 20
+
+**Section Title:** Synthèse des architectures de bâtiments
+
+**Page Summary:** La page traite de la synthèse des architectures de bâtiments, précisant que l'architecture de l'itération 1 a été écartée en raison de coûts élevés. Deux options restent en étude pour le bâtiment DAM : béton armé et charpente métallique. Elles nécessitent de consolider la capacité d'entreposage des colis type B au-delà de 15 ans pour l'installation n°1 et de valider si la structure charpente métallique répond à toutes les exigences de sûreté (séismes, tornades, etc.). Une alternative est proposée pour évaluer la compatibilité de la remise en suspension du conteneur avec les rejets du site CEA en cas d'agressions. Le contenu ne prolonge pas la section précédente sur les estimations financières.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension après 15 ans, utilisant des conteneurs J et une BàG parasismique pour les colis A et B en 2043. Le coût estimé est de 227 M€ HT (2024), couvert à 37 % par le CEA/DAM. Le planning de référence prévoit une mise en service à fin 2036 après 10 ans de construction et des coûts préparatoires de 12,3 M€ HT. Le bâtiment 461 a vu ses coûts passer de 341 M€ à 85 M€ en trois itérations (Figure 2), avec des marges d'incertitude de +50 %. Une synthèse sur les architectures de bâtiments indique que l'itération 1 a été rejetée pour coûts, laissant deux options (béton armé et charpente métallique) à étudier pour la gestion des déchets DAM, avec des besoins spécifiques en stockage et sûreté.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 21
+
+**Section Title:** CONCLUSION
+
+**Page Summary:** La page présente la conclusion des réflexions sur le dimensionnement du bâtiment ZZ, soulignant son objectif d'entreposer les déchets nucléaires non très irradiants des installations n°1 et n°4. Elle détaile les itérations successives basées sur les coûts, notamment la troisième itération proposant un stockage spécifique des colis A et B. Les aspects clés incluent la nécessité de consolider la capacité d'entreposage des colis B au-delà de 15 ans, la validation de la structure en charpente métallique face aux agressions (séismes, tornades), et le transfert des effluents actifs vers la station de retraitement du CEA civil. Un bilan sur les options de sûreté et la planification de l'évaluation de la tenue du bâtiment à des agressions externes/internes est mentionné. La Phase d'esquisse doit commencer en 2026, ce qui impose une résolution rapide des points critiques.
+
+**Updated Global Summary:** Le bâtiment ZZ gère les déchets des installations 1 et 4 avec une extension après 15 ans, utilisant des conteneurs J et une BàG parasismique. Son coût est de 227 M€ HT (2024), 37 % couvert par le CEA/DAM. Le planning prévoit une mise en service en 2036 après 10 ans de construction. Le bâtiment 461 a vu ses coûts passer de 341 à 85 M€ en trois itérations, avec des marges d'incertitude. La synthèse des architectures de bâtiments élimine l'itération 1 pour coûts, restant sur béton armé et charpente métallique pour la gestion des déchets DAM. La CONCLUSION souligne la nécessité de consolider l'entreposage des colis B au-delà de 15 ans, de valider la sûreté de la charpente métallique et de planifier la phase d'esquisse en 2026. Une évaluation sur la tenue des agressions enveloppes sera lancée début S2/2025.
+
+**Is Continuation:** False
+

@@ -6,7 +6,7 @@ extractor = Content_Extractor()
 chemin = r'C:\Users\beugre niamba\Desktop\Analyse-interactions entres risques grace au Gen ai\Centralesupelec-LGI\case studies with context'
 
 # Crée le dossier de sortie s'il n'existe pas
-output_dir = "pretraitrement_1"
+output_dir = "pretraitement2"
 os.makedirs(output_dir, exist_ok=True)
 
 if os.path.isdir(chemin):
