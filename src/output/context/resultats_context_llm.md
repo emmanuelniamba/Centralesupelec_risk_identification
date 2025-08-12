@@ -1,0 +1,279 @@
+# Analyse de contexte du document
+
+Document source: DO - NOTE TECHNIQUE BAT ZZ.pdf_resultat.md
+Nombre de pages: 21
+Date d'analyse: []
+
+
+---
+
+# Page 1
+
+**Section Title:** Objet du projet
+
+**Page Summary:** Le document présente l'objet du projet concernant le bâtiment ZZ, destiné à l'entreposage de déchets contaminés. Il détaille le périmètre initial incluant trois installations, puis l'évolution pour ne considérer que deux installations. La synthèse provient des réunions du Groupe de Travail (GT) chargé d'évaluer le besoin, les contraintes et l'architecture des futurs bâtiments. L'objectif est de dimensionner le bâtiment ZZ pour les quinze premières années d'exploitation de l'installation n°1, avec une perspective d'extension ultérieure.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement d'un bâtiment ZZ pour l'entreposage de déchets contaminés. L'objet du document est de synthétiser les travaux du GT chargé d'évaluer le besoin, les contraintes et l'architecture. Le périmètre initial incluait quatre installations, mais a été révisé pour ne considérer que deux. Le GT a défini des objectifs pour dimensionner le bâtiment, évaluer les contraintes et prévoir une extension future.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 2
+
+**Section Title:** Identification des déchets
+
+**Page Summary:** La page traite de l'identification des différents types de déchets produits par l'installation n°1, notamment les déchets très irradiants, irradiants, peu irradiants et les effluents. Elle détaille leur conditionnement dans des emballages types E, F, C, A, B et D, ainsi que les volumes estimés pour 15 et 50 ans d'exploitation. Les déchets très irradiants sont conditionnés en type F pour éviter les opérations de découpe. Les tableaux présentent les quantités de colis pour chaque type de déchet, et l'annexe 4 donne les caractéristiques détaillées des colis.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement d'un bâtiment ZZ pour l'entreposage de déchets contaminés. L'objet du document est de synthétiser les travaux du GT chargé d'évaluer le besoin, les contraintes et l'architecture. Le périmètre initial incluait quatre installations, mais a été révisé pour ne considérer que deux. Le GT a défini des objectifs pour dimensionner le bâtiment, évaluer les contraintes et prévoir une extension future. Le document présente l'objet du projet concernant le bâtiment ZZ, destiné à l'entreposage de déchets contaminés. Il détaille le périmètre initial incluant trois installations, puis l'évolution pour ne considérer que deux installations. La synthèse provient des réunions du Groupe de Travail (GT) chargé d'évaluer le besoin, les contraintes et l'architecture des futurs bâtiments. L'objectif est de dimensionner le bâtiment ZZ pour les quinze premières années d'exploitation de l'installation n°1, avec une perspective d'extension ultérieure. La page actuelle identifie les types de déchets issus de l'installation n°1, notamment les déchets très irradiants, irradiants, peu irradiants et les effluents, et précise leurs volumes pour 15 et 50 ans d'exploitation.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 3
+
+**Section Title:** Volumétries des colis
+
+**Page Summary:** La page présente les détails des déchets issus de l'installation n°4, notamment les culots de fusion et les filtres, avec des volumes pour 15 et 50 ans d'exploitation. Elle détaille les colis à conditionner, incluant les types H, D et G, et mentionne les cuves pour les eaux contaminées. Ensuite, elle aborde les autres déchets à entreposer, provenant des installations n°2, n°3 et ZZ, avec des quantités spécifiques de colis pour chaque type. Les effluents actifs et douteux sont également identifiés, stockés dans des cuves tampons, et nécessitent des exutoires pour la durée d'exploitation.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement d'un bâtiment ZZ pour l'entreposage de déchets contaminés. L'objet du document est de synthétiser les travaux du GT chargé d'évaluer le besoin, les contraintes et l'architecture. Le périmètre initial incluait quatre installations, mais a été révisé pour ne considérer que deux. Le GT a défini des objectifs pour dimensionner le bâtiment, évaluer les contraintes et prévoir une extension future. Le document présente l'objet du projet concernant le bâtiment ZZ, destiné à l'entreposage de déchets contaminés. Il détaille le périmètre initial incluant trois installations, puis l'évolution pour ne considérer que deux installations. La synthèse provient des réunions du Groupe de Travail (GT) chargé d'évaluer le besoin, les contraintes et l'architecture des futurs bâtiments. L'objectif est de dimensionner le bâtiment ZZ pour les quinze premières années d'exploitation de l'installation n°1, avec une perspective d'extension ultérieure. La page actuelle identifie les types de déchets issus de l'installation n°1, notamment les déchets très irradiants, irradiants, peu irradiants et les effluents, et précise leurs volumes pour 15 et 50 ans d'exploitation. Elle détaille également les déchets issus de l'installation n°4, les autres déchets provenant des installations n°2 et n°3, et les effluents actifs et douteux, avec leurs volumes et types de colis.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 4
+
+**Section Title:** Gestion des effluents
+
+**Page Summary:** La page présente la gestion des effluents, en distinguant les effluents actifs et douteux. Elle décrit les procédures d'analyse et de transfert pour chaque type, avec des critères d'acceptation. Ensuite, elle aborde la stratégie d'entreposage, proposant deux bâtiments : le bâtiment 460 pour les déchets très irradiants et le bâtiment ZZ pour les autres catégories. Enfin, elle évalue la période de saturation de l'installation n°1, prévoyant une saturation fin 2037.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement d'un bâtiment ZZ pour l'entreposage de déchets contaminés. L'objet du document est de synthétiser les travaux du GT chargé d'évaluer le besoin, les contraintes et l'architecture. Le périmètre initial incluait quatre installations, mais a été révisé pour ne considérer que deux. Le GT a défini des objectifs pour dimensionner le bâtiment, évaluer les contraintes et prévoir une extension future. Le document présente l'objet du projet concernant le bâtiment ZZ, destiné à l'entreposage de déchets contaminés. Il détaille le périmètre initial incluant trois installations, puis l'évolution pour ne considérer que deux installations. La synthèse provient des réunions du Groupe de Travail (GT) chargé d'évaluer le besoin, les contraintes et l'architecture des futurs bâtiments. L'objectif est de dimensionner le bâtiment ZZ pour les quinze premières années d'exploitation de l'installation n°1, avec une perspective d'extension ultérieure. La page actuelle identifie les types de déchets issus de l'installation n°1, notamment les déchets très irradiants, irradiants, peu irradiants et les effluents, et précise leurs volumes pour 15 et 50 ans d'exploitation. Elle détaille également les déchets issus de l'installation n°4, les autres déchets provenant des installations n°2 et n°3, et les effluents actifs et douteux, avec leurs volumes et types de colis. De plus, cette page traite de la gestion des effluents (actifs et douteux) et de la stratégie d'entreposage (bâtiments 460 et ZZ), ainsi que de l'évaluation de la saturation de l'installation n°1 (saturation prévue fin 2037).
+
+**Is Continuation:** False
+
+
+---
+
+# Page 5
+
+**Section Title:** Stratégie d'installation ZZ
+
+**Page Summary:** La page présente la stratégie d'installation du bâtiment ZZ en deux tranches (T1 et T2), avec une mise en service prévue fin 2036 pour la première tranche et 2050 pour la seconde. Elle détaille les fonctions principales et contraintes définies dans le CdCF, ainsi que les réflexions sur les options de sûreté, notamment l'analyse des risques d'irradiation et la nécessité d'une barrière biologique pour les colis de type C.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés. L'objectif est de dimensionner le bâtiment pour les quinze premières années d'exploitation de l'installation n°1, avec une perspective d'extension. La page actuelle identifie les types de déchets issus des installations, détaille les volumes pour 15 et 50 ans d'exploitation, et présente la stratégie d'installation en deux tranches avec des dates clés. Elle aborde également les fonctions principales, les contraintes et les réflexions sur les options de sûreté, notamment les risques d'irradiation et les barrières de protection.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 6
+
+**Section Title:** Risques et Sécurité
+
+**Page Summary:** La page aborde les risques de dissémination des matières radioactives, en précisant les besoins en ventilation selon les types de colis et les hauteurs d'entreposage. Elle détaille également les risques d'incendie interne et les mesures de sécurité associées, y compris la gestion des colis en cas de chauffe moteur.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page actuelle détaille les risques de dissémination, les besoins en ventilation (normale et incidentelle), les spécifications pour les agressions internes et externes, et les mesures de sécurité contre les incendies internes.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 7
+
+**Section Title:** Risques Internes
+
+**Page Summary:** La page présente les risques internes spécifiques au bâtiment ZZ : explosion liée aux batteries et aux onduleurs, inondation due aux fluides et à l'eau d'extinction, et risques liés aux opérations de manutention. Elle détaille les causes potentielles (hydrogène, eaux, chute de colis) et les mesures de sécurité envisagées (ventilation adaptée, équipements de sécurité, limitations des opérations). Les spécifications techniques des ponts roulants et les précautions pour les produits chimiques sont également mentionnées.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page actuelle détaille les risques de dissémination, les besoins en ventilation (normale et incidentelle), les spécifications pour les agressions internes et externes, et les mesures de sécurité contre les incendies internes. Elle aborde plus précisément les risques internes : explosion liée aux batteries et onduleurs, inondation due aux fluides et eaux d'extinction, et risques de manutention avec des mesures de sécurité spécifiques (ventilation, équipements, limitations).
+
+**Is Continuation:** False
+
+
+---
+
+# Page 8
+
+**Section Title:** Risques liés à la perte des utils
+
+**Page Summary:** La page présente les risques associés à la perte ou défaillance des services utilitaires du bâtiment ZZ. Elle détaille les risques liés à une interruption de l'alimentation électrique, de l'air respirable, de l'eau et de la ventilation. Elle aborde également les risques liés aux facteurs organisationnels et humains, aux conditions climatiques extrêmes et à la chute d'avion. Les mesures de sécurité incluent des onduleurs, des groupes électrogènes, des ballons d'air respirable et des études spécifiques pour les opérations sensibles.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page actuelle détaille les risques de dissémination, les besoins en ventilation (normale et incidentelle), les spécifications pour les agressions internes et externes, et les mesures de sécurité contre les incendies internes. Elle aborde les risques internes : explosion liée aux batteries et onduleurs, inondation due aux fluides et eaux d'extinction, risques de manutention, ainsi que les risques liés à la perte des utils, aux facteurs organisationnels et humains, aux conditions climatiques extrêmes et à la chute d'avion.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 9
+
+**Section Title:** Risques Externes
+
+**Page Summary:** La page traite des risques externes auxquels le bâtiment ZZ est exposé. Elle détaille d'abord les risques liés à la chute d'avion, présentant des calculs probabilistes qui excluent ce risque en raison de sa faible probabilité. Ensuite, elle aborde les risques d'incendie externe, en décrit les mesures de prévention comme la déboisement des abords du bâtiment et la mise en place de poteaux incendie. Enfin, elle présente les risques d'inondation externe, en mentionnant les mesures pour évacuer les eaux de pluies et prévenir les remontées phréatiques.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page actuelle détaille les risques de dissémination, les besoins en ventilation (normale et incidentelle), les spécifications pour les agressions internes et externes, et les mesures de sécurité contre les incendies internes. Elle aborde les risques internes : explosion liée aux batteries et onduleurs, inondation due aux fluides et eaux d'extinction, risques de manutention, ainsi que les risques liés à la perte des utils, aux facteurs organisationnels et humains, aux conditions climatiques extrêmes et à la chute d'avion. Elle ajoute également les risques externes : chute d'avion (très faible probabilité), incendie externe (mesures de prévention), et inondation externe (systèmes de drainage).
+
+**Is Continuation:** False
+
+
+---
+
+# Page 10
+
+**Section Title:** Risques Environnementaux
+
+**Page Summary:** La page traite des risques environnementaux industriels et de communication. Elle détaille les risques liés à la pluie, à la foudre, au séisme, et aux transports d'hydrocarbures. Les mesures de sécurité incluent la protection contre la foudre, l'analyse sismique, et l'évaluation des risques d'explosion. Elle précise également les agressions externes comme les ondes de surpression et les inondations.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page actuelle détaille les risques de dissémination, les besoins en ventilation (normale et incidentelle), les spécifications pour les agressions internes et externes, et les mesures de sécurité contre les incendies internes. Elle aborde les risques internes : explosion liée aux batteries et onduleurs, inondation due aux fluides et eaux d'extinction, risques de manutention, ainsi que les risques liés à la perte des utils, aux facteurs organisationnels et humains, aux conditions climatiques extrêmes et à la chute d'avion. Elle ajoute également les risques externes : chute d'avion (très faible probabilité), incendie externe (mesures de prévention), et inondation externe (systèmes de drainage). De plus, cette page introduit les risques liés à l'environnement industriel et aux voies de communication, y compris les risques de pluie, foudre, séisme, explosion d'hydrocarbure, et les mesures de protection correspondantes.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 11
+
+**Section Title:** Architecture Bâtiment
+
+**Page Summary:** La page présente les architectures envisagées pour le bâtiment ZZ, y compris les détails des niveaux (0, R-1, R+1) et leurs fonctions spécifiques d'entreposage, de manutention, de ventilation et de sécurité. Elle détaille les caractéristiques techniques comme la ventilation nucléaire (classe C2 ou C3) et la construction en béton armé. Les besoins en équipement (ponts, systèmes de traitement de l'air) et les surfaces occupées sont précisés. L'analyse porte également sur les spécifications fonctionnelles et les contraintes liées à la gestion des déchets contaminés.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page actuelle détaille les risques de dissémination, les besoins en ventilation (normale et incidentelle), les spécifications pour les agressions internes et externes, et les mesures de sécurité contre les incendies internes. Elle aborde les risques internes : explosion liée aux batteries et onduleurs, inondation due aux fluides et eaux d'extinction, risques de manutention, ainsi que les risques liés à la perte des utils, aux facteurs organisationnels et humains, aux conditions climatiques extrêmes et à la chute d'avion. Elle ajoute également les risques externes : chute d'avion (très faible probabilité), incendie externe (mesures de prévention), et inondation externe (systèmes de drainage). De plus, cette page introduit les risques liés à l'environnement industriel et aux voies de communication, y compris les risques de pluie, foudre, séisme, explosion d'hydrocarbure, et les mesures de protection correspondantes. La page précédente traitait des risques environnementaux. Cette nouvelle page présente les architectures envisagées pour le bâtiment ZZ, y compris les détails des niveaux (0, R-1, R+1) et leurs fonctions spécifiques d'entreposage, de manutention, de ventilation et de sécurité. Elle détaille les caractéristiques techniques comme la ventilation nucléaire (classe C2 ou C3) et la construction en béton armé. Les besoins en équipement (ponts, systèmes de traitement de l'air) et les surfaces occupées sont précisés. L'analyse porte également sur les spécifications fonctionnelles et les contraintes liées à la gestion des déchets contaminés.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 12
+
+**Section Title:** Extension entreposage déchets
+
+**Page Summary:** La page présente l'extension du bâtiment ZZ pour l'entreposage des déchets, en deux parties : d'abord une estimation des coûts à 341 M€ HT (avec une incertitude de 50%), puis une répartition financière où la part CEA/DAM représente 37% du total. Cette répartition a conduit à une décision de se concentrer sur les déchets CEA/DAM dans les pages suivantes.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page précédente traitait des architectures envisagées pour le bâtiment ZZ. Cette page détaille l'extension pour l'entreposage des déchets, y compris les coûts estimés à 341 M€ HT et la répartition financière, avec une part CEA/DAM de 37%. Elle aborde également les risques internes et externes, ainsi que les mesures de sécurité contre les incendies internes.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 13
+
+**Section Title:** Stratégie gestion déchets
+
+**Page Summary:** La page présente les stratégies de gestion des déchets nucléaires avec deux pré-esquisse d'architecture pour l'entreposage. La pré-esquisse 2-1 propose un bâtiment en béton de type 438 avec des caractéristiques spécifiques d'entreposage. La pré-esquisse 2-2 utilise une charpente métallique et une extension du bâtiment 438. Les détails incluent les niveaux, les locaux spécifiques et les systèmes de ventilation et de confinement. Une analyse avec la MOA A&D est en cours pour finaliser l'étude en 2025.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page précédente traitait des architectures envisagées pour le bâtiment ZZ. Cette page détaille les stratégies de gestion des déchets avec deux pré-esquisse d'architecture, les coûts estimés à 341 M€ HT et la répartition financière, avec une part CEA/DAM de 37%. Elle aborde également les risques internes et externes, ainsi que les mesures de sécurité contre les incendies internes. Les analyses avec la MOA A&D sont en cours pour finaliser l'étude en 2025.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 14
+
+**Section Title:** Capacités d'entreposage
+
+**Page Summary:** La page présente les capacités d'entreposage détaillées pour différents types de déchets. Elle liste les capacités pour les fûts type D (2400), colis type C (176), caisson 5m³ (6), colis type A (130), colis type B (18), effluents actifs (70 m²) et effluents douteux (50 m²). Ces données sont organisées dans le Tableau 5.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page précédente traitait des architectures envisagées pour le bâtiment ZZ. Cette page détaille les stratégies de gestion des déchets avec deux pré-esquisse d'architecture, les coûts estimés à 341 M€ HT et la répartition financière, avec une part CEA/DAM de 37%. Elle aborde également les risques internes et externes, ainsi que les mesures de sécurité contre les incendies internes. La page actuelle présente les capacités d'entreposage pour différents types de déchets, avec un tableau synthétique incluant les quantités maximales d'entreposage par type de conteneur ou de déchets.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 15
+
+**Section Title:** Architectures envisagées
+
+**Page Summary:** La page présente les architectures envisagées pour le bâtiment ZZ, en se concentrant sur la pré-esquisse 2-2 avec un bâtiment en charpente métallique type 455. Elle détaille ses composants, notamment les sas, les locaux de maintenance, les espaces d'entreposage pour différents déchets, et les systèmes techniques comme la ventilation et la radioprotection. Elle décrit également une extension en béton armé avec des caractéristiques spécifiques d'entreposage et de ventilation. Ces informations complètent l'analyse des options architecturales et des contraintes techniques du projet.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. La page précédente traitait des architectures envisagées pour le bâtiment ZZ. Cette page détaille les stratégies de gestion des déchets avec deux pré-esquisse d'architecture, les coûts estimés à 341 M€ HT et la répartition financière, avec une part CEA/DAM de 37%. Elle aborde également les risques internes et externes, ainsi que les mesures de sécurité contre les incendies internes. La page actuelle présente les capacités d'entreposage pour différents types de déchets, avec un tableau synthétique incluant les quantités maximales d'entreposage par type de conteneur ou de déchets. De plus, elle décrit en détail les architectures envisagées, notamment la pré-esquisse 2-2 avec un bâtiment en charpente métallique type 455 et son extension en béton armé, leurs composants spécifiques et les systèmes techniques associés.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 16
+
+**Section Title:** Capacités d'entreposage
+
+**Page Summary:** La page présente les capacités d'entreposage détaillées pour différents types de déchets, avec un tableau synthétique montrant les quantités maximales par type de conteneur. Elle aborde également les estimations financières des deux pré-esquisses, précisant les coûts secs et les bornes hautes recommandées par la cellule de chiffrage. Enfin, elle mentionne l'itération 3 et les incertitudes techniques et financières liées à l'extension du bâtiment.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. Les architectures envisagées incluent la pré-esquisse 2-2 avec un bâtiment en charpente métallique type 455 et son extension en béton armé. Les capacités d'entreposage sont précisées pour différents types de déchets, avec un tableau synthétique. Les coûts estimés sont de 341 M€ HT, répartis avec une part CEA/DAM de 37%. Les risques internes et externes, les mesures de sécurité contre les incendies internes, ainsi que les architectures et systèmes techniques sont analysés. Les estimations financières des deux pré-esquisses sont précisées, avec des coûts secs de 85 M€ et 74 M€ HT, auxquels on applique une incertitude de 50%. L'itération 3 prend en compte les incertitudes techniques et financières liées à l'extension du bâtiment 438.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 17
+
+**Section Title:** Entreposage des colis A et B
+
+**Page Summary:** Cette page détaille la gestion spécifique des colis A et B dans le cadre de l'entreposage. Elle explique que les colis A sont utilisés pour extraire l'eau contaminée des emballages type E et nécessitent une décompression périodique. Deux options sont analysées pour minimiser les risques de rejets de gaz contaminé : l'utilisation d'une unité de traitement de l'air spécifique ou le transfert dans un conteneur type J équipé d'un recombineur. La solution type J est privilégiée pour son efficacité et sa sécurité. Pour les colis B, ils sont entreposés dans l'installation n°1 pendant 15 ans avant d'être transférés dans une extension parasismique. Le bâtiment ZZ est confirmé comme étant en charpente métallique type 455. Les capacités d'entreposage sont précisées pour différents conteneurs, notamment les fûts type D, colis type C, caisson 5m³ et locaux pour effluents actifs/douteux.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. Les architectures envisagées incluent la pré-esquisse 2-2 avec un bâtiment en charpente métallique type 455 et son extension en béton armé. Les capacités d'entreposage sont précisées pour différents types de déchets, avec un tableau synthétique. Les coûts estimés sont de 341 M€ HT, répartis avec une part CEA/DAM de 37%. Les risques internes et externes, les mesures de sécurité contre les incendies internes, ainsi que les architectures et systèmes techniques sont analysés. Les estimations financières des deux pré-esquisses sont précisées, avec des coûts secs de 85 M€ et 74 M€ HT, auxquels on applique une incertitude de 50%. L'itération 3 prend en compte les incertitudes techniques et financières liées à l'extension du bâtiment 438. Cette page détaille spécifiquement l'entreposage des colis A et B, en abordant les solutions pour gérer les gaz contaminés et les capacités d'entreposage associées.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 18
+
+**Section Title:** Planning et Implantation
+
+**Page Summary:** La page présente le planning de référence pour la mise en service de l'installation ZZ prévue fin 2036, avec une durée de 10 ans pour la phase de conception à essais inactifs. Elle décrit également l'implantation du bâtiment ZZ sur le site du CEA et les coûts estimés des travaux préparatoires, notamment le terrassement et le raccordement des réseaux. Une pré-étude a été réalisée pour évaluer les coûts supplémentaires et une étude esquisse est en cours pour affiner ces chiffrages.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. Les architectures envisagées incluent la pré-esquisse 2-2 avec un bâtiment en charpente métalique type 455 et son extension en béton armé. Les capacités d'entreposage sont précisées pour différents types de déchets, avec un tableau synthétique. Les coûts estimés sont de 341 M€ HT, répartis avec une part CEA/DAM de 37%. Les risques internes et externes, les mesures de sécurité contre les incendies internes, ainsi que les architectures et systèmes techniques sont analysés. Les estimations financières des deux pré-esquisses sont précisées, avec des coûts secs de 85 M€ et 74 M€ HT, auxquels on applique une incertitude de 50%. L'itération 3 prend en compte les incertitudes techniques et financières liées à l'extension du bâtiment 438. Cette page détaille spécifiquement l'entreposage des colis A et B, en abordant les solutions pour gérer les gaz contaminés et les capacités d'entreposage associées. De plus, cette page présente le planning de référence pour la mise en service prévue fin 2036, l'implantation du bâtiment ZZ sur le site du CEA, et les coûts estimés des travaux préparatoires, notamment une estimation de 12,3 M€ HT pour un chantier non externalisé, décomposée en terrassement, raccordement de réseaux et provision pour incertitudes techniques.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 19
+
+**Section Title:** Estimations Financières
+
+**Page Summary:** Cette page présente une synthèse des estimations financières pour les trois itérations du projet. Elle montre une évolution des coûts : de 341 M€ à 85 M€, avec une incertitude de 50% appliquée aux coûts. Les coûts sont détaillés pour les itérations 1, 2 (deux pré-esquisses) et 3, et une figure illustre cette synthèse.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. Les architectures envisagées incluent la pré-esquisse 2-2 avec un bâtiment en charpente métalique type 455 et son extension en béton armé. Les capacités d'entreposage sont précisées pour différents types de déchets, avec un tableau synthétique. Les coûts estimés sont de 341 M€ HT, répartis avec une part CEA/DAM de 37%. Les risques internes et externes, les mesures de sécurité contre les incendies internes, ainsi que les architectures et systèmes techniques sont analysés. Les estimations financières des deux pré-esquisses sont précisées, avec des coûts secs de 85 M€ et 74 M€ HT, auxquels on applique une incertitude de 50%. L'itération 3 prend en compte les incertitudes techniques et financières liées à l'extension du bâtiment 438. Cette page détaille spécifiquement l'entreposage des colis A et B, en abordant les solutions pour gérer les gaz contaminés et les capacités d'entreposage associées. De plus, cette page présente le planning de référence pour la mise en service prévue fin 2036, l'implantation du bâtiment ZZ sur le site du CEA, et les coûts estimés des travaux préparatoires, notamment une estimation de 12,3 M€ HT pour un chantier non externalisé, décomposée en terrassement, raccordement de réseaux et provision pour incertitudes techniques. Enfin, cette page fournit une synthèse des estimations financières pour les trois itérations, montrant une évolution des coûts de 341 M€ à 85 M€ avec une incertitude de 50%.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 20
+
+**Section Title:** Synthèse Architectures Bâtiments
+
+**Page Summary:** Cette page présente une synthèse des architectures de bâtiments envisagées pour l'entreposage des déchets DAM. Elle compare deux options : une en béton armé et une en charpente métallique. Les exigences de sûreté sont soulignées, notamment la résistance aux agressions externes et internes. Une alternative est proposée pour évaluer le terme source du bâtiment. Cette section introduit une nouvelle thématique distincte des estimations financières.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage de déchets contaminés sur 15 ans, avec perspective d'extension. La stratégie d'installation est en deux tranches, les fonctions principales et contraintes sont définies, ainsi que les réflexions sur les options de sûreté. Les architectures envisagées incluent la pré-esquisse 2-2 avec un bâtiment en charpente métalique type 455 et son extension en béton armé. Les capacités d'entreposage sont précisées pour différents types de déchets, avec un tableau synthétique. Les coûts estimés sont de 341 M€ HT, répartis avec une part CEA/DAM de 37%. Les risques internes et externes, les mesures de sécurité contre les incendies internes, ainsi que les architectures et systèmes techniques sont analysés. Les estimations financières des deux pré-esquisses sont précisées, avec des coûts secs de 85 M€ et 74 M€ HT, auxquels on applique une incertitude de 50%. L'itération 3 prend en compte les incertitudes techniques et financières liées à l'extension du bâtiment 438. Cette page détaille spécifiquement l'entreposage des colis A et B, en abordant les solutions pour gérer les gaz contaminés et les capacités d'entreposage associées. De plus, cette page présente le planning de référence pour la mise en service prévue fin 2036, l'implantation du bâtiment ZZ sur le site du CEA, et les coûts estimés des travaux préparatoires, notamment une estimation de 12,3 M€ HT pour un chantier non externalisé, décomposée en terrassement, raccordement de réseaux et provision pour incertitudes techniques. Enfin, cette page fournit une synthèse des estimations financières pour les trois itérations, montrant une évolution des coûts de 341 M€ à 85 M€ avec une incertitude de 50%. Cette nouvelle page introduit une synthèse des architectures de bâtiments envisagées pour l'entreposage des déchets DAM, en comparant deux options : béton armé et charpente métallique, en mettant l'accent sur les exigences de sûreté et une alternative d'évaluation du terme source.
+
+**Is Continuation:** False
+
+
+---
+
+# Page 21
+
+**Section Title:** Conclusion
+
+**Page Summary:** Cette page présente une conclusion synthétique des réflexions menées sur le dimensionnement du bâtiment ZZ pour l'entreposage des déchets nucléaires contaminés. Elle récapitule les trois itérations effectuées, passant d'un traitement complet des déchets à une approche ciblant uniquement les déchets de l'installation n°1, puis en identifiant des solutions alternatives pour les colis A et B. Les points clés incluent le choix d'une architecture en charpente métallique pour les colis A, la nécessité de définir un entreposage à long terme pour les colis B au-delà de 15 ans, et les exigences de sûreté à vérifier pour ces bâtiments. La conclusion souligne également la priorité à accélérer les travaux d'évaluation des options de sûreté et la consolidation des choix de conception avant la phase d'esquisse.
+
+**Updated Global Summary:** Le projet concerne le dimensionnement du bâtiment ZZ pour l'entreposage des déchets nucléaires contaminés produits par l'installation n°1. Après trois itérations, la stratégie privilégie une architecture en charpente métallique type 455 pour les colis A, avec une extension ou solution alternative pour les colis B. Les coûts estimés varient selon les options. Les risques, les mesures de sécurité, les architectures techniques et les coûts sont analysés. La conclusion de cette page synthétise les réflexions et fixe les priorités pour la phase suivante, notamment l'évaluation des options de sûreté et la consolidation des choix avant la phase d'esquisse début 2026.
+
+**Is Continuation:** False
+
