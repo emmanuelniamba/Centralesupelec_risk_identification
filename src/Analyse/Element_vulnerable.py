@@ -40,8 +40,6 @@ json_path = OUTPUT_DIR / "context" / "resultats_context_llm.json"
 with open(json_path, "r", encoding="utf-8") as f:
     pages_data = json.load(f)
 
-main_goal = pages_data[0].get("pageSummary", "")
-
 # Fichier de sortie dans le nouveau répertoire
 
 os.makedirs(os.path.dirname(output_md), exist_ok=True)
@@ -79,7 +77,6 @@ with open(output_md, "a", encoding="utf-8") as md_file:
             lastPageSummary=last_page_summary,
             PageSummary=page_summary,
             pageContent=page_content,
-            but_principal=main_goal,
         )
 
         # 7. Appeler l'API LLM avec gestion d'erreurs améliorée

@@ -61,7 +61,6 @@ Tu dois donc travailler **page par page**, mais en gardant **la cohérence avec 
 
 Tu reçois les informations suivantes à chaque étape :
 
--le but de principal du projet : {but_principal}
 - {globalSummary} : résumé cumulé des pages précédentes → il t’aide à ne **pas répéter** des éléments déjà identifiés.
 - {lastPageSummary} : résumé détaillé de la dernière page analysée → pour rester dans le même fil logique.
 - {pageContent} : contenu de la **page actuelle** à analyser.
@@ -183,7 +182,6 @@ pour chaque objets et leurs attributs
     - un objet influence (positivement ou négativement) un autre objet ou ses attributs (Influence),
     - il existe des échanges de ressources, d’informations, de services (Échange).
 - Appuyez-vous sur :
-    - la logique du projet et du domaine ({but_principal}),
     - le contexte donné par les résumés ({globalSummary} et {lastPageSummary}) ainsi que le résumé de la page actuelle ({PageSummary}),
     -
     - les attributs et catégories des objets extraits ({objects}).
@@ -273,7 +271,7 @@ Votre objectif est de transformer ce couple en une analyse structurée suivant l
 
  **Instructions détaillées pour le LLM :**
  Voici l'élément ou les éléments vulnérables et les menaces associées que vous devez analyser :
- {element_vulnerable_menace} et un extrait du document de projet : {pageContent} et  le resumé de la page actuelle  {PageSummary} et le resumé de la page précédente {lastPageSummary} ainsi que le but principal du projet : {but_principal} et le résumé global du projet a cet instant: {globalSummary}
+ {element_vulnerable_menace} et un extrait du document de projet : {pageContent} et  le resumé de la page actuelle  {PageSummary} et le resumé de la page précédente {lastPageSummary} et le résumé global du projet a cet instant: {globalSummary}
 - Lis attentivement l'**Élément vulnérable** fourni. Comprends pourquoi cet élément est fragile (complexité, dépendance, criticité…).
 - Analyse la **Menace associée** : comprends comment elle pourrait concrètement exploiter la vulnérabilité identifiée.
 - Déduis précisément quel **Objet ALOE** du projet serait directement impacté en cas de réalisation de la menace.

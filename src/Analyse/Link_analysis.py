@@ -11,7 +11,8 @@ SRC_DIR = PROJECT_ROOT / "src"
 ANALYSE_DIR = SRC_DIR / "Analyse"
 PRETRAITEMENT_DIR = PROJECT_ROOT / "pretraitement2"
 PROMPT_DIR = SRC_DIR / "prompt"
-OUTPUT_DIR = SRC_DIR / "output"
+OUTPUT_DIR = SRC_DIR / "output"/ "analysis"
+output_md = OUTPUT_DIR / "analyse_de_lien.md"
 sys.path.append(str(ANALYSE_DIR))
 sys.path.append(str(PROMPT_DIR))
 
@@ -29,9 +30,9 @@ def main():
     
     try:
         # 1. Charger le texte du document (découpé en pages)
-        print("📄 [MAIN] Étape 1: Chargement du document...")
+        print(" [MAIN] Étape 1: Chargement du document...")
         document_path = PRETRAITEMENT_DIR / "DO - NOTE TECHNIQUE BAT ZZ.pdf_resultat.md"
-        print(f"📄 [MAIN] Chemin du document: {document_path}")
+        print(f" [MAIN] Chemin du document: {document_path}")
         
         if not document_path.exists():
             raise FileNotFoundError(f"Document introuvable: {document_path}")
@@ -53,19 +54,19 @@ def main():
         
         # 3. Charger les données ALOE (optionnel pour ce script)
         print(" [MAIN] Étape 3: Chargement des données ALOE...")
-        aloe_path = ANALYSE_DIR / "rt.md"
-        print(f" [MAIN] Chemin ALOE: {aloe_path}")
-        
-        if aloe_path.exists():
-            with open(aloe_path, "r", encoding="utf-8") as f:
-                aloe_data = f.read()
-            print(f"[OK] [MAIN] ALOE chargé: {len(aloe_data)} caractères")
+        element_path = OUTPUT_DIR / "element_vulnerable.md"
+        print(f" [MAIN] Chemin ALOE: {element_path}")
+
+        if element_path.exists():
+            with open(element_path, "r", encoding="utf-8") as f:
+                element_data = f.read()
+            print(f"[OK] [MAIN] ALOE chargé: {len(element_data)} caractères")
         else:
             print("[WARNING] [MAIN] Fichier ALOE non trouvé, mais optionnel")
         
         # 4. Charger les données d'objets depuis le fichier de réponse précédent
         print(" [MAIN] Étape 4: Chargement des réponses précédentes...")
-        reponse_path = ANALYSE_DIR / "reponse.md"
+        reponse_path = OUTPUT_DIR / "aloe_analyse.md"
         print(f" [MAIN] Chemin réponse: {reponse_path}")
         
         with open(reponse_path, "r", encoding="utf-8") as f:
@@ -92,17 +93,6 @@ def main():
         print(f" [MAIN] - Pages contexte: {len(pages_data)}")
         print(f" [MAIN] - Pages objets: {len(ordered_objet)}")
         
-        if len(pages) != len(pages_data):
-            print("[WARNING] [MAIN] ATTENTION: Nombre de pages incohérent!")
-            min_pages = min(len(pages), len(pages_data), len(ordered_objet))
-            pages = pages[:min_pages]
-            pages_data = pages_data[:min_pages]
-            ordered_objet = ordered_objet[:min_pages]
-            print(f"🔧 [MAIN] Ajusté à {min_pages} pages")
-        
-        main_goal = pages_data[0].get("pageSummary", "") if pages_data else ""
-        print(f" [MAIN] Objectif principal: {main_goal[:100]}...")
-        
         # 7. Vérifier la clé API
         print(" [MAIN] Étape 7: Vérification de la clé API...")
         if not llm_key:
@@ -111,12 +101,12 @@ def main():
         
         # 8. Créer le fichier de sortie
         print(" [MAIN] Étape 8: Préparation du fichier de sortie...")
-        output_path = ANALYSE_DIR / "Analyse_de_lien.md"
-        print(f"[MAIN] Fichier de sortie: {output_path}")
-        
+
+        print(f"[MAIN] Fichier de sortie: {output_md}")
+
         # Test d'écriture
         try:
-            with open(output_path, "w", encoding="utf-8") as test_file:
+            with open(output_md, "w", encoding="utf-8") as test_file:
                 test_file.write("# Test d'écriture\n")
             print("[OK] [MAIN] Test d'écriture réussi")
         except Exception as e:
@@ -128,8 +118,8 @@ def main():
         
         successful_pages = 0
         failed_pages = 0
-        
-        with open(output_path, "w", encoding="utf-8") as md_file:
+
+        with open(output_md, "w", encoding="utf-8") as md_file:
             # En-tête du fichier
             md_file.write("# Analyse des liens entre éléments\n\n")
             md_file.write(f"- Document: {document_path.name}\n")
@@ -166,7 +156,6 @@ def main():
                         globalSummary=global_summary,
                         lastPageSummary=last_page_summary,
                         PageSummary=page_summary,
-                        but_principal=main_goal,
                         objects=ordered_objet_content
                     )
                     
@@ -233,8 +222,8 @@ def main():
         print(f" [MAIN] Résultats finaux:")
         print(f"   [OK] Pages réussies: {successful_pages}")
         print(f"   [ERROR] Pages échouées: {failed_pages}")
-        print(f"   📁 Fichier créé: {output_path}")
-        print(f"    Taille du fichier: {output_path.stat().st_size} octets")
+        print(f"    Fichier créé: {output_md}")
+        print(f"    Taille du fichier: {output_md.stat().st_size} octets")
         print("="*60)
         
         return True
@@ -301,24 +290,24 @@ def check_file_integrity():
     return True
 
 if __name__ == "__main__":
-    print("🔗 ANALYSE DES LIENS - VERSION DEBUG COMPLÈTE")
+    print("ANALYSE DES LIENS - VERSION DEBUG COMPLÈTE")
     print("="*60)
-    print(f"📁 Répertoire d'analyse: {ANALYSE_DIR}")
+    print(f" Répertoire d'analyse: {ANALYSE_DIR}")
     
     # Étape 1: Vérification des dépendances
     if check_dependencies():
         # Étape 2: Vérification de l'intégrité
         if check_file_integrity():
             print("[OK] Toutes les vérifications passées")
-            print("🚀 LANCEMENT DE LA FONCTION MAIN()...")
+            print(" LANCEMENT DE LA FONCTION MAIN()...")
             
             # Exécution de main() avec capture du résultat
             success = main()
             
             if success:
-                print("🎉 SUCCÈS: Analyse terminée avec succès!")
+                print(" SUCCÈS: Analyse terminée avec succès!")
             else:
-                print("💥 ÉCHEC: Erreur durant l'analyse")
+                print(" ÉCHEC: Erreur durant l'analyse")
         else:
             print("[ERROR] Problème d'intégrité des fichiers")
     else:
