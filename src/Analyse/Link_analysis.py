@@ -12,6 +12,7 @@ ANALYSE_DIR = SRC_DIR / "Analyse"
 PRETRAITEMENT_DIR = PROJECT_ROOT / "pretraitement2"
 PROMPT_DIR = SRC_DIR / "prompt"
 OUTPUT_DIR = SRC_DIR / "output"/ "analysis"
+OUTPUT_DIR2 = SRC_DIR / "output"/ "context"
 output_md = OUTPUT_DIR / "analyse_de_lien.md"
 sys.path.append(str(ANALYSE_DIR))
 sys.path.append(str(PROMPT_DIR))
@@ -45,25 +46,25 @@ def main():
         
         # 2. Charger le contexte JSON
         print(" [MAIN] Étape 2: Chargement du contexte JSON...")
-        json_path = ANALYSE_DIR / "resultats_context_llm.json"
+        json_path = OUTPUT_DIR2 / "resultats_context_llm.json"
         print(f"[MAIN] Chemin JSON: {json_path}")
         
         with open(json_path, "r", encoding="utf-8") as f:
             pages_data = json.load(f)
         print(f"[OK] [MAIN] JSON chargé: {len(pages_data)} pages de contexte")
-        
-        # 3. Charger les données ALOE (optionnel pour ce script)
-        print(" [MAIN] Étape 3: Chargement des données ALOE...")
+
+        # 3. Charger les données element (optionnel pour ce script)
+        print(" [MAIN] Étape 3: Chargement des données element...")
         element_path = OUTPUT_DIR / "element_vulnerable.md"
-        print(f" [MAIN] Chemin ALOE: {element_path}")
+        print(f" [MAIN] Chemin element: {element_path}")
 
         if element_path.exists():
             with open(element_path, "r", encoding="utf-8") as f:
                 element_data = f.read()
-            print(f"[OK] [MAIN] ALOE chargé: {len(element_data)} caractères")
+            print(f"[OK] [MAIN] element chargé: {len(element_data)} caractères")
         else:
-            print("[WARNING] [MAIN] Fichier ALOE non trouvé, mais optionnel")
-        
+            print("[WARNING] [MAIN] Fichier element non trouvé, mais optionnel")
+
         # 4. Charger les données d'objets depuis le fichier de réponse précédent
         print(" [MAIN] Étape 4: Chargement des réponses précédentes...")
         reponse_path = OUTPUT_DIR / "aloe_analyse.md"
@@ -241,9 +242,10 @@ def check_dependencies():
     print("🔍 [CHECK] Vérification des dépendances...")
     
     required_files = [
-        PRETRAITEMENT_DIR / "DO - NOTE TECHNIQUE BAT ZZ.pdf_resultat.md",
-        ANALYSE_DIR / "resultats_context_llm.json",
-        ANALYSE_DIR / "reponse.md"
+        PRETRAITEMENT_DIR / "DO - NOTE TECHNIQUE BAT ZZ.pdf_resultat.md",  # Document principal
+        OUTPUT_DIR2 / "resultats_context_llm.json",                        # Contexte JSON
+        OUTPUT_DIR / "aloe_analyse.md"                                    # Réponse objets (entrée principale)
+        # Le fichier element_vulnerable.md est optionnel, donc non requis ici
     ]
     
     missing_files = []
