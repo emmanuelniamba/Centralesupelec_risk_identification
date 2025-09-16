@@ -1,0 +1,329 @@
+/* ========== ANIMATIONS POUR LE LOGO ========== */
+@keyframes pulse-glow {
+    0% { 
+        transform: scale(1);
+        filter: drop-shadow(0 0 8px rgba(22, 160, 133, 0.4));
+    }
+    50% { 
+        transform: scale(1.05);
+        filter: drop-shadow(0 0 25px rgba(22, 160, 133, 0.8)) brightness(1.1);
+    }
+    100% { 
+        transform: scale(1);
+        filter: drop-shadow(0 0 8px rgba(22, 160, 133, 0.4));
+    }
+}
+
+@keyframes rotate-3d {
+    0% { 
+        transform: perspective(1000px) rotateY(0deg) rotateX(0deg) scale(1);
+    }
+    25% { 
+        transform: perspective(1000px) rotateY(90deg) rotateX(10deg) scale(1.1);
+    }
+    50% { 
+        transform: perspective(1000px) rotateY(180deg) rotateX(0deg) scale(1);
+    }
+    75% { 
+        transform: perspective(1000px) rotateY(270deg) rotateX(-10deg) scale(1.1);
+    }
+    100% { 
+        transform: perspective(1000px) rotateY(360deg) rotateX(0deg) scale(1);
+    }
+}
+
+/* ========== CONTENEUR LOGO + TITRE ========== */
+.sidebar-logo-block {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 20px 0 30px 0;
+    padding: 15px;
+    background: linear-gradient(135deg, 
+        rgba(22, 160, 133, 0.08) 0%, 
+        rgba(52, 152, 219, 0.05) 50%,
+        rgba(22, 160, 133, 0.08) 100%);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(22, 160, 133, 0.2);
+    box-shadow: 
+        0 4px 20px rgba(0, 0, 0, 0.1),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.sidebar-logo-block::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, 
+        rgba(22, 160, 133, 0.1) 0%, 
+        transparent 70%);
+    animation: rotate-3d 20s linear infinite;
+    pointer-events: none;
+}
+
+.sidebar-logo-block:hover {
+    background: linear-gradient(135deg, 
+        rgba(22, 160, 133, 0.15) 0%, 
+        rgba(52, 152, 219, 0.1) 50%,
+        rgba(22, 160, 133, 0.15) 100%);
+    transform: translateY(-2px);
+    box-shadow: 
+        0 8px 30px rgba(22, 160, 133, 0.25),
+        inset 0 2px 0 rgba(255, 255, 255, 0.1);
+    border-color: rgba(22, 160, 133, 0.4);
+}
+
+/* ========== LOGO STYLE ========== */
+.sidebar-logo {
+    width: 65px !important;
+    height: 65px !important;
+    object-fit: contain;
+    margin-right: 15px;
+    padding: 8px;
+    background: linear-gradient(135deg, 
+        rgba(255, 255, 255, 0.95) 0%, 
+        rgba(240, 240, 240, 0.9) 100%);
+    border-radius: 18px;
+    box-shadow: 
+        0 5px 20px rgba(22, 160, 133, 0.35),
+        0 2px 8px rgba(0, 0, 0, 0.1),
+        inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    animation: pulse-glow 3s ease-in-out infinite;
+    z-index: 2;
+    position: relative;
+}
+
+.sidebar-logo:hover {
+    animation: rotate-3d 2s cubic-bezier(0.68, -0.55, 0.265, 1.55) infinite;
+    box-shadow: 
+        0 10px 35px rgba(22, 160, 133, 0.5),
+        0 5px 15px rgba(52, 152, 219, 0.3),
+        inset 0 2px 0 rgba(255, 255, 255, 0.9);
+    transform: translateY(-3px) scale(1.05);
+    background: linear-gradient(135deg, 
+        rgba(255, 255, 255, 1) 0%, 
+        rgba(245, 245, 245, 0.95) 100%);
+}
+
+/* ========== TITRE SIDEBAR ========== */
+.sidebar-title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #FFFFFF !important;
+    text-shadow: 
+        2px 2px 4px rgba(0, 0, 0, 0.3),
+        0 0 30px rgba(22, 160, 133, 0.4);
+    letter-spacing: 0.02em;
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 2;
+    
+    /* Effet de dégradé sur le texte */
+    background: linear-gradient(135deg, 
+        #FFFFFF 0%, 
+        #E0F7FA 50%, 
+        #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    
+    /* Animation de brillance */
+    background-size: 200% 200%;
+    animation: shine 3s ease-in-out infinite;
+}
+
+@keyframes shine {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.sidebar-title:hover {
+    transform: translateX(3px) scale(1.02);
+    text-shadow: 
+        3px 3px 6px rgba(0, 0, 0, 0.4),
+        0 0 40px rgba(22, 160, 133, 0.6),
+        0 0 60px rgba(52, 152, 219, 0.3);
+}
+
+/* ========== BACKGROUND SIDEBAR ========== */
+section[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, 
+        #1a1b1b 0%, 
+        #1f2121 50%, 
+        #242626 100%);
+    position: relative;
+}
+
+section[data-testid="stSidebar"]::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        radial-gradient(circle at 20% 20%, rgba(22, 160, 133, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 80% 80%, rgba(52, 152, 219, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 50% 50%, rgba(155, 89, 182, 0.03) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+section[data-testid="stSidebar"][aria-expanded="true"] {
+    min-width: 300px;
+    max-width: 350px;
+    box-shadow: 
+        4px 0 30px rgba(0, 0, 0, 0.25),
+        inset -1px 0 0 rgba(22, 160, 133, 0.1);
+    border-right: 1px solid rgba(22, 160, 133, 0.15);
+}
+
+/* ========== TOUS LES TEXTES SIDEBAR - COULEURS CLAIRES ========== */
+section[data-testid="stSidebar"] * {
+    color: #ECEFF1 !important;
+}
+
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] span,
+section[data-testid="stSidebar"] div {
+    color: #CFD8DC !important;
+}
+
+section[data-testid="stSidebar"] label {
+    color: #FFFFFF !important;
+    font-weight: 500;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {
+    color: #FFFFFF !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* ========== EXPANDERS SIDEBAR ========== */
+section[data-testid="stSidebar"] .streamlit-expanderHeader {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #FFFFFF !important;
+    background: rgba(22, 160, 133, 0.05);
+    padding: 10px 15px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    border: 1px solid rgba(22, 160, 133, 0.1);
+}
+
+section[data-testid="stSidebar"] .streamlit-expanderHeader:hover {
+    background: rgba(22, 160, 133, 0.15);
+    color: #4DD0E1 !important;
+    transform: translateX(3px);
+    border-color: rgba(22, 160, 133, 0.3);
+    box-shadow: 0 4px 15px rgba(22, 160, 133, 0.2);
+}
+
+/* ========== SELECTBOX / INPUT SIDEBAR ========== */
+section[data-testid="stSidebar"] .stSelectbox > div > div,
+section[data-testid="stSidebar"] .stTextInput > div > div > input {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    color: #FFFFFF !important;
+    border: 1px solid rgba(22, 160, 133, 0.2) !important;
+    border-radius: 8px;
+    padding: 8px 12px;
+    transition: all 0.3s ease;
+}
+
+section[data-testid="stSidebar"] .stSelectbox > div > div:hover,
+section[data-testid="stSidebar"] .stTextInput > div > div > input:hover,
+section[data-testid="stSidebar"] .stSelectbox > div > div:focus,
+section[data-testid="stSidebar"] .stTextInput > div > div > input:focus {
+    background-color: rgba(22, 160, 133, 0.1) !important;
+    border-color: rgba(22, 160, 133, 0.5) !important;
+    box-shadow: 0 0 20px rgba(22, 160, 133, 0.3);
+}
+
+/* ========== BOUTONS SIDEBAR ========== */
+section[data-testid="stSidebar"] .stButton > button {
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #16a085 0%, #2980b9 100%);
+    color: #FFFFFF !important;
+    border: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    box-shadow: 0 4px 15px rgba(22, 160, 133, 0.3);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+section[data-testid="stSidebar"] .stButton > button::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s, height 0.6s;
+}
+
+section[data-testid="stSidebar"] .stButton > button:hover::before {
+    width: 300px;
+    height: 300px;
+}
+
+section[data-testid="stSidebar"] .stButton > button:hover {
+    transform: translateY(-2px) scale(1.02);
+    background: linear-gradient(135deg, #1abc9c 0%, #3498db 100%);
+    box-shadow: 
+        0 8px 25px rgba(22, 160, 133, 0.4),
+        0 0 40px rgba(22, 160, 133, 0.3);
+}
+
+/* ========== SÉPARATEUR ========== */
+section[data-testid="stSidebar"] hr {
+    margin: 20px 0;
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, 
+        transparent 0%, 
+        rgba(22, 160, 133, 0.5) 50%, 
+        transparent 100%);
+    box-shadow: 0 0 15px rgba(22, 160, 133, 0.3);
+}
+
+/* ========== RESPONSIVE ========== */
+@media screen and (max-width: 768px) {
+    .sidebar-logo-block {
+        padding: 10px;
+        margin: 15px 0 20px 0;
+    }
+    
+    .sidebar-logo {
+        width: 50px !important;
+        height: 50px !important;
+    }
+    
+    .sidebar-title {
+        font-size: 1.3rem;
+    }
+    
+    section[data-testid="stSidebar"][aria-expanded="true"] {
+        min-width: 85vw;
+        max-width: 85vw;
+    }
+}
