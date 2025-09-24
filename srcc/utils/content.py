@@ -1,5 +1,5 @@
 import os
-from content_extraction import Content_Extractor
+from srcc.utils.content_extraction import Content_Extractor
 
 extractor = Content_Extractor()
 

@@ -1,40 +1,77 @@
-<div class="agent-cards-container">
-
-
-
+<div class="agent-cards-container">     
   <!-- AGENT RÉSUMÉ -->
-  <div class="agent-card">
+  <div class="agent-card" data-agent="summary">
     <div class="feature-icon">🧾</div>
     <div class="feature-title">Summary Agent</div>
     <div class="feature-description">Summarizes project content page by page.</div>
-    <button class="run-button">Run Agent</button>
+    <button class="run-button" onclick="window.parent.postMessage({type: 'streamlit:selectAgent', agent: 'summary'}, '*')">RUN AGENT</button>
   </div>
-
+   
   <!-- AGENT VULNÉRABILITÉ -->
-  <div class="agent-card">
+  <div class="agent-card" data-agent="vulnerability">
     <div class="feature-icon">🔍</div>
     <div class="feature-title">Vulnerability and Threat Agent</div>
-    <div class="feature-description">Identifies vulnerable elements  and Detects threats in project documents.</div>
-    <button class="run-button">Run Agent</button>
+    <div class="feature-description">Identifies vulnerable elements and Detects threats in project documents.</div>
+    <button class="run-button" onclick="window.parent.postMessage({type: 'streamlit:selectAgent', agent: 'vulnerability'}, '*')">RUN AGENT</button>
   </div>
-
-
-
+     
   <!-- AGENT ALOE -->
-  <div class="agent-card">
+  <div class="agent-card" data-agent="aloe">
     <div class="feature-icon">🔗</div>
     <div class="feature-title">ALOE Agent</div>
     <div class="feature-description">Extracts project objects and attributes (ALOE method).</div>
-    <button class="run-button">Run Agent</button>
+    <button class="run-button" onclick="window.parent.postMessage({type: 'streamlit:selectAgent', agent: 'aloe'}, '*')">RUN AGENT</button>
   </div>
-
+   
   <!-- AGENT LIENS -->
-  <div class="agent-card">
+  <div class="agent-card" data-agent="link">
     <div class="feature-icon">🕸️</div>
     <div class="feature-title">Link Agent</div>
     <div class="feature-description">Builds hierarchical and sequential links between objects.</div>
-    <button class="run-button">Run Agent</button>
+    <button class="run-button" onclick="window.parent.postMessage({type: 'streamlit:selectAgent', agent: 'link'}, '*')">RUN AGENT</button>
   </div>
-
-
+  
 </div>
+
+<script>
+// Alternative plus robuste si postMessage ne fonctionne pas
+function selectAgent(agentType) {
+    // Essayer de déclencher un événement personnalisé
+    const event = new CustomEvent('agentSelected', { 
+        detail: { agent: agentType }
+    });
+    window.dispatchEvent(event);
+    
+    // Alternative: modifier l'URL pour que Streamlit puisse la détecter
+    const url = new URL(window.location);
+    url.searchParams.set('selected_agent', agentType);
+    window.history.pushState({}, '', url);
+    
+    // Essayer de trouver et cliquer sur le bouton Streamlit correspondant
+    setTimeout(() => {
+        const buttons = document.querySelectorAll('button');
+        const targetButton = Array.from(buttons).find(btn => 
+            btn.textContent.toLowerCase().includes(agentType.toLowerCase()) ||
+            btn.getAttribute('data-testid')?.includes(agentType)
+        );
+        if (targetButton) {
+            targetButton.click();
+        }
+    }, 100);
+}
+
+// Écouter les clics sur les boutons RUN AGENT
+document.addEventListener('DOMContentLoaded', function() {
+    const runButtons = document.querySelectorAll('.run-button');
+    runButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const card = this.closest('.agent-card');
+            const agentType = card.getAttribute('data-agent');
+            if (agentType) {
+                selectAgent(agentType);
+            }
+        });
+    });
+});
+</script>
