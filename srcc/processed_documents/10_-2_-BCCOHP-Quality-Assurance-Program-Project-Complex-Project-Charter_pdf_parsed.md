@@ -1,0 +1,336 @@
+# PROJECT CHARTER
+
+## Document Purpose
+A project charter sets out the basic elements of the project and is referenced throughout the project life cycle. Its goal is to provide the reader with an understanding of the background and rationale for the project, and how the governance and process set out in the charter will deliver outcomes to the organization and other interested parties. Project charters are living documents that will be updated and changed as required. The project charter includes:
+
+•     the project objectives, benefits, scope and risks;
+•     the project deliverables, schedule, milestones, and estimated costs; and
+•     the project organization, governance structure and stakeholders.
+
+## Section 1. Charter Introduction
+
+### Document Change Control
+Revision Number | Date of Issue | Author(s) | Brief Description of Change
+--- | --- | --- | ---
+1.0 | Jan 30, 2023 | D Van Pelt | Creation of the document.
+2.0 | Mar 20, 2023 | R Chisholm | Review
+2.11 | Apr 05, 2023 | S Nicholls | Review with staff team
+3.0 | Apr 30, 2023 | R Mok | Feedback from Senior Team
+</page1>
+
+
+# AUTHORIZATION
+This Project Charter formally authorizes the existence of the project. The project is authorized by the Chair of the Quality Assurance Committee on behalf of the committee responsible for overseeing the establishment of the program and the Project Sponsor:
+
+______________________________________  _______________
+
+Dr. David Vogt,
+Chair of Quality Assurance Committee    Date
+
+______________________________________  _______________
+
+Project Sponsor: Jennifer Roff
+Director, Professional Practice         Date
+
+</page1>
+
+
+# PROJECT OVERVIEW
+
+## Background
+BCCOHP is governed by the Health Professions Act.
+
+Pursuant to s.16(2)(e) of the Health Professions Act, one of the objects of BCCOHP is “to establish and maintain a continuing competency program to promote high practice standards amongst registrants.”
+
+The Quality Assurance (QA) Committee was established during the amalgamation of the four oral health colleges into BCCOHP on September 1, 2022. Under BCCOHP bylaw 4.09(3) the QA Committee is responsible for establishing the Quality Assurance (QA) Program referred to in s.16(2)(e) of the Health Professions Act and Part 12 of the bylaws.
+
+Following amalgamation of the four oral health colleges, the pre-existing QA Programs from the legacy colleges ported over to BCCOHP. As a result, there is considerable variation between the criteria, processes, and requirements for regulated Oral Health Professionals (OHPs) and each program has different internal resourcing requirements.
+
+A new QA Program is an important component of BCCOHP’s Strategic Plan. It aligns with BCCOHP’s vision and mission of reimagined oral health care oversight and regulatory leadership that collaboratively builds public confidence in the delivery of safe, ethical, and competent team based oral health care. It is also part of the strategic focus of modernized regulatory functions, specifically establishing a single QA program for all OHPs.
+
+Thinking around QA programs have changed since the programs were first developed and this will give BCCOHP an opportunity to create a modern program with appropriate and accurate measurement for all OHPs. The program should aim to respect and support all members of the Oral Health Team in their pursuit of safe care and ensure patients and the public that their OHPs are safe.
+
+The Ministry of Health has also developed new legislation which will replace the Health Professions Act. The new Health Professions and Occupations Act (HPOA) has passed Royal Assent in the BC Legislative Assembly on November 24, 2022. While the legislation has passed, the Act is not in force. However, in anticipation of the new Act, the QA Committee will take a proactive approach to align the QA Program with the forthcoming HPOA, which BCCOHP will be required to follow once enforced. Division 8 of the HPOA details requirements for the program to be proposed.
+</page1>
+
+
+# STRATEGIC PLAN
+This project supports BCCOHP’s strategic focus of “unified regulatory functions”.
+
+## Strategic Focus
+Unify core regulatory functions and professional and ethical standards that protect the public from harm and promote the public interest.
+
+## Project Goals
+- To create a modernized QA Program that ensures and supports ongoing patient-centered team-based safe care by all regulated OHPs
+- For OHPs to feel actively engaged and consulted on the QA Program Project
+- To maintain agility and continuity as BCCOHP transitions to a new QA Program and the Ministry of Health implements new legislation (HPOA)
+- To successfully transition OHPs to the BCCOHP QA Program
+
+## Objectives
+The objectives of this project are:
+1. Design and develop a modernized QA Program
+2. Implement the modernized program and transition from existing QA Programs
+3. Adopt a regular review process
+
+## Project Scope
+### Objective 1: Design and develop a modernized QA Program.
+#### Within Scope
+**PREPARATION**
+- Current state review and environmental scan
+- Review and gap analysis of existing QA Programs
+- Review of best practices provincially and nationally
+- Review of legislative requirements
+</page1>
+
+
+# BCCOHP
+
+• Develop guiding principles and objectives to inform BCCOHP’s approach for a
+modernized QA Program that are aligned with BCCOHP’s role and regulatory
+approach, and legislation, including the forthcoming HPOA (e.g. anti-
+discrimination)
+- Workshop to calibrate approach and develop guiding principles
+- Committee agreement to the approach and guiding principles
+- Guiding principles for use in all aspects of project development and
+audience communications (aligned with policies, legislation, and bylaws
+as applicable)
+• Develop communication and consultation strategy, which considers early and
+frequent consultation and includes feedback from the Ministry, the public and
+OHPs, and different communication and consultation methods (surveys, panels)
+
+## Develop QA Program
+
+• Consider early consultation to inform components of the program
+• Determine components for a modernized QA Program, including:
+- Continuing Professional Development (CPD) requirements
+- Criteria for credit eligibility
+- Submission processes
+- Monitoring/auditing (e.g., activity content, delivery modalities,
+required supporting documentation, etc.)
+- Assessment method(s), assessors, and outcomes
+- Duration of program cycles and frequency of assessment(s)
+- Consideration of BCCOHP modules aligned with professional standards
+• Consult and seek advice from subject matter experts on proposed components
+(e.g. assessment methods) while considering:
+- Guiding principles and objectives for the program
+- Logistics, feasibility, and infrastructure needed to operationalize the QA
+Program
+• Identify and consider changes to bylaws impacted by the new QA Program
+and HPOA
+• Sign off and approval of program draft components for consultation
+• Consult on draft QA Program components
+</page1>
+
+
+# ADDITIONAL REQUIREMENTS FOR QA PROGRAM
+- Determine technology and system(s) integration scope and develop a project plan based on program requirements.
+- Develop new IT system(s) for the QA Program, test and implement new system(s).
+- Develop new governance model (e.g. program policies, protocols for types of matters to go to QA Committee for decision, review processes).
+- Determine roll-out plan for QA Program, including pilot program.
+
+## Out of Scope
+- Approving or endorsing external courses as eligible for meeting CPD requirements.
+
+# Objective 2: Implement the modernized program and transition from existing QA Programs.
+## Within Scope
+- Establish transition process for each legacy college program and IT systems, including migration schedule.
+- Communication and change management plan for OHPs.
+- Develop supporting information/program resources for OHPs.
+- Develop additional/corresponding public-facing resources as needed.
+- Begin roll-out of QA Program.
+- Pilot Program.
+- OHPs transition to new system.
+- Communicate QA Program to key partners/stakeholders and publish explanatory information on BCCOHP website.
+- Archive legacy college QA Programs and ensure references to previous programs are removed from the website.
+
+## Out of Scope
+- TBD.
+
+# Objective 3: Adopt a regular review process.
+## Within Scope
+- Determine methods of ongoing program evaluation and refinement (post-implementation).
+
+## Out of Scope
+- TBD.
+</page1>
+
+
+# KEY MILESTONES
+## Project Setup
+- Project Initiation
+- Project Charter approved by the QA Committee                           TBC
+- Establish working groups and Terms of Reference (to be                 TBC
+approved by the QA Committee and Board)
+
+## Project Delivery Milestones
+- Approval of guiding principles and objectives by QA                    TBC
+Committee
+- Approval of consultation and communication plan by QA                  TBC
+Committee
+- Sign off on proposed QA Program                                        TBC
+- Consultation on proposed QA Program                                    TBC
+- Develop and pilot the QA Program                                       TBC
+- Implement the QA Program                                               TBC
+- Approval of ongoing review process (post-implementation)               TBC
+
+# PROJECT COST ESTIMATE AND SOURCE OF FUNDING
+## Project Cost Estimate
+TBD
+
+## Source of Funding
+TBC
+
+# DEPENDENCIES
+## Dependency Description
+1.  BCCOHP to support Business as Usual resources to deliver project
+2.  Changes to bylaws can be executed
+3.  Changes will align with other regulatory functions (e.g., registration)
+4.  Budget support in the creation and implementation of the project
+</page1>
+
+
+# IT SYSTEMS NECESSARY TO SUPPORT PROGRAM ADMINISTRATION
+No change in the modernized QA Program as being a strategic priority for the organization.
+
+# PROJECT RISKS ASSESSMENT
+
+## Risk Assessment
+Note: This section summarizes risks identified at the start of a project. This initial risk assessment does not replace the full risk assessment conducted during the planning phase and documented within the project plan – both activities that come after the Project Charter is established.
+
+No.        Risk Description                   Probability  Impact  Planned Mitigation
+(H/M/L)      (H/M/L)
+
+1         Complicated and sensitive Issue     M           H       Change management /
+communication
+Practical internal
+
+2         Internal and external expertise     M           H       experience and leverage
+to address this issue.                                  external resources as
+needed
+Robust project
+
+3         Scope and direction may be           L          H       governance and active
+changed through feedback.                               engagement with
+stakeholders
+Resource capacity to deliver
+
+4         within timelines due to complex     M           M       Project governance and
+project that involves multiple                          resource management
+departments.
+Security of program integrity                           Risk assessment and
+5         (data / systems / intellectual       L          H       change management
+property)                                               protocols
+Robust project
+
+6         Significant changes during QA        L          H       governance of scoping,
+Program implementation                                  testing, and active
+engagement with OHPs;
+Extend existing programs
+</page1>
+
+
+# ONGOING ENGAGEMENT
+QA Program appearing over-complicated impacting understanding and adoption by OHPs post-implementation. Feedback and monitoring of the program post-implementation.
+</page1>
+
+
+# PROJECT ORGANIZATION
+
+## Project Governance
+Project governance is broken into three components:
+1. The BCCOHP Board and Steering Committee (Quality Assurance Committee) have oversight of the project including the governance, deliverables, and approval of project budget.
+2. The Project Sponsor, Manager and Organizational Lead are responsible to the Board and Steering Committee for the day-to-day management of the project.
+3. Working Groups operate on specific project deliverables as defined in the working group terms of reference.
+
+Project Oversight
+BCCOHP Board
+
+Steering Committee
+
+Project Management
+Project Sponsor
+
+Project Manager
+Organizational Lead
+
+Working Groups
+QAP Working Group(s)
+
+10  BCCOHP | Quality Assurance Program Project
+</page1>
+
+
+# BCCOHP BOARD
+The Board is accountable for meeting the object in the HPA to establish a QA Program and directs the QA Committee to do the work. The QA Committee will make recommendations to the Board for approval of the final QA program.
+
+## Project Steering Committee (Quality Assurance Committee)
+Project Steering Committee is the QA Committee. It is the role of the committee to:
+
+•     Be responsible to the Board for delivery
+•     Submit recommendations to the BCCOHP board for approval
+•     Monitor progress against the project management plan
+•     Review and approve changes made to project resource plan, schedules, scope, goals, cost estimates, etc.
+•     Make strategic decisions regarding the prioritization of project deliverables and approving interim deliverables
+•     Review and make recommendations related to project deliverables
+•     Review and suggest solutions for the issues critical to project success
+
+## Project Sponsor (Jennifer Roff, Director, Professional Practice)
+The primary responsibility of the Sponsor is to champion the project, provide guidance, and remove any obstructions. This role will be particularly important during implementation. The Sponsor provides guidance as required to the Project Manager, Organizational Lead, Steering Committee and supports the working group(s). In terms of direct responsibility, the Project Sponsor:
+
+•     Is responsible to the Steering Committee for the delivery of the project
+•     Owns the project budget
+•     Authorizes project scope
+•     Approves project documents
+•     Authorizes project changes
+•     Has accountability for realization of project outcomes
+
+## Organizational Lead (Rebecca Chisholm, Senior Regulatory Lead)
+The Organizational Lead will support the Sponsor within the organization. They will need to have significant experience as their role will be to implement the project on behalf of the Sponsor. The main difference between the Sponsor and the Organizational Lead is the Sponsor
+</page1>
+
+
+# ORGANIZATIONAL STRUCTURE
+
+## Organizational Lead
+The Organizational Lead:
+- Is responsible to the Sponsor
+- Has vested interest in success
+- Can answer queries
+- Shapes the solution
+- Works with the Project Manager
+- Has day-to-day involvement in the project
+
+## Project Manager (Danielle Van Pelt, Project Coordinator)
+The Project Manager and Organizational Lead identify the central problem to solve and determine, with input from the sponsor and stakeholders, how to tackle it: what the project’s objectives and scope will be, and which activities will deliver the desired results. They then plan and schedule tasks, oversees day-to-day execution, and monitors progress, evaluates performance, brings the project to a close, and captures the lessons learned. The Project Manager receives authority from the sponsor. Specifically, the Project Manager:
+- Is responsible for day-to-day delivery
+- Captures and mitigates risk
+- Records and ensures issues are resolved
+- Produces and manages the schedule
+- Ensures tasks are completed
+- Keeps project within agreed time, cost, quality and scope
+- Updates project stakeholders
+
+## Working Group(s)
+The working group is made up of committee members, subject matter experts (SMEs) seconded from BCCOHP staff, with external experts coopted to support the development and delivery of the project where appropriate. The number of staff or committee working groups or workstreams may be increased depending on the project scope and priorities. The members are:
+- Assigned full or part time to participate in project team activities
+- Responsible for contributing to overall project objectives and specific team deliverables
+- Responsible for escalating policy issues to project team for referral to appropriate policy making bodies
+</page1>
+
+
+# BCCOHP
+
+This role includes all various resources necessary to execute the project plan. It is anticipated that the project team will be composed of an SME from Registration, Communications, and IT.
+
+## Proposed Workstreams Planning and Scheduling
+
+If required, workstreams will run parallel with each other and are not dependent on the completion of one to allow the next to proceed. It is anticipated that the Project Manager will appoint a lead for each, with accountability for the workstreams oversight.
+
+Within each proposed workstream, work can run simultaneously when possible. As such, the overall estimated time for each workstream will not necessarily be the cumulative time for the separate discreet tasks within each stream.
+
+## Project Facilities and Resources
+
+As the project moves forward, the project team's requirements for facilities and resources, such as office space, special facilities, computer equipment, office equipment, and support tools can be determined.
+
+If it is decided special facilities and resources are required, the person or team responsible for obtaining the specific items needed to support the project's development environment can be identified.
+</page1>

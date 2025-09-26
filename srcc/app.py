@@ -3,814 +3,1282 @@ import streamlit as st
 from pathlib import Path
 import base64
 import sys
+import json
+import re
 
 # ========== CONFIG (DOIT ÊTRE EN PREMIER) ==========
-st.set_page_config(page_title="Risk Analyst Hub", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(
+    page_title="Risk Analyst Hub", 
+    layout="wide", 
+    initial_sidebar_state="collapsed"
+)
 
 # Ajouter le chemin vers les modules
 sys.path.append(str(Path(__file__).parent))
 
 # Initialiser les variables globales
 UTILS_AVAILABLE = False
-LLAMAPARSE_AVAILABLE = False
 
-# Importer les fonctions utilitaires avec diagnostic détaillé
+# Importer les fonctions utilitaires
 try:
-    from utils.function import (
+    from srcc.utils.functionn import (
         extract_pages, save_uploaded_file, process_with_llamaparse,
         clean_filename, get_file_info, cleanup_temp_file,
         save_processed_document, get_processed_documents, 
-        delete_processed_document, search_in_pages, LLAMAPARSE_AVAILABLE,
-        delete_page_from_document, get_page_statistics
+        delete_processed_document, delete_page_from_document, 
+        get_page_statistics, process_with_summarizer, 
+        save_summarizer_document, get_summarizer_documents, 
+        delete_summarizer_document, process_existing_pages_with_summarizer
     )
     UTILS_AVAILABLE = True
 except ImportError as e:
+    st.error(f"Erreur d'importation: {e}")
     UTILS_AVAILABLE = False
-    # Ne pas utiliser st.error ici, on le fera plus tard dans l'interface
 
 # Configuration des chemins
 STATIC_DIR = Path(__file__).parent / "static"
-ASSETS_DIR = Path(__file__).parent.parent / "assets"
+PROCESSED_DIR = Path(__file__).parent.parent / "processed_documents"
 
-# ========== FONCTIONS DE DIAGNOSTIC ==========
-def show_diagnostic_info():
-    """Affiche les informations de diagnostic des modules"""
-    st.error("Erreur d'importation des modules utilitaires")
+# ========== STYLES CSS GLOBAUX ==========
+def load_global_styles():
+    st.markdown("""
+    <style>
+    /* Styles améliorés pour la navigation */
+    .agent-workflow {
+        background: #f8f9fa;
+        padding: 15px;
+        border-radius: 10px;
+        margin: 20px 0;
+        border: 2px solid #e9ecef;
+    }
     
-    # Diagnostic détaillé
-    utils_dir = Path(__file__).parent / "utils"
-    fonctions_file = utils_dir / "fonctions.py"
-    content_file = Path(__file__).parent / "content_extraction.py"
+    .workflow-steps {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px 0;
+    }
     
-    st.write("### Diagnostic des fichiers :")
-    st.write(f"- Dossier utils existe : {utils_dir.exists()}")
-    st.write(f"- Fichier fonctions.py existe : {fonctions_file.exists()}")
-    st.write(f"- Fichier content_extraction.py existe : {content_file.exists()}")
+    .workflow-step {
+        text-align: center;
+        flex: 1;
+        padding: 15px;
+        border-radius: 8px;
+        background: white;
+        margin: 0 5px;
+        border: 2px solid #dee2e6;
+        transition: all 0.3s ease;
+    }
     
-    if utils_dir.exists():
-        st.write(f"- Contenu du dossier utils : {list(utils_dir.iterdir())}")
+    .workflow-step.active {
+        border-color: #007bff;
+        background: #007bff;
+        color: white;
+        transform: scale(1.05);
+    }
     
-    st.write("### Actions à effectuer :")
-    if not utils_dir.exists():
-        st.write("1. Créez le dossier `src/utils/`")
-    if not fonctions_file.exists():
-        st.write("2. Copiez le fichier `fonctions.py` dans `src/utils/`")
-    if not content_file.exists():
-        st.write("3. Vérifiez que `content_extraction.py` est dans `src/`")
+    .workflow-step.completed {
+        border-color: #28a745;
+        background: #28a745;
+        color: white;
+    }
     
-    st.write("4. Redémarrez l'application")
+    .step-number {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    
+    .step-title {
+        font-size: 0.9em;
+        font-weight: bold;
+    }
+    
+    .workflow-connector {
+        flex: 0.1;
+        text-align: center;
+        color: #6c757d;
+        font-size: 1.5em;
+    }
+    
+    /* Amélioration des cartes d'agents */
+    .agent-card-enhanced {
+        background: white;
+        border: 2px solid #e9ecef;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 10px 0;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .agent-card-enhanced:hover {
+        border-color: #007bff;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 15px rgba(0,123,255,0.1);
+    }
+    
+    .agent-card-enhanced.active {
+        border-color: #007bff;
+        background: #f8fbff;
+    }
+    
+    .agent-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+    
+    .agent-icon {
+        font-size: 2em;
+        margin-right: 15px;
+    }
+    
+    .agent-status {
+        margin-top: 10px;
+        padding: 5px 10px;
+        border-radius: 15px;
+        font-size: 0.8em;
+        font-weight: bold;
+    }
+    
+    .status-ready {
+        background: #d4edda;
+        color: #155724;
+    }
+    
+    .status-pending {
+        background: #fff3cd;
+        color: #856404;
+    }
+    
+    /* Styles PDF améliorés */
+    /* .pdf-viewer supprimé pour fond blanc pur */
+    
+    .pdf-page {
+        background: white;
+        width: 900px;
+        min-height: 600px;
+        padding: 32px 24px 48px 24px;
+        margin: 0 auto 24px auto;
+        box-shadow: 0 0 10px rgba(0,0,0,0.08);
+        font-family: 'Times New Roman', serif;
+        font-size: 15px;
+        line-height: 1.7;
+        color: #000;
+        position: relative;
+    }
+    
+    .pdf-content {
+        font-family: 'Times New Roman', serif;
+        font-size: 12pt;
+        line-height: 1.6;
+        color: #000;
+    }
+    
+    .pdf-content h1, .pdf-content h2, .pdf-content h3 {
+        color: #000;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .pdf-content p {
+        margin-bottom: 10px;
+        text-align: justify;
+    }
+    
+    .page-number {
+        position: absolute;
+        bottom: 20mm;
+        right: 20mm;
+        font-size: 10pt;
+        color: #666;
+    }
+    
+    .pdf-header {
+        border-bottom: 2px solid #333;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .pdf-title {
+        font-size: 18pt;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    
+    .pdf-subtitle {
+        font-size: 11pt;
+        color: #666;
+    }
+    
+    /* Navigation PDF */
+    .pdf-navigation {
+        background: #2c2f33;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    
+    .pdf-nav-button {
+        background: #5865f2;
+        color: white;
+        border: none;
+        padding: 8px 15px;
+        border-radius: 3px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+    
+    .pdf-nav-button:hover {
+        background: #4752c4;
+    }
+    
+    .pdf-nav-button:disabled {
+        background: #40444b;
+        cursor: not-allowed;
+    }
+    
+    .page-indicator {
+        color: white;
+        font-weight: bold;
+        padding: 0 15px;
+    }
+    
+    /* Nettoyage du markdown */
+    .clean-markdown {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    
+    .clean-markdown code {
+        background: #f8f9fa;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-family: monospace;
+    }
+    
+    .clean-markdown pre {
+        background: #f8f9fa;
+        padding: 10px;
+        border-radius: 5px;
+        overflow-x: auto;
+    }
+    
+    /* Styles pour l'agent Vulnerability */
+    .vulnerability-card {
+        background: #f8f9fa;
+        border-left: 4px solid #dc3545;
+        padding: 15px;
+        margin: 15px 0;
+        border-radius: 0 5px 5px 0;
+    }
+    
+    .vulnerability-title {
+        font-weight: bold;
+        color: #dc3545;
+        margin-bottom: 10px;
+    }
+    
+    .threat-card {
+        background: #fff3cd;
+        border-left: 4px solid #ffc107;
+        padding: 15px;
+        margin: 15px 0;
+        border-radius: 0 5px 5px 0;
+    }
+    
+    .threat-title {
+        font-weight: bold;
+        color: #856404;
+        margin-bottom: 10px;
+    }
+    
+    /* Réduire padding dans la sidebar */
+    .css-1d391kg {
+        padding: 1rem 0.5rem;
+    }
+    
+    /* Cards compactes dans la sidebar */
+    .sidebar-card {
+        background: #f0f2f6;
+        padding: 8px;
+        margin: 5px 0;
+        border-radius: 5px;
+        font-size: 0.9em;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
-# ========== CHARGER LES STYLES CSS ==========
 def load_styles():
-    css_files = [
-        "style.css", "sidebar.css", "about.css", "note_ai.css",
-        "agent_card.css", "main_area.css", "main_chat_input.css",
-        "step_indicator.css"
-    ]
-    for css_file in css_files:
-        css_path = STATIC_DIR / css_file
-        if css_path.exists():
-            with open(css_path) as f:
-                st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+    load_global_styles()
 
-# ========== CHARGER UN HTML ==========
-def load_html(filename):
-    html_path = STATIC_DIR / filename
-    if html_path.exists():
-        with open(html_path, "r", encoding="utf-8") as f:
-            return f.read()
-    return ""
+# ========== FONCTIONS UTILITAIRES AMÉLIORÉES ==========
+def clean_markdown_content(content):
+    """Nettoie le contenu markdown des balises indésirables"""
+    if not content:
+        return ""
+    
+    # Si c'est une chaîne de caractères
+    if isinstance(content, str):
+        # Supprimer les blocs de code markdown
+        content = re.sub(r'```json\s*\{.*?\}\s*```', '', content, flags=re.DOTALL)
+        content = re.sub(r'```\w*\s*', '', content)
+        
+        # Nettoyer les retours à la ligne multiples
+        content = re.sub(r'\n\s*\n', '\n\n', content)
+        
+        # Échapper le HTML pour sécurité
+        content = content.replace('<', '&lt;').replace('>', '&gt;')
+    
+    return content
 
-# ========== LOGO EN BASE64 POUR SIDEBAR ==========
-def load_logo():
-    logo_path = STATIC_DIR / "assets" / "logo_lgi.png"
-    if logo_path.exists():
-        with open(logo_path, "rb") as image_file:
-            return base64.b64encode(image_file.read()).decode("utf-8")
-    return None
-
-# ========== UI SIDEBAR ==========
+# ========== SIDEBAR CORRIGÉE ==========
 def sidebar():
-    # Charger le CSS spécifique à la sidebar
-    sidebar_css_path = STATIC_DIR / "sidebar.css"
-    if sidebar_css_path.exists():
-        with open(sidebar_css_path) as f:
-            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-        
-    # Charger le logo
-    logo_base64 = load_logo()
-        
+    """Sidebar compacte pour la navigation"""
     with st.sidebar:
-        if logo_base64:
-            st.markdown(f"""
-<div class='sidebar-logo-block'>
-    <img src="data:image/png;base64,{logo_base64}" class="sidebar-logo" />
-    <div class='sidebar-title'>Risk Analyst</div>
-</div>
-""", unsafe_allow_html=True)
+        st.markdown("### 🎯 Risk Analyst Hub")
+        st.markdown("---")
         
-        # Afficher les documents traités seulement si les utilitaires sont disponibles
         if UTILS_AVAILABLE:
+            # Documents LlamaParse
             processed_docs = get_processed_documents()
             if processed_docs:
-                st.markdown("---")
-                st.markdown("### Documents traités")
-                
+                st.markdown("**📄 Documents Extraits**")
                 for doc_name, doc_data in processed_docs.items():
-                    with st.expander(f"📄 {doc_data['original_name']}", expanded=False):
-                        st.write(f"**Pages extraites:** {doc_data['num_pages']}")
-                        
-                        # Option de recherche dans le document
-                        search_term = st.text_input(
-                            "Rechercher dans le document:", 
-                            key=f"search_{doc_name}",
-                            placeholder="Tapez un mot-clé..."
-                        )
-                        
-                        if search_term:
-                            matching_pages = search_in_pages(doc_data['pages'], search_term)
-                            if matching_pages:
-                                st.success(f"Trouvé dans {len(matching_pages)} page(s): {matching_pages}")
-                            else:
-                                st.info("Aucun résultat trouvé")
-                        
-                        # Sélecteur de page
-                        if doc_data['pages']:
-                            selected_page = st.selectbox(
-                                "Page:", 
-                                range(1, len(doc_data['pages']) + 1),
-                                format_func=lambda x: f"Page {x}",
-                                key=f"page_selector_{doc_name}"
-                            )
-                            
-                            if st.button(f"Voir Page {selected_page}", key=f"view_page_{doc_name}_{selected_page}"):
-                                # Afficher la page dans la zone principale
+                    with st.expander(f"📄 {doc_data['original_name'][:20]}...", expanded=False):
+                        st.text(f"Pages: {doc_data['num_pages']}")
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            if st.button("👁 Voir", key=f"view_{doc_name}"):
                                 st.session_state.viewing_page = {
                                     'doc_name': doc_name,
-                                    'page_num': selected_page,
-                                    'content': doc_data['pages'][selected_page - 1],
-                                    'original_name': doc_data['original_name']
+                                    'page_num': 1,
+                                    'content': doc_data['pages'][0] if doc_data['pages'] else "",
+                                    'original_name': doc_data['original_name'],
+                                    'type': 'llamaparse'
                                 }
                                 st.rerun()
-                        
-                        if st.button(f"Supprimer", key=f"delete_{doc_name}"):
-                            delete_processed_document(doc_name)
-                            st.rerun()
-        else:
-            # Message si les utilitaires ne sont pas disponibles
-            st.markdown("---")
-            st.info("💡 Les fonctionnalités de gestion des documents ne sont pas disponibles. Vérifiez que le fichier utils/fonctions.py existe.")
+                        with col2:
+                            if st.button("🗑 Suppr", key=f"del_{doc_name}"):
+                                delete_processed_document(doc_name)
+                                st.rerun()
+            
+            # Documents Summarizer
+            summarizer_docs = get_summarizer_documents()
+            if summarizer_docs:
+                st.markdown("**📊 Résumés Générés**")
+                for doc_name, doc_data in summarizer_docs.items():
+                    with st.expander(f"📊 {doc_data['original_name'][:20]}...", expanded=False):
+                        st.text(f"✅ {doc_data['success_count']} / ❌ {doc_data['error_count']}")
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            if st.button("👁 Voir", key=f"view_s_{doc_name}"):
+                                summary_data = doc_data['summaries'][0] if doc_data['summaries'] else {}
+                                st.session_state.viewing_page = {
+                                    'doc_name': doc_name,
+                                    'page_num': 1,
+                                    'content': summary_data,
+                                    'original_name': doc_data['original_name'],
+                                    'type': 'summarizer'
+                                }
+                                st.rerun()
+                        with col2:
+                            if st.button("🗑 Suppr", key=f"del_s_{doc_name}"):
+                                delete_summarizer_document(doc_name)
+                                st.rerun()
+            
+            # Documents Vulnerability
+            if 'vulnerability_results' in st.session_state and st.session_state.vulnerability_results:
+                vuln_docs = st.session_state.vulnerability_results
+                if vuln_docs:
+                    st.markdown("**🔍 Analyses de Vulnérabilités**")
+                    for doc_name, doc_data in vuln_docs.items():
+                        with st.expander(f"🔍 {doc_data['original_name'][:20]}...", expanded=False):
+                            st.text(f"Pages: {doc_data['num_pages']}")
+                            col1, col2 = st.columns(2)
+                            with col1:
+                                if st.button("👁 Voir", key=f"view_v_{doc_name}"):
+                                    result_data = doc_data['results'][0] if doc_data['results'] else {}
+                                    st.session_state.viewing_page = {
+                                        'doc_name': doc_name,
+                                        'page_num': 1,
+                                        'content': result_data,
+                                        'original_name': doc_data['original_name'],
+                                        'type': 'vulnerability'
+                                    }
+                                    st.rerun()
+                            with col2:
+                                if st.button("🗑 Suppr", key=f"del_v_{doc_name}"):
+                                    del st.session_state.vulnerability_results[doc_name]
+                                    st.rerun()
 
-# ========== FONCTIONS POUR TRAITER LES AGENTS ==========
-def process_llamaparse_agent(uploaded_file):
-    """Traite le fichier avec l'agent LlamaParse en utilisant les fonctions utilitaires"""
-    if not UTILS_AVAILABLE:
-        show_diagnostic_info()
-        return
+# ========== WORKFLOW AMÉLIORÉ ==========
+def show_workflow_navigation():
+    """Affiche la navigation par workflow"""
+    
+    # État du workflow
+    if 'workflow_step' not in st.session_state:
+        st.session_state.workflow_step = 1  # 1: LlamaParse, 2: Summary, 3: Vulnerability
+    
+    steps = [
+        {"number": 1, "title": "LlamaParse", "description": "Extraction du document", "icon": "📄"},
+        {"number": 2, "title": "Summary", "description": "Résumé du contenu", "icon": "📊"},
+        {"number": 3, "title": "Vulnerability", "description": "Analyse des risques", "icon": "🔍"}
+    ]
+    
+    st.markdown('<div class="agent-workflow">', unsafe_allow_html=True)
+    st.markdown("### 🚀 Workflow d'Analyse")
+    st.markdown("Suivez les étapes pour analyser vos documents:")
+    
+    # Afficher les étapes
+    st.markdown('<div class="workflow-steps">', unsafe_allow_html=True)
+    
+    for i, step in enumerate(steps):
+        col1, col2 = st.columns([4, 1])
+        with col1:
+            status_class = ""
+            if st.session_state.workflow_step == step["number"]:
+                status_class = "active"
+            elif st.session_state.workflow_step > step["number"]:
+                status_class = "completed"
+            
+            st.markdown(f'''
+            <div class="workflow-step {status_class}">
+                <div class="step-number">{step["icon"]}</div>
+                <div class="step-title">{step["title"]}</div>
+                <div style="font-size:0.8em">{step["description"]}</div>
+            </div>
+            ''', unsafe_allow_html=True)
         
-    if not LLAMAPARSE_AVAILABLE:
-        st.error("LlamaParse n'est pas disponible")
-        st.info("Vérifiez :")
-        st.write("- Le fichier `content_extraction.py` existe")
-        st.write("- Les dépendances sont installées : `pip install llama-parse llama-index`")
-        st.write("- Votre clé API est dans le fichier `.env`")
+        with col2:
+            if i < len(steps) - 1:
+                st.markdown('<div class="workflow-connector">→</div>', unsafe_allow_html=True)
+    
+    st.markdown('</div>', unsafe_allow_html=True)
+    
+    # Boutons de navigation
+    col1, col2, col3 = st.columns([1, 1, 1])
+    
+    with col1:
+        if st.session_state.workflow_step > 1:
+            if st.button("◀ Étape précédente", use_container_width=True):
+                st.session_state.workflow_step -= 1
+                st.session_state.selected_agent = steps[st.session_state.workflow_step - 1]["title"].lower()
+                st.rerun()
+    
+    with col2:
+        current_step = steps[st.session_state.workflow_step - 1]
+        st.info(f"Étape {st.session_state.workflow_step}: {current_step['description']}")
+    
+    with col3:
+        if st.session_state.workflow_step < len(steps):
+            if st.button("Étape suivante ▶", use_container_width=True):
+                # Vérifier si l'étape actuelle est complétée
+                if is_step_completed(st.session_state.workflow_step):
+                    st.session_state.workflow_step += 1
+                    st.session_state.selected_agent = steps[st.session_state.workflow_step - 1]["title"].lower()
+                    st.rerun()
+                else:
+                    st.warning("Veuillez compléter l'étape actuelle avant de continuer.")
+    
+    st.markdown('</div>', unsafe_allow_html=True)
+
+def is_step_completed(step_number):
+    """Vérifie si une étape du workflow est complétée"""
+    if step_number == 1:  # LlamaParse
+        return len(get_processed_documents()) > 0
+    elif step_number == 2:  # Summary
+        return len(get_summarizer_documents()) > 0
+    elif step_number == 3:  # Vulnerability
+        return 'vulnerability_results' in st.session_state and bool(st.session_state.vulnerability_results)
+    return False
+
+# ========== FONCTIONS DE TRAITEMENT ==========
+def process_llamaparse_agent(uploaded_file):
+    """Traite le fichier avec LlamaParse"""
+    if not UTILS_AVAILABLE:
+        st.error("Modules non disponibles")
         return
         
     if uploaded_file is not None:
-        # Obtenir les informations du fichier
         file_info = get_file_info(uploaded_file)
-        st.success(f"Fichier '{file_info['nom']}' chargé ({file_info['taille']})")
         
-        # Barre de progression
-        progress_bar = st.progress(0)
-        status_text = st.empty()
-        
-        # Étape 1: Sauvegarde du fichier
-        status_text.text("Sauvegarde du fichier...")
-        progress_bar.progress(20)
-        
-        temp_file_path = save_uploaded_file(uploaded_file)
-        if not temp_file_path:
-            return
-        
-        # Étape 2: Traitement LlamaParse
-        status_text.text("Traitement avec LlamaParse en cours...")
-        progress_bar.progress(50)
-        
-        doc_name = clean_filename(uploaded_file.name).replace('.', '_')
-        result = process_with_llamaparse(temp_file_path, doc_name)
-        
-        if result:
-            full_text, output_path = result
+        with st.spinner("Traitement en cours..."):
+            temp_file = save_uploaded_file(uploaded_file)
+            if not temp_file:
+                return
             
-            # Étape 3: Extraction des pages
-            status_text.text("Extraction des pages...")
-            progress_bar.progress(80)
+            doc_name = clean_filename(uploaded_file.name).replace('.', '_')
+            result = process_with_llamaparse(temp_file, doc_name)
             
-            pages = extract_pages(full_text)
+            if result:
+                full_text, output_path = result
+                pages = extract_pages(full_text)
+                save_processed_document(doc_name, pages, output_path, uploaded_file.name)
+                
+                st.success(f"✅ Document traité: {len(pages)} pages extraites")
+                
+                # Bouton pour voir en PDF
+                if st.button("📖 Voir le document", key="view_llama_pdf"):
+                    st.session_state.viewing_page = {
+                        'doc_name': doc_name,
+                        'page_num': 1,
+                        'content': pages[0] if pages else "",
+                        'original_name': uploaded_file.name,
+                        'type': 'llamaparse'
+                    }
+                    st.rerun()
             
-            # Étape 4: Sauvegarde dans session state
-            save_processed_document(doc_name, pages, output_path, uploaded_file.name)
-            
-            # Étape 5: Affichage des résultats
-            progress_bar.progress(100)
-            status_text.text("Traitement terminé !")
-            
-            # Affichage des résultats
-            st.markdown("### Document parsé avec succès")
-            
-            col1, col2 = st.columns([1, 3])
-            
-            with col1:
-                st.metric("Pages extraites", len(pages))
-                st.metric("Taille du contenu", f"{len(full_text)} caractères")
-                st.metric("Type de fichier", file_info['type'])
-            
-            with col2:
-                # Aperçu du document
-                with st.expander("Aperçu du contenu extrait", expanded=True):
-                    if pages:
-                        # Sélecteur de page
-                        selected_page = st.selectbox(
-                            "Sélectionner une page", 
-                            range(1, len(pages) + 1),
-                            format_func=lambda x: f"Page {x}"
-                        )
-                        
-                        if selected_page:
-                            st.markdown(f"**Page {selected_page}:**")
-                            # Limiter l'affichage pour éviter de surcharger
-                            page_content = pages[selected_page - 1]
-                            if len(page_content) > 2000:
-                                st.markdown(page_content[:2000] + "...")
-                                st.info("Contenu tronqué. Voir la page complète dans la sidebar.")
-                            else:
-                                st.markdown(page_content)
-                    else:
-                        st.write("Aucune page détectée avec les balises <pageN>")
-                        # Afficher le contenu complet si pas de pages
-                        if len(full_text) > 2000:
-                            st.text_area("Aperçu du contenu:", full_text[:2000] + "...", height=300)
-                        else:
-                            st.text_area("Contenu complet:", full_text, height=300)
-            
-            # Message de succès
-            st.success(f"Document '{uploaded_file.name}' ajouté à la sidebar avec {len(pages)} pages")
-            
-        # Nettoyage du fichier temporaire
-        cleanup_temp_file(temp_file_path)
+            cleanup_temp_file(temp_file)
 
 def process_summary_agent(uploaded_file):
-    """Traite le fichier avec l'agent Summary"""
+    """Traite le fichier avec Summary Agent - Version améliorée"""
+    if not UTILS_AVAILABLE:
+        st.error("❌ Modules non disponibles")
+        return
+        
     if uploaded_file is not None:
-        st.success(f"Fichier '{uploaded_file.name}' chargé pour l'agent Summary")
-        st.info("Traitement en cours avec l'agent Summary...")
-        
-        # Exemple d'affichage des informations du fichier
-        file_details = {
-            "Nom": uploaded_file.name,
-            "Taille": f"{uploaded_file.size} bytes",
-            "Type": uploaded_file.type
-        }
-        st.json(file_details)
-        
-        # Placeholder pour le résumé
-        st.markdown("### Résumé généré")
-        st.write("Le résumé du document apparaîtra ici après traitement...")
+        with st.spinner("🔄 Traitement en cours avec Summary Agent..."):
+            # Barre de progression
+            progress_bar = st.progress(0)
+            status_text = st.empty()
+            
+            temp_file = save_uploaded_file(uploaded_file)
+            if not temp_file:
+                return
+            
+            doc_name = clean_filename(uploaded_file.name).replace('.', '_')
+            
+            # Étape 1: LlamaParse
+            status_text.text("📄 Extraction du contenu avec LlamaParse...")
+            llamaparse_result = process_with_llamaparse(temp_file, doc_name)
+            progress_bar.progress(30)
+            
+            if llamaparse_result:
+                full_text, _ = llamaparse_result
+                pages = extract_pages(full_text)
+                
+                if pages:
+                    # Étape 2: Summarizer
+                    status_text.text("📊 Génération des résumés...")
+                    result = process_with_summarizer(pages, doc_name)
+                    progress_bar.progress(80)
+                    
+                    if result:
+                        summaries, output_path, success_count, error_count = result
+                        save_summarizer_document(doc_name, summaries, output_path, uploaded_file.name, success_count, error_count)
+                        
+                        progress_bar.progress(100)
+                        status_text.text("✅ Traitement terminé!")
+                        
+                        st.success(f"""
+                        **Résumé du traitement:**
+                        - 📄 Pages traitées: {success_count}
+                        - ⚠️ Erreurs: {error_count}
+                        - 💾 Document sauvegardé
+                        """)
+                        
+                        # Bouton pour voir les résultats
+                        if summaries:
+                            col1, col2 = st.columns(2)
+                            with col1:
+                                if st.button("📖 Voir les résumés", use_container_width=True):
+                                    st.session_state.viewing_page = {
+                                        'doc_name': doc_name,
+                                        'page_num': 1,
+                                        'content': summaries[0],
+                                        'original_name': uploaded_file.name,
+                                        'type': 'summarizer'
+                                    }
+                                    st.rerun()
+                            with col2:
+                                if st.button("➡️ Passer à l'analyse des vulnérabilités", use_container_width=True):
+                                    st.session_state.workflow_step = 3
+                                    st.session_state.selected_agent = "vulnerability"
+                                    st.rerun()
+            
+            cleanup_temp_file(temp_file)
 
-def process_vulnerability_agent(uploaded_file):
-    """Traite le fichier avec l'agent Vulnerability"""
-    if uploaded_file is not None:
-        st.success(f"Fichier '{uploaded_file.name}' chargé pour l'agent Vulnerability")
-        st.info("Analyse des vulnérabilités en cours...")
-        
-        # Placeholder pour l'analyse
-        st.markdown("### Analyse de vulnérabilité")
-        st.write("Les vulnérabilités détectées apparaîtront ici...")
+def process_vulnerability_agent():
+    """Traite les documents avec l'agent Vulnerability avec affichage PDF corrigé"""
+    st.markdown("### 🔍 Agent Vulnerability and Threat")
+    
+    llama_docs = get_processed_documents() if UTILS_AVAILABLE else {}
+    summary_docs = get_summarizer_documents() if UTILS_AVAILABLE else {}
+    
+    if not llama_docs and not summary_docs:
+        st.warning("Aucun document disponible. Veuillez d'abord traiter un document.")
+        return
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.markdown("#### Documents LlamaParse")
+        selected_llama = st.selectbox(
+            "Sélectionner:", 
+            options=["Aucun"] + list(llama_docs.keys()),
+            format_func=lambda x: llama_docs[x]['original_name'] if x != "Aucun" and x in llama_docs else x,
+            key=f"vuln_llama_select_{id(llama_docs)}"
+        )
+    
+    with col2:
+        st.markdown("#### Documents Summary")
+        selected_summary = st.selectbox(
+            "Sélectionner:", 
+            options=["Aucun"] + list(summary_docs.keys()),
+            format_func=lambda x: summary_docs[x]['original_name'] if x != "Aucun" and x in summary_docs else x,
+            key=f"vuln_summary_select_{id(summary_docs)}"
+        )
+    
+    if st.button("🔍 Analyser les vulnérabilités", type="primary"):
+        if selected_llama == "Aucun" and selected_summary == "Aucun":
+            st.error("Veuillez sélectionner au moins un document")
+        else:
+            with st.spinner("Analyse en cours..."):
+                raw_pages = []
+                summaries = []
+                
+                if selected_llama != "Aucun":
+                    raw_pages = llama_docs[selected_llama]['pages']
+                
+                if selected_summary != "Aucun":
+                    summaries = summary_docs[selected_summary]['summaries']
+                
+                try:
+                    from utils.vulnerability_analyzer import analyze_vulnerabilities
+                    
+                    progress_bar = st.progress(0)
+                    status_text = st.empty()
+                    
+                    def update_progress(value):
+                        progress_bar.progress(value / 100)
+                    
+                    def update_status(message):
+                        status_text.text(message)
+                    
+                    results = analyze_vulnerabilities(
+                        raw_pages, summaries, 
+                        update_progress, update_status
+                    )
+                    
+                    if results:
+                        # CORRECTION: Créer des pages structurées pour l'affichage
+                        formatted_results = []
+                        
+                        for i, result in enumerate(results):
+                            # Structurer chaque résultat comme une page
+                            page_data = {
+                                'page_number': i + 1,
+                                'section': result.get('section', f'Section {i+1}'),
+                                'analysis': result.get('analysis', ''),
+                                'vulnerabilities': extract_vulnerabilities_from_analysis(result.get('analysis', '')),
+                                'threats': extract_threats_from_analysis(result.get('analysis', ''))
+                            }
+                            formatted_results.append(page_data)
+                        
+                        # Sauvegarder les résultats formatés
+                        doc_name = f"vuln_{selected_llama}_{selected_summary}"
+                        if 'vulnerability_results' not in st.session_state:
+                            st.session_state.vulnerability_results = {}
+                        
+                        st.session_state.vulnerability_results[doc_name] = {
+                            'results': formatted_results,
+                            'original_name': f"Vulnérabilités - {llama_docs[selected_llama]['original_name'] if selected_llama != 'Aucun' else summary_docs[selected_summary]['original_name']}",
+                            'num_pages': len(formatted_results)
+                        }
+                        
+                        st.success(f"✅ Analyse terminée! {len(formatted_results)} pages analysées")
+                        
+                        # Bouton pour voir les résultats
+                        if st.button("📖 Voir les résultats en mode PDF", key="view_vuln_pdf"):
+                            st.session_state.viewing_page = {
+                                'doc_name': doc_name,
+                                'page_num': 1,
+                                'content': formatted_results[0] if formatted_results else {},
+                                'original_name': st.session_state.vulnerability_results[doc_name]['original_name'],
+                                'type': 'vulnerability'
+                            }
+                            st.rerun()
+                    
+                except ImportError as e:
+                    st.error(f"Module vulnerability_analyzer non disponible: {e}")
+                except Exception as e:
+                    st.error(f"Erreur lors de l'analyse: {e}")
 
-def process_aloe_agent(uploaded_file):
-    """Traite le fichier avec l'agent ALOE"""
-    if uploaded_file is not None:
-        st.success(f"Fichier '{uploaded_file.name}' chargé pour l'agent ALOE")
-        st.info("Extraction des objets et attributs en cours...")
+def extract_vulnerabilities_from_analysis(analysis):
+    """Extrait les vulnérabilités de l'analyse de manière robuste"""
+    vulnerabilities = []
+    
+    try:
+        # Méthodes multiples d'extraction du JSON
+        json_str = None
         
-        # Placeholder pour l'extraction ALOE
-        st.markdown("### Méthode ALOE")
-        st.write("Les objets et attributs extraits apparaîtront ici...")
-
-def process_link_agent(uploaded_file):
-    """Traite le fichier avec l'agent Link"""
-    if uploaded_file is not None:
-        st.success(f"Fichier '{uploaded_file.name}' chargé pour l'agent Link")
-        st.info("Construction des liens hiérarchiques en cours...")
+        if '```json' in analysis:
+            json_str = analysis.split('```json')[1].split('```')[0].strip()
+        elif '```' in analysis:
+            parts = analysis.split('```')
+            if len(parts) >= 2:
+                json_str = parts[1].strip()
         
-        # Placeholder pour l'analyse des liens
-        st.markdown("### Liens hiérarchiques")
-        st.write("Les liens entre objets apparaîtront ici...")
+        # Si pas de blocs de code, chercher directement du JSON
+        if not json_str:
+            brace_start = analysis.find('{')
+            brace_end = analysis.rfind('}')
+            if brace_start != -1 and brace_end != -1:
+                json_str = analysis[brace_start:brace_end+1]
+        
+        if json_str:
+            data = json.loads(json_str)
+            
+            # Chercher les vulnérabilités avec différentes clés possibles
+            for key in data.keys():
+                key_lower = key.lower().replace(' ', '').replace('_', '')
+                if key_lower in ['etape1', 'étape1', 'step1', 'vulnerabilities', 'vulnérabilités']:
+                    if isinstance(data[key], list):
+                        vulnerabilities = data[key]
+                        break
+                        
+    except Exception as e:
+        # En cas d'erreur, chercher dans le texte brut
+        lines = analysis.split('\n')
+        current_vuln = {}
+        
+        for line in lines:
+            line = line.strip()
+            if 'Élément_vulnérable' in line or 'Élément vulnérable' in line:
+                if current_vuln:
+                    vulnerabilities.append(current_vuln)
+                current_vuln = {'Élément_vulnérable': line.split(':')[-1].strip()}
+            elif 'Justification' in line and current_vuln:
+                current_vuln['Justification'] = line.split(':')[-1].strip()
+        
+        if current_vuln:
+            vulnerabilities.append(current_vuln)
+    
+    return vulnerabilities
 
-# ========== INTERFACE POUR CHAQUE AGENT ==========
+def extract_threats_from_analysis(analysis):
+    """Extrait les menaces de l'analyse de manière robuste"""
+    threats = []
+    
+    try:
+        # Méthodes multiples d'extraction du JSON
+        json_str = None
+        
+        if '```json' in analysis:
+            json_str = analysis.split('```json')[1].split('```')[0].strip()
+        elif '```' in analysis:
+            parts = analysis.split('```')
+            if len(parts) >= 2:
+                json_str = parts[1].strip()
+        
+        if not json_str:
+            brace_start = analysis.find('{')
+            brace_end = analysis.rfind('}')
+            if brace_start != -1 and brace_end != -1:
+                json_str = analysis[brace_start:brace_end+1]
+        
+        if json_str:
+            data = json.loads(json_str)
+            
+            # Chercher les menaces avec différentes clés possibles
+            for key in data.keys():
+                key_lower = key.lower().replace(' ', '').replace('_', '')
+                if key_lower in ['etape2', 'étape2', 'step2', 'threats', 'menaces']:
+                    if isinstance(data[key], list):
+                        threats = data[key]
+                        break
+                        
+    except Exception as e:
+        # Parsing alternatif si JSON échoue
+        lines = analysis.split('\n')
+        current_threat = {}
+        
+        for line in lines:
+            line = line.strip()
+            if 'Menace_associée' in line or 'Menace associée' in line:
+                if current_threat:
+                    threats.append(current_threat)
+                current_threat = {'Menace_associée': line.split(':')[-1].strip()}
+            elif 'Élément_vulnérable' in line and 'Menace' not in line and current_threat:
+                current_threat['Élément_vulnérable'] = line.split(':')[-1].strip()
+            elif 'Justification' in line and current_threat:
+                current_threat['Justification'] = line.split(':')[-1].strip()
+        
+        if current_threat:
+            threats.append(current_threat)
+    
+    return threats
+
+# ========== INTERFACE AGENT AMÉLIORÉE ==========
 def show_agent_interface(agent_type):
-    """Affiche l'interface d'upload et de traitement pour un agent spécifique"""
+    """Interface améliorée pour chaque agent"""
     
     agent_configs = {
         "llamaparse": {
-            "title": "LlamaParse Agent",
-            "description": "Chargez un document pour l'analyser et extraire le contenu page par page",
-            "processor": process_llamaparse_agent
+            "title": "📄 LlamaParse Agent",
+            "description": "Extraction et parsing de documents PDF",
+            "icon": "📄",
+            "processor": process_llamaparse_agent,
+            "needs_file": True
         },
         "summary": {
-            "title": "Summary Agent",
-            "description": "Chargez un document pour générer un résumé page par page",
-            "processor": process_summary_agent
+            "title": "📊 Summary Agent", 
+            "description": "Résumé automatique page par page",
+            "icon": "📊",
+            "processor": process_summary_agent,
+            "needs_file": True
         },
         "vulnerability": {
-            "title": "Vulnerability and Threat Agent", 
-            "description": "Chargez un document pour identifier les vulnérabilités et menaces",
-            "processor": process_vulnerability_agent
-        },
-        "aloe": {
-            "title": "ALOE Agent",
-            "description": "Chargez un document pour extraire les objets et attributs (méthode ALOE)",
-            "processor": process_aloe_agent
-        },
-        "link": {
-            "title": "Link Agent",
-            "description": "Chargez un document pour construire les liens hiérarchiques entre objets",
-            "processor": process_link_agent
+            "title": "🔍 Vulnerability Agent",
+            "description": "Analyse des vulnérabilités et menaces",
+            "icon": "🔍",
+            "processor": process_vulnerability_agent,
+            "needs_file": False
         }
     }
     
     if agent_type in agent_configs:
         config = agent_configs[agent_type]
         
+        # En-tête de l'agent
         st.markdown(f"## {config['title']}")
         st.markdown(f"*{config['description']}*")
         
-        # Zone d'upload de fichier
-        uploaded_file = st.file_uploader(
-            "Choisissez un fichier",
-            type=['pdf', 'docx', 'txt', 'doc'],
-            key=f"uploader_{agent_type}",
-            help="Formats supportés: PDF, Word, Text"
-        )
+        # Information sur les prérequis
+        if agent_type == "summary" and not get_processed_documents():
+            st.warning("📋 Prérequis: Vous devez d'abord traiter un document avec LlamaParse")
+        elif agent_type == "vulnerability" and not get_summarizer_documents():
+            st.warning("📋 Prérequis: Vous devez d'abord traiter un document avec Summary Agent")
         
-        # Boutons d'action
-        col1, col2 = st.columns([1, 4])
-        
-        with col1:
-            if st.button("Analyser", key=f"analyze_{agent_type}"):
-                if uploaded_file is not None:
-                    config['processor'](uploaded_file)
-                else:
-                    st.warning("Veuillez d'abord charger un fichier")
-        
-        with col2:
-            if st.button("Retour", key=f"back_{agent_type}"):
+        # Interface de traitement
+        if config['needs_file']:
+            uploaded_file = st.file_uploader(
+                "📎 Choisir un fichier PDF",
+                type=['pdf'],
+                key=f"uploader_{agent_type}"
+            )
+            
+            if uploaded_file:
+                st.success(f"✅ Fichier sélectionné: {uploaded_file.name}")
+                
+                col1, col2 = st.columns([1, 3])
+                with col1:
+                    if st.button("🚀 Lancer l'analyse", type="primary", use_container_width=True):
+                        config['processor'](uploaded_file)
+                with col2:
+                    if st.button("🔄 Retour à l'accueil", use_container_width=True):
+                        st.session_state.selected_agent = None
+                        st.session_state.workflow_step = 1
+                        st.rerun()
+        else:
+            # Agents sans fichier (comme Vulnerability)
+            config['processor']()
+            
+            if st.button("🔄 Retour à l'accueil", use_container_width=True):
                 st.session_state.selected_agent = None
+                st.session_state.workflow_step = 1
                 st.rerun()
 
-# ========== CARTES INTERACTIVES AVEC DESIGN ORIGINAL ==========
-def interactive_agent_cards_with_streamlit():
-    """Cartes originales avec boutons Streamlit stylés directement sous chaque carte"""
-    
-    # CSS pour styliser les boutons Streamlit comme les boutons originaux
-    st.markdown("""
-    <style>
-    .stButton > button {
-        background: linear-gradient(135deg, #00d4aa, #00a085);
-        color: white;
-        border: none;
-        border-radius: 8px;
-        padding: 12px 24px;
-        font-weight: 600;
-        font-size: 14px;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        cursor: pointer;
-        transition: all 0.3s ease;
-        box-shadow: 0 4px 15px rgba(0, 212, 170, 0.3);
-        width: 100%;
-        margin-top: 10px;
-    }
-    
-    .stButton > button:hover {
-        background: linear-gradient(135deg, #00a085, #007d66);
-        transform: translateY(-2px);
-        box-shadow: 0 6px 20px rgba(0, 212, 170, 0.4);
-    }
-    
-    .stButton > button:active {
-        transform: translateY(0);
-        box-shadow: 0 2px 10px rgba(0, 212, 170, 0.3);
-    }
-    
-    /* Supprimer les boutons RUN AGENT du HTML */
-    .run-button {
-        display: none !important;
-    }
-    
-    /* Style pour les cartes individuelles */
-    .individual-agent-card {
-        margin-bottom: 20px;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-    
-    # Créer une grille 2x2 pour les cartes avec leurs boutons
-    col1, col2 = st.columns(2)
-    
-    # Configuration des agents (avec LlamaParse en premier)
-    agents = [
-        {
-            "html": """
-            <div class="individual-agent-card">
-                <div class="agent-card">
-                    <div class="feature-icon">📄</div>
-                    <div class="feature-title">LlamaParse Agent</div>
-                    <div class="feature-description">Parses documents and extracts content page by page with high accuracy.</div>
-                </div>
-            </div>
-            """,
-            "button_text": "RUN LLAMAPARSE AGENT",
-            "key": "btn_llamaparse",
-            "agent_id": "llamaparse"
-        },
-        {
-            "html": """
-            <div class="individual-agent-card">
-                <div class="agent-card">
-                    <div class="feature-icon">🧾</div>
-                    <div class="feature-title">Summary Agent</div>
-                    <div class="feature-description">Summarizes project content page by page.</div>
-                </div>
-            </div>
-            """,
-            "button_text": "RUN SUMMARY AGENT",
-            "key": "btn_summary",
-            "agent_id": "summary"
-        },
-        {
-            "html": """
-            <div class="individual-agent-card">
-                <div class="agent-card">
-                    <div class="feature-icon">🔍</div>
-                    <div class="feature-title">Vulnerability and Threat Agent</div>
-                    <div class="feature-description">Identifies vulnerable elements and Detects threats in project documents.</div>
-                </div>
-            </div>
-            """,
-            "button_text": "RUN VULNERABILITY AGENT",
-            "key": "btn_vulnerability", 
-            "agent_id": "vulnerability"
-        },
-        {
-            "html": """
-            <div class="individual-agent-card">
-                <div class="agent-card">
-                    <div class="feature-icon">🔗</div>
-                    <div class="feature-title">ALOE Agent</div>
-                    <div class="feature-description">Extracts project objects and attributes (ALOE method).</div>
-                </div>
-            </div>
-            """,
-            "button_text": "RUN ALOE AGENT",
-            "key": "btn_aloe",
-            "agent_id": "aloe"
-        },
-        {
-            "html": """
-            <div class="individual-agent-card">
-                <div class="agent-card">
-                    <div class="feature-icon">🕸️</div>
-                    <div class="feature-title">Link Agent</div>
-                    <div class="feature-description">Builds hierarchical and sequential links between objects.</div>
-                </div>
-            </div>
-            """,
-            "button_text": "RUN LINK AGENT",
-            "key": "btn_link",
-            "agent_id": "link"
-        }
-    ]
-    
-    # Première ligne : LlamaParse et Summary  
-    with col1:
-        # Carte LlamaParse
-        st.markdown(agents[0]["html"], unsafe_allow_html=True)
-        if st.button(agents[0]["button_text"], key=agents[0]["key"]):
-            st.session_state.selected_agent = agents[0]["agent_id"]
-            st.rerun()
-            
-    with col2:
-        # Carte Summary
-        st.markdown(agents[1]["html"], unsafe_allow_html=True)
-        if st.button(agents[1]["button_text"], key=agents[1]["key"]):
-            st.session_state.selected_agent = agents[1]["agent_id"]
-            st.rerun()
-    
-    # Deuxième ligne : Vulnerability et ALOE
-    with col1:
-        # Carte Vulnerability
-        st.markdown(agents[2]["html"], unsafe_allow_html=True)
-        if st.button(agents[2]["button_text"], key=agents[2]["key"]):
-            st.session_state.selected_agent = agents[2]["agent_id"]
-            st.rerun()
-            
-    with col2:
-        # Carte ALOE
-        st.markdown(agents[3]["html"], unsafe_allow_html=True)
-        if st.button(agents[3]["button_text"], key=agents[3]["key"]):
-            st.session_state.selected_agent = agents[3]["agent_id"]
-            st.rerun()
-    
-    # Troisième ligne : Link (centré)
-    col_empty, col_center, col_empty2 = st.columns([1, 2, 1])
-    with col_center:
-        # Carte Link
-        st.markdown(agents[4]["html"], unsafe_allow_html=True)
-        if st.button(agents[4]["button_text"], key=agents[4]["key"]):
-            st.session_state.selected_agent = agents[4]["agent_id"]
-            st.rerun()
-
-# ========== UI PRINCIPALE ==========
-def main_ui():
-    # Initialiser l'état de session si nécessaire
-    if 'selected_agent' not in st.session_state:
-        st.session_state.selected_agent = None
-    
-    # Vérifier si on affiche une page de document
-    if 'viewing_page' in st.session_state and st.session_state.viewing_page:
-        show_document_viewer()
-        return
-    
-    # Vérifier si un agent est sélectionné
-    if st.session_state.selected_agent:
-        # Afficher l'interface de l'agent sélectionné
-        show_agent_interface(st.session_state.selected_agent)
-    else:
-        # Afficher la page d'accueil avec le design original
-        st.title("AI Assistant for Risk Analysis")
-        st.markdown("Welcome to your AI-enhanced risk assessment workspace.")
-        
-        # Utiliser les cartes interactives avec le design original
-        interactive_agent_cards_with_streamlit()
-        
-        with st.expander("ℹ About this App", expanded=False):
-            # Vérifier si le fichier about.html existe et le charger proprement
-            about_html = load_html("about.html")
-            if about_html:
-                st.markdown(about_html, unsafe_allow_html=True)
-            else:
-                # Affichage par défaut si le fichier n'existe pas
-                st.markdown("""
-                **AI-Powered Risk Intelligence Platform**
-                
-                Notre plateforme utilise l'intelligence artificielle avancée pour transformer votre processus d'analyse des risques.
-                
-                **Fonctionnalités principales :**
-                - 📄 **LlamaParse Agent** : Parsing et extraction de contenu
-                - 🧾 **Summary Agent** : Résumé automatique des documents
-                - 🔍 **Vulnerability Agent** : Détection des vulnérabilités
-                - 🔗 **ALOE Agent** : Extraction d'objets et attributs
-                - 🕸️ **Link Agent** : Analyse des liens hiérarchiques
-                """)
-
-# ========== VISUALISATEUR DE DOCUMENTS ==========
+# ========== VISUALISATEUR PDF AMÉLIORÉ ==========
 def show_document_viewer():
-    """Affiche le visualisateur de document avec style PDF et gestion des pages"""
+    """Affiche le document en style PDF avec édition"""
     if not UTILS_AVAILABLE:
         st.error("Les fonctions utilitaires ne sont pas disponibles")
-        if st.button("← Retour", key="back_from_page_error"):
-            del st.session_state.viewing_page
-            st.rerun()
         return
     
     page_data = st.session_state.viewing_page
     doc_name = page_data['doc_name']
     current_page = page_data['page_num']
+    doc_type = page_data.get('type', 'llamaparse')
     
-    # Récupérer les données du document complet
-    processed_docs = get_processed_documents()
-    doc_data = processed_docs.get(doc_name, {})
-    total_pages = len(doc_data.get('pages', []))
+    # Récupérer les données
+    if doc_type == 'summarizer':
+        processed_docs = get_summarizer_documents()
+        doc_data = processed_docs.get(doc_name, {})
+        total_pages = len(doc_data.get('summaries', []))
+        pages_content = doc_data.get('summaries', [])
+    elif doc_type == 'vulnerability':
+        processed_docs = st.session_state.get('vulnerability_results', {})
+        doc_data = processed_docs.get(doc_name, {})
+        total_pages = len(doc_data.get('results', []))
+        pages_content = doc_data.get('results', [])
+    else:
+        processed_docs = get_processed_documents()
+        doc_data = processed_docs.get(doc_name, {})
+        total_pages = len(doc_data.get('pages', []))
+        pages_content = doc_data.get('pages', [])
     
-    # Vérifier si le document existe encore
-    if not doc_data or not doc_data.get('pages'):
-        st.error("Document non trouvé ou supprimé")
-        if st.button("← Retour", key="back_from_missing_doc"):
+    if not doc_data or not pages_content:
+        st.error("Document non trouvé")
+        if st.button("← Retour"):
             del st.session_state.viewing_page
             st.rerun()
         return
     
-    # CSS pour le style document/PDF
-    st.markdown("""
-    <style>
-    .document-viewer {
-        background: #f5f5f5;
-        border-radius: 10px;
-        padding: 20px;
-        margin: 10px 0;
-    }
-    
-    .document-page {
-        background: white;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        padding: 40px;
-        margin: 20px auto;
-        max-width: 800px;
-        min-height: 600px;
-        font-family: 'Georgia', serif;
-        line-height: 1.6;
-        position: relative;
-    }
-    
-    .document-page::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        height: 3px;
-        background: linear-gradient(to right, #ff6b6b, #4ecdc4, #45b7d1);
-        border-radius: 8px 8px 0 0;
-    }
-    
-    .page-header {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
-        padding: 15px 20px;
-        border-radius: 10px;
-        margin-bottom: 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    
-    .page-number {
-        position: absolute;
-        bottom: 20px;
-        right: 30px;
-        background: #f8f9fa;
-        padding: 5px 10px;
-        border-radius: 15px;
-        font-size: 0.9em;
-        color: #666;
-        border: 1px solid #dee2e6;
-    }
-    
-    .navigation-controls {
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin: 20px 0;
-        padding: 15px;
-        background: white;
-        border-radius: 10px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    
-    .page-content {
-        text-align: justify;
-        color: #333;
-    }
-    
-    .page-content h1, .page-content h2, .page-content h3 {
-        color: #2c3e50;
-        margin-top: 25px;
-        margin-bottom: 15px;
-    }
-    
-    .page-content p {
-        margin-bottom: 15px;
-    }
-    </style>
+    # Navigation en haut
+    st.markdown(f"""
+    <div class="pdf-navigation">
+        <span class="page-indicator">📄 {page_data['original_name']}</span>
+        <span class="page-indicator">Page {current_page} / {total_pages}</span>
+    </div>
     """, unsafe_allow_html=True)
     
-    # En-tête avec contrôles
-    col1, col2, col3 = st.columns([1, 4, 1])
+    # Boutons de navigation
+    col1, col2, col3, col4, col5, col6, col7 = st.columns([1, 1, 1, 2, 1, 1, 1])
     
     with col1:
-        if st.button("← Retour", key="back_from_page"):
+        if st.button("🏠 Accueil", key="home"):
             del st.session_state.viewing_page
             st.rerun()
     
     with col2:
-        st.markdown(f"""
-        <div class="page-header">
-            <div>
-                <h3 style="margin:0;">📄 {page_data['original_name']}</h3>
-                <small>Document parsé • {total_pages} pages</small>
-            </div>
-            <div style="font-size: 1.2em; font-weight: bold;">
-                Page {current_page} / {total_pages}
-            </div>
-        </div>
-        """, unsafe_allow_html=True)
+        if current_page > 1 and st.button("⏮ Début", key="first"):
+            st.session_state.viewing_page['page_num'] = 1
+            st.rerun()
     
     with col3:
-        # Menu d'actions
-        with st.popover("⚙️ Actions"):
-            st.write("**Actions sur cette page :**")
-            
-            if st.button("🗑️ Supprimer cette page", key="delete_current_page"):
-                if total_pages > 1:  # Ne pas supprimer si c'est la seule page
-                    delete_page_from_document(doc_name, current_page - 1)  # Index base 0
-                    st.success(f"Page {current_page} supprimée")
-                    # Rediriger vers une page valide
-                    new_page = min(current_page, total_pages - 1)
-                    if new_page > 0:
-                        st.session_state.viewing_page['page_num'] = new_page
-                        st.session_state.viewing_page['content'] = doc_data['pages'][new_page - 1]
-                    else:
-                        del st.session_state.viewing_page
-                    st.rerun()
-                else:
-                    st.error("Impossible de supprimer la dernière page")
-            
-            st.write("**Navigation rapide :**")
-            selected_page = st.selectbox(
-                "Aller à la page :",
-                range(1, total_pages + 1),
-                index=current_page - 1,
-                key="page_jump"
-            )
-            if st.button("Aller", key="jump_to_page") and selected_page != current_page:
-                st.session_state.viewing_page = {
-                    'doc_name': doc_name,
-                    'page_num': selected_page,
-                    'content': doc_data['pages'][selected_page - 1],
-                    'original_name': page_data['original_name']
-                }
-                st.rerun()
+        if current_page > 1 and st.button("◀ Précédent", key="prev"):
+            st.session_state.viewing_page['page_num'] = current_page - 1
+            st.rerun()
     
-    # Navigation entre pages
-    st.markdown('<div class="navigation-controls">', unsafe_allow_html=True)
-    nav_col1, nav_col2, nav_col3, nav_col4, nav_col5 = st.columns([1, 1, 2, 1, 1])
+    with col4:
+        # Sélecteur de page
+        new_page = st.selectbox(
+            "Aller à:",
+            range(1, total_pages + 1),
+            index=current_page - 1,
+            key=f"page_selector_{doc_name}_{doc_type}"
+        )
+        if new_page != current_page:
+            st.session_state.viewing_page['page_num'] = new_page
+            st.rerun()
     
-    with nav_col1:
-        if current_page > 1:
-            if st.button("⏮️ Première", key="first_page"):
-                st.session_state.viewing_page = {
-                    'doc_name': doc_name,
-                    'page_num': 1,
-                    'content': doc_data['pages'][0],
-                    'original_name': page_data['original_name']
-                }
-                st.rerun()
+    with col5:
+        if current_page < total_pages and st.button("Suivant ▶", key="next"):
+            st.session_state.viewing_page['page_num'] = current_page + 1
+            st.rerun()
     
-    with nav_col2:
-        if current_page > 1:
-            if st.button("⬅️ Précédente", key="prev_page"):
-                prev_page = current_page - 1
-                st.session_state.viewing_page = {
-                    'doc_name': doc_name,
-                    'page_num': prev_page,
-                    'content': doc_data['pages'][prev_page - 1],
-                    'original_name': page_data['original_name']
-                }
-                st.rerun()
+    with col6:
+        if current_page < total_pages and st.button("Fin ⏭", key="last"):
+            st.session_state.viewing_page['page_num'] = total_pages
+            st.rerun()
     
-    with nav_col3:
-        st.markdown(f"<div style='text-align: center; padding: 8px; font-weight: bold;'>Page {current_page} sur {total_pages}</div>", unsafe_allow_html=True)
+    with col7:
+        # Mode édition
+        if 'edit_mode' not in st.session_state:
+            st.session_state.edit_mode = False
+        
+        if st.button("✏️ Éditer" if not st.session_state.edit_mode else "💾 Sauver", key="edit_toggle"):
+            if st.session_state.edit_mode:
+                # Sauvegarder les modifications
+                if doc_type == 'llamaparse':
+                    doc_data['pages'][current_page - 1] = st.session_state.edited_content
+                elif doc_type == 'summarizer':
+                    doc_data['summaries'][current_page - 1] = st.session_state.edited_content
+                st.success("Modifications sauvegardées!")
+            st.session_state.edit_mode = not st.session_state.edit_mode
+            st.rerun()
     
-    with nav_col4:
-        if current_page < total_pages:
-            if st.button("➡️ Suivante", key="next_page"):
-                next_page = current_page + 1
-                st.session_state.viewing_page = {
-                    'doc_name': doc_name,
-                    'page_num': next_page,
-                    'content': doc_data['pages'][next_page - 1],
-                    'original_name': page_data['original_name']
-                }
-                st.rerun()
-    
-    with nav_col5:
-        if current_page < total_pages:
-            if st.button("⏭️ Dernière", key="last_page"):
-                st.session_state.viewing_page = {
-                    'doc_name': doc_name,
-                    'page_num': total_pages,
-                    'content': doc_data['pages'][total_pages - 1],
-                    'original_name': page_data['original_name']
-                }
-                st.rerun()
-    
-    st.markdown('</div>', unsafe_allow_html=True)
-    
-    # Affichage de la page avec style document
-    st.markdown('<div class="document-viewer">', unsafe_allow_html=True)
-    st.markdown(f"""
-    <div class="document-page">
-        <div class="page-content">
-            {page_data['content'].replace('\n', '<br>')}
+    # Affichage du contenu
+    if doc_type == 'vulnerability':
+        # Sécuriser l'accès à la page
+        if 1 <= current_page <= len(pages_content):
+            current_content = pages_content[current_page - 1]
+            if isinstance(current_content, dict):
+                # Afficher dans le viewer PDF
+                st.markdown('<div class="pdf-viewer">', unsafe_allow_html=True)
+                render_vulnerability_page(current_content, current_page)
+                st.markdown('</div>', unsafe_allow_html=True)
+            else:
+                st.error("Format de contenu invalide pour les vulnérabilités")
+        else:
+            st.error("Page non disponible")
+    elif doc_type == 'summarizer':
+        current_content = pages_content[current_page - 1] if current_page <= len(pages_content) else {}
+        st.markdown('<div class="pdf-viewer">', unsafe_allow_html=True)
+        render_summary_page(current_content, current_page, st.session_state.edit_mode)
+        st.markdown('</div>', unsafe_allow_html=True)
+    else:  # llamaparse
+        st.markdown('<div class="pdf-viewer">', unsafe_allow_html=True)
+        current_content = pages_content[current_page - 1] if current_page <= len(pages_content) else ""
+        render_llamaparse_page(current_content, current_page, st.session_state.edit_mode)
+        st.markdown('</div>', unsafe_allow_html=True)
+
+def render_llamaparse_page(content, page_num, edit_mode):
+    """Rendu d'une page LlamaParse en style PDF"""
+    if edit_mode:
+        st.markdown('<div class="content-editor">', unsafe_allow_html=True)
+        edited_content = st.text_area(
+            "Éditer le contenu:",
+            value=content,
+            height=600,
+            key="edit_area"
+        )
+        st.session_state.edited_content = edited_content
+        st.markdown('</div>', unsafe_allow_html=True)
+    else:
+        # Affichage en style PDF
+        content_html = clean_markdown_content(content).replace('\n', '<br>')
+        st.markdown(f"""
+        <div class="pdf-page">
+            <div class="pdf-header">
+                <div class="pdf-title">Document Extrait</div>
+                <div class="pdf-subtitle">Page {page_num}</div>
+            </div>
+            <div class="pdf-content">
+                {content_html}
+            </div>
+            <div class="page-number">Page {page_num}</div>
         </div>
-        <div class="page-number">Page {current_page}</div>
-    </div>
+        """, unsafe_allow_html=True)
+
+def render_summary_page(content, page_num, edit_mode):
+    """Rendu amélioré d'une page Summary"""
+    if isinstance(content, dict):
+        # Nettoyer et formater le contenu
+        section = content.get('sectionTitle', 'Section sans titre')
+        summary = content.get('pageSummary', 'Aucun résumé disponible')
+        is_continuation = content.get('isContinuation', False)
+        global_summary = content.get('updatedGlobalSummary', 'Aucun résumé global disponible')
+        
+        if edit_mode:
+            # Mode édition
+            st.markdown("### ✏️ Édition du résumé")
+            new_section = st.text_input("Titre de la section:", value=section)
+            new_summary = st.text_area("Résumé de la page:", value=summary, height=150)
+            new_continuation = st.checkbox("Continuation de la section précédente", value=is_continuation)
+            new_global = st.text_area("Résumé global:", value=global_summary, height=200)
+            st.session_state.edited_content = {
+                'sectionTitle': new_section,
+                'pageSummary': new_summary,
+                'isContinuation': new_continuation,
+                'updatedGlobalSummary': new_global
+            }
+        else:
+            # Affichage stylé façon PDF uniquement dans le visualiseur
+            st.markdown(f"""
+            <div class="pdf-page">
+                <div class="pdf-header">
+                    <div class="pdf-title">Résumé Analytique</div>
+                    <div class="pdf-subtitle">Page {page_num} - {section}</div>
+                </div>
+                <div class="pdf-content">
+                    <h3>📝 Résumé de la page</h3>
+                    <div class="clean-markdown">{summary}</div>
+
+                    
+                    <h3>🌐 Vue d'ensemble</h3>
+                    <div class="clean-markdown">{global_summary}</div>
+                </div>
+                <div class="page-number">Page {page_num}</div>
+            </div>
+            """, unsafe_allow_html=True)
+
+def render_vulnerability_page(content, page_num):
+    """Rendu amélioré d'une page de vulnérabilités avec données structurées"""
+    
+    # Vérifier le format des données
+    if isinstance(content, dict):
+        # Nouvelles données structurées
+        if 'vulnerabilities' in content and 'threats' in content:
+            vulnerabilities = content['vulnerabilities']
+            threats = content['threats']
+            section = content.get('section', 'N/A')
+        else:
+            # Ancien format - parser l'analyse
+            analysis = content.get('analysis', '')
+            section = content.get('section', 'N/A')
+            vulnerabilities = extract_vulnerabilities_from_analysis(analysis)
+            threats = extract_threats_from_analysis(analysis)
+    else:
+        # Format non reconnu
+        vulnerabilities = []
+        threats = []
+        section = 'N/A'
+    
+    # Affichage en style PDF propre
+    st.markdown(f"""
+    <div class="pdf-page">
+        <div class="pdf-header">
+            <div class="pdf-title">Analyse des Vulnérabilités et Menaces</div>
+            <div class="pdf-subtitle">Page {page_num} - Section: {section}</div>
+        </div>
+        <div class="pdf-content">
     """, unsafe_allow_html=True)
-    st.markdown('</div>', unsafe_allow_html=True)
+    
+    # Section Vulnérabilités
+    st.markdown("<h3 style='color: #dc3545; border-bottom: 2px solid #dc3545; padding-bottom: 10px;'>🔍 Vulnérabilités Identifiées</h3>", unsafe_allow_html=True)
+    
+    if vulnerabilities:
+        for i, vuln in enumerate(vulnerabilities, 1):
+            element = vuln.get('Élément_vulnérable', vuln.get('Élément vulnérable', 'N/A'))
+            justif = vuln.get('Justification', 'N/A')
+            
+            st.markdown(f"""
+            <div style="background: #f8f9fa; border-left: 4px solid #dc3545; padding: 15px; margin: 15px 0; border-radius: 0 5px 5px 0;">
+                <div style="font-weight: bold; color: #dc3545; margin-bottom: 8px;">
+                    Vulnérabilité #{i}: {element}
+                </div>
+                <div style="color: #333; line-height: 1.5;">{justif}</div>
+            </div>
+            """, unsafe_allow_html=True)
+    else:
+        st.markdown("<div style='background: #e9ecef; padding: 15px; border-radius: 5px; text-align: center; color: #6c757d;'>Aucune vulnérabilité identifiée sur cette page</div>", unsafe_allow_html=True)
+    
+    # Section Menaces
+    st.markdown("<h3 style='color: #856404; border-bottom: 2px solid #ffc107; padding-bottom: 10px; margin-top: 30px;'>⚠️ Menaces Associées</h3>", unsafe_allow_html=True)
+    
+    if threats:
+        for i, threat in enumerate(threats, 1):
+            element = threat.get('Élément_vulnérable', threat.get('Élément vulnérable', 'N/A'))
+            menace = threat.get('Menace_associée', threat.get('Menace associée', 'N/A'))
+            justif = threat.get('Justification', 'N/A')
+            
+            st.markdown(f"""
+            <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 15px 0; border-radius: 0 5px 5px 0;">
+                <div style="font-weight: bold; color: #856404; margin-bottom: 8px;">
+                    Menace #{i}: {element} → {menace}
+                </div>
+                <div style="color: #333; line-height: 1.5;">{justif}</div>
+            </div>
+            """, unsafe_allow_html=True)
+    else:
+        st.markdown("<div style='background: #e9ecef; padding: 15px; border-radius: 5px; text-align: center; color: #6c757d;'>Aucune menace identifiée sur cette page</div>", unsafe_allow_html=True)
+    
+    # Bouton pour voir le PDF original
+    st.markdown("<div style='margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd;'>", unsafe_allow_html=True)
+    
+    if st.button("📄 Voir le contenu original de cette page", key=f"see_original_{page_num}"):
+        current_doc_name = st.session_state.viewing_page.get('doc_name', '')
+        if current_doc_name.startswith('vuln_'):
+            parts = current_doc_name.split('_')
+            if len(parts) >= 2:
+                llama_doc_name = parts[1]
+                processed_docs = get_processed_documents()
+                
+                if llama_doc_name in processed_docs:
+                    llama_doc = processed_docs[llama_doc_name]
+                    if page_num <= len(llama_doc['pages']):
+                        st.session_state.viewing_page = {
+                            'doc_name': llama_doc_name,
+                            'page_num': page_num,
+                            'content': llama_doc['pages'][page_num-1],
+                            'original_name': llama_doc['original_name'],
+                            'type': 'llamaparse'
+                        }
+                        st.rerun()
+                    else:
+                        st.error("Page non disponible dans le document original")
+                else:
+                    st.error("Document original non trouvé")
+            else:
+                st.error("Format de nom de document invalide")
+        else:
+            st.error("Ce document n'est pas un rapport de vulnérabilité")
+    
+    st.markdown("</div>", unsafe_allow_html=True)
+    
+    # Numéro de page
+    st.markdown(f"<div class='page-number'>Page {page_num}</div>", unsafe_allow_html=True)
+    st.markdown("</div></div>", unsafe_allow_html=True)
+
+# ========== UI PRINCIPALE AMÉLIORÉE ==========
+def main_ui():
+    # Initialisation des états de session
+    if 'selected_agent' not in st.session_state:
+        st.session_state.selected_agent = None
+    if 'workflow_step' not in st.session_state:
+        st.session_state.workflow_step = 1
+    
+    # Visualisation d'une page
+    if 'viewing_page' in st.session_state and st.session_state.viewing_page:
+        show_document_viewer()
+        return
+    
+    # Header principal
+    st.title("🎯 Plateforme d'Analyse de Risques IA")
+    st.markdown("### Workflow intégré pour l'analyse documentaire")
+    
+    # Navigation par workflow
+    show_workflow_navigation()
+    
+    # Interface agent ou sélection
+    if st.session_state.selected_agent:
+        show_agent_interface(st.session_state.selected_agent)
+    else:
+        # Cartes des agents avec statut
+        st.markdown("### 🤖 Sélectionnez un agent pour commencer")
+        
+        agents = [
+            {
+                "id": "llamaparse", 
+                "name": "LlamaParse", 
+                "icon": "📄", 
+                "desc": "Extraction de contenu PDF",
+                "status": "ready" if UTILS_AVAILABLE else "pending"
+            },
+            {
+                "id": "summary", 
+                "name": "Summary", 
+                "icon": "📊", 
+                "desc": "Résumé automatique",
+                "status": "ready" if get_processed_documents() else "pending"
+            },
+            {
+                "id": "vulnerability", 
+                "name": "Vulnerability", 
+                "icon": "🔍", 
+                "desc": "Analyse des risques", 
+                "status": "ready" if get_summarizer_documents() else "pending"
+            }
+        ]
+        
+        for agent in agents:
+            status_class = "status-ready" if agent["status"] == "ready" else "status-pending"
+            status_text = "Prêt" if agent["status"] == "ready" else "En attente"
+            
+            st.markdown(f'''
+            <div class="agent-card-enhanced">
+                <div class="agent-header">
+                    <div class="agent-icon">{agent['icon']}</div>
+                    <div>
+                        <h3>{agent['name']} Agent</h3>
+                        <p>{agent['desc']}</p>
+                    </div>
+                </div>
+                <div class="agent-status {status_class}">{status_text}</div>
+            </div>
+            ''', unsafe_allow_html=True)
+            
+            col1, col2 = st.columns([3, 1])
+            with col1:
+                if st.button(f"Lancer {agent['name']}", key=f"btn_{agent['id']}", use_container_width=True):
+                    if agent["status"] == "ready":
+                        st.session_state.selected_agent = agent['id']
+                        st.session_state.workflow_step = ["llamaparse", "summary", "vulnerability"].index(agent['id']) + 1
+                        st.rerun()
+                    else:
+                        st.warning(f"Prérequis manquants pour {agent['name']}")
+            with col2:
+                if agent["id"] == "llamaparse" and get_processed_documents():
+                    if st.button("📊 Voir", key=f"view_{agent['id']}", use_container_width=True):
+                        docs = get_processed_documents()
+                        if docs:
+                            first_doc = list(docs.keys())[0]
+                            st.session_state.viewing_page = {
+                                'doc_name': first_doc,
+                                'page_num': 1,
+                                'content': docs[first_doc]['pages'][0],
+                                'original_name': docs[first_doc]['original_name'],
+                                'type': 'llamaparse'
+                            }
+                            st.rerun()
 
 # ========== MAIN ==========
 def main():
