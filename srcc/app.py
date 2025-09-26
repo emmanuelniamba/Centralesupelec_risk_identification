@@ -19,17 +19,119 @@ sys.path.append(str(Path(__file__).parent))
 # Initialiser les variables globales
 UTILS_AVAILABLE = False
 
+# Fonctions de fallback si les modules ne sont pas disponibles
+def get_processed_documents():
+    return st.session_state.get('processed_documents', {})
+
+def get_summarizer_documents():
+    return st.session_state.get('summarizer_documents', {})
+
+def delete_processed_document(doc_name):
+    if 'processed_documents' in st.session_state and doc_name in st.session_state.processed_documents:
+        del st.session_state.processed_documents[doc_name]
+
+def delete_summarizer_document(doc_name):
+    if 'summarizer_documents' in st.session_state and doc_name in st.session_state.summarizer_documents:
+        del st.session_state.summarizer_documents[doc_name]
+
+def save_processed_document(doc_name, pages, file_path, original_name):
+    if 'processed_documents' not in st.session_state:
+        st.session_state.processed_documents = {}
+    st.session_state.processed_documents[doc_name] = {
+        'pages': pages,
+        'file_path': str(file_path),
+        'original_name': original_name,
+        'num_pages': len(pages),
+        'type': 'llamaparse'
+    }
+
+def save_summarizer_document(doc_name, summaries, file_path, original_name, success_count, error_count):
+    if 'summarizer_documents' not in st.session_state:
+        st.session_state.summarizer_documents = {}
+    st.session_state.summarizer_documents[doc_name] = {
+        'summaries': summaries,
+        'file_path': str(file_path),
+        'original_name': original_name,
+        'num_pages': len(summaries),
+        'success_count': success_count,
+        'error_count': error_count,
+        'type': 'summarizer'
+    }
+
+# Fonctions de fallback pour les autres fonctions nécessaires
+def extract_pages(text):
+    parts = re.split(r'</\s*page\s*\d+\s*>', text, flags=re.IGNORECASE)
+    pages = []
+    for part in parts:
+        page = re.sub(r'<\s*page\s*\d+\s*>', '', part, flags=re.IGNORECASE).strip()
+        if page:
+            pages.append(page)
+    return pages or [text] if text else []
+
+def save_uploaded_file(uploaded_file):
+    return None
+
+def process_with_llamaparse(file_path, doc_name):
+    return None
+
+def clean_filename(filename):
+    return re.sub(r'[<>:"/\\|?*]', '_', filename)[:50]
+
+def get_file_info(uploaded_file):
+    return {"nom": uploaded_file.name}
+
+def cleanup_temp_file(file_path):
+    pass
+
+def delete_page_from_document(doc_name, page_index):
+    return False
+
+def get_page_statistics(pages):
+    return {}
+
+def process_with_summarizer(pages, doc_name):
+    return None
+
+def process_existing_pages_with_summarizer(pages, doc_name):
+    return None
+
 # Importer les fonctions utilitaires
 try:
-    from srcc.utils.functionn import (
-        extract_pages, save_uploaded_file, process_with_llamaparse,
-        clean_filename, get_file_info, cleanup_temp_file,
-        save_processed_document, get_processed_documents, 
-        delete_processed_document, delete_page_from_document, 
-        get_page_statistics, process_with_summarizer, 
-        save_summarizer_document, get_summarizer_documents, 
-        delete_summarizer_document, process_existing_pages_with_summarizer
+    from srcc.utils.function import (
+        extract_pages as _extract_pages,
+        save_uploaded_file as _save_uploaded_file,
+        process_with_llamaparse as _process_with_llamaparse,
+        clean_filename as _clean_filename,
+        get_file_info as _get_file_info,
+        cleanup_temp_file as _cleanup_temp_file,
+        save_processed_document as _save_processed_document,
+        get_processed_documents as _get_processed_documents,
+        delete_processed_document as _delete_processed_document,
+        delete_page_from_document as _delete_page_from_document,
+        get_page_statistics as _get_page_statistics,
+        process_with_summarizer as _process_with_summarizer,
+        save_summarizer_document as _save_summarizer_document,
+        get_summarizer_documents as _get_summarizer_documents,
+        delete_summarizer_document as _delete_summarizer_document,
+        process_existing_pages_with_summarizer as _process_existing_pages_with_summarizer
     )
+    # Remplacer les fonctions de fallback par les vraies
+    extract_pages = _extract_pages
+    save_uploaded_file = _save_uploaded_file
+    process_with_llamaparse = _process_with_llamaparse
+    clean_filename = _clean_filename
+    get_file_info = _get_file_info
+    cleanup_temp_file = _cleanup_temp_file
+    save_processed_document = _save_processed_document
+    get_processed_documents = _get_processed_documents
+    delete_processed_document = _delete_processed_document
+    delete_page_from_document = _delete_page_from_document
+    get_page_statistics = _get_page_statistics
+    process_with_summarizer = _process_with_summarizer
+    save_summarizer_document = _save_summarizer_document
+    get_summarizer_documents = _get_summarizer_documents
+    delete_summarizer_document = _delete_summarizer_document
+    process_existing_pages_with_summarizer = _process_existing_pages_with_summarizer
     UTILS_AVAILABLE = True
 except ImportError as e:
     st.error(f"Erreur d'importation: {e}")

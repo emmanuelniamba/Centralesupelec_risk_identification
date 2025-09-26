@@ -16,7 +16,7 @@ LLAMAPARSE_AVAILABLE = False
 
 # Importer les fonctions utilitaires avec diagnostic détaillé
 try:
-    from srcc.utils.functionn import (
+    from srcc.utils.function import (
         extract_pages, save_uploaded_file, process_with_llamaparse,
         clean_filename, get_file_info, cleanup_temp_file,
         save_processed_document, get_processed_documents, 
