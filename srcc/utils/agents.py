@@ -3,65 +3,64 @@ import json
 import requests
 import re
 import time
+import concurrent.futures
 import streamlit as st
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
 load_dotenv()
 
 # ==========================================
-# 1. MODÈLES PYDANTIC
+# 1. MODÈLES
 # ==========================================
 class PageAnalysisResult(BaseModel):
-    sectionTitle: str = Field(..., description="Titre court de la section")
-    isContinuation: bool = Field(..., description="Si c'est la suite de la page précédente")
-    pageSummary: str = Field(..., description="Résumé concis de la page")
-    updatedGlobalSummary: str = Field(..., description="Résumé global mis à jour")
+    sectionTitle: str = Field(..., description="Titre court")
+    isContinuation: bool = Field(..., description="Si suite page précédente")
+    pageSummary: str = Field(..., description="Résumé page")
+    updatedGlobalSummary: str = Field(..., description="Résumé global")
 
 class VulnerableElement(BaseModel):
-    element: str = Field(..., description="Nom de l'élément vulnérable")
-    justification: str = Field(..., description="Citation ou explication de la vulnérabilité")
+    element: str = Field(..., description="Nom")
+    justification: str = Field(..., description="Justification")
 
 class ThreatAssociation(BaseModel):
-    element: str = Field(..., description="L'élément vulnérable concerné")
-    threat: str = Field(..., description="La menace identifiée")
-    consequence: str = Field(..., description="Les conséquences possibles")
+    element: str = Field(..., description="Élément")
+    threat: str = Field(..., description="Menace")
+    consequence: str = Field(..., description="Conséquence")
 
 class RiskPageResult(BaseModel):
     vulnerabilities: List[VulnerableElement] = Field(default_factory=list)
     threats: List[ThreatAssociation] = Field(default_factory=list)
 
 # ==========================================
-# 2. CLASSE PARENTE (BASE AGENT)
+# 2. BASE AGENT (Optimisé)
 # ==========================================
 class BaseAgent:
     def __init__(self):
         self.api_key = os.getenv("llm_key") or os.getenv("LLAMA_CLOUD_API_KEY")
         self.base_url = "https://openrouter.ai/api/v1/chat/completions"
-        # Modèle gratuit Google (Rapide et efficace)
-        self.model = "google/gemini-2.0-flash-exp:free"
-        self.last_request_time = 0 
+        
+        # Pour la vitesse, GPT-4o-mini est le roi (si payant). 
+        # En gratuit, Gemini Flash est le moins lent.
+        self.model = "deepseek/deepseek-r1-0528" 
+        # Si tu veux gratuit : "google/gemini-2.0-flash-lite-preview-02-05:free"
 
     def _clean_json(self, text: str) -> str:
-        """Nettoie la réponse pour extraire le JSON pur."""
         try:
             start = text.find('{')
             end = text.rfind('}') + 1
-            if start != -1 and end != -1:
-                return text[start:end]
+            if start != -1 and end != -1: return text[start:end]
             return text
-        except:
-            return text
+        except: return text
 
     def _call_llm(self, messages: list, temperature: float) -> Dict:
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://risk-assistant.app",
+            "HTTP-Referer": "https://risk.app",
             "X-Title": "Risk Assistant"
         }
-        
         payload = {
             "model": self.model,
             "temperature": temperature,
@@ -69,166 +68,103 @@ class BaseAgent:
             "response_format": {"type": "json_object"}
         }
 
-        max_retries = 5
-        
-        for attempt in range(max_retries):
+        # Retry plus agressif mais sans longue attente
+        for attempt in range(3):
             try:
-                # Délai minimum entre requêtes pour éviter le 429
-                elapsed = time.time() - self.last_request_time
-                if elapsed < 2.0:
-                    time.sleep(2.0 - elapsed)
-                
-                response = requests.post(
-                    self.base_url,
-                    headers=headers,
-                    data=json.dumps(payload),
-                    timeout=45
-                )
-                
-                self.last_request_time = time.time()
-                
+                response = requests.post(self.base_url, headers=headers, data=json.dumps(payload), timeout=30)
                 if response.status_code == 429:
-                    wait_time = min(60, 5 * (2 ** attempt))
-                    print(f"⚠️ Rate Limit. Pause de {wait_time}s...")
-                    time.sleep(wait_time)
+                    time.sleep(2) # Pause courte et on réessaie
                     continue
-
                 response.raise_for_status()
                 return response.json()
-
-            except Exception as e:
-                if attempt == max_retries - 1:
-                    st.error(f"❌ Erreur API : {str(e)}")
-                    raise e
-                time.sleep(2)
-        
+            except Exception:
+                if attempt == 2: return {} # Echec silencieux pour ne pas bloquer le thread
+                time.sleep(1)
         return {}
 
 # ==========================================
-# 3. SUMMARIZER AGENT
+# 3. SUMMARIZER (Séquentiel Obligatoire)
 # ==========================================
 class SummarizerAgent(BaseAgent):
-    def analyze_page(self, content: str, prev_summary: str, global_summary: str, last_section: str, 
-                     system_prompt: str, temperature: float) -> Dict:
-        
+    def analyze_page(self, content: str, prev_summary: str, global_summary: str, last_section: str, sys_prompt: str, temp: float) -> Dict:
         user_content = f"""
-        CONTEXTE PRÉCÉDENT:
-        - Titre Section Précédente: "{last_section}"
-        - Résumé Page Précédente: "{prev_summary}"
-        - Résumé Global Actuel: "{global_summary}"
-        
-        CONTENU PAGE ACTUELLE:
-        {content[:4000]}
+        PRECEDENT: {last_section} | {prev_summary} | {global_summary}
+        PAGE: {content[:3500]}
         """
-
-        messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_content}
-        ]
-
-        for attempt in range(2):
-            try:
-                response = self._call_llm(messages, temperature)
-                if 'choices' in response:
-                    content_str = response['choices'][0]['message']['content']
-                    clean_json = self._clean_json(content_str)
-                    json_data = json.loads(clean_json)
-                    return PageAnalysisResult(**json_data).model_dump()
-            except Exception as e:
-                print(f"Summarizer JSON Error: {e}")
-                continue
+        msg = [{"role": "system", "content": sys_prompt}, {"role": "user", "content": user_content}]
         
-        # Fallback
-        return PageAnalysisResult(
-            sectionTitle="Erreur", isContinuation=False, 
-            pageSummary="Erreur analyse.", updatedGlobalSummary=global_summary
-        ).model_dump()
+        res = self._call_llm(msg, temp)
+        if 'choices' in res:
+            try:
+                return PageAnalysisResult(**json.loads(self._clean_json(res['choices'][0]['message']['content']))).model_dump()
+            except: pass
+        
+        return PageAnalysisResult(sectionTitle="...", isContinuation=False, pageSummary="...", updatedGlobalSummary=global_summary).model_dump()
 
     def process_document(self, pages_data: List[Dict], system_prompt: str, temperature: float, progress_callback=None) -> List[Dict]:
+        # Le contexte DOIT être séquentiel (page 1 -> page 2), on ne peut pas paralléliser
         results = []
-        global_summary = ""
-        last_page_summary = ""
-        last_section = ""
+        last_sum, global_sum, last_sec = "", "", ""
         total = len(pages_data)
         
         for i, page in enumerate(pages_data):
-            try:
-                # Utilisation de page['content'] (et non page_num)
-                analysis = self.analyze_page(
-                    page['content'], last_page_summary, global_summary, last_section,
-                    system_prompt, temperature
-                )
-                
-                last_page_summary = analysis['pageSummary']
-                global_summary = analysis['updatedGlobalSummary']
-                last_section = analysis['sectionTitle']
-                
-                # CORRECTION CLÉ : On utilise page['page'] et on aplatit le résultat
-                results.append({
-                    "page": page['page'],  # C'était ici l'erreur 'page_num'
-                    "original_content": page['content'],
-                    **analysis
-                })
-                
-                if progress_callback:
-                    progress_callback(int((i + 1) / total * 100))
-                    
-            except Exception as e:
-                st.warning(f"⚠️ Erreur page {page.get('page', '?')} : {str(e)}")
-                continue
-        
+            # J'ai enlevé le time.sleep() pour aller le plus vite possible
+            analysis = self.analyze_page(page['content'], last_sum, global_sum, last_sec, system_prompt, temperature)
+            
+            last_sum = analysis['pageSummary']
+            global_sum = analysis['updatedGlobalSummary']
+            last_sec = analysis['sectionTitle']
+            
+            results.append({"page": page['page'], "original_content": page['content'], **analysis})
+            if progress_callback: progress_callback(int((i+1)/total*100))
+            
         return results
 
 # ==========================================
-# 4. VULNERABILITY AGENT
+# 4. VULNERABILITY AGENT (PARALLELE / TURBO)
 # ==========================================
 class VulnerabilityAgent(BaseAgent):
-    def analyze_risk(self, page_content: str, context_data: Dict, system_prompt: str, temperature: float) -> Dict:
+    def analyze_risk_wrapper(self, args):
+        # Fonction helper pour le threading
+        data, sys_prompt, temp = args
+        user_content = f"CONTEXTE: {data.get('sectionTitle')} - {data.get('pageSummary')}\nTEXTE: {data['original_content'][:3500]}"
+        msg = [{"role": "system", "content": sys_prompt}, {"role": "user", "content": user_content}]
         
-        user_content = f"""
-        ANALYSE RISQUE PAGE {context_data.get('page', '?')}
-        CONTEXTE: {context_data.get('sectionTitle')}
-        RÉSUMÉ: {context_data.get('pageSummary')}
-        
-        TEXTE:
-        {page_content[:4000]}
-        """
-
-        messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_content}
-        ]
-
-        for attempt in range(2):
+        res = self._call_llm(msg, temp)
+        if 'choices' in res:
             try:
-                response = self._call_llm(messages, temperature)
-                if 'choices' in response:
-                    content_str = response['choices'][0]['message']['content']
-                    clean_json = self._clean_json(content_str)
-                    json_data = json.loads(clean_json)
-                    return RiskPageResult(**json_data).model_dump()
-            except Exception as e:
-                print(f"Risk JSON Error: {e}")
-                continue
-                
-        return RiskPageResult().model_dump()
+                return {
+                    "page": data['page'], 
+                    "sectionTitle": data['sectionTitle'], 
+                    **RiskPageResult(**json.loads(self._clean_json(res['choices'][0]['message']['content']))).model_dump()
+                }
+            except: pass
+        return {"page": data['page'], "sectionTitle": data['sectionTitle'], "vulnerabilities": [], "threats": []}
 
     def process_risks(self, context_results: List[Dict], system_prompt: str, temperature: float, progress_callback=None) -> List[Dict]:
+        # ICI C'EST LA VITESSE : On lance jusqu'à 5 pages EN MÊME TEMPS
         results = []
         total = len(context_results)
+        completed = 0
         
-        for i, data in enumerate(context_results):
-            risk_analysis = self.analyze_risk(
-                data['original_content'], data, system_prompt, temperature
-            )
+        # Préparation des arguments pour chaque page
+        tasks = [(data, system_prompt, temperature) for data in context_results]
+        
+        # Exécution Parallèle (Multi-Threading)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+            # On lance les scans
+            future_to_page = {executor.submit(self.analyze_risk_wrapper, task): task for task in tasks}
             
-            results.append({
-                "page": data['page'],
-                "sectionTitle": data['sectionTitle'],
-                **risk_analysis
-            })
-            
-            if progress_callback:
-                progress_callback(int((i + 1) / total * 100))
+            for future in concurrent.futures.as_completed(future_to_page):
+                try:
+                    data = future.result()
+                    results.append(data)
+                except Exception as e:
+                    print(f"Erreur thread: {e}")
                 
+                completed += 1
+                if progress_callback: progress_callback(int(completed/total*100))
+        
+        # On remet les résultats dans l'ordre des pages (1, 2, 3...) car le parallèle peut finir dans le désordre
+        results.sort(key=lambda x: x['page'])
         return results
