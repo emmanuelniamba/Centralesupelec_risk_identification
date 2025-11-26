@@ -1,9 +1,0 @@
-mistral=mistralai/mistral-small-3.1-24b-instruct:free
-llama=meta-llama/llama-3.3-70b-instruct:free
-deepseek=deepseek/deepseek-r1:free
-qwen=qwen/qwen3-235b-a22b-2507:free
-
-gemma=google/gemma-3n-e2b-it:free
-
-quwen2=deepseek/deepseek-r1-0528-qwen3-8b:free
-qwen3=qwen/qwen3-14b:free
