@@ -40,7 +40,7 @@ class BaseAgent:
         self.api_key = os.getenv("llm_key") or os.getenv("LLAMA_CLOUD_API_KEY")
         self.base_url = "https://openrouter.ai/api/v1/chat/completions"
         # Modèle gratuit Google (Rapide et efficace)
-        self.model = "google/gemini-2.0-flash-lite-preview-02-05:free"
+        self.model = "google/gemini-2.0-flash-exp:free"
         self.last_request_time = 0 
 
     def _clean_json(self, text: str) -> str:
