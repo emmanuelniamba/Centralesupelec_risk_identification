@@ -38,23 +38,9 @@ class RiskPageResult(BaseModel):
 class BaseAgent:
     def __init__(self):
         self.api_key = os.getenv("llm_key") or os.getenv("LLAMA_CLOUD_API_KEY")
-        
-        # --- CONFIGURATION DU MODÈLE ---
         self.base_url = "https://openrouter.ai/api/v1/chat/completions"
-        
-        # ICI C'EST IMPORTANT : On utilise un modèle PAYANT mais PAS CHER et TRÈS STABLE
-        # GPT-4o-mini est excellent pour le JSON et coûte des poussières.
-        self.model = "google/gemini-2.0-flash-exp:free" 
-
-    def _clean_json(self, text: str) -> str:
-        try:
-            start = text.find('{')
-            end = text.rfind('}') + 1
-            if start != -1 and end != -1:
-                return text[start:end]
-            return text
-        except:
-            return text
+        self.model = "google/gemini-2.0-flash-exp:free"
+        self.last_request_time = 0  # ✅ Suivi du dernier appel
 
     def _call_llm(self, messages: list, temperature: float) -> Dict:
         headers = {
@@ -71,77 +57,51 @@ class BaseAgent:
             "response_format": {"type": "json_object"}
         }
 
-        # --- RETRY LOGIC (INSISTANT) ---
-        max_retries = 5 # On insiste jusqu'à 5 fois
+        max_retries = 5
         
         for attempt in range(max_retries):
             try:
+                # ✅ FORCE UN DÉLAI MINIMUM entre les requêtes
+                elapsed = time.time() - self.last_request_time
+                if elapsed < 2.0:  # Minimum 2 secondes entre chaque appel
+                    time.sleep(2.0 - elapsed)
+                
                 response = requests.post(
                     self.base_url,
                     headers=headers,
                     data=json.dumps(payload),
-                    timeout=30 # Timeout court pour retry vite
+                    timeout=30
                 )
                 
-                # Gestion Rate Limit (429)
+                self.last_request_time = time.time()  # ✅ Mise à jour
+                
                 if response.status_code == 429:
-                    wait_time = 2 * (attempt + 1) # Attente progressive : 2s, 4s, 6s...
-                    print(f"⚠️ Rate Limit (429). Pause de {wait_time}s...")
+                    # ✅ Attente exponentielle AGRESSIVE
+                    wait_time = min(60, 5 * (2 ** attempt))  # 5s, 10s, 20s, 40s, 60s max
+                    print(f"⚠️ Rate Limit (429). Tentative {attempt+1}/{max_retries}. Pause de {wait_time}s...")
                     time.sleep(wait_time)
                     continue
 
                 response.raise_for_status()
                 return response.json()
 
+            except requests.exceptions.HTTPError as e:
+                if response.status_code == 429 and attempt < max_retries - 1:
+                    continue  # ✅ Retry sur 429
+                if attempt == max_retries - 1:
+                    st.error(f"❌ Erreur API après {max_retries} tentatives : {str(e)}")
+                    raise e
+                time.sleep(2)
             except Exception as e:
                 if attempt == max_retries - 1:
-                    # Si c'est la dernière tentative, on lève l'erreur pour l'afficher
-                    st.error(f"Erreur API ({self.model}) : {str(e)}")
+                    st.error(f"❌ Erreur technique : {str(e)}")
                     raise e
-                time.sleep(1) # Petite pause avant retry technique
+                time.sleep(2)
         
         return {}
 
-# ==========================================
-# 3. SUMMARIZER AGENT
-# ==========================================
+
 class SummarizerAgent(BaseAgent):
-    def analyze_page(self, content: str, prev_summary: str, global_summary: str, last_section: str, 
-                     system_prompt: str, temperature: float) -> Dict:
-        
-        user_content = f"""
-        CONTEXTE PRÉCÉDENT:
-        - Titre Section Précédente: "{last_section}"
-        - Résumé Page Précédente: "{prev_summary}"
-        - Résumé Global Actuel: "{global_summary}"
-        
-        CONTENU PAGE ACTUELLE:
-        {content[:4000]}
-        """
-
-        messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_content}
-        ]
-
-        # Tentative d'appel
-        try:
-            response = self._call_llm(messages, temperature)
-            if 'choices' in response:
-                content_str = response['choices'][0]['message']['content']
-                clean_json = self._clean_json(content_str)
-                json_data = json.loads(clean_json)
-                return PageAnalysisResult(**json_data).model_dump()
-        except Exception as e:
-            print(f"Summarizer Error: {e}")
-        
-        # Fallback en cas d'erreur
-        return PageAnalysisResult(
-            sectionTitle="Erreur Analyse", isContinuation=False, 
-            pageSummary="Impossible de traiter cette page (Erreur API).", 
-            updatedGlobalSummary=global_summary
-        ).model_dump()
-
     def process_document(self, pages_data: List[Dict], system_prompt: str, temperature: float, progress_callback=None) -> List[Dict]:
         results = []
         global_summary = ""
@@ -150,12 +110,27 @@ class SummarizerAgent(BaseAgent):
         total = len(pages_data)
         
         for i, page in enumerate(pages_data):
-            # --- PAUSE DE SECURITE ---
-            # Même avec un compte payant, on évite d'envoyer 50 requêtes en 1 seconde
-            time.sleep(0.5) 
+            # ✅ PLUS BESOIN de sleep ici, c'est géré dans _call_llm
             
-            analysis = self.analyze_page(
-                page['content'], last_page_summary, global_summary, last_section,
-                system_prompt, temperature
-            )
-            last_page_summary = analysis['pageSummary']
+            try:
+                analysis = self.analyze_page(
+                    page['content'], last_page_summary, global_summary, last_section,
+                    system_prompt, temperature
+                )
+                last_page_summary = analysis['pageSummary']
+                global_summary = analysis['updatedGlobalSummary']
+                last_section = analysis['sectionTitle']
+                
+                results.append({
+                    "page_num": page['page_num'],
+                    "analysis": analysis
+                })
+                
+                if progress_callback:
+                    progress_callback(i + 1, total)
+                    
+            except Exception as e:
+                st.warning(f"⚠️ Page {page['page_num']} ignorée : {str(e)}")
+                continue
+        
+        return results
